@@ -1,8 +1,9 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <div v-for="item in nav_menu" :key="item.path">
+        <router-link :to="item.path">{{ item.name }}</router-link>
+      </div>
     </nav>
 
     <!-- <div v-for="(page, index) in pages" :key="index">
@@ -12,7 +13,9 @@
       <br />
       {{ page.contenu }}
     </div> -->
-    <router-view />
+    <template v-if="!is_loading">
+      <router-view :page="current_content" />
+    </template>
   </div>
 </template>
 <script>
@@ -23,6 +26,7 @@ export default {
   components: {},
   data() {
     return {
+      is_loading: true,
       pages: undefined,
     };
   },
@@ -30,11 +34,32 @@ export default {
     const doc = await this.fetchDoc();
     const pages = await this.formatDoc(doc);
     this.pages = pages;
+    this.is_loading = false;
   },
   mounted() {},
   beforeDestroy() {},
   watch: {},
-  computed: {},
+  computed: {
+    current_content() {
+      if (this.pages) {
+        const matching_page = this.pages.find(
+          (p) => p.url === this.$route.path
+        );
+        return matching_page || "no_matching_page";
+      }
+      return false;
+    },
+    nav_menu() {
+      if (this.pages)
+        return this.pages.map((p) => {
+          return {
+            path: p.url,
+            name: p.nom_de_page,
+          };
+        });
+      return false;
+    },
+  },
   methods: {
     async fetchDoc() {
       const response = await fetch(
@@ -45,7 +70,6 @@ export default {
     },
     async formatDoc(text) {
       let t = text.split("[PAGE]");
-      debugger;
       return t.map((_t) => parseTOML(_t));
     },
   },
