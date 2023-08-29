@@ -1,6 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import HomeView from "../views/HomeView.vue";
+import PageContent from "../views/PageContent.vue";
 
 Vue.use(VueRouter);
 
@@ -8,12 +8,12 @@ const routes = [
   {
     path: "/",
     name: "accueil",
-    component: HomeView,
+    component: PageContent,
   },
   {
     path: "/:slug",
     name: "page",
-    component: HomeView,
+    component: PageContent,
   },
 ];
 

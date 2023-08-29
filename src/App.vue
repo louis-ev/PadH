@@ -1,21 +1,13 @@
 <template>
   <div id="app">
-    <nav>
-      <div v-for="item in nav_menu" :key="item.path">
-        <router-link :to="item.path">{{ item.name }}</router-link>
-      </div>
-    </nav>
-
-    <!-- <div v-for="(page, index) in pages" :key="index">
-      {{ page.nom_de_page }}
-      <br />
-      {{ page.url }}
-      <br />
-      {{ page.contenu }}
-    </div> -->
-    <template v-if="!is_loading">
-      <router-view :page="current_content" />
-    </template>
+    <transition name="pagechange" mode="out-in">
+      <router-view
+        v-if="!is_loading"
+        :key="$route.path"
+        :nav_menu="nav_menu"
+        :page="current_content"
+      />
+    </transition>
   </div>
 </template>
 <script>
@@ -76,12 +68,16 @@ export default {
 };
 </script>
 <style lang="scss">
+html,
+body {
+  background: white;
+  height: 100%;
+  margin: 0;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+  height: 100%;
 }
 
 nav {
@@ -94,6 +90,21 @@ nav {
     &.router-link-exact-active {
       color: #42b983;
     }
+  }
+}
+
+.pagechange {
+  &-enter-active,
+  &-leave-active {
+    transform: translateY(0);
+    opacity: 1;
+    transition: all 0.15s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+  &-enter,
+  &-leave-to {
+    transform: translateY(5px);
+    opacity: 0;
+    transition: all 0.15s cubic-bezier(0.19, 1, 0.22, 1);
   }
 }
 </style>
