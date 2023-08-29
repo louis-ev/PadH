@@ -44,7 +44,12 @@ export default {
   created() {},
   mounted() {},
   beforeDestroy() {},
-  watch: {},
+  watch: {
+    list_of_images() {
+      if (this.list_of_images.length > 0)
+        this.currently_active_image = this.list_of_images.at(0).href;
+    },
+  },
   computed: {
     md_text() {
       if (!this.page.contenu) return false;
