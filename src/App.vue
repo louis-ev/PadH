@@ -49,7 +49,7 @@ export default {
             name: p.nom_de_page,
           };
         });
-      return false;
+      return [];
     },
   },
   methods: {
