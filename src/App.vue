@@ -79,12 +79,12 @@ body {
   margin: 0;
   font-family: "Epilogue";
   font-weight: 400;
-  font-size: 130%;
+  font-size: 95%;
   line-height: 1.4;
-}
-#app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+#app {
   height: 100%;
 }
 
@@ -103,14 +103,18 @@ nav {
 h1 {
   font-family: "Syne";
   font-weight: 800;
-  font-size: 2rem;
+  font-size: 200%;
+  margin-top: calc(var(--spacing) * 3);
 }
 h2,
 h3 {
   font-family: inherit;
   font-weight: 600;
 }
-
+hr {
+  border: none;
+  border-bottom: 2px solid #ddd;
+}
 button {
   border: none;
   cursor: pointer;

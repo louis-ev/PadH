@@ -54,7 +54,7 @@ export default {
 <style lang="scss" scoped>
 ._textBox {
   // padding: 1em;
-  padding: 0 calc(var(--spacing) * 2);
+  padding: 0 calc(var(--spacing) * 3);
 
   ::v-deep button {
     appearance: none;

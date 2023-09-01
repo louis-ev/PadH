@@ -161,7 +161,7 @@ export default {
   display: flex;
   padding: 0;
   gap: 1em;
-  padding: calc(var(--spacing) * 1) calc(var(--spacing) * 2);
+  padding: calc(var(--spacing) * 1) calc(var(--spacing) * 3);
   margin-top: calc(var(--spacing) * 1);
   background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(2px);
