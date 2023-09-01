@@ -1,5 +1,8 @@
 <template>
   <div class="_textBox">
+    <component :is="'style'">
+      {{ active_btn_styles }}
+    </component>
     <div ref="content" v-html="text" @click="interceptBtn" />
     {{ currently_active_image }}
   </div>
@@ -23,7 +26,15 @@ export default {
         this.scrollToBtn(this.currently_active_image.id);
     },
   },
-  computed: {},
+  computed: {
+    active_btn_styles() {
+      return `
+      button[data-imagetodisplay="${this.currently_active_image.id}"] {
+        border-color: rebeccapurple !important;
+      }
+      `;
+    },
+  },
   methods: {
     interceptBtn($event) {
       const imagetodisplay = $event.target.dataset?.imagetodisplay;
@@ -35,8 +46,8 @@ export default {
       );
       if (!btn) return false;
 
-      if (btn.scrollIntoViewIfNeeded) btn.scrollIntoViewIfNeeded();
-      else btn.scrollIntoView();
+      const scrollBox = this.$refs.content.closest("._text");
+      scrollBox.scrollTo(0, btn.offsetTop - 60);
     },
   },
 };
@@ -44,5 +55,15 @@ export default {
 <style lang="scss" scoped>
 ._textBox {
   // padding: 1em;
+  padding: 0 calc(var(--spacing) * 2);
+
+  ::v-deep button {
+    appearance: none;
+    outline: none;
+    background: transparent;
+    border-radius: 0;
+    border: 1px solid gray;
+    padding: 0;
+  }
 }
 </style>

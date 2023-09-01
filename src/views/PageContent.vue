@@ -15,7 +15,7 @@
               <router-link :to="item.path">{{ item.name }}</router-link>
             </div>
           </nav>
-          <div v-if="!md_text">N’a pas pu charger</div>
+          <div v-if="!md_text" class="_cantLoad">N’a pas pu charger</div>
           <TextBox
             v-else
             :text="md_text"
@@ -149,8 +149,6 @@ export default {
   scroll-behavior: smooth;
 }
 ._text--content {
-  padding: 3em;
-
   ::v-deep button {
     cursor: pointer;
     img {
@@ -163,11 +161,19 @@ export default {
   }
 }
 
+._cantLoad {
+  padding: calc(var(--spacing) * 2);
+}
+
 ._menu {
   position: sticky;
   top: 0;
   display: flex;
   padding: 0;
   gap: 1em;
+  padding: calc(var(--spacing) * 1) calc(var(--spacing) * 2);
+  margin-top: calc(var(--spacing) * 1);
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(2px);
 }
 </style>
