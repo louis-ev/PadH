@@ -61,18 +61,23 @@ export default {
     outline: none;
     background: transparent;
     border-radius: 0;
-    border: 1px solid #eee;
+    border: 2px solid #eee;
     border-radius: 2px;
     padding: 0;
 
     cursor: pointer;
+    transition: transform 0.6s ease-out;
+
+    &:hover {
+      transform: scale(1.5);
+    }
 
     img {
       display: block;
       pointer-events: none;
 
       width: auto;
-      height: 1.3em;
+      height: 1em;
     }
   }
 }
