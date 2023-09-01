@@ -149,16 +149,6 @@ export default {
   scroll-behavior: smooth;
 }
 ._text--content {
-  ::v-deep button {
-    cursor: pointer;
-    img {
-      display: inline-block;
-      pointer-events: none;
-
-      width: auto;
-      height: 1em;
-    }
-  }
 }
 
 ._cantLoad {

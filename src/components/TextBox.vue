@@ -4,7 +4,6 @@
       {{ active_btn_styles }}
     </component>
     <div ref="content" v-html="text" @click="interceptBtn" />
-    {{ currently_active_image }}
   </div>
 </template>
 <script>
@@ -62,8 +61,19 @@ export default {
     outline: none;
     background: transparent;
     border-radius: 0;
-    border: 1px solid gray;
+    border: 1px solid #eee;
+    border-radius: 2px;
     padding: 0;
+
+    cursor: pointer;
+
+    img {
+      display: block;
+      pointer-events: none;
+
+      width: auto;
+      height: 1.3em;
+    }
   }
 }
 </style>

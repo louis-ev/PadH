@@ -21,20 +21,29 @@
           <div class="_captionBloc--text">
             {{ currently_active_image.text }}
           </div>
-
-          <button
-            type="button"
-            class="u-button _showAllBtn"
-            @click="show_all_images = true"
-          >
-            <b-icon icon="grid-3x3-gap" />
-          </button>
+          <div class="_showAllBtn">
+            <button
+              type="button"
+              class="u-button"
+              @click="show_all_images = true"
+            >
+              <b-icon icon="grid-3x3-gap" />
+            </button>
+          </div>
         </div>
       </transition>
     </div>
 
     <transition name="pagechange" mode="out-in">
       <div v-if="show_all_images" class="_allImages">
+        <button
+          type="button"
+          class="u-button _closeBtn"
+          @click="show_all_images = true"
+        >
+          <b-icon icon="x-lg" />
+        </button>
+
         <button
           type="button"
           v-for="image in images"
@@ -117,6 +126,8 @@ img {
     flex: 1 1 auto;
   }
   ._showAllBtn {
+    padding: calc(var(--spacing) / 2) var(--spacing);
+
     flex: 0 0 auto;
   }
 }
@@ -153,5 +164,14 @@ img {
   img {
     position: absolute;
   }
+}
+._closeBtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: none;
+  padding: calc(var(--spacing) * 1);
+  z-index: 1;
+  backdrop-filter: blur(2px);
 }
 </style>

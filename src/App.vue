@@ -77,6 +77,10 @@ body {
   background: white;
   height: 100%;
   margin: 0;
+  font-family: "Epilogue";
+  font-weight: 400;
+  font-size: 130%;
+  line-height: 1.4;
 }
 #app {
   -webkit-font-smoothing: antialiased;
@@ -85,8 +89,7 @@ body {
 }
 
 nav {
-  padding: 30px;
-
+  // padding: 30px;
   a {
     font-weight: bold;
     color: #2c3e50;
@@ -95,6 +98,23 @@ nav {
       color: #42b983;
     }
   }
+}
+
+h1 {
+  font-family: "Syne";
+  font-weight: 800;
+  font-size: 2rem;
+}
+h2,
+h3 {
+  font-family: inherit;
+  font-weight: 600;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background: rgba(222, 222, 222, 0.8);
 }
 
 .pagechange {
