@@ -68,6 +68,10 @@ export default {
 };
 </script>
 <style lang="scss">
+:root {
+  --spacing: 1rem;
+}
+
 html,
 body {
   background: white;
@@ -105,6 +109,18 @@ nav {
     transform: translateY(5px);
     opacity: 0;
     transition: all 0.15s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+}
+.fade_fast {
+  &-enter-active,
+  &-leave-active {
+    opacity: 1;
+    transition: opacity 0.125s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+  &-enter,
+  &-leave-to {
+    opacity: 0;
+    transition: opacity 0.125s cubic-bezier(0.19, 1, 0.22, 1);
   }
 }
 </style>

@@ -4,6 +4,9 @@ import router from "./router";
 
 Vue.config.productionTip = false;
 
+import { IconsPlugin } from "bootstrap-vue";
+Vue.use(IconsPlugin);
+
 new Vue({
   router,
   render: (h) => h(App),

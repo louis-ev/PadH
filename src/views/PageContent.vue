@@ -5,16 +5,24 @@
         <ImageBox
           :images="list_of_images"
           :currently_active_image="currently_active_image"
+          @showImage="showImage"
         />
       </div>
       <div class="_text">
-        <nav class="_menu">
-          <div v-for="item in nav_menu" :key="item.path">
-            <router-link :to="item.path">{{ item.name }}</router-link>
-          </div>
-        </nav>
-        <div v-if="!md_text">N’a pas pu charger</div>
-        <TextBox v-else :text="md_text" @showImage="showImage" />
+        <div class="_text--content">
+          <nav class="_menu">
+            <div v-for="item in nav_menu" :key="item.path">
+              <router-link :to="item.path">{{ item.name }}</router-link>
+            </div>
+          </nav>
+          <div v-if="!md_text">N’a pas pu charger</div>
+          <TextBox
+            v-else
+            :text="md_text"
+            :currently_active_image="currently_active_image"
+            @showImage="showImage"
+          />
+        </div>
       </div>
     </div>
   </div>
@@ -38,18 +46,13 @@ export default {
   data() {
     return {
       list_of_images: [],
-      currently_active_image: false,
+      currently_active_image_id: false,
     };
   },
   created() {},
   mounted() {},
   beforeDestroy() {},
-  watch: {
-    list_of_images() {
-      if (this.list_of_images.length > 0)
-        this.currently_active_image = this.list_of_images.at(0).href;
-    },
-  },
+  watch: {},
   computed: {
     md_text() {
       if (!this.page.contenu) return false;
@@ -70,13 +73,25 @@ export default {
       };
       const imageRenderer = renderer.image;
       renderer.image = (href, title, text) => {
+        let icon_src, large_src;
+        if (href.includes(">")) {
+          const srcs = href.split(">");
+          icon_src = srcs[0];
+          large_src = srcs[1];
+        } else {
+          icon_src = large_src = href;
+        }
+        const id = "id" + Math.random().toString(16).slice(2);
+
         this.list_of_images.push({
-          href,
+          id,
+          large_src,
+          icon_src,
           title,
           text,
         });
-        const html_image = imageRenderer.call(renderer, href, title, text);
-        let html_btn_image = `<button type="button" data-imageToDisplay="${href}">${html_image}</button>`;
+        const html_image = imageRenderer.call(renderer, icon_src, title, text);
+        let html_btn_image = `<button type="button" data-imageToDisplay="${id}">${html_image}</button>`;
         return html_btn_image;
       };
       marked.use({ renderer });
@@ -91,11 +106,18 @@ export default {
       // return marked.parse(`<img src="x" onerror="alert('not happening')">`);
       return marked.parse(this.page.contenu, { breaks: true });
     },
+    currently_active_image() {
+      if (this.currently_active_image_id === false)
+        return this.list_of_images[0];
+      return this.list_of_images.find(
+        (i) => i.id === this.currently_active_image_id
+      );
+    },
   },
   methods: {
-    showImage(image) {
-      this.currently_active_image =
-        this.currently_active_image === image ? false : image;
+    showImage(id) {
+      this.currently_active_image_id =
+        this.currently_active_image_id === id ? false : id;
     },
   },
 };
@@ -118,20 +140,16 @@ export default {
 
 ._images {
   position: relative;
+  overflow: hidden;
 }
 
 ._text {
   height: 100%;
   overflow: auto;
-  padding: 2em;
-
-  ._menu {
-    position: sticky;
-    top: 0;
-    display: flex;
-    padding: 0;
-    gap: 1em;
-  }
+  scroll-behavior: smooth;
+}
+._text--content {
+  padding: 3em;
 
   ::v-deep button {
     cursor: pointer;
@@ -143,5 +161,13 @@ export default {
       height: 1em;
     }
   }
+}
+
+._menu {
+  position: sticky;
+  top: 0;
+  display: flex;
+  padding: 0;
+  gap: 1em;
 }
 </style>
