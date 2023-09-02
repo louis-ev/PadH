@@ -1,7 +1,7 @@
 <template>
   <div class="_imageBox">
     <div class="_singleImage">
-      <transition name="fade_fast" mode="out-in">
+      <transition name="fade" mode="out-in">
         <div v-if="currently_active_image" :key="currently_active_image.id">
           <img
             :src="currently_active_image.large_src"
@@ -12,26 +12,47 @@
         <div v-else key="none">Aucune</div>
       </transition>
 
-      <transition name="fade_fast" mode="out-in">
-        <div
-          v-if="currently_active_image"
-          :key="currently_active_image?.id || 'none'"
-          class="_captionBloc"
-        >
-          <div class="_captionBloc--text">
+      <div class="_captionBloc">
+        <transition name="fade" mode="out-in">
+          <div
+            v-if="currently_active_image"
+            :key="currently_active_image?.id || 'none'"
+            class="_captionBloc--text"
+          >
             {{ currently_active_image.text }}
           </div>
-          <div class="_showAllBtn">
-            <button
-              type="button"
-              class="u-button"
-              @click="show_all_images = true"
-            >
-              <b-icon icon="grid-3x3-gap" />
-            </button>
-          </div>
+        </transition>
+        <div class="_captionBloc--nav">
+          <button
+            type="button"
+            class="u-button"
+            :disabled="currently_active_image_index === 0"
+            @click="prevImage"
+          >
+            <b-icon icon="arrow-left-circle" />
+          </button>
+          <span>
+            {{ currently_active_image_index + 1 }}/{{ images.length }}
+          </span>
+          <button
+            type="button"
+            class="u-button"
+            :disabled="currently_active_image_index >= images.length"
+            @click="nextImage"
+          >
+            <b-icon icon="arrow-right-circle" />
+          </button>
         </div>
-      </transition>
+        <div class="_showAllBtn">
+          <button
+            type="button"
+            class="u-button"
+            @click="show_all_images = true"
+          >
+            <b-icon icon="grid-3x3-gap" />
+          </button>
+        </div>
+      </div>
     </div>
 
     <transition name="pagechange" mode="out-in">
@@ -39,7 +60,7 @@
         <button
           type="button"
           class="u-button _closeBtn"
-          @click="show_all_images = true"
+          @click="show_all_images = false"
         >
           <b-icon icon="x-lg" />
         </button>
@@ -77,18 +98,34 @@ export default {
   mounted() {},
   beforeDestroy() {},
   watch: {},
-  computed: {},
+  computed: {
+    currently_active_image_index() {
+      if (!this.currently_active_image) return 0;
+      return this.images.findIndex(
+        (i) => i.id === this.currently_active_image.id
+      );
+    },
+  },
   methods: {
     toggleImage(id) {
+      this.$eventHub.$emit("textBox.scroll_to_btn", id);
       this.$emit("showImage", id);
       this.show_all_images = false;
+    },
+    prevImage() {
+      const new_id = this.images[this.currently_active_image_index - 1].id;
+      this.toggleImage(new_id);
+    },
+    nextImage() {
+      const new_id = this.images[this.currently_active_image_index + 1].id;
+      this.toggleImage(new_id);
     },
   },
 };
 </script>
 <style lang="scss" scoped>
 ._imageBox {
-  background: #eee;
+  background: var(--body-bg);
   width: 100%;
   height: 100vh;
   inset: 0;
@@ -113,21 +150,34 @@ img {
 }
 ._captionBloc {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background: white;
+  bottom: calc(var(--spacing) / 2);
+  left: calc(var(--spacing) / 2);
+  width: calc(100% - calc(var(--spacing) * 2));
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(1px);
+  padding: calc(var(--spacing) / 4);
+
+  border-radius: 4px;
 
   display: flex;
   flex-flow: row nowrap;
+  align-items: flex-end;
 
   ._captionBloc--text {
-    padding: calc(var(--spacing) / 2) var(--spacing);
+    padding: calc(var(--spacing) / 2) calc(var(--spacing) / 2)
+      calc(var(--spacing) / 1);
     flex: 1 1 auto;
   }
-  ._showAllBtn {
-    padding: calc(var(--spacing) / 2) var(--spacing);
+  ._captionBloc--nav {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    padding: calc(var(--spacing) / 2) calc(var(--spacing) / 4);
+    gap: calc(var(--spacing) / 2);
+  }
 
+  ._showAllBtn {
+    padding: calc(var(--spacing) / 2) calc(var(--spacing) / 4);
     flex: 0 0 auto;
   }
 }

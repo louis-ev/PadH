@@ -57,8 +57,9 @@ export default {
       this.list_of_images = list_of_images;
     },
     showImage(id) {
-      this.currently_active_image_id =
-        this.currently_active_image_id === id ? false : id;
+      console.log("showimage", id);
+      if (this.currently_active_image_id !== id)
+        this.currently_active_image_id = id;
     },
   },
 };

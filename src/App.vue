@@ -43,12 +43,14 @@ export default {
     },
     nav_menu() {
       if (this.pages)
-        return this.pages.map((p) => {
-          return {
-            path: p.url,
-            name: p.nom_de_page,
-          };
-        });
+        return this.pages
+          .filter((p) => !p.invisible_dans_menu)
+          .map((p) => {
+            return {
+              path: p.url,
+              name: p.nom_de_page,
+            };
+          });
       return [];
     },
   },
@@ -69,6 +71,7 @@ export default {
 </script>
 <style lang="scss">
 :root {
+  --body-bg: rgb(229, 229, 222);
   --spacing: 1rem;
 }
 
@@ -113,12 +116,21 @@ h3 {
 }
 hr {
   border: none;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid var(--body-bg);
 }
 button {
   border: none;
   cursor: pointer;
-  background: rgba(222, 222, 222, 0.8);
+  background: transparent;
+  border-radius: 4px;
+  background: rgba(222, 222, 222, 0.2);
+  padding: calc(var(--spacing) / 2);
+
+  transition: background 0.25s cubic-bezier(0.19, 1, 0.22, 1);
+
+  &:hover {
+    background: rgba(222, 222, 222, 0.8);
+  }
 }
 
 .pagechange {
@@ -135,16 +147,16 @@ button {
     transition: all 0.15s cubic-bezier(0.19, 1, 0.22, 1);
   }
 }
-.fade_fast {
+.fade {
   &-enter-active,
   &-leave-active {
     opacity: 1;
-    transition: opacity 0.125s cubic-bezier(0.19, 1, 0.22, 1);
+    transition: opacity 0.35s cubic-bezier(0.19, 1, 0.22, 1);
   }
   &-enter,
   &-leave-to {
     opacity: 0;
-    transition: opacity 0.125s cubic-bezier(0.19, 1, 0.22, 1);
+    transition: opacity 0.35s cubic-bezier(0.19, 1, 0.22, 1);
   }
 }
 </style>
