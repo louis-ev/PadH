@@ -51,11 +51,11 @@ export default {
       const renderer = new marked.Renderer();
       const linkRenderer = renderer.link;
       renderer.link = (href, title, text) => {
-        const localLink = href.startsWith(
-          `${location.protocol}//${location.hostname}`
-        );
+        const is_local_link =
+          href.startsWith(`${location.protocol}//${location.hostname}`) ||
+          href.startsWith("/");
         const html = linkRenderer.call(renderer, href, title, text);
-        return localLink
+        return is_local_link
           ? html
           : html.replace(
               /^<a /,
