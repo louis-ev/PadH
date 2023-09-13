@@ -87,6 +87,17 @@ export default {
             },
             transform: (val, col) => {
               if (col === "collections") return JSON.parse(val);
+              if (col === "thumbs") {
+                const i = JSON.parse(val);
+                const p = i[0];
+                if (p && p.thumbsData && p.thumbsData[0])
+                  return (
+                    "https://corpora.medialab.sciences-po.fr/" +
+                    p.thumbsData[0].path
+                  );
+                return "";
+              }
+
               return val;
             },
           });

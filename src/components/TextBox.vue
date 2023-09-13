@@ -76,7 +76,16 @@ export default {
             acc += `
             <tr>
               <td>
-                ${f.title}
+                <img src="${f.thumbs}" />
+              </td>
+              <td>
+                ${f.title}<br>
+                <small>${f.caption}</small><br>
+              </td>
+              <td>
+                <a href="${this.getPDFFromThumb(
+                  f.thumbs
+                )}" target="_blank">PDF</a>
               </td>
             </tr>
             `;
@@ -161,6 +170,15 @@ export default {
         behavior: "instant",
       });
     },
+    getPDFFromThumb(thumb_path) {
+      // debugger;
+      // return thumb_path;
+      if (thumb_path)
+        return thumb_path
+          .substring(0, thumb_path.indexOf(".pdf") + 4)
+          .replaceAll("/_thumbs", "");
+      return "";
+    },
     onScroll() {
       const btns = Array.from(
         this.$refs.content.querySelectorAll(`[data-imagetodisplay]`)
@@ -232,9 +250,17 @@ export default {
     }
 
     table {
-      td {
+      tr {
         border: 2px solid var(--body-bg);
-        height: 1em;
+      }
+      td {
+        min-height: 1em;
+      }
+
+      img {
+        width: 2em;
+        height: 2em;
+        object-fit: scale-down;
       }
     }
   }
