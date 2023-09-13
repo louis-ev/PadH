@@ -73,6 +73,21 @@ export default {
               fragment.collections.some((c) => c.startsWith(text))
           );
           let html = fragments.reduce((acc, f) => {
+            let cont = "<ul>";
+            if (f.caption) cont += `<li>${f.caption}</li>`;
+            if (f.year) cont += `<li>${f.year}</li>`;
+            if (f.type_of_document) cont += `<li>${f.type_of_document}</li>`;
+            if (f.origin_of_document)
+              cont += `<li>${f.origin_of_document}</li>`;
+            if (f.authors_of_document)
+              cont += `<li>${f.authors_of_document}</li>`;
+            if (f.thumbs)
+              cont += `
+                <a href="${this.getPDFFromThumb(
+                  f.thumbs
+                )}" target="_blank">Télécharger le pdf</a>
+              `;
+
             acc += `
             <details>
               <summary>
@@ -80,16 +95,7 @@ export default {
                 ${f.title}
               </summary>
               <div class="_detailsContent">
-                <small>
-                  ${f.caption}<br>
-                  ${f.year}<br>
-                  ${f.type_of_document}<br>
-                  ${f.origin_of_document}<br>
-                  ${f.authors_of_document}<br>
-                </small>
-                <a href="${this.getPDFFromThumb(
-                  f.thumbs
-                )}" target="_blank">Télécharger le pdf</a>
+                ${cont}
               </div>
             </details>
             `;
@@ -254,6 +260,7 @@ export default {
     }
 
     ._corporaFiles {
+      font-size: 80%;
       > details {
         // border: 2px solid var(--body-bg);
         // padding: 0.5em;
@@ -278,7 +285,13 @@ export default {
           // border-top: none;
         }
         ._detailsContent {
-          padding: 0.2em 0.4em;
+          // padding: 0.2em 0.4em;
+          padding: 0 2.2em;
+
+          ul {
+            margin: 0;
+            padding: 0;
+          }
         }
 
         &[open] {
