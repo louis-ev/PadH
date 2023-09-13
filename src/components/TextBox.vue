@@ -74,24 +74,28 @@ export default {
           );
           let html = fragments.reduce((acc, f) => {
             acc += `
-            <tr>
-              <td>
+            <details>
+              <summary>
                 <img src="${f.thumbs}" />
-              </td>
-              <td>
-                ${f.title}<br>
-                <small>${f.caption}</small><br>
-              </td>
-              <td>
+                ${f.title}
+              </summary>
+              <div class="_detailsContent">
+                <small>
+                  ${f.caption}<br>
+                  ${f.year}<br>
+                  ${f.type_of_document}<br>
+                  ${f.origin_of_document}<br>
+                  ${f.authors_of_document}<br>
+                </small>
                 <a href="${this.getPDFFromThumb(
                   f.thumbs
-                )}" target="_blank">PDF</a>
-              </td>
-            </tr>
+                )}" target="_blank">Télécharger le pdf</a>
+              </div>
+            </details>
             `;
             return acc;
           }, "");
-          return `<table>${html}</table>`;
+          return `<div class="_corporaFiles">${html}</div>`;
         }
         const html = headingRenderer.call(renderer, text, level);
         return html;
@@ -249,12 +253,39 @@ export default {
       border: 2px solid var(--body-bg);
     }
 
-    table {
-      tr {
+    ._corporaFiles {
+      > details {
+        // border: 2px solid var(--body-bg);
+        // padding: 0.5em;
+        margin-bottom: 2px;
         border: 2px solid var(--body-bg);
-      }
-      td {
-        min-height: 1em;
+
+        summary {
+          display: flex;
+          align-items: center;
+          cursor: pointer;
+          padding: 0.2em;
+          gap: 0.2em;
+          background: var(--body-bg);
+
+          &:hover,
+          &:focus-visible {
+            background: transparent;
+          }
+        }
+
+        + details summary {
+          // border-top: none;
+        }
+        ._detailsContent {
+          padding: 0.2em 0.4em;
+        }
+
+        &[open] {
+          summary {
+            background: transparent;
+          }
+        }
       }
 
       img {
