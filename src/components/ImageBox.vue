@@ -18,9 +18,8 @@
             v-if="currently_active_image"
             :key="currently_active_image?.id || 'none'"
             class="_captionBloc--text"
-          >
-            {{ currently_active_image.text }}
-          </div>
+            v-html="currently_active_image.text"
+          />
         </transition>
         <div class="_captionBloc--nav">
           <button

@@ -260,6 +260,7 @@ export default {
     }
 
     ._corporaFiles {
+      margin: 1em 0;
       font-size: 80%;
       > details {
         // border: 2px solid var(--body-bg);
@@ -286,7 +287,7 @@ export default {
         }
         ._detailsContent {
           // padding: 0.2em 0.4em;
-          padding: 0 2.2em;
+          padding: 0 2.4em;
 
           ul {
             margin: 0;
