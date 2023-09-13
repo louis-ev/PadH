@@ -6,12 +6,15 @@
         :key="$route.path"
         :nav_menu="nav_menu"
         :page="current_content"
+        :corpora_data="corpora_data"
       />
     </transition>
   </div>
 </template>
 <script>
 const parseTOML = require("@iarna/toml/parse-string");
+const Papa = require("papaparse");
+// const csvToJson = require("convert-csv-to-json");
 
 export default {
   props: {},
@@ -20,12 +23,16 @@ export default {
     return {
       is_loading: true,
       pages: undefined,
+      publicPath: process.env.BASE_URL,
+      corpora_data: undefined,
     };
   },
   async created() {
     const doc = await this.fetchDoc();
     const pages = await this.formatDoc(doc);
     this.pages = pages;
+
+    await this.loadArchive();
     this.is_loading = false;
   },
   mounted() {},
@@ -65,6 +72,28 @@ export default {
     async formatDoc(text) {
       let t = text.split("[PAGE]");
       return t.map((_t) => parseTOML(_t));
+    },
+    async loadArchive() {
+      const url = this.publicPath + "/shaping_archive.csv";
+
+      const parseFile = (url) => {
+        return new Promise((resolve) => {
+          Papa.parse(url, {
+            download: true,
+            header: true,
+            dynamicTyping: true,
+            complete: (results) => {
+              resolve(results.data);
+            },
+            transform: (val, col) => {
+              if (col === "collections") return JSON.parse(val);
+              return val;
+            },
+          });
+        });
+      };
+      const parsedData = await parseFile(url);
+      this.corpora_data = parsedData;
     },
   },
 };

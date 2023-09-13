@@ -13,6 +13,7 @@
           :nav_menu="nav_menu"
           :text="page.contenu"
           :currently_active_image="currently_active_image"
+          :corpora_data="corpora_data"
           @updateListOfImages="updateListOfImages"
           @showImage="showImage"
         />
@@ -28,6 +29,7 @@ export default {
   props: {
     nav_menu: [Array],
     page: [Boolean, Object],
+    corpora_data: [Array],
   },
   components: {
     ImageBox,

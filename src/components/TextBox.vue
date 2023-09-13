@@ -23,6 +23,7 @@ export default {
     nav_menu: Array,
     text: String,
     currently_active_image: [Boolean, Object],
+    corpora_data: Array,
   },
   components: {},
   data() {
@@ -62,6 +63,31 @@ export default {
               `<a rel="noreferrer noopener nofollow" target="_blank" `
             );
       };
+
+      const headingRenderer = renderer.heading;
+      renderer.heading = (text, level) => {
+        if (level === 5) {
+          const fragments = this.corpora_data.filter(
+            (fragment) =>
+              fragment.collections &&
+              fragment.collections.some((c) => c.startsWith(text))
+          );
+          let html = fragments.reduce((acc, f) => {
+            acc += `
+            <tr>
+              <td>
+                ${f.title}
+              </td>
+            </tr>
+            `;
+            return acc;
+          }, "");
+          return `<table>${html}</table>`;
+        }
+        const html = headingRenderer.call(renderer, text, level);
+        return html;
+      };
+
       let _list_of_images = [];
       const imageRenderer = renderer.image;
       renderer.image = (href, title, text) => {
@@ -87,11 +113,21 @@ export default {
         return html_btn_image;
       };
       this.$emit("updateListOfImages", _list_of_images);
+
       marked.use({ renderer });
 
       const hooks = {
         postprocess(html) {
-          return DOMPurify.sanitize(html, { ADD_ATTR: ["target"] });
+          return DOMPurify.sanitize(html, {
+            ADD_TAGS: ["iframe"],
+            ADD_ATTR: [
+              "allow",
+              "allowfullscreen",
+              "frameborder",
+              "scrolling",
+              "target",
+            ],
+          });
         },
       };
       marked.use({ hooks });
@@ -166,28 +202,40 @@ export default {
   // padding: 1em;
   padding: 0 calc(var(--spacing) * 3);
 
-  ::v-deep button {
-    appearance: none;
-    outline: none;
-    background: transparent;
-    border-radius: 0;
-    border: 2px solid var(--body-bg);
-    border-radius: 2px;
-    padding: 0;
+  ::v-deep {
+    button {
+      appearance: none;
+      outline: none;
+      background: transparent;
+      border-radius: 0;
+      border: 2px solid var(--body-bg);
+      border-radius: 2px;
+      padding: 0;
 
-    cursor: pointer;
-    transition: transform 0.1s ease-out;
+      cursor: pointer;
+      transition: transform 0.1s ease-out;
 
-    &:hover {
-      transform: scale(1.1);
+      &:hover {
+        transform: scale(1.1);
+      }
+
+      img {
+        display: block;
+        pointer-events: none;
+
+        width: auto;
+        height: 1em;
+      }
+    }
+    iframe {
+      border: 2px solid var(--body-bg);
     }
 
-    img {
-      display: block;
-      pointer-events: none;
-
-      width: auto;
-      height: 1em;
+    table {
+      td {
+        border: 2px solid var(--body-bg);
+        height: 1em;
+      }
     }
   }
 }
