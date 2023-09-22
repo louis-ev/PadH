@@ -155,8 +155,8 @@ export default {
     active_btn_styles() {
       if (!this.currently_active_image) return "";
       return `
-      button[data-imagetodisplay="${this.currently_active_image.id}"] {
-        border-color: rebeccapurple !important;
+      button[data-imagetodisplay="${this.currently_active_image.id}"] img {
+          mix-blend-mode: hard-light;
       }
       `;
     },
@@ -228,7 +228,8 @@ export default {
 }
 ._textBox--content {
   // padding: 1em;
-  padding: 0 calc(var(--spacing) * 3);
+  max-width: 70ch;
+  padding: 0 calc(var(--spacing) * 4.5);
 
   ::v-deep {
     button {
@@ -236,9 +237,11 @@ export default {
       outline: none;
       background: transparent;
       border-radius: 0;
-      border: 2px solid var(--body-bg);
+      // border: 2px solid var(--body-bg);
+      background: var(--color-scipo);
       border-radius: 2px;
       padding: 0;
+      vertical-align: bottom;
 
       cursor: pointer;
       transition: transform 0.1s ease-out;
@@ -252,7 +255,7 @@ export default {
         pointer-events: none;
 
         width: auto;
-        height: 1em;
+        height: 2.5em;
       }
     }
     iframe {
@@ -317,7 +320,7 @@ export default {
   display: flex;
   padding: 0;
   gap: 1em;
-  padding: calc(var(--spacing) * 1) calc(var(--spacing) * 3);
+  padding: calc(var(--spacing) * 1) calc(var(--spacing) * 4.5);
   margin-top: calc(var(--spacing) * 1);
   background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(1px);

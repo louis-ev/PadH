@@ -51,7 +51,7 @@ export default {
     nav_menu() {
       if (this.pages)
         return this.pages
-          .filter((p) => !p.invisible_dans_menu)
+          .filter((p) => !p.invisible_dans_menu && p.nom_de_page)
           .map((p) => {
             return {
               path: p.url,
@@ -113,6 +113,7 @@ export default {
 :root {
   --body-bg: rgb(229, 229, 222);
   --spacing: 1rem;
+  --color-scipo: #e6142d;
 }
 
 html,
@@ -122,7 +123,7 @@ body {
   margin: 0;
   font-family: "Epilogue";
   font-weight: 400;
-  font-size: 95%;
+  font-size: 98%;
   line-height: 1.4;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -131,24 +132,33 @@ body {
   height: 100%;
 }
 
-nav {
-  // padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
+a {
+  color: inherit;
+  text-decoration-thickness: 1px;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.2rem;
 
-    &.router-link-exact-active {
-      color: #42b983;
-    }
+  &.router-link-exact-active,
+  &:hover,
+  &:focus-visible {
+    text-decoration: none;
+    color: var(--color-scipo);
   }
 }
 
 h1 {
   font-family: "Syne";
   font-weight: 800;
-  font-size: 200%;
+  font-size: 180%;
   margin-top: calc(var(--spacing) * 3);
 }
+h2 {
+  font-size: 135%;
+}
+h3 {
+  font-size: 115%;
+}
+
 h2,
 h3 {
   font-family: inherit;
@@ -156,7 +166,8 @@ h3 {
 }
 hr {
   border: none;
-  border-bottom: 2px solid var(--body-bg);
+  border-bottom: 1.5px solid var(--body-bg);
+  // border-bottom: 2px solid var(--body-bg);
 }
 button {
   border: none;
@@ -171,6 +182,10 @@ button {
   &:hover {
     background: rgba(222, 222, 222, 0.8);
   }
+}
+blockquote {
+  font-family: "Syne";
+  font-weight: 800;
 }
 
 .pagechange {
