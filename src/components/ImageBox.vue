@@ -2,15 +2,26 @@
   <div class="_imageBox">
     <div class="_singleImage">
       <transition name="fade" mode="out-in">
-        <div v-if="currently_active_image" :key="currently_active_image.id">
-          <a :href="currently_active_image.large_src" target="_blank">
+        <template v-if="currently_active_image">
+          <a
+            v-if="currently_active_image.large_src"
+            :href="currently_active_image.large_src"
+            :key="currently_active_image.id"
+            target="_blank"
+          >
             <img
               :src="currently_active_image.large_src"
               :alt="currently_active_image.text"
               :title="currently_active_image.title"
             />
           </a>
-        </div>
+          <div
+            v-else-if="currently_active_image.iframe"
+            class="_videoIframe"
+            v-html="currently_active_image.iframe"
+            :key="currently_active_image.id"
+          />
+        </template>
         <div v-else key="none" class="_none">Aucune</div>
       </transition>
 
@@ -77,7 +88,13 @@
           :key="image.id"
           @click="toggleImage(image.id)"
         >
-          <img :src="image.large_src" :alt="image.text" :title="image.title" />
+          <img
+            v-if="image.large_src"
+            :src="image.large_src"
+            :alt="image.text"
+            :title="image.title"
+          />
+          <span v-else v-html="image.iframe" />
           <div class="_imageText" v-html="image.text" />
         </button>
       </div>
@@ -139,7 +156,8 @@ export default {
   height: 100%;
   overflow: hidden;
 }
-img {
+img,
+._videoIframe {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -151,6 +169,13 @@ img {
   object-fit: scale-down;
   object-position: center center;
 }
+
+._videoIframe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 ._captionBloc {
   position: absolute;
   bottom: calc(var(--spacing) / 2);
@@ -214,6 +239,10 @@ img {
 
     &.is--active {
       border-color: var(--color-scipo);
+    }
+
+    > * {
+      pointer-events: none;
     }
   }
 

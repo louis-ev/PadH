@@ -90,11 +90,17 @@ export default {
               if (col === "thumbs") {
                 const i = JSON.parse(val);
                 const p = i[0];
-                if (p && p.thumbsData && p.thumbsData[0])
-                  return (
-                    "https://corpora.medialab.sciences-po.fr/" +
-                    p.thumbsData[0].path
-                  );
+
+                if (p && p.thumbsData && p.thumbsData[0] && p.thumbsData[4]) {
+                  return {
+                    large_src:
+                      "https://corpora.medialab.sciences-po.fr/" +
+                      p.thumbsData[4].path,
+                    icon_src:
+                      "https://corpora.medialab.sciences-po.fr/" +
+                      p.thumbsData[0].path,
+                  };
+                }
                 return "";
               }
 

@@ -64,6 +64,8 @@ export default {
             );
       };
 
+      let _list_of_images = [];
+
       const headingRenderer = renderer.heading;
       renderer.heading = (text, level) => {
         if (level === 5) {
@@ -73,41 +75,70 @@ export default {
               fragment.collections.some((c) => c.startsWith(text))
           );
           let html = fragments.reduce((acc, f) => {
-            let cont = "<ul>";
+            const title = "<i>" + f.title + "</i><br>";
+
+            let cont = "<div>";
+            if (f.authors_of_document)
+              cont += `<span>${f.authors_of_document}</span>, `;
+            if (f.year) cont += `<span>${f.year}</span>, `;
+            if (f.type_of_document)
+              cont += `<span>${f.type_of_document}</span>`;
+
             // if (f.caption) cont += `<li>${f.caption}</li>`;
-            if (f.year) cont += `<li>${f.year}</li>`;
-            if (f.type_of_document) cont += `<li>${f.type_of_document}</li>`;
             // if (f.origin_of_document)
             //   cont += `<li>${f.origin_of_document}</li>`;
-            if (f.authors_of_document)
-              cont += `<li>${f.authors_of_document}</li>`;
-            if (f.thumbs)
-              cont += `
+            if (f.thumbs?.icon_src)
+              cont += `<br>
                 <a href="${this.getPDFFromThumb(
-                  f.thumbs
+                  f.thumbs.icon_src
                 )}" target="_blank">Télécharger le pdf</a>
               `;
+            cont += "</div>";
+
+            const id = "id" + Math.random().toString(16).slice(2);
 
             acc += `
-            <details>
-              <summary>
-                <img src="${f.thumbs}" />
-                ${f.title}
-              </summary>
-              <div class="_detailsContent">
+            <button type="button" class="_collEntry" data-imageToDisplay="${id}">
+                <img src="${f.thumbs?.icon_src}" />
+                ${title}
                 ${cont}
-              </div>
-            </details>
+            </button>
+          <hr>
             `;
+
+            if (f.thumbs?.large_src && f.thumbs?.icon_src) {
+              _list_of_images.push({
+                id,
+                large_src: f.thumbs.large_src,
+                icon_src: f.thumbs.icon_src,
+                title: "",
+                text: title + cont,
+              });
+            }
+
             return acc;
           }, "");
+
           return `<div class="_corporaFiles">${html}</div>`;
         }
         const html = headingRenderer.call(renderer, text, level);
         return html;
       };
 
-      let _list_of_images = [];
+      const htmlRenderer = renderer.html;
+      renderer.html = (html, block) => {
+        if (html.startsWith("<iframe ")) {
+          const id = "id" + Math.random().toString(16).slice(2);
+          _list_of_images.push({
+            id,
+            iframe: html,
+          });
+          return "";
+        } else {
+          return htmlRenderer.call(renderer, html, block);
+        }
+      };
+
       const imageRenderer = renderer.image;
       renderer.image = (href, title, text) => {
         let icon_src, large_src;
@@ -157,6 +188,10 @@ export default {
       return `
       button[data-imagetodisplay="${this.currently_active_image.id}"] img {
           mix-blend-mode: hard-light;
+      }
+      ._collEntry[data-imagetodisplay="${this.currently_active_image.id}"] {
+        // background:var(--color-scipo) !important;
+        border-left: 2px solid var(--color-scipo) !important;
       }
       `;
     },
@@ -247,7 +282,7 @@ export default {
       transition: transform 0.1s ease-out;
 
       &:hover {
-        transform: scale(1.1);
+        // transform: scale(1.1);
       }
 
       img {
@@ -268,43 +303,21 @@ export default {
     ._corporaFiles {
       margin: 1em 0;
       font-size: 80%;
-      > details {
+      > ._collEntry {
+        width: 100%;
+        padding-left: calc(var(--spacing) / 2);
+        text-align: left;
         // border: 2px solid var(--body-bg);
         // padding: 0.5em;
-        margin-bottom: 2px;
-        border: 2px solid var(--body-bg);
+        // margin-bottom: 2px;
+        // border: 2px solid var(--body-bg);
+        background: transparent;
 
-        summary {
-          display: flex;
-          align-items: center;
-          cursor: pointer;
-          padding: 0.2em;
-          gap: 0.2em;
-          background: var(--body-bg);
-
-          &:hover,
-          &:focus-visible {
-            background: transparent;
-          }
+        > * {
+          pointer-events: none;
         }
-
-        + details summary {
-          // border-top: none;
-        }
-        ._detailsContent {
-          // padding: 0.2em 0.4em;
-          padding: 0 2.4em;
-
-          ul {
-            margin: 0;
-            padding: 0;
-          }
-        }
-
-        &[open] {
-          summary {
-            background: transparent;
-          }
+        a {
+          pointer-events: auto;
         }
       }
 
