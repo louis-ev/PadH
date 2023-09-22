@@ -28,7 +28,7 @@ export default {
   components: {},
   data() {
     return {
-      scroll_view_margin_top: 150,
+      scroll_view_margin_top: 200,
       // scroll_view_margin_top: window.innerHeight / 4,
     };
   },
@@ -255,7 +255,7 @@ export default {
         pointer-events: none;
 
         width: auto;
-        height: 2.5em;
+        height: 2.2em;
       }
     }
     iframe {
@@ -315,6 +315,8 @@ export default {
 }
 
 ._menu {
+  font-size: 90%;
+
   position: sticky;
   top: 0;
   display: flex;
@@ -329,5 +331,9 @@ export default {
     rgb(255, 255, 255) 1em,
     rgba(255, 255, 255, 0.8) 100%
   );
+
+  a {
+    padding: 1em 0;
+  }
 }
 </style>

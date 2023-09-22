@@ -3,11 +3,13 @@
     <div class="_singleImage">
       <transition name="fade" mode="out-in">
         <div v-if="currently_active_image" :key="currently_active_image.id">
-          <img
-            :src="currently_active_image.large_src"
-            :alt="currently_active_image.text"
-            :title="currently_active_image.title"
-          />
+          <a :href="currently_active_image.large_src" target="_blank">
+            <img
+              :src="currently_active_image.large_src"
+              :alt="currently_active_image.text"
+              :title="currently_active_image.title"
+            />
+          </a>
         </div>
         <div v-else key="none">Aucune</div>
       </transition>
@@ -76,6 +78,7 @@
           @click="toggleImage(image.id)"
         >
           <img :src="image.large_src" :alt="image.text" :title="image.title" />
+          <div class="_imageText" v-html="image.text" />
         </button>
       </div>
     </transition>
@@ -142,7 +145,8 @@ img {
   height: 100%;
   left: 0;
   top: 0;
-  pointer-events: none;
+
+  // pointer-events: none;
 
   object-fit: scale-down;
   object-position: center center;
@@ -152,9 +156,11 @@ img {
   bottom: calc(var(--spacing) / 2);
   left: calc(var(--spacing) / 2);
   width: calc(100% - calc(var(--spacing) * 2));
-  background: rgba(255, 255, 255, 0.9);
-  backdrop-filter: blur(1px);
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(4px);
   padding: calc(var(--spacing) / 4);
+
+  font-size: 90%;
 
   border-radius: 4px;
 
@@ -195,23 +201,27 @@ img {
   display: grid;
   grid-auto-rows: max-content;
   grid-gap: calc(var(--spacing) / 1);
-  align-items: stretch;
+  align-items: baseline;
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
 
   ._btnImage {
     position: relative;
     overflow: hidden;
-    aspect-ratio: 1;
+    // aspect-ratio: 1;
     cursor: pointer;
     border: 2px solid white;
+    text-align: left;
 
     &.is--active {
-      border-color: rebeccapurple;
+      border-color: var(--color-scipo);
     }
   }
 
   img {
-    position: absolute;
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1/1;
+    height: auto;
   }
 }
 ._closeBtn {
@@ -222,5 +232,8 @@ img {
   padding: calc(var(--spacing) * 1);
   z-index: 1;
   backdrop-filter: blur(2px);
+}
+._imageText {
+  margin-top: calc(var(--spacing) / 4);
 }
 </style>
