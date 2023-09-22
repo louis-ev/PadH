@@ -74,11 +74,11 @@ export default {
           );
           let html = fragments.reduce((acc, f) => {
             let cont = "<ul>";
-            if (f.caption) cont += `<li>${f.caption}</li>`;
+            // if (f.caption) cont += `<li>${f.caption}</li>`;
             if (f.year) cont += `<li>${f.year}</li>`;
             if (f.type_of_document) cont += `<li>${f.type_of_document}</li>`;
-            if (f.origin_of_document)
-              cont += `<li>${f.origin_of_document}</li>`;
+            // if (f.origin_of_document)
+            //   cont += `<li>${f.origin_of_document}</li>`;
             if (f.authors_of_document)
               cont += `<li>${f.authors_of_document}</li>`;
             if (f.thumbs)
