@@ -11,7 +11,7 @@
             />
           </a>
         </div>
-        <div v-else key="none">Aucune</div>
+        <div v-else key="none" class="_none">Aucune</div>
       </transition>
 
       <div class="_captionBloc">
@@ -235,5 +235,9 @@ img {
 }
 ._imageText {
   margin-top: calc(var(--spacing) / 4);
+}
+
+._none {
+  padding: calc(var(--spacing) / 2);
 }
 </style>

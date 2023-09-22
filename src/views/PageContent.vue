@@ -42,7 +42,9 @@ export default {
     };
   },
   created() {},
-  mounted() {},
+  mounted() {
+    document.title = `Shaping AI | ${this.page.nom_de_page}`;
+  },
   beforeDestroy() {},
   watch: {},
   computed: {

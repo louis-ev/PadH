@@ -138,7 +138,7 @@ export default {
       const hooks = {
         postprocess(html) {
           return DOMPurify.sanitize(html, {
-            ADD_TAGS: ["iframe"],
+            ADD_TAGS: ["iframe", "svg"],
             ADD_ATTR: [
               "allow",
               "allowfullscreen",
@@ -257,6 +257,9 @@ export default {
         width: auto;
         height: 2.2em;
       }
+    }
+    summary {
+      cursor: pointer;
     }
     iframe {
       border: 2px solid var(--body-bg);
