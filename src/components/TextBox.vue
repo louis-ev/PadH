@@ -133,10 +133,9 @@ export default {
             id,
             iframe: html,
           });
-          return "";
-        } else {
-          return htmlRenderer.call(renderer, html, block);
-        }
+          const html_to_insert = htmlRenderer.call(renderer, html, block);
+          return `<span class="_hideIframe" data-imageToDisplay="${id}">${html_to_insert}</span>`;
+        } else return htmlRenderer.call(renderer, html, block);
       };
 
       const imageRenderer = renderer.image;
@@ -159,8 +158,7 @@ export default {
           text,
         });
         const html_image = imageRenderer.call(renderer, icon_src, title, text);
-        let html_btn_image = `<button type="button" data-imageToDisplay="${id}">${html_image}</button>`;
-        return html_btn_image;
+        return `<button type="button" data-imageToDisplay="${id}">${html_image}</button>`;
       };
       this.$emit("updateListOfImages", _list_of_images);
 
@@ -298,6 +296,12 @@ export default {
     }
     iframe {
       border: 2px solid var(--body-bg);
+    }
+    ._hideIframe {
+      width: 0px;
+      height: 0px;
+      overflow: hidden;
+      display: block;
     }
 
     ._corporaFiles {
