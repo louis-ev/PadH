@@ -174,6 +174,10 @@ img,
   display: flex;
   justify-content: center;
   align-items: center;
+
+  ::v-deep iframe {
+    width: 100%;
+  }
 }
 
 ._captionBloc {
