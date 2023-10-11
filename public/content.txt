@@ -12,6 +12,8 @@ contenu="""
 # PRISES ,  EM.PRISES  ,  DÉ.PRISES  ,    RE.PRISES…
 # Les *formes de participation* au développement de l'IA en France
 
+test
+
 ---
 
 ![Dessin d'un neurone de Purkinje du cortex cérébelleux du chat par Santiago Ramón y Cajal (fin du 19e siècle). Source : Wikipedia](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-21-43-05-copy.png) 
