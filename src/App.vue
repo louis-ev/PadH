@@ -28,7 +28,8 @@ export default {
     };
   },
   async created() {
-    const doc = await this.fetchDoc();
+    let doc = await this.fetchDoc();
+    doc = this.correctLinks(doc);
     const pages = await this.formatDoc(doc);
     this.pages = pages;
 
@@ -69,13 +70,18 @@ export default {
       const text = await response.text();
       return text;
     },
+    correctLinks(text) {
+      return text.replaceAll(
+        "https://corpora.medialab.sciences-po.fr/",
+        this.publicPath
+      );
+    },
     async formatDoc(text) {
       let t = text.split("[PAGE]");
       return t.map((_t) => parseTOML(_t));
     },
     async loadArchive() {
       const url = this.publicPath + "shaping_archive.csv";
-
       const parseFile = (url) => {
         return new Promise((resolve) => {
           Papa.parse(url, {
