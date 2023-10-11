@@ -267,22 +267,29 @@ Les extraits des entretiens ci-contre illustrent la carrière du terme de “bia
 ## Ce que l’enquête fait aux problèmes : méthodes et partis pris
 ---
 
-![Diagramme du parcours de recherche et carte du site](https://corpora.medialab.sciences-po.fr/contenus/shai2artboard-1.png)
+### Jouer des échelles et enquêter collectivement
 
-### Combiner les échelles
-Allier small et big data → ce que les discours font aux pratiques et vice et versa
-pour une vue à la fois d'ensemble et très fine. Permet de replacer dans une carte plus large certains développements et situations singulières. 
+![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/methodes-all.png)
+Pour étudier un phénomène aussi hétérogène dans ses manifestations que ramifié spatialement, matériellement et historiquement, nous avons combiné trois méthodes d'enquête qui offrent trois niveaux d'analyse, de la plus distante à la plus spécifique. Ajustées les unes par rapport aux autres, ces lentilles permettent d'analyser finement les d'interactions situées à un instant T autour d'un système d'IA particulier tout en ayant la capacité de les situer dans des vues plus larges.
 
-	* Une enquête située et collective (milieux, pratiques, inter-objectivation)
+*Une premier niveau d’analyse* (![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/medias.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-medias.png)), mobilisant des méthodes numériques d’analyse de corpus textuels conséquents, a consisté à thématiser et cartographier les enjeux relatifs à l’IA présents dans les récits médiatiques vecteurs de critiques ou, au contraire, vecteurs de promesses. A partir d’un corpus de plus de 45.000 articles parus dans la presse écrite française (281 sources) entre 2011 et 2021, nous avons entraîné un modèle de traitement automatique du langage pour obtenir deux sous-corpus (comprenant 14.000 articles au total) : un sous-corpus d’articles “critiques”, mettant en avant les effets délétères de l’IA et un sous-corpus d’articles “positifs”, vantant les bienfaits de l’IA. Nous avons dans un second temps généré un réseau des thèmes présents, analysé leur tonalité, leur évolution dans le temps et repéré les entités mentionnées pour chacun de ces thèmes.
+
+Cette première plongée dans les discours de l’IA nous a permis de mettre à jour quatre configurations—ou discours-types qui font apparaître des types d’entités et des relations spécifiques entre ces entités. Ces configurations s’organisent dans une carte bien utile pour comprendre la performativité des discours et l’emprise qu’ils exercent sur les pratiques situées des acteurs et sur la disponibilités de prises.
+
+<br>
+
+*Un deuxième niveau d’analyse*, le plus conséquent et pivot dans notre approche, se concentre sur les ![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/pratiques.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-pratiques.png). Au cours d’une enquête collective, réunissant des *praticien.nes soucieux.ses* de l’IA (n=29) aux activités très diverses, nous avons testé un dispositif qui remplit d’une part un rôle d’intensification des expériences vécues comme problématiques ou préoccupantes et d’autre part un rôle d’explication des opérations entreprises pour les transformer (ou dans certains cas, du sentiment d’impuissance de ne pas pouvoir le faire).
+
+
+Résolument inscrite dans une sociologie pragmatique qui envisage les enjeux de participation aux développements socio-techniques et les problèmes publics qu'ils génèrent d'un seul tenant, l'enquête est vue comme un processus de valuation collective (Musiani, 2009; Cefaï, 2012; Quéré, 2012 ) capable d’agir sur les trajectoires socio-techniques. 
+
+> “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet
+constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
+
+—(Zask, 2004, p.6)
 
 
 
-
-• un observatoire de la polarisation des discours dans la presse
-	* les soucis des praticiens de l’IA
-	* les praticiens soucieux (non-négligents, qui enquêtent, prennent soin, veulent faire évoluer les situations)
-	* le dispositif (matériel et process)
-	* cartographie des entités et explicitation des soucis : le cas du Foncier Innovant (DGFiP)
 
 
 
