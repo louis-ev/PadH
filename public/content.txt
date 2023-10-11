@@ -1,0 +1,1167 @@
+[PAGE]
+nom_de_page="Accueil"
+url="/"
+contenu="""
+
+<img src="https://i.vimeocdn.com/portrait/71432192_640x640" style="width:20%">
+
+<br>
+<br>
+<br>
+
+# PRISES ,  EM.PRISES  ,  DÉ.PRISES  ,    RE.PRISES…
+# Les *formes de participation* au développement de l'IA en France
+
+---
+
+![Dessin d'un neurone de Purkinje du cortex cérébelleux du chat par Santiago Ramón y Cajal (fin du 19e siècle). Source : Wikipedia](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-21-43-05-copy.png) 
+
+**Fin 2020.**
+Le cycle médiatique s'emballe sur l’intelligence artificielle, ses promesses et ses problèmes, usant et abusant d’une rhétorique sensationaliste. D’innovations médicales révolutionnaires aux prophéties de la fin de l’humanité, des engagements éthiques des GAFAM aux mauvais calculs de Parcousup, il est difficile de savoir quoi penser de ce phénomène, si ce n’est qu’il semble sur le point d’investir de manière indifférenciée tous les champs de la vie partout sur Terre. 
+
+**Difficile donc de naviguer sur cette mer de discours.**
+
+La sociologie des controverses nous a outillé pour décrire les problèmes liés aux innovations technologiques, étudier leur formation et leur circulation, cartographier les acteurs concernés, leurs intérêts et leurs attachements, leurs stratégies d’alliances et d’action. 
+
+Dans le cas de l’intelligence artificielle, comme cela arrive de plus en plus à mesure que les systèmes se complexifient et se globalisent, une difficulté majeure tient à la résistance du phénomène à se laisser saisir. On ne sait littéralement pas par où l’attraper : les tentatives paraissent soit insignifiantes, soit totalisantes, soit trop techniques, soit trop sociales, trop résignées ou trop enthousiastes, trop ci, pas assez ça... Il faut donc s’y résoudre, il n’y a pas d’entendement commun au sujet de l’IA, mais une cacophonie dont les sons qui nous parviennent laissent insatisfaits, si non frustrés. Le seul entendement commun qui tienne est peut-être l’aveu que “quelque chose cloche” et qu’il serait bon de s’en soucier. De consultations en chartes éthiques, cet aveu persiste et signe.
+
+<br>
+<br>
+
+**Comment saisir les problèmes de l’IA, distinguer ceux qui méritent qu’on s’en soucie parmi le bruit ? De quelle forme d’attention ou de sensibilité faut-il s’équiper?**
+
+![Images extraites de vidéos réalisées pendant l'enquête](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-20-a-22-49-59.png)
+
+**C’est à un équipement de l’attention que nous avons travaillé.** Nous avons élaboré des dispositifs que nous avons mis en jeu au cours d’une enquête collective sur les controverses de l’IA pour éprouver différentes manières de saisir et de problématiser son développement. Ces dispositifs d’attention agissent en retour sur la trajectoire de développement d'au moins deux manières. D’une part, héritiers d’une sociologie pragmatique, nous leur attribuons un potentiel à former des problèmes publics pertinents du point de vue des personnes impliquées dans l’enquête (chercheurs compris). D’autre part, la focale qu’ils placent sur les pratiques et les milieux permet l’identification et la mise à l’épreuve de *prises* élaborées par les acteurs pour faire évoluer leur situation — ou au contraire, ils peuvent mettre en lumière la perte progressive de leurs capacités d’action. 
+
+Cette notion de *prise*, au cœur de notre travail, correspond aux appuis perçus par les personnes au sein de leurs activités situées et aux opérations concrètes qu’ils entreprennent pour transformer celles-ci, pour les faire évoluer. Ces prises sont envisagées en interaction les unes avec les autres, prenant corps dans des systèmes d'activité très divers, parfois tirant dans le même sens, d’autres fois en conflit, tentant d’empêcher certains devenirs. Elles concourent ainsi en résonance à donner forme à l’IA. À la fois guides et ressources pour l’action, les prises (ou leur absence) constituent un observatoire privilégié des formes de participation au devenir des phénomènes socio-techniques complexes.
+
+Cette recherche s’apparente à une sorte d’**observatoire des prises sur l’IA** et donne à voir les différentes problématisations auxquelles elles conduisent. En élargissant ainsi la notion de participation, nous espérons contribuer à redistribuer la capacité d’agir sur le développement des technologies d’intelligence artificielle. Ce site restitue les matériaux de l’enquête, dans une version synthétique pour le lecteur curieux, mais également dans une version “brute” pour celles et ceux qui voudraient en explorer les subtilités. 
+
+<br>
+
+![source : Ligue mondiale de surf (WSL)](https://corpora.medialab.sciences-po.fr/contenus/shaivagueartboard-1-copy.png)
+
+**Septembre 2023.**
+Une nouvelle séquence médiatique, plus virulente encore que la précédente, vient de s’achever. Au cœur de celle-ci, l’évènement ChatGPT qui pose l’IA générative comme nouvelle réalité. Cette recherche, qui s’est déroulée entre 2021 et 2023, aura donc connu deux cycles médiatiques avec entre les deux, le creux d’une vague. Néanmoins, les matériaux et les analyses restitués ici ne portent pas sur cette deuxième séquence et laissent de côté cette nouvelle figure de l’IA. Si les données du problème ont sensiblement évolué, cela n'invalide pas l'entrée par les prises et les pratiques, au contraire ! Nous pensons que le partage de ces analyses et des matériaux qui les ont nourries posent au contraire des repères solides, précieux pour s’orienter lors de la prochaine déferlante.
+
+<br>
+
+
+---
+
+<br>
+
+<small>
+
+
+[Entrer dans le site <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/shai/avoir-prise)
+
+
+<br>
+
+# SOMMAIRE
+Ce site regroupe l'ensemble des contributions conceptuelles, méthodologiques et empiriques de notre recherche, organisées en 5 sections.
+
+![Image extraite de "2001, L'odyssée de l'espace" de Stanley Kubrick, 1968](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-51-27.png>https://mediaproxy.salon.com/width/1200/height/675/https://media.salon.com/2013/07/2001_monolith.jpg) présente notre problématique de recherche et la manière dont nous avons abordé le sujet des controverses de l'IA à travers une brève contextualisation historique. Cette section définit les principaux concepts mobilisés dans ce travail et décrit les partis pris méthodologiques.
+![](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-51-32.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-58-08.png) est le modèle heuristique que nous avons élaboré pour outiller notre démarche d'enquête. Elle est également mobilisée dans l'analyse de nos résultats dans les différentes contributions empiriques.
+![](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-51-37.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-22-17-58.png) Notre première contribution empirique montre comment l'IA est dépeinte dans les discours médiatiques de l'IA à travers une analyse de la presse française entre 2011 et 2021.
+![](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-55-00.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-12-a-11-42-29.png) est la section la plus développée. Elle présente d'abord sous forme synthétique les résultats de la co-enquête réalisée entre 2021 et 2022 sur les soucis de l'IA en France. Elle donne également accès aux matériaux de la recherche avec, pour chacun des soucis (19 en tout), une vidéo, une fiche récapitulative et l'ensemble des documents associés à chacun.
+![](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-51-46.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-25-a-10-25-03-1.png) donne à voir la spécificités des soucis lorsque ceux-ci se jouent dans un cas d'application de l'IA. Il s'agit du projet *Foncier Innovant*, mené à la DGFiP pour automatiser la télé-détection de piscines depuis des prises de vues aériennes.
+
+</small>
+
+<br>
+<br>
+<br>
+<br>
+
+
+---
+
+
+Cette étude a été réalisée entre 2021 et 2023 par l'équipe du médialab dans le cadre du projet international <a href="https://www.shapingai.org/" target="_blank">Shaping AI</a>.
+<img src="https://www.shapingai.org/assets/images/logo.png" style="width:20%; text-align: right">
+
+<br>
+<br>
+<br>
+
+<small>  
+
+**Les membres de l'équipe**
+    Pauline Gourlet 
+    Donato Ricci
+    Maxime Crépel
+    Maud Barret Bertelloni
+    Axel Meunier
+    Dominique Cardon
+    Valentin Goujon
+
+
+**Enquête menée avec :** xxx, xxxx, xxx
+
+
+**Crédits**
+Edition : Pauline Gourlet
+Illustrations : Pauline Gourlet
+Site internet : l'atelier des chercheurs (Louis Eveillard et Pauline Gourlet)
+Responsable de publication : Sylvain Parasie, médialab de Sciences Po
+Contenu en licence CC-BY-SA
+</small>
+
+<br>
+<br>
+
+"""
+
+[PAGE]
+nom_de_page="Avoir prise..."
+url="/avoir-prise"
+contenu="""
+
+<br>
+<br>
+<br>
+<br>
+
+
+*# Avoir prise sur l'IA
+
+# Avoir prise sur l'IA
+
+---
+
+**L’intelligence artificielle fait figure d’innovation de rupture.** 
+Certains parlent même d’une quatrième révolution industrielle ([Schwab](https://www.dunod.com/entreprise-et-economie/quatrieme-revolution-industrielle), [l'UNESCO](https://fr.unesco.org/courier/2018-3/quatrieme-revolution)). Disruptive et en continuelle évolution, elle exigerait la révision des grilles d’analyse et des procédés classiques pour la décrire, la réguler et l’intégrer aux tissus de nos vies. Cette exceptionnalité de l’IA est à associer à ses dimensions planétaire et ubiquitaire, faisant apparaître comme insuffisante, voire anecdotique, toute tentative d’appréhension.
+
+<br> 
+
+L’extrait ci-contre, issu d’un workshop organisé dans le cadre de cette recherche, donne à voir une discussion autour de ce que serait **une  “bonne” attitude à adopter face à ce phénomène**. Alors qu'un participant spécule quant à la ![Extraits de dialogue issu d'un workshop du projet Shaping AI réunissant 22 des co-enquêtrice.eurs. Cité des Sciences et de l’Industrie, Paris (France), 14-15 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-25-a-14-58-06.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-15-38-29.png) de "tous les projets" d’IA, les réactions sont vives. Le bon geste serait-il finalement de “débrancher la technologie” et de vivre dans un monde sans IA ? 
+
+<br>
+
+Si cette proposition peut sembler excessive, fruit de l’émotion suscitée par une incapacité d’agir, une proposition d'une telle envergure est pourtant suggérée par les plus grands producteurs et acteurs de l’IA. En effet, en 2023, une lettre ouverte, signée par des personnes aussi renommées que Yoshua Bengio, Elon Musk, Steve Wozniak ou encore Yuval Noah Harari (ou Raja Chatila et Laurence Devillers par exemple pour les acteurs français), appelle à mettre en ![Open letter - Pause Giant AI Experiments, Future of Life Institute, 2023](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-25-a-21-09-57.png>https://corpora.medialab.sciences-po.fr/_thumbs/contenus/fli-pause-giant-ai-experiments-an-open-letter.pdf.0.png.1600.jpeg?v=1695638634029) toutes les grandes expérimentations d’IA, le temps de prendre un peu de recul.
+
+<br>
+
+Tactique industrielle de communication — plus de controverses équivaut à plus de publicité — angoisses sincères ou fabrique utile du doute ? Indépendamment des motifs des signataires de cette lettre, on peut y lire énoncés distinctement trois principes importants : 
+    - l’IA (“IA systems” ou “advanced AI”) désigne une entité agissante dans le monde, 
+    - elle est puissante et représente une menace pour l’humanité, 
+    - les personnes les mieux équipées pour évaluer et réguler les risques qu’elle pose sont les producteurs de cette technologie (en capacité de l’auditer), en dialogue avec des décideurs politiques et des régulateurs. 
+
+Ces principes sont au fondement du courant “éthiciste” de l’IA. On en trouve un autre exemple dans un article plus ancien, co-écrit par Yoshua Bengio en 2019, qui en appelle à la morale des concepteurs de systèmes d’IA pour guider les choix de conception et éviter des risques majeurs pour “l’humanité" ([Luccioni et Bengio, 2019](https://arxiv.org/pdf/1912.11945.pdf)). Ce courant éthiciste s'incarne dans sa version française dans des initiatives comme le ["Serment d'Hyppocrate des data scientists"](https://dataforgood.fr/hippocrate/).
+
+<br>
+
+Pour des personnes vivant un tant soit peu éloigné des milieux de production de l’IA (géographiquement et/ou pratiquement), cette menace globale exprimée par des experts et largement relayée par les médias fait émerger un sentiment d’impuissance et de perplexité. À bien des égards, on est tenté d'invoquer l'image des singes face au célèbre ![Extrait de 2001, Space Odyssey, 1968](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-25-a-12-55-30.png>https://mediaproxy.salon.com/width/1200/height/675/https://media.salon.com/2013/07/2001_monolith.jpg) de *2001, L'odyssée de l'espace*. 
+
+On désigne par *traitement monolithique* de l’IA, les récits qui la font exister comme phénomène univoque, global, à la fois puissant et menaçant, sans spécifier ni les systèmes techniques en jeu ni les agencements sociaux, politiques et économiques dans lesquels ils sont pris. Ce type de traitement a notamment pour effet d’invisibiliser les préoccupations et actions entreprises par certains acteurs pour résister ou faire bifurquer les trajectoires locales de développement de l’IA.
+
+<br>
+
+Pourtant, à bien regarder, on peut observer ici et là des manières d’agir et de participer à la formation de systèmes socio-techniques plus désirables.
+
+<br>
+<br>
+
+
+## Désexceptionnaliser l’intelligence artificielle
+---
+
+Sauf que l’IA n’a pas grand chose d’exceptionnelle du point de vue de sa controversialité. Par-delà son traitement monolithique, de nombreux arguments et moyens de preuves s’échangent à son propos et font apparaître des oppositions aux allures de déjà-vu. Qu’il s’agisse d’*évangéliser* les non-convertis en leur faisant voir l’avenir — radieux ou effrayant — dans lequel la machine “dépassera” l’humain, ou bien de s’insurger contre les vils intérêts capitalistes qui mettent en péril des principes humanistes, ils sont sifflés sur des airs qui nous en rappellent d’autres et témoignent de lignes de division importantes.
+
+L’IA ne fait pas non plus figure d’exception quant aux modes de gestion de ces controverses. On ne compte plus le nombre de consultations publiques, de chartes éthiques ou de sessions de design participatif qui ont fait discuter un public élargi pour mieux anticiper les risques et débattre des rapports IA-société. 
+
+Cette manière de gouverner les problèmes liés à l'introduction d'une nouvelle technologie n’est pas nouvelle. Depuis les années 2000 en France (et plus largement en Europe), la voie de la participation et de la délibération, instanciée dans des dispositifs variés pour tout un tas d’innovations technologiques (forums de consensus, consultations, conventions…), s’est imposée comme une réponse pertinente pour prévenir les risques et problèmes éthiques induits par de les développements techniques. Les sciences sociales ont joué un rôle significatif, au côté des associations et des administrations, pour promouvoir ces modalités participatives, même si leur efficacité a été largement remise en cause par plusieurs travaux empiriques (pour une histoire de la “nébuleuse sciences-société”, voir [La Démocratie des Chimères](https://www.ehess.fr/fr/ouvrage/d%C3%A9mocratie-chim%C3%A8res), de Sara A. Aguiton). 
+
+Chez les auteurs intéressés par ce tournant participatif dans les processus démocratiques, certains parlent d’*injonction à participer* [Zask](https://www.editionsbdl.com/produit/participer-essai-sur-les-formes-democratiques-de-la-participation/) ou de *participation-washing* (dans le cas de l’IA, voir par exemple les travaux de [Mona Sloane](https://arxiv.org/abs/2007.02423)).
+
+> “Il arrive bien souvent que le résultat soit décevant, surtout lorsque participer se limite finalement à légitimer un dispositif existant, sans pouvoir ne se prononcer ni sur les motifs poursuivis ni même sur les décisions qui sont prises.”
+
+—Catherine Zask, 2018
+
+<br>
+
+Notre approche, pragmatiste et héritière de cette tradition participative dans les sciences sociales et le design, partage avec la conception délibérative qui la sous-tend un déplacement de focale : **de l’expression de volontés politiques individuelles à leur formation** ([Manin](https://www-cairn-info.acces-distant.sciencespo.fr/le-tournant-deliberatif-de-la-democratie--9782724624908-page-9.htm)). Mais elle reprend à son compte une partie des critiques qui ont été adressées aux travaux des chercheurs qui, épousant le récit du tournant réflexif de la modernité (Ulrich Beck), ont épousé un rôle de concepteurs d’instances délibératives et de médiateurs de débats. 
+
+Ouvrir les arènes de discussion à des publics “profanes” (versus “experts”) pour pluraliser la définition des problèmes et accompagner leur prise en charge est une idée séduisante. Mais les dispositifs mis en œuvre, du fait de leurs inscriptions institutionnelles et sociales et de leur temporalité, jouent bien souvent trois rôles complémentaires impactant les trajectoires socio-techniques et pourtant contraires à leur mission première : un rôle d'autorisation (des expérimentations), un rôle de normalisation (des discours) et un rôle de fabriques de légitimation et d’acceptabilité sociale.
+
+<br>
+
+![Les chimpanzés du futur au pseudo Forum de la biologie synthétique, vendredi 26 avril 2013 par Pièces et main d’œuvre](https://www.piecesetmaindoeuvre.com/IMG/jpg/1-11-2d813.jpg)
+
+Sara A. Aguiton, observant le champ naissant de la biologie de synthèse en France, a montré qu’au sein d’un dispositif de dialogue sciences-société, "les risques étaient construits comme des questions d’usages ou d’acceptabilité, si bien que les produits techno-industriels en eux-mêmes étaient toujours épargnés de l’analyse, de même que les rapports économiques et sociaux qui permettent leur production et ceux qui sont transformés par leur diffusion". Selon elle, les dispositifs de démocratie technique auraient en réalité comme tâche première de neutraliser les résistances et critiques perçues comme radicales et de prévenir les débordements, ce qui a pour effet de légitimer encore davantage l’innovation. Reprenant les conclusions de Marie-Angèle Hermitte, elle résume ainsi que les dispositifs participatifs qui visent à anticiper les risques liés aux développements technologiques reviennent à amnistier le coupable (les dégâts du progrès) en amont du crime.
+
+> “En annonçant la conscience des risques, il avoue dès le départ que ça peut mal tourner, mais qu’il faut y aller. (...) Mais cette fois-ci, c’est assuré, on prêtera davantage attention. Preuve est d’ailleurs que l’on se préoccupe en amont. En ce sens, l’aveu porte moins sur les dommages d’hier que sur les controverses d’aujourd’hui. Ce glissement est essentiel à comprendre, car définir et réguler les dangers est toujours un moyen de gouverner d’autres phénomènes.”
+
+— Sara A. Aguiton, La démocratie des chimères.
+
+<br>
+
+Pour nous guider dans la construction de dispositifs d’attention qui permettent d'avoir prise sur l’IA, nous retiendrons de ces critiques trois éléments, que l'on retrouve à l'œuvre dans le cas du développement de l'IA en France : 
+
+• L’innovation d’aujourd’hui cherche à se distinguer du progrès d’hier en se présentant comme “plus responsable” *(ici, le phénomène des “chartes éthiques de l’IA” en atteste largement)*.
+
+• Les controverses sont l’occasion de reconfigurer les relations entre acteurs, notamment entre Etats, industriels, et marchés et de gouverner d’autres phénomènes. Elles sont aussi propices à poser toute une série d’autres valeurs, politiques *(par exemple, on peut penser à la sécurité...)*, économiques *(ici, aux politiques sur les données...)*, ou sociales *(ici, aux réglementations sur les discours autorisés...)*. 
+
+• L’acceptabilité sociale est la finalité centrale des acteurs qui encadrent le développement des technologies. Les réticences, résistances et protestations sont largement invisibilisées ou écartées pour radicalité excessive.
+
+
+<br>
+<br>
+
+## Le couple *soucis/prises* : repenser la participation à partir des pratiques situées
+---
+
+Notre approche propose de faire un pas de côté par rapport à des démarches classiques de participation en déplaçant le regard des instances de débat et du seul agir argumentatif vers l’agir en situation d’acteurs concernées par la question de l’IA, vers leurs pratiques concrètes au sein de leurs activités situées. Ainsi, nous reposons à nouveau frais et de manière centrale à notre recherche la question : **qu’est-ce que veut dire *participer* aux devenirs des objets techniques, et en l'occurence, ceux de l'IA ?** Qui participe et de quelles manières ? Est-ce qu'il y a des manières plus souhaitables que d'autres ?
+
+Comme le dit Chateauraynaud, nous pensons que c’est dans l’agir perceptuel, au contact des choses, que se situe le creuset de la fabrique des ouvertures d’avenir et nous lui empruntons le concept de **prise** :
+
+> "A l’origine, la « prise », issue des travaux menés sur les ressorts perceptuels de l’action et du jugement, avait pour objet de remettre au coeur de la sociologie l’expérience dans le monde sensible.” (...) La prise n’est plus seulement conçue comme l’articulation d’un sujet et d’un objet, d’un projet et d’un monde, mais comme un travail continu des relations entre expériences passées (précédents), tensions actuelles (épreuves en contexte) et développements futurs (ouvertures d’avenir)."
+
+—Chateauraynaud & Debaz, 2017
+
+<br>
+<br>
+
+Prolongeant cette proposition de Chateauraynaud et Debaz, nous voyons un intérêt à diriger notre attention sur les manières dont les acteurs ont prise sur l’IA (ou au contraire, en sont dépourvus). Il s’agit alors de tenter de pister et décrire comment s’y prennent concrètement les personnes, à partir de leurs activités situées, pour tenter de reconfigurer les situations dans lesquelles ils agissent. Ces tentatives de reconfiguration sont le signe d’une volonté de transformer une situation en une autre plus désirable et témoignent ainsi d’un problème, d’un malaise dont la source est plus ou moins bien identifiée au sein d’une expérience. 
+
+> “In ordinary language, a problem must be felt before it can be stated. If the unique quality of the situation is had immediately, then there is something that regulates the selection and the weighing of observed facts and their conceptual ordering.” 
+
+— Dewey, Logics - 1938, p.70-71
+
+Nous nommons **souci** le sentiment éprouvé au sein d'une activité répétée (une pratique) qui met en mouvement, en quête d’une situation préférable. Ambivalent, il renvoie à la fois à un problème (*“On a un souci”*), une sensation de tracas, une préoccupation (*“Je me fais du souci”*), mais aussi à quelque chose dont on prend soin, dont on a la charge et dont le devenir dépend de nos actions (*“j’ai le souci de bien faire”* ou *“je me soucie de la réussite de ce projet”*).
+
+Le concept de *prise* s’articule ainsi dans notre approche à celui des *soucis* de praticien.nes. La mise en mouvement provoqué par un souci s’apparente à une forme d’enquête (au sens de Dewey) : on tâtonne, on cherche des moyens, des ressources et des appuis (des *prises*) pour reconfigurer la situation. En ce sens, les soucis sont un lieu de fabrique et de mise à l'épreuve des prises, qui donnent à voir les possibilités et les contraintes (matérielles, symboliques, sociales) des acteurs pris à partir des milieux qu’ils habitent. 
+
+![extraits de nos entretiens, illustrations du concept de prise dans le récit rétrospectif de deux praticiens de l'IA.](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-19-15-13.png)
+
+Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces actions participent de la formation des assemblages socio-techniques. **En prêtant attention aux soucis de praticien.nes de l’IA, notre recherche cherche ainsi à repérer à partir de quelles pratiques (dans leur pluralité) et à travers quelles séries d’opérations et d’épreuves l’IA prend forme en France.**
+
+
+Par rapport au courant participatif des STS, cette approche propose au moins trois déplacements :
+
+**Un déplacement vers des praticien.ne.s soucieux.ses**
+Là où la ligne de partage séparait les experts des non-experts (ou “profanes”), nous nous intéressons aux activités de praticien.nes “soucieux.ses”. Cette qualification de praticien met en avant la dimension expérientielle et praxéologique et ne présage pas d’un niveau de connaissances ou d’un milieu. L’identification d’opérations entreprises agissant directement ou indirectement sur l’objet de l’enquête suffit à être reconnu comme “praticien.ne”. L’adjectif “soucieux” rend compte la dimension réflexive, manifestement en enquête et doutant de la bonne manière d’agir quant à l’objet en formation.
+
+**Un déplacement dans des situations inscrites temporellement et socialement**
+Ici, il ne s’agit pas d’anticiper des risques ou des problèmes mais de partir du présent des expériences vécues pour étudier comment sont identifiées et prises en charge les choses problématiques émergentes au sein des situations (sans en disqualifier a priori). De plus, cette désignation rend compte de la dimension nécessairement située et partielle de la pratique, inscrite dans un milieu et des relations spécifiques et contrainte par des attitudes et des habitudes éprouvées. Au cours de l’enquête, beaucoup des soucis des praticien.nes co-enquêteurs semblaient concerner des objets “annexes” à l’IA mais qui se sont en fait révélés constitutifs, d’où l’importance de rester ouvert à ce qui se présente concrètement au sein des activités situées. 
+
+ ![extraits d'entretien qui montre le type de glissements que l'on repère au contact des praticiens de l'IA.](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-15-40-24.png)
+
+**Un déplacement vers l’analyse des “jeux de prises”**
+Les extraits des entretiens ci-contre, s’intéressant à la carrière du terme de biais algorithmique, est caractéristique de ce que nous appelons les “jeux de prises”. En suivant la fabrique et la mise à l’épreuve de prises, il devient possible de détecter les “carrières” des prises des praticien.nes, leurs circulations et re-mobilisations dans des situations et pour des finalités différentes de celles attachées à leur pratique d’origine. Cette focale permet de rester attentif aux asymétries de prises et donne à voir  comment certaines pratiques disposent de ressources inaccessibles à d’autres ou qui leur sont progressivement  retirées. Ces “jeux de prises” sont au cœur de l’analyse des soucis des praticien.nes et constituent pour nous le moteur de la participation, celui à partir duquel repenser des instances efficaces de construction de prises communes (d’où le titre “prises, emprises, déprises, reprises…”). 
+
+
+C’est à un exercice de zoom et de dézoom simultané qu’invite l’analyse des soucis. A la fois attention soutenue aux petits gestes qui comptent pour les praticien.nes et à la fois recomposition dans une trame qui tente de faire cohabiter des mondes qui ne se fréquentent pas, pour mieux comprendre et décrire les interdépendances et les interactions qui forment l’IA aujourd’hui en France. Nous espérons que cette approche sera générative de prises collectives efficaces.
+
+
+<br>
+<br>
+
+## Partis pris et méthodes d'enquête
+---
+
+### Ce que l'enquête fait aux problèmes
+
+	* Varier les échelles
+Allier small et big data → ce que les discours font aux pratiques et vice et versa
+pour une vue à la fois d'ensemble et très fine. Permet de replacer dans une carte plus large certains développements et situations singulières. 
+
+	* Une enquête située et collective (milieux, pratiques, inter-objectivation)
+
+
+### Parcours de recherche < | > Carte du site
+
+
+<small>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg>  ![Parcours de recherche < | > carte du site](https://corpora.medialab.sciences-po.fr/contenus/shai2artboard-1.png)
+Ce site regroupe des contributions conceptuelles, méthodologiques et empiriques, organisées en 5 sections qui racontent le parcours de recherche.
+
+</small>
+
+• un observatoire de la polarisation des discours dans la presse
+	* les soucis des praticiens de l’IA
+	* les praticiens soucieux (non-négligents, qui enquêtent, prennent soin, veulent faire évoluer les situations)
+	* le dispositif (matériel et process)
+	* cartographie des entités et explicitation des soucis : le cas du Foncier Innovant (DGFiP)
+
+
+
+
+<br>
+<br>
+
+<small>Note : Chaque pièce iconographique choisie pour accompagner les textes, si elle n’est produite pour les besoins de cette recherche, participe de l’histoire de l’IA (d’une manière qui n’est pas toujours explicitée dans le texte pour des raisons de clarté), du dessin de neurone par S. Ramon y Cajal, jusqu’à la vague de surf, petit clin d’œil au texte de Deleuze sur les sociétés de contrôle).</small>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+"""
+
+
+
+[PAGE]
+url="/la-boucle"
+nom_de_page="La boucle de l'IA"
+contenu="""
+
+
+![Jeu de la vie](https://corpora.medialab.sciences-po.fr/contenus/09-10-104p177-copy.gif)
+
+<br>
+
+
+# *Qui est pris dans la boucle ?* Resituer et pluraliser les pratiques de l'IA 
+
+---
+
+Les entités qui viennent immédiatement en tête quand on parle d'IA ou de Machine Learning sont les réseaux neurones, que ce soit leur représentation historique ![Perceptron](https://corpora.medialab.sciences-po.fr/contenus/picture3.png) ou des versions plus récentes ![Neural Network Zoo, Asimov Institute](https://corpora.medialab.sciences-po.fr/contenus/neuralnetworkzoo20042019-1.png). 
+
+Mais une autre image est couramment utilisée lorsqu'on parle de systèmes d'IA ou de systèmes algorithmiques : celle de "black box" ![Le Hemostat du cybernéticien W. Ashby Ross, premier appareil à avoir été qualifié de boîte noire. source : W. A. Ross, 1948](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-20-00-13.png>https://upload.wikimedia.org/wikipedia/commons/4/43/W._Ross_Ashby%27s_1948_Homeostat.jpg). Dans cette image, les entités disparaissent au profit d'un processus, qu'il soit linéaire ou circulaire.
+
+<br>
+
+## L’IA, une boîte noire ?
+
+Mais qu'est-ce qu'une boîte noire ? Ce concept désigne, en STS, la manière dont le travail scientifique ou technique est rendu invisible par son propre succès : 
+
+<img src="https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-19-54-58.png" style="width:90%"></img>
+
+<small> Latour, *L’espoir de pandore*, p. 304. </small>
+
+Dans le domaine de l’IA en particulier, la notion de “black box” a été élargie pour désigner d'une part les difficultés d’interprétation et d’explication du fonctionnement des modèles d’IA, et d'autre part l'impossibilité de remonter aux données utilisées pour entraîner de grands modèles.
+Par extension, ce terme est employé au regard des conséquences inattendues de ces systèmes lorsqu'ils sont déployés dans le monde. Franck Pasquale parle par exemple de ["la société boîte noire"](https://www.hup.harvard.edu/catalog.php?isbn=9780674970847) qui, derrière la complexité technique chercherait à cacher la part de choix inhérente à toute décision.
+
+En plus de l’opacité relative au fonctionnement technique à proprement parler, il semble difficile d’identifier les personnes et les activités responsables de la production de systèmes d’IA, “chacun situant l’algorithme juste en dehors de ses tâches de travail”, comme le montre [Nick Seaver](https://journals.sagepub.com/doi/full/10.1177/2053951717738104) dans ses études ethnographiques sur les algorithmes. On retombe ainsi sur l'idée d'un objet insaisissable, présent partout et nulle part.
+
+<br>
+<br>
+
+## Une représentation élargie : l’approche des STS
+
+L’inquiétude qu'éveille l'IA et les débats qui l'entoure ont suscité un renouveau de travaux en études des sciences et des techniques (en anglais, *science & technology studies* ou STS). 
+
+L'approche  des STS consiste à tenter d'ouvrir la “boîte noire” de l’IA par un épaississement des descriptions socio-techniques pour étudier son fonctionnement, sa production, les cultures et les conflits qui s’y trament, la manière dont elle transforme les milieux dans lesquels elle s'insère. Ces auteurs s’appuient sur différentes conceptions et représentations des assemblages que forment les entités prises dans les systèmes d’IA pour identifier des problèmes pertinents.
+
+Par exemple, Nick Srniček a proposé d’analyser la production des modèles d’IA à partir des quatres étapes de la chaîne de travail de production des modèles: la collecte des données, leur nettoyage et étiquetage, la construction du modèle et son déploiement comme produit pour les utilisateurs. Il souligne l’importance que cette focale élargie peut avoir pour la formulation des problèmes dont s’emparent les politiques publiques.
+> “Tant que l’on ne change pas le regard sur l’IA et que l’on ne considère pas toutes les étapes de sa production, on ne pourra prendre en compte que les problèmes de données et de surveillance, alors que de nombreux enjeux se concentrent autour des équipements de calcul et des infrastructures (énergétiques, hydriques) qui permettent de les approvisionner.” 
+
+<small>[article AOC, 2023](https://aoc.media/entretien/2023/07/14/nick-srnicek-on-peut-imaginer-un-agenda-radical-en-matiere-de-nouvelles-technologies/)</small>
+
+<br>
+
+A plusieurs égards, ce découpage n'est pas très éloigné de ceux présentés dans plusieurs articles académiques récents de chercheurs en IA. ![Cascades, 2021](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-17-11-47.png) ![Foundation Models, 2022](https://corpora.medialab.sciences-po.fr/contenus/photo-2023-09-18-17-08-55-1.jpeg), ce qui signifie que cette focale élargie semble devenir plus communément établie.
+
+<br>
+
+Dans [Anatomie d'un système d’IA](https://anatomyof.ai/) de 2018, Kate Crawford et Vladan Joler ont proposé une représentation ![Anatomy of an AI system](https://corpora.medialab.sciences-po.fr/_thumbs/contenus/ai-anatomy-map.pdf.0.png.1600.jpeg?v=1695049162426) qui appréhende l’IA à partir de trois “processus d’extraction” nécessaires à son fonctionnement: les ressources matérielles, le travail humain et les données. Partant de l’enceinte connectée Echo de Amazon, ils décrivent à l’échelle planétaire l’imbrication qui va des matières premières aux infrastructures à l’usage de ce petit outil connecté. Dans une version plus synthétique ![Illustration Vladan Joler](https://corpora.medialab.sciences-po.fr/contenus/atlas-of-ai-projection.png), cette même idée préside dans l'illustration de l'ouvrage [Atlas of AI](https://www.katecrawford.net/) de Crawford (illustrée également par Joler). Adoptant une approche systémique, ils se donnent ainsi pour objectif de fabriquer des représentations de type cartographique, comme un atlas, pour se repérer dans la géographie planétaire de l’IA. 
+
+<br>
+<br>
+
+## La boucle de l'IA : une heuristique pour enquêter de manière située et plurielle
+
+Poursuivant le même mouvement d'élargissement et à des fins d'outillage de notre enquête collective, nous avons développé un modèle heuristique ![la boucle](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-11-18-32.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-58-08.png) à **quatre pôles**, qui part du monde pour y revenir, dans un effet de rétro-action. Cette boucle se base sur une conception relationnelle et matérialiste des techniques. 
+
+**Conception relationnelle**, au sens où elle s’intéresse à la genèse, c'est-à-dire à la venue au monde et aux devenirs des objets techniques au sein de situations concrètes, plutôt que de chercher à les caractériser par une identité stable et invariante [(sur ce point, voir Didier Debaise)](https://www.cairn.info/revue-multitudes-2004-4-page-15.htm). Cela signifie qu’elle étudie les systèmes d’IA et leurs problèmes à partir des processus de production et de déploiement au sein d’un milieu spécifique en faisant importer ses caractéristiques, ses acteurs et ses enjeux. 
+
+**Conception matérialiste**, au sens d’une approche qui s’intéresse à tout ce qui participe matériellement la constitution de l’objet technique, et pas seulement aux discours qui l’entoure ou à l’idéologie scientifique qui l’anime. Il s'agit ainsi de saisir l’IA à partir de tous les processus concrets qui participent de sa production et de son devenir, en s'attardant sur les configurations et les dynamiques (sociales, économiques, politiques, techniques) dans lesquelles les systèmes d'IA évoluent. 
+
+![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
+
+Par rapport aux modèles proposés par Nick Srnicek ou Kate Crawford, cette représentation est envisagée comme un outil pour saisir l’IA à partir des situations, des pratiques et des milieux par lesquels elle circule. Elle vise d'une part à **rendre compte dans un même espace d'une pluralité de perspectives** et d'autre part à **reconstituer l'ensemble des entités participant à un ou plusieurs systèmes d'IA** grâce aux points de vue situés — et donc partiels— de personnes concernées.
+
+<br>
+<br>
+
+
+<small>
+
+[Voir comment la boucle est utilisée dans l'enquête <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/shai/les-soucis)
+
+</small>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+.
+
+"""
+
+
+[PAGE]
+url="/medias"
+nom_de_page="La presse"
+contenu="""
+ 
+![coupures de presse](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-22-17-58.png)
+
+<br>
+
+# Approcher l’IA par l’analyse des récits médiatiques
+
+---
+
+
+Pour comprendre les enjeux publics de l'IA, notre première approche vise à étudier la nature du discours médiatique qui se déploie dans le contexte national français. En nous appuyant sur le domaine des *media studies* sur l’IA (Cools et al 2022 ; Chuan, Tsai et Cho 2019 ; Nguyen et Hekman 2022) et sur les méthodes d’issue mapping (Marres et Moats 2015 ; Venturini et Munk 2022), notre enquête sur la couverture médiatique des technologies d’IA vise à comprendre la manière dont les médias participent à façonner l'opinion publique en établissant un horizon d’attentes et des préoccupations concernant ces technologies. Cette approche permet de déconstruire la vision monolithique de l’IA en un ensemble plus composite de technologies de calculs qui se structurent autour de différents domaines d’application associés à l’IA et font l’objet d’une mise en récit spécifique de la part des médias d’information. Elle permet également d’identifier des cas de problématiques spécifiques au contexte français en restituant la pluralité des entités et des enjeux qui leurs sont associés afin de donner des plus de prises pour de futures enquête sur ces cas controversés.
+ 
+Les résultats des analyses proposées dans les parties suivantes ont comme objectifs de comprendre :
+-Comment a évolué la couverture médiatique de l’IA dans les 10 dernières années ?
+-Quels sont les thèmes associés à ces technologies dans la presse française ?
+-Quel type de cadrage est fait de ces technologies d’IA ?
+-Quels agencements sociotechniques viennent alimenter les récits de critique et de promesse associés à l’IA ?
+-Quels sont ceux qui sont spécifiques au contexte français et constituent des cas locaux ?
+ 
+[Le détail du protocole méthodologique utilisé en PDF](https://corpora.medialab.sciences-po.fr/contenus/doc00-methodo-protocol-media-fr.pdf)
+
+<br>
+<br>
+
+## Croissance de la couverture médiatique de l’IA
+---
+
+En s’intéressant à la démographie globale du corpus d’articles extraits sur la plateforme Europresse on peut observer la manière dont la presse française couvre depuis les dix dernières années le thème de l’IA, tel qu’il est défini par notre requête. Tout d’abord, le classifieur permet en partie de rendre compte de la tonalité des articles sur l’ensemble de la période. Sur la totalité du corpus extrait (45 608 articles), on observe une part de 9,5% d’articles (4 261 articles) associés à un discours critique ou de menace lié à ces technologies. A l’inverse, 19,5% (8 900 articles) des articles sont associés à un discours de promesse technologique ou mettent en avant les bénéfices de ces technologies. Enfin, 71% des articles (32 247 articles) sont qualifiés comme neutres car ne portant pas directement sur les effets de ces technologies mais davantage sur le contexte économique et organisationnel de leur déploiement ou ne comportant pas d’arguments assez marqués pour être associés aux deux premières catégories. Il est important de noter que la méthode employée, consistant à l’utilisation d’un classifieur automatique par apprentissage supervisé ne permet pas de prétendre à une quelconque forme d’exhaustivité et de représentativité quant à la répartition des tonalités du discours médiatiques. Pourtant, cette méthode permet d’explorer deux sous corpus d’articles aux caractéristiques assez distinctes quant au traitement médiatique qui est fait des technologies d’IA. A partir des méthodes de traitement automatique du langage déployées, il s’agit de procéder à une analyse des thèmes portés dans la presse, de leur tonalité et des entités techniques, humaines, économiques mais aussi des enjeux soulevés dans la presse. Si l’analyse ne prétend pas être une photographie parfaitement représentative de la presse française, elle entend pourtant offrir des prises interprétatives quant aux grammaires de la critique et aux arguments de la promesse tels qu’ils sont déployés dans la presse et tendent à façonner la représentation de ces technologies dans l’espace public.
+
+<br> 
+
+![Distribution du nombre d’articles en fonction du classifieur Fastext entre les catégories critique/menace (jaune), promesse/bénéfice (bleu) et neutre (gris) en haut. Ratio en pourcentage des articles critique et promesse en bas.](https://corpora.medialab.sciences-po.fr/contenus/fig01-demo.png)
+
+La distribution globale du corpus d’articles extraits sur les dix dernières années à partir de notre requête sur l’IA montre une hausse progressive de la couverture médiatique de ce thème dans la presse française jusqu’en 2019 avant un déclin de la couverture médiatique. Alors qu’il y a peu de publications sur notre requête entre 2011 et 2014, le nombre de publications augmente significativement à partir de 2015 pour atteindre un pic au milieu de l’année 2019. Qu’il s’agisse des articles associés au discours de promesse, de critique ou catégorisés comme neutres, la distribution dans le temps suit cette même courbe avec une couverture médiatique qui décroît légèrement à partir du courant de l’année 2019. Si on observe un décrochage encore plus marqué au début de l’année 2020 de la couverture du thème de l’IA dans la presse, dont on peut supposer qu’il est en partie lié à la crise sanitaire du Covid19, la décrue semble antérieure à cette crise et se poursuit jusqu’en 2021, ce qui laisse penser à une forme d’essoufflement de la couverture médiatique du thème de l’IA. En éliminant les articles catégorisés comme neutre, on constate que le ratio entre promesse et critique reste relativement stable et équivalent à la répartition globale, soit 1/3 d’articles catégorisés comme critique pour 2/3 d’articles catégorisés comme promesse.
+
+<br>
+<br>
+
+## Polarisation thématique de la promesse et de la critique de l’IA
+---
+
+![Réseau sémantique de cooccurrences des termes en fonction de la tonalité associé et au terme du réseau. En jaune les termes associés à la critique en bleu les termes associés à la promesse.](https://corpora.medialab.sciences-po.fr/contenus/fig02-global-network.png)
+
+Le réseau sémantique basé sur l’analyse du texte des articles montre un ensemble de 11 grands thèmes cohérents thématiquement qui occupent des zones différentes dans le réseau. En projetant sur le graphe les fréquences relatives d’utilisation des termes du réseau en fonction des articles associés à la critique et la promesse on observe une polarisation importante de ces deux types de discours sur le graphe. Les termes associés à la critique occupent principalement la zone droite du réseau, à l’exception de quelques poches localisées dans le reste du graphe. La critique se concentre davantage sur les thèmes de l’éducation, de la justice, de défense et surveillance ou encore des enjeux plus globaux et centraux liés à l’éthique du développement de l’IA dans la société. A l’inverse, les termes du réseau de la partie gauche du graphe sont davantage associés à un discours de promesse concernant principalement les développements de l’IA dans la santé, l’art, la recherche ou encore le commerce et la finance. 
+
+
+<br>
+
+![Distribution des clusters en fonction du volume d'articles et de leur tonalité](https://corpora.medialab.sciences-po.fr/contenus/fig03-scaterplot-ton.png)
+
+Au-delà de cette analyse visuelle générale de la topologie du réseau montrant une forme de polarisation entre critique et promesse, on peut également observer la distribution des clusters en fonction du volume d'article, ainsi que le ratio d’articles associés au discours de critique ou de promesses. Les 4 clusters Les plus associés à la critique sont AI_Society_Post Humanity, Education_Parcoursup_Matching Algorithm, Labour_Employment_HR et Law_Justice_Layers. À l'inverse les 4 clusters les plus associés à un discours de promesse sont Platform_Digital_Web Technologies, Health_Disease_Medical Pratictioner, AI_Research_Innovation et Finance_Business_Insurance. On retrouve bien ainsi la polarisation entre la partie droite du réseau orientée vers un discours critique et la partie gauche associer plus largement à un discours de promesse technologique. Il convient de noter également que parmi les clusters les plus volumineux en nombre d’article on retrouve les 3 principaux clusters qui dominent le corpus davantage associés à un discours de promesse portant sur les technologies des plateformes du Web, de la santé et de la recherche en IA.
+
+
+<br>
+<br>
+
+## Quatre régimes de promesse et de critique médiatique de l’IA
+
+---
+
+Après avoir identifié les thèmes et les objets technologiques autour desquels les acteurs et les enjeux gravitent, nous avons cherché à comprendre comment différentes configuration d’entités hétérogènes sont articulés dans différentes parties du réseau. Pour commencer à explorer cette question, nous avons examiné quatre cas types que nous avons sélectionnés en fonction de leur position dans le réseau thématique (central ou périphérique), de la typologie des termes mobilisés (abstraits/génériques ou spécifiques) et de leur tonalité (critique ou promesse).
+ 
+ ![Matrice des récits médiatiques projetés verticalement sur un axe abstrait/situé et horizontalement sur l’axe de la tonalité critique promesse
+](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-17-31-54.png)
+ 
+Le premier quadrant en haut à gauche ![Matrice des récits médiatiques projetés verticalement sur un axe abstrait/situé et horizontalement sur l’axe de la tonalité critique promesse](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-17-15-44.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-17-24-30.png) de la matrice présente l’agencement typique des thèmes centraux du réseau, fortement associés à la critique et mobilisant des entités abstraites. Ce récit médiatique apparait comme une forme de critique direct et prospective entre une entité technique au frontières floue désignée comme « IA » et des entités humaines englobante comme l’humanité ou la société. Le cluster associé à ce régime IA et société fait référence aux articles discutant des risques potentiels des technologies de calcul à l’échelle globale pour la démocratie et pour l'"humanité" dans une optique fictionnelle. La menace posée par le modèle néolibéral intégré au développement de l'IA est également soulignée. L'identification des acteurs sociaux reste large et seuls des penseurs éminents et des leaders politiques sont mentionnés. Enfin, les questions de transhumanisme et de bioéthique semblent être traitées par des personnalités dans les domaines de la philosophie, de l'économie et de la recherche médicale, avec une présence significative des institutions religieuses.
+
+<br>
+
+Le quadrant en haut à droite du côté de la promesse ![Matrice des récits médiatiques projetés verticalement sur un axe abstrait/situé et horizontalement sur l’axe de la tonalité critique promesse](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-17-15-47.png>https://corpora.medialab.sciences-po.fr/contenus/fig05-matrix.png), peut être associée à un récit sur les bénéfices et les avancées en R&D des derniers développements en IA. Ce récit médiatique a comme caractéristique de ne pas embarquer d’entités humaines hors du laboratoire ou alors uniquement dans leur existence mise en données. Le thème R&D Cerveau et Apprentissage par exemple associe des entités techniques telles que les types de données et les programmes dans le domaine des neurosciences. Les entités humaines présente dans ce cluster sont des chercheurs internationaux et français dans des domaines allant de la physique aux sciences cognitives et la présence de structures et de technologies développées ou acquises par Google, OpenAI et IBM. Basée sur la croissance des technologies de calcul, la promesse est de développer une intelligence artificielle autonome capable de rivaliser avec l'intelligence humaine.
+
+<br>
+<br>
+
+Ces deux types d’agencements, caractéristiques des **traitements monolithiques** de l'IA, génèrent à la fois des craintes et des désirs et jouent un rôle performatif puissant se renforçant mutuellement. Les menaces et les problèmes voient souvent leur potentiel de problématisation actif trop souvent abstrait en un ensemble de principes moraux, ce qui fait écho aux réglementations "principielles" (Mittelstadt 2019), et récemment critiquées, que l'on peut trouver dans les chartes et les lignes directrices éthiques. Une généralisation similaire se produit dans le discours des "promesses et des avantages" : une multitude d'objets technologiques destinés à attirer et à structurer l'argent, les personnes et les institutions est mise en avant, mais les problèmes sont réduits à des processus de résolution de problèmes, abordés à travers des jeux et des simulations. Dans ce contexte, la performance est liée à une économie de la promesse qui légitime le développement et l'introduction de l'IA dans la société et, en même temps, relègue les impacts négatifs potentiels sur le monde une fois que les technologies de calcul sont mises en œuvre. Néanmoins, nous ne devrions pas ignorer le rôle performatif d'un tel récit.
+ 
+<br>
+ 
+En revanche, comme le montre la partie inférieure de notre matrice, les arrangements locaux et spécifiques se concentrent sur les technologies réellement déployées dans la société, qui organisent des problèmes locaux, avec des menaces, des avantages et des acteurs tangibles.
+
+Dans le coin inférieur droit ![Matrice des récits médiatiques projetés verticalement sur un axe abstrait/situé et horizontalement sur l’axe de la tonalité critique promesse](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-17-15-56.png>https://corpora.medialab.sciences-po.fr/contenus/fig05-matrix.png), nous explorons l'arrangement d'un thème excentrique dans le réseau, la santé, largement associé au discours prometteur. Il se distingue par une longue liste de praticiens individuels mobilisés pour promouvoir les dernières avancées de l'IA au profit de leurs patients. Il combine très méticuleusement des technologies spécifiques et des produits appliqués issus de start-ups françaises. Il repose sur la voix autoritaire d'un groupe bien défini de spécialistes travaillant dans les hôpitaux et les centres de recherche français sous le contrôle d'institutions nationales. La description technique de ces différents dispositifs inclut des termes représentant des données médicales qui alimentent la technologie. Il est intéressant de noter le contraste frappant entre les avantages de ces technologies et leurs dangers potentiels, ainsi que les controverses liées à la collecte, à l'utilisation et à la circulation des données médicales personnelles externalisées vers de grandes entreprises de technologies de l'information.
+
+
+Enfin du côté de la critique localisées ![Matrice des récits médiatiques projetés verticalement sur un axe abstrait/situé et horizontalement sur l’axe de la tonalité critique promesse](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-17-15-49.png>https://corpora.medialab.sciences-po.fr/contenus/fig05-matrix.png) se déploie une mise en discussion d’expérimentations locales en France dans les domaines de la justice ou de l’éducation par exemple. Bien qu'elles ne soient pas du tout attribuables aux techniques d'apprentissage automatique, les technologies informatiques plus simples utilisées dans le secteur de l'éducation en France, comme APB et Parcoursup, ont réussi à organiser un arrangement extrêmement riche et structuré. Une multitude d'entités techniques organise les acteurs concernés et les institutions. Les articles tiennent même compte de la présence des créateurs de l'algorithme, missionnés par le ministère de l'Enseignement supérieur pour garantir un accès plus équitable à l'enseignement supérieur. Ce cas articule les objectifs d'optimisation, les données utilisées par l'algorithme, les représentants des étudiants et des associations, ainsi que les organismes gouvernementaux autour des préoccupations et des implications pratiques du calcul. Un grand mécontentement a déclenché une demande d'ouverture du code de l'algorithme et plusieurs actions en justice (faisant référence à la loi pour une République numérique mise en œuvre en 2016 et à la demande de la CNIL) ont finalement contraint le gouvernement à publier le code.
+Les deux cadrant du bas, qu’ils soient associés à la promesse ou à la critique, rendent compte de récits qui embarquent avec eux un réseau plus riche et hétérogène d’entités techniques, humaines, de données d’institutions et d’enjeux que les récits médiatiques dominants. Ils offrent finalement plus de prises pour explorer la complexité des chaines sociotechniques nécessaires au déploiement de ces technologies. 
+
+<br>
+<br>
+<br>
+<br>
+
+<small>
+
+[Voir la suite de l'enquête <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/shai/les-soucis)
+
+</small>
+
+<br>
+<br>
+<br>
+<br>
+
+"""
+
+
+[PAGE]
+url="/les-soucis"
+nom_de_page="Les soucis"
+contenu="""
+
+<br>
+<br>
+
+![A FAIRE]()
+
+# Les soucis de l'IA
+---
+
+## La problématique de la participation reprise dans la voix des praticien.nes :   entre tester et participer
+
+ ![Extraits de 2 vidéos-soucis, mis en regard](
+https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-29-a-10-52-46.png)
+
+Un jeu de miroirs entre expérimentations et participation publique : l'expérimentation serait du côté des concepteurs et producteurs d'IA tandis que la participation serait du côté du monde, des citoyens ou autres profanes. On voit bien que la question des prises est centrale, en creux dans ce jeu d'opposition en miroir. Les uns étant autorisés à tous les coups ou presque et les autres, tentant de les contrer, de s'organiser mais avec difficulté et fatigue.
+
+Deux soucis posent la question des formes de participation et constituent pour nous un point d'entrée à partir duquel lire les autres soucis / problématique de recherche :
+    
+
+
+    
+#### [Tester l'IA dans le monde](/shai/tester)  |  [Modalités de participation à l'IA](/shai/participer) 
+
+Les participants au workshop était très clairement concernés et alignés sur cet enjeu de la participation, de le voir à la fois comme un endroit "qui cloche" et comme une question mal posée mais dont la reformulation n'est pas évidente. 
+
+<br> 
+<br>
+<br>
+
+
+
+## 4 familles de soucis en interaction  
+---
+
+Un espace de problèmes organisé à partir des expériences vécues comme problématiques par les praticien.nes de l'IA depuis leurs activités situées et replacées sur la boucle de l'IA.
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg> La carte des familles de soucis ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-27-55.png)
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg> La carte éclatée avec les 17 soucis ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
+
+<br>
+<br>
+
+### Composition à partir de soucis individuels
+
+**L'explicitation des soucis à partir des documents** a permis de reconstituer pour chacun des co-enquêteur.rices une série d'opérations concrètes au sein des pratiques avec les affects associés. Ces éléments réflexifs ont mis à jour des perspectives et des impossibilités d'évolution, chacune faisant l'objet d'une valuation par les co-enquêteur.rices et toujours contextualisé à partir de leurs pratiques et des prises qui leur semblent accessibles.
+
+Ces différents récits individuels ont été thématisés dans des "soucis collectifs", qui composent depuis des pratiques différentes des manières de décrire, d'appréhender et d'agir sur un même thème.
+
+Si on prend l'exemple du souci ![Exemple de composition d'un souci - Verbatim issus de nos entretiens](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-23-01.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-14-26-43.png)
+
+<br>
+
+**L'archive documentaire : sédimentation et circulations des prises**
+
+[A FAIRE - visualisation de l'ensemble de l'archive (types de docs, liens entre familles, etc.]
+
+Un autre élément très utiles à la constitution des soucis collectifs a été l'analyse de l'archive documentaire qui, d'une part concrétise les prises en témoignant d'actions passées. D'autre part, elle fait apparaître des circulations intéressante et met en lien les pratiques comme des points de jonction et de construction de prises communes.
+
+![les 4 documents mobilisés par le plus grand nombre de co-enquêteurs](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-14-38-26.png)
+
+*Deux textes de loi aux trajectoires et finalités variées* : Loi Lemaire et AI Act
+*Les projets du Lab IA : une curiosité scrutée de près, une mine à cas d'étude* 
+*ImageNet* la boucle, de haut en bas
+
+
+<br>
+<br>
+
+### Description des soucis
+---
+
+<small>Déplier les soucis pour obtenir le détail et accéder aux matériaux de l'enquête (vidéo, documents et synthèse).</small>
+
+
+
+### INSTITUTER L'IA
+Résumé et problématisation de cette famille.
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-fill" viewBox="0 0 16 16">
+*  <path fill-rule="evenodd" d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"/></svg> 
+Définir l'IA </summary>
+
+La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. La constitution de l’IA en définit les prises potentielles également et donc sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
+
+**Documents emblématiques de ce souci**
+- Proposition de réglement européen, IA Act (2021)
+- Audition de l'OPECST (2017)
+- Stratégie Nationale IA (2018)
+- article ImageNet (2012)
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/definir)
+</details>
+
+
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-binary" viewBox="0 0 16 16">
+*  <path d="M5.526 13.09c.976 0 1.524-.79 1.524-2.205 0-1.412-.548-2.203-1.524-2.203-.978 0-1.526.79-1.526 2.203 0 1.415.548 2.206 1.526 2.206zm-.832-2.205c0-1.05.29-1.612.832-1.612.358 0 .607.247.733.721L4.7 11.137a6.749 6.749 0 0 1-.006-.252zm.832 1.614c-.36 0-.606-.246-.732-.718l1.556-1.145c.003.079.005.164.005.249 0 1.052-.29 1.614-.829 1.614zm5.329.501v-.595H9.73V8.772h-.69l-1.19.786v.688L8.986 9.5h.05v2.906h-1.18V13h3z"/>  <path d="M4 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H4zm0 1h8a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z"/> 
+</svg> 
+Mettre en données le monde</summary>
+
+La nécessaire mise en données du monde et les difficultés qui lui sont associées (données de mauvaise qualité, recueil sans consentement, difficulté de suivi et d’identification des biais d’apprentissage, etc.) est un problème bien identifié de l’IA. Au-delà des aspects éthiques que cette traduction du monde en dataset implique, ce souci met en lumière les stratégies des acteurs pour parer aux limites que la création de dataset pose en termes scientifiques et à la génération de modèles généralisables. Les impacts sociaux et discriminations sont pointés avec comme question : faut-il toujours plus de données pour régler le problème ?
+
+**Documents emblématiques de ce souci**
+- Stochastic Parrots
+- Sensivic / sound Scanner
+- Entrepôt des données de santé (ou dataset médical)
+- Triage 4.0
+- Missing Dataset (Mimi Onuoha)
+- La vie n'est pas donnée
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/data)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-sliders2" viewBox="0 0 16 16">
+*  <path fill-rule="evenodd" d="M10.5 1a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4H1.5a.5.5 0 0 1 0-1H10V1.5a.5.5 0 0 1 .5-.5ZM12 3.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5Zm-6.5 2A.5.5 0 0 1 6 6v1.5h8.5a.5.5 0 0 1 0 1H6V10a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5ZM1 8a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2A.5.5 0 0 1 1 8Zm9.5 2a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V13H1.5a.5.5 0 0 1 0-1H10v-1.5a.5.5 0 0 1 .5-.5Zm1.5 2.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5Z"/> 
+</svg> 
+Modéliser</summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](/souci13)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-database-dash" viewBox="0 0 16 16">
+*  <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7ZM11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1Z"/>  <path d="M12.096 6.223A4.92 4.92 0 0 0 13 5.698V7c0 .289-.213.654-.753 1.007a4.493 4.493 0 0 1 1.753.25V4c0-1.007-.875-1.755-1.904-2.223C11.022 1.289 9.573 1 8 1s-3.022.289-4.096.777C2.875 2.245 2 2.993 2 4v9c0 1.007.875 1.755 1.904 2.223C4.978 15.71 6.427 16 8 16c.536 0 1.058-.034 1.555-.097a4.525 4.525 0 0 1-.813-.927C8.5 14.992 8.252 15 8 15c-1.464 0-2.766-.27-3.682-.687C3.356 13.875 3 13.373 3 13v-1.302c.271.202.58.378.904.525C4.978 12.71 6.427 13 8 13h.027a4.552 4.552 0 0 1 0-1H8c-1.464 0-2.766-.27-3.682-.687C3.356 10.875 3 10.373 3 10V8.698c.271.202.58.378.904.525C4.978 9.71 6.427 10 8 10c.262 0 .52-.008.774-.024a4.525 4.525 0 0 1 1.102-1.132C9.298 8.944 8.666 9 8 9c-1.464 0-2.766-.27-3.682-.687C3.356 7.875 3 7.373 3 7V5.698c.271.202.58.378.904.525C4.978 6.711 6.427 7 8 7s3.022-.289 4.096-.777ZM3 4c0-.374.356-.875 1.318-1.313C5.234 2.271 6.536 2 8 2s2.766.27 3.682.687C12.644 3.125 13 3.627 13 4c0 .374-.356.875-1.318 1.313C10.766 5.729 9.464 6 8 6s-2.766-.27-3.682-.687C3.356 4.875 3 4.373 3 4Z"/> 
+</svg> 
+Écologiser</summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](/shai/souci14)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mortarboard" viewBox="0 0 16 16">
+*  <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917l-7.5-3.5ZM8 8.46 1.758 5.965 8 3.052l6.242 2.913L8 8.46Z"/>  <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466 4.176 9.032Zm-.068 1.873.22-.748 3.496 1.311a.5.5 0 0 0 .352 0l3.496-1.311.22.748L8 12.46l-3.892-1.556Z"/> 
+</svg> 
+Institutionnaliser l'IA</summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](/shai/souci15)
+</details>
+
+### FABRIQUER DES SYSTÈMES
+Résumé et problématisation de cette famille.
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-bounding-box" viewBox="0 0 16 16">
+*  <path d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"/>  <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm8-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/></svg>
+Optimiser </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-hdd-network" viewBox="0 0 16 16">
+*  <path d="M4.5 5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM3 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2H8.5v3a1.5 1.5 0 0 1 1.5 1.5h5.5a.5.5 0 0 1 0 1H10A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5H.5a.5.5 0 0 1 0-1H6A1.5 1.5 0 0 1 7.5 10V7H2a2 2 0 0 1-2-2V4zm1 0v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1zm6 7.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5z"/></svg>
+Passer en production </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-workspace" viewBox="0 0 16 16">
+*  <path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H4Zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"/>  <path d="M2 1a2 2 0 0 0-2 2v9.5A1.5 1.5 0 0 0 1.5 14h.653a5.373 5.373 0 0 1 1.066-2H1V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9h-2.219c.554.654.89 1.373 1.066 2h.653a1.5 1.5 0 0 0 1.5-1.5V3a2 2 0 0 0-2-2H2Z"/></svg>
+Travailler avec </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-ui-checks" viewBox="0 0 16 16">
+*  <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/></svg>
+Instrumenter l'action publique </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+
+
+### APPRÉHENDER L'IA
+Résumé et problématisation de cette famille.
+
+<details>
+<summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+*  <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/></svg>
+Réguler </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrows-fullscreen" viewBox="0 0 16 16">
+*  <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344 0a.5.5 0 0 1 .707 0l4.096 4.096V11.5a.5.5 0 1 1 1 0v3.975a.5.5 0 0 1-.5.5H11.5a.5.5 0 0 1 0-1h2.768l-4.096-4.096a.5.5 0 0 1 0-.707zm0-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707zm-4.344 0a.5.5 0 0 1-.707 0L1.025 1.732V4.5a.5.5 0 0 1-1 0V.525a.5.5 0 0 1 .5-.5H4.5a.5.5 0 0 1 0 1H1.732l4.096 4.096a.5.5 0 0 1 0 .707z"/></svg>
+Performer le social </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-crosshair" viewBox="0 0 16 16">
+*  <path d="M8.5.5a.5.5 0 0 0-1 0v.518A7.001 7.001 0 0 0 1.018 7.5H.5a.5.5 0 0 0 0 1h.518A7.001 7.001 0 0 0 7.5 14.982v.518a.5.5 0 0 0 1 0v-.518A7.001 7.001 0 0 0 14.982 8.5h.518a.5.5 0 0 0 0-1h-.518A7.001 7.001 0 0 0 8.5 1.018V.5Zm-6.48 7A6.001 6.001 0 0 1 7.5 2.02v.48a.5.5 0 0 0 1 0v-.48a6.001 6.001 0 0 1 5.48 5.48h-.48a.5.5 0 0 0 0 1h.48a6.002 6.002 0 0 1-5.48 5.48v-.48a.5.5 0 0 0-1 0v.48A6.001 6.001 0 0 1 2.02 8.5h.48a.5.5 0 0 0 0-1h-.48ZM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/></svg>
+Critiquer</summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+*  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
+Ouvrir les boîtes noires </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-right-dots" viewBox="0 0 16 16">
+*  <path d="M2 1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h9.586a2 2 0 0 1 1.414.586l2 2V2a1 1 0 0 0-1-1H2zm12-1a2 2 0 0 1 2 2v12.793a.5.5 0 0 1-.854.353l-2.853-2.853a1 1 0 0 0-.707-.293H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12z"/>  <path d="M5 6a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/></svg>
+Justifier </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+### INTÉGRER L'IA À UN MILIEU
+
+Résumé et problématisation de cette famille.
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-fast-forward" viewBox="0 0 16 16">
+*  <path d="M6.804 8 1 4.633v6.734L6.804 8Zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C.713 12.69 0 12.345 0 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692Z"/>  <path d="M14.804 8 9 4.633v6.734L14.804 8Zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C8.713 12.69 8 12.345 8 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692Z"/></svg>
+Futurer</summary>
+Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des discours médiatiques et des contre-récits, ce souci rend compte des pratiques de mises en récit de l’intelligence artificielle et de l’agentivité de ces récits sur ce qu’est l’IA et comment elle est perçue, développée et débattue.
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bank2" viewBox="0 0 16 16">
+*  <path d="M8.277.084a.5.5 0 0 0-.554 0l-7.5 5A.5.5 0 0 0 .5 6h1.875v7H1.5a.5.5 0 0 0 0 1h13a.5.5 0 1 0 0-1h-.875V6H15.5a.5.5 0 0 0 .277-.916l-7.5-5zM12.375 6v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zM8 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zM.5 15a.5.5 0 0 0 0 1h15a.5.5 0 1 0 0-1H.5z"/></svg>
+Valoriser</summary>
+Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur création jusqu’à leur exploitation, avec une attention particulière sur les conditions de leur circulation et les frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16">
+*  <path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm-9 8c0 1 1 1 1 1h5.256A4.493 4.493 0 0 1 8 12.5a4.49 4.49 0 0 1 1.544-3.393C9.077 9.038 8.564 9 8 9c-5 0-6 3-6 4Zm9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382l.045-.148ZM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"/></svg>
+Individuer</summary>
+Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques, la disposition d’un milieu (notamment par des normes juridiques et l’installation d’une culture) et la production des subjectivités par l’appropriation des ces dispositifs et développements dans ces milieux. Les questions d’autonomie (tant comme concept juridique que philosophique) et de fabrique de la normativité sont centrales. 
+
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/shai/souci15)
+</details>
+
+<br>
+<br>
+<br> 
+<br>
+
+![Images du workshop - Juin 2022, cité des sciences et de l'industrie, Carrefour Numérique2](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-06-a-16-43-36.png)
+
+## Discuter et éprouver les soucis : un workshop de travail collectif
+
+---
+
+
+![Images du workshop - Juin 2022, cité des sciences et de l'industrie, Carrefour Numérique2](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-29-a-09-59-47.png)
+
+
+<br>
+<br>
+<br>
+
+## D'autres lignes de partage
+---
+
+Les matériaux recueillis et les arguments développés par les co-enquêteurs se prêtent à d'autres analyses, qui, bien qu'elles ne sont pas l'objet de cette publication, pourraient être intéressantes et génératives dans d'autres contextes. 
+A titre d'exemple, on remarque que des lignes de partage se dessinent fortement en fonction des rapports qui importent aux co-enquêteur.rices. Nous avons ainsi entamé un travail autour d'une roue des approches à l'IA ![la roue des approches à l'IA](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-16-56-10.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-16-56-10.png) dont les paires oppposées travaillent ensemble, comme les deux faces d'une même pièce.
+
+Cependant, si ce type de représentation permet une autre lecture d'ensemble intéressante, il n'est pas à confondre avec le niveau auquel se joue les développements et ne suggère pas de prises concrètes dont pourraient se saisir des praticien.nes. C'est en mettant en œuvre dans un cas d'application concret l'heuristique des soucis que l'on peut rendre compte comment tout cela joue dans le présent des situations des personnes impliquées et peut devenir génératif de futurs différents.
+
+<br>
+
+<small>
+
+[Lire l'étude de cas <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/shai/cas)
+
+</small>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+.
+"""
+
+[PAGE]
+url="/cas"
+nom_de_page="Etude de cas"
+contenu="""
+
+![Document d'arpentage](https://corpora.medialab.sciences-po.fr/contenus/document-d-arpentage.jpeg)
+
+<br>
+<br>
+
+# Enquêter à partir d'un cas : IA, territoire et fiscalité
+
+<br>
+
+> Aujourd'hui, on a des géomètres qui vont sur le terrain et qui font un lever précis du bâtiment, dans une interaction entre l'agent et le terrain. Demain, c'est un mode de représentation à partir de l'exploitation des prises de vue aériennes.  Donc là c'est vraiment deux modes de représentation qui viennent s'opposer. 
+
+— F., chef du Bureau du Cadastre
+
+---
+
+<br>
+
+Cette étude analyse les transformations générées par le recours à l’intelligence artificielle (IA) dans les opérations de mise à jour du cadastre et du calcul de l’impôt. Instrument foncier et fiscal de premier ordre, le cadastre est un mélange d’opérations topographiques et administratives sans cesse revisitées, co-constitutives des manières de tenir compte du territoire et de son occupation. En 1807, Napoléon fait dénombrer par arpentage et figurer dans le cadastre les terres de toutes les communes de France. Aujourd’hui, la Direction Générale des Finances Publiques (DGFiP), héritière de ce mandat, décide d’utiliser des techniques de reconnaissance d’image automatisées sur des photos aériennes. Quelles nouvelles opérations, entités et agencements sont mis à l’épreuve quand ces techniques automatisées tiennent compte du territoire ?
+
+<br>
+
+## Le projet *Foncier Innovant* au Bureau du Cadastre
+
+
+
+<br>
+
+---
+
+## *Tenir compte* du territoire et pratiques cadastrales
+
+### Quatre vignettes historiques
+
+Afin de comprendre ce qui est en jeu dans les manières de tenir compte de l'occupation d'un territoire, il semble intéressant d'avoir en tête d'autres configurations et d'autres finalités attachées aux pratiques cadastrales.
+
+![“Le gromaticien" Un géomètre (agrimencier) mesure la terre à l'aide d'une groma (gruma). Sculpture en bronze. Rome, Musée de la civilisation romaine, non daté.](https://corpora.medialab.sciences-po.fr/contenus/roman-roman-roman-art-the-gromatician-a-surveyor-agrimeners-measures-the-land-using-a-gro-meisterdrucke-993738.jpeg) **Les gromaticiens romains** Rapport au terrain / rôle social de construction du paysage
+
+![Fig. de Heuilley et Talmay, XVe (sans titre), parchemin couleur. (62 X 56 cm). Dans "Quand les artistes dessinaient les cartes, Vues et figures de l’espace français. Moyen-Âge et Renaissance." Éditions Le Passage et Les Archives Nationales. 2019](https://corpora.medialab.sciences-po.fr/contenus/map-dessin-v2-copy.png) **Des artistes au service rapport au support / mobilisation dans la cas de contentieux et procès
+
+![Cadastre de Bertier de Sauvigny (réalisation 1776-1791).  Plan de Bessancourt et Frépillon. (wikipedia, licence CC)](https://corpora.medialab.sciences-po.fr/contenus/cadastre-de-bertier-de-sauvigny-plan-de-bessancourt-et-fre-pillon-1.jpg) **Les arpenteurs, dessinateurs de plans** Rapport entre équité fiscale et mathématiques
+
+![Notice sur les grandes tables logarithmiques et trigonométrques](https://corpora.medialab.sciences-po.fr/contenus/prony-tables-thb.jpeg) **Des calculateurs organisés rationnellement** Changement d’échelle : territoire national et calcul massif
+
+<br>
+
+### Numérisation récente des pratiques cadastrales en France
+
+Héritier du cadastre dit de Napoléon, le cadastre est produit par des géomètres (900 pers. en 2022), agents de la Direction Générale des Finances Publiques (DGFiP), rattachée au Ministère de l’Économie. 
+
+Ils sont répartis sur tout le territoire, dans des bureaux locaux, pilotés par un bureau central. 
+Ils ont une mission topographique et effectuent des levées sur le terrain.
+
+Évolutions importantes avec l’introduction d’outils numériques, tels que :
+
+![Système de numérisation des planches du cadastre mis en œuvre au SDNC à Saint Germain en Laye. Source : Géomatique Expert, N°20 - novembre/décembre 2002, reportage sur le Service de la Documentation Nationale du Cadastre (SDNC). ](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-10-09-a-21-02-23.png)
+
+( → 1980) Numérisation du plan et des matrices 
+   cadastrales 
+(→ 1990)  Logiciels de traitement 
+(→ 2005) Télémètre laser 
+(→ 2005) GPS 
+(→ 2010)  Imagerie aérienne 
+
+Le dispositif du Foncier Innovant, jusqu'à sa finalité de dessiner et de reporter automatiquement les détections faites par reconnaissance d'images sur des prises de vue aérienne, représente ainsi une nouvelle épreuve. 
+
+<br>
+<br>
+
+---
+
+## Description des soucis liés aux 
+![workshop](https://corpora.medialab.sciences-po.fr/contenus/layer-1.png)
+Timelines
+![timelines](https://corpora.medialab.sciences-po.fr/contenus/2023-09-04-12-17-47.jpg)
+![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
+
+### SYNTHESE 
+
+![plans cadastraux, 1865 (gauche) et 1986 (droite)](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-10-09-a-12-13-34.png)
+
+Qu’est-ce qui compte ? 
+→ élaborer une vérité terrain
+→ valeur de la donnée en elle-même
+→ (tensions sur) les capacités de mise à jour
+
+Comment on compte ? 
+→ pas d’automatisation mais déplacement, 
+division et invisibilisation du travail 
+→ le monde laboratoire (en mode industriel), l’innovation pour elle-même
+
+Pour quoi tenir compte ? 
+→ (coupure) des relations au terrain (“usagers”, collectivités, territoire) qui reconfigurent les rapports entre état central, autorités locales et citoyens
+→ (vulnérabilités) des savoirs critiques pour la puissance publique
+
+<br>
+
+Ressources :
+[lien vers la page du projet / DGFiP](https://www.impots.gouv.fr/actualite/generalisation-du-foncier-innovant")
+
+<br>
+<br>
+
+### La voix des participant.e.s à l'enquête 
+---
+
+> [§]  Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
+
+Et à quoi il sert. Et aussi alors, pour les travailleurs de Madagascar de définir un peu des standards de conditions de travail, même de salaire. Et ça pose la question de comment on accompagne ces travailleurs et qu'est ce qui est juste en termes de conditions de travail. Et voilà, c'était le principal souci, sachant qu'il y a un enjeu de qualité du modèle qui est lié aussi aux données et que on peut faire l'hypothèse que la qualité, elle vient aussi d'une qualité des conditions de travail. Donc en fait, ce souci, il est à la fois en termes de conditions de travail, mais aussi d'un point de vue technique.
+[...]
+
+[•] Du coup, ces éléments là, on les a aussi identifiés lorsqu'on a déployé le projet et on s'est dit : mais comment on va répondre à ces sujets là qui sont extrêmement prégnants ? Et est ce que nous, on peut y répondre en interne ?
+[...]
+
+> [√] On voit bien qu'il y a tout un écosystème qui se développe, dont le but est de changer en fait des relations existantes par d'autres.
+[...] 
+
+[•] Là ce qui est évoqué, c'est sur la partie représentation graphique des bâtiments détectés sur le plan cadastral où là effectivement, on a une opposition entre la manière dont va représenter demain et la manière dont c'est représenté aujourd'hui. Donc là, aujourd'hui, on a des géomètres qui vont sur le terrain et qui font un lever précis du bâtiment, effectivement, dans une interaction entre l'agent et le terrain. Demain, c'est un mode de représentation, indépendamment d'IA d'ailleurs, à partir de l'exploitation des prises de vue aériennes. Et rien que ça pourrait très bien être un opérateur qui fasse le contour et détours de l'objet à partir des prises de vues aériennes, indépendamment de l'utilisation de l'IA. Sauf que là, effectivement, on introduit en plus la couche de l'IA. On vient pré-établir la représentation graphique avec une validation par un agent. Donc là c'est vraiment deux modes de représentation qui viennent s'opposer. Donc, c'est ma relation avec le terrain d'un côté, et puis comment de l'autre, je vais beaucoup plus vite en matière de représentation graphique.
+[...] 
+
+> [≈] Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évident parce que allant avec l'intelligence artificielle qui doit être mise en place ? Il y en a plusieurs dans ce qu'on a pu dire. 
+
+Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc qu'elle sert d'instrument à ça. Il y a l'idée que l'intelligence artificielle est quelque chose où, si on le met pas en place, nous administration, alors d'autres le feront à la place de l'administration avec un rapport de pouvoir qui est la menace plus ou moins forte d'externalisation. Ce qui n'est pas exactement la même chose que l'externalisation, mais le risque de disruption; qu'un autre acteur prenne complètement la place de la puissance publique dans le cas de la production de l'information géographique.
+
+[#] On est partis à la base, de la manière dont est amené le modèle de construction de l'IA. Donc avec les quatre catégories [ndlr : la boucle avec les quatre pôles, monde data modèle instanciation], en essayant de remettre un peu d'objectif et de politique dedans. C'est à dire : personne ne fait un algorithme sans raison et un algorithme n'est jamais une représentation objective d'un phénomène. Les données, elles sont construites. Enfin je ne vous apprends rien. Mais voilà, il y a quelqu'un qui veut faire quelque chose et pour ça il a des métriques à optimiser. Il va le faire avec des loop de feed back entre ces données et son modèle. C'est du machine learning de base. Et donc on est parti de là et on a essayé de comprendre, pour ce cas de figure là, qu'est ce qu'essaye de faire la DGFiP ? Quel était l'objectif de la DGFiP—de la direction de la DGFiP ? Pourquoi est-ce qu'ils ont décidé de mettre en place un algorithme au niveau des piscines en fait ? Parce que 
+
+> si on fait un peu l'autopsie de ce cas là, finalement, on comprend pas trop pourquoi est ce qu'il y a un modèle dans ce cas d'application là. (...) Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? 
+
+Parce que finalement, là, une des justifications de l'IA et de ces méthodes un peu automatiques de traitement des données, c'est qu'on a des masses de données qui sont trop grosses pour être traitées à la main et du coup il faut des outils d'aide au traitement. Là, ce n'est pas le cas. C'est à dire que les données aériennes de l'IGN qui sont produites tous les quatre ans, elles sont faisables à la main en fait assez rapidement et pour beaucoup moins que 20 millions. Et donc ce qui pose la question de l'existence du modèle et de pourquoi est-ce que finalement quelqu'un à un moment a décidé de faire un modèle et de le vendre à la DGFiP ? Et du coup on arrive sur un modèle assez cyclique : est ce que ce n'est pas un truc qui s'auto-justifie ? Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Parce que finalement la taxation des piscines, si elles n'étaient pas traitée avant, c'est que tout le monde s'en fiche un peu, soyons honnêtes. Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
+
+
+
+"""
+
+[PAGE]
+url="/participer"
+nom_de_page="Souci 0.1"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Participer à l'IA
+
+>“Et de voir ceux qui parlent au nom d'un problème et travaillent à constituer le problème.” 
+
+— D., Sociologue
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/shai/les-soucis)
+
+</small>
+
+---
+
+<br>
+
+
+### Points de friction () et prises
+**Consultations publiques (CNIL, UE, …)** Inefficacité (participation washing) et expertise nécessaire pour participer.
+
+**Fabriquer des publics** Médiations pour rendre sensible aux calculs (sensibilité peu élevée). Travail de ventriloquie, travailler à constituer le problème avant qu’il ne puisse être porté/ puisse exister.
+
+**Instances de démocratie technique** Implication des citoyens dans les décisions de développement : au-delà des mécanismes déjà en place comme le Parlement ou le Sénat. Mais depuis la convention citoyenne pour le climat, vu comme du “participation washing”. 
+
+**Débats publics / Relations sciences-société** avec la société civile (forum de consensus etc.) : quelle posture des sciences sociales ?
+
+**Empowerment** Maximum de gens capables de fabriquer / développer les techno pour plus de démocratie. Incubateur d’initiatives citoyennes ou asso comme Data for Good ? Pas possible si ne va pas dans le sens des politiques mises en œuvre par le gouvernement (par le truchement des financements notamment).
+
+**Désertion** professionnelle / des lieux de pouvoirs
+
+**Luttes** devant l’Inefficacité et inaudibilité des discours réfractaires
+
+**Crise des institutions** / démocratique
+
+**Développer des rapports sensibles à la technologie** pour agir : mais limites → part actionnable concrètement au sein de communautés de pratiques ? Prise de vitesse par les géants (GAFAM)...
+
+<small>
+
+**Entités mentionnées**
+textes, juristes, experts, questionnaire, représentation citoyenne, Parlement Européen, spectateur novice, médiation, collectif, quotidien professionnel, hiérarchie, visibilité, prises, citoyens, recherches en sciences sociales, Latour, JB Fressoz, conférences de consensus, Ulrich Beck, instances de démocratie technique, réflexivité, modernes, CNIL, débat, communiqué, rapport, consultation, processus de légalisation, accompagnatrice de l’innovation, cycle néo-libéral, La Quadrature du Net, luttes, personnes précarisées, notations, discours politique, technophobes, élite éclairée, sensibilité au calcul, troubles, problèmes publics, groupes d’utilisateurs, institutions, associations, porte-parole, ventriloque, accélérateur d’initiatives citoyennes, wikis, blogs, communautés de pratiques, GAFAM, design fiction
+
+</small>
+
+<iframe src="https://player.vimeo.com/video/720020019?h=f54e634a3b" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+---
+Une deuxième version a été créée lors du workshop de Juin 2022
+
+---
+
+### Les documents (58)
+##### 0
+
+"""
+
+[PAGE]
+url="/tester"
+nom_de_page="Tester l'IA dans le monde"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Tester l'IA dans le monde
+
+> “Il y a toujours un cadre expérimental qui permet de lever les barrières.”
+
+— E., Journaliste
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/shai/les-soucis)
+
+</small>
+
+---
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720019742?h=1cdca0e2bb" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+
+
+### Thèmes abordés.
+**Expérimentation a priori; encadrement a posteriori** La fabrique de la loi trop lente par rapport à la fabrique de prototypes + justification pratique : mieux de tester pour encadrer, prises en compte des situations spécifiques par le développement agile (production de connaissances utiles à l’élaboration de régulations).
+
+**Stratégies d’enrôlement et d’alignement par la sécurité et le contrôle** que ce soit les JO ou les centres de supervision urbain (bientôt la surveillance écolo?), ou en termes de contrôle (fraude, occupations, etc.) les acteurs lobbyent à partir de besoins sécuritaires, policiers ou budgétaires pour faire sauter des verrous. Utilisation de l’open data pour analyse des besoins pour enrôlement. Risques importants d’effets cliquet (l’exception devient la règle) et de la banalisation de techniques/lois liberticides.
+
+**La réglementation européenne répond à une logique de mise en conformité / produits défectueux (case-based)** : elle soutient le développement et la régulation d’un marché intérieur (orienté produits), avec une tendance à pousser l’innovation européenne (pour concurrencer les autres puissances).
+
+**Droit souple (pro-innovation) et autorité administrative indépendante** Respect des droits fondamentaux tant que cela n’élimine pas le business. Autorité pour contrôler, réglementer, accompagner. Trop de régulation risque de freiner l’IA.
+
+**Modalités d’expérimentation** : évènements (hackathon), formation et animation de communautés, preuves de concept, démos. Aujourd’hui infrastructure dans les administrations ou les entreprises avec des rôles dédiés (ex. EIG). Questions des ressources humaines importantes pour passage à l’échelle. 
+
+**Droits de regard et recours** : Difficultés d’accès à l’information sur le développement / expérimentations de systèmes d’IA (opacité administrative), besoin de répertorier les initiatives. Parlement doit donner son aval + décret si modifications de la loi. Citoyens ont aussi des droits de recours. La CNIL a des difficultés pour traiter les dossiers et ne rend des avis souvent seulement consultative.
+
+**Question de l’évaluation des projets d’IA** : à qui cela bénéficie, comment on évalue les coûts et bénéfices ? Qui doit être associé à la chaîne de conception et d’évaluation ? Une fois les projets lancés, il semble qu’ils ne soient jamais remis en question de toute façon. → effet cliquet
+
+<small>
+
+**Entités mentionnées**
+le droit, caméras, mecs dans la sécurité, PSU, mecs à capuche nord-africains, maire, bus, vélo, carrefour, Suez, administrés, JO2024, Cédric O, Parlement Européen, état d’urgence, UE, Think H+, hackathon, ministère de la Justice, EIG, Parlement (Ass. Nationale), APB/Parcoursup, citoyens, INSEE, DGFiP, Lemaire, agent.es, CNIL
+</small>
+
+<br>
+
+### Les documents (52)
+##### 3.2
+
+
+"""
+
+
+
+[PAGE]
+url="/definir"
+nom_de_page="Définir l'IA"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Définir l'IA
+
+> “Il y a un peu de tricherie dans la constitution publique de l'IA qui profite à tout le monde.”
+
+— D., sociologue
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/shai/les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720016297?h=2816a0d5a9" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. La constitution de l’IA en définit les prises potentielles également et donc sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
+
+<br>
+
+**Thèmes abordés**
+	1. Débat scientifique sur l’objet : limité ou non à l’apprentissage automatique ? Rejoue la controverse symbolique / connexionniste de manière actualisée (de toute façon, le ML/DL s’intègre à des algorithmes et autres logiques (théorie des jeux, SMA, systèmes experts…). Risque de déception (nouvel hiver ?) si limité à seulement apprentissage automatique.
+	2. Entretien de la confusion pour financements : la confusion entre IA connexionniste et symbolique a été entretenue notamment par les institutions de recherche par rapport aux pouvoirs publics (notamment pour des questions de financement). Aussi dans les réponses d’appel à projets etc. buzzword IA utilisé pour remporter des appels. A créé un décalage de perception important. 
+	3. Imaginaires de l’IA puisent dans l’IA symbolique (ancienne IA): imaginaire plus fourni (films, science-fiction)  et réflexions/médiatisation (même juridiques) encore dirigées par les concepts symboliques (ontologie de la machine etc.)
+	4. Une notion qui fait débat en droit et qui a des effets : Lois et réglement IA (UE) s’appuient sur des définitions extensives. Définition des systèmes à haut risques (réglementation contraignante) âprement négociée. Nécessité de cohérence entre les notions définies dans les différents textes. Lobbys importants (business + nationaux) pour influencer le travail de rédaction du texte européen. Réglementation sectorielle préférée par beaucoup d’acteus (invalidation de l’objet IA).
+	5. Approches pour se débarrasser de cet objet / critiques de l’objet : Nommer autrement (ex. pattern recognition / économie de la donnée), se débarrasser des récits antiques. Redéfinir en situant historiquement, ce qui permet une critique différente en élargissant la focale de ce qui est en jeu (forme d’organisation des sociétés complexes / informatisation).
+	6. Volet industriel/économique peu mis au centre alors que premier : Internet est devenue une industrie totale et globale. Somme d’objets qui s’aggrègent avec le temps pour former une “économie des données”.
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+Assemblée Nationale, IA Act, House of Mirrors (exposition), Légifrance, IA à haut risque, IA symbolique, IA connexionniste, DITP, DGS, web 2.0
+
+</small>
+
+<br>
+
+### Les documents (26)
+##### 1.1
+
+
+"""
+
+
+
+
+
+
+
+

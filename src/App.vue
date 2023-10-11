@@ -63,9 +63,9 @@ export default {
   },
   methods: {
     async fetchDoc() {
-      const response = await fetch(
-        "https://mensuel.framapad.org/p/le0lzttwfn-a2xl/export/txt"
-      );
+      // const url = "https://mensuel.framapad.org/p/le0lzttwfn-a2xl/export/txt";
+      const url = this.publicPath + "content.txt";
+      const response = await fetch(url);
       const text = await response.text();
       return text;
     },
@@ -74,7 +74,7 @@ export default {
       return t.map((_t) => parseTOML(_t));
     },
     async loadArchive() {
-      const url = this.publicPath + "/shaping_archive.csv";
+      const url = this.publicPath + "shaping_archive.csv";
 
       const parseFile = (url) => {
         return new Promise((resolve) => {
