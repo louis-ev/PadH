@@ -127,8 +127,6 @@ contenu="""
 <br>
 
 
-*# Avoir prise sur l'IA
-
 # Avoir prise sur l'IA
 
 ---
