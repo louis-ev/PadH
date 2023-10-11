@@ -257,7 +257,7 @@ Les extraits des entretiens ci-contre illustrent la carrière du terme de “bia
 
 
 
-C’est à un exercice de zoom et de dézoom simultané qu’invite l’analyse des soucis. A la fois tenir une attention soutenue aux petits gestes qui comptent et recomposer dans une trame qui tente de faire cohabiter des mondes qui ne se fréquentent pas, pour mieux comprendre et décrire les interdépendances et les interactions qui forment l’IA aujourd’hui en France. Notre souhait est que cette approche soit générative de prises collectives efficaces pour faire importer une participation plurielle.
+**C’est à un exercice de zoom et de dézoom simultané qu’invite l’analyse des soucis. Tenir une attention soutenue aux petits gestes qui comptent tout en recomposant une trame cohérente, qui tente de faire cohabiter des mondes qui ne se fréquentent pas, pour mieux comprendre et décrire les interdépendances et les interactions qui forment l’IA aujourd’hui en France. Notre souhait est que cette approche soit générative de prises collectives efficaces pour faire importer une participation authentiquement plurielle.
 
 
 
@@ -368,7 +368,7 @@ Poursuivant le même mouvement d'élargissement et à des fins d'outillage de no
 
 **Conception relationnelle**, au sens où elle s’intéresse à la genèse, c'est-à-dire à la venue au monde et aux devenirs des objets techniques au sein de situations concrètes, plutôt que de chercher à les caractériser par une identité stable et invariante [(sur ce point, voir Didier Debaise)](https://www.cairn.info/revue-multitudes-2004-4-page-15.htm). Cela signifie qu’elle étudie les systèmes d’IA et leurs problèmes à partir des processus de production et de déploiement au sein d’un milieu spécifique en faisant importer ses caractéristiques, ses acteurs et ses enjeux. 
 
-**Conception matérialiste**, au sens d’une approche qui s’intéresse à tout ce qui participe matériellement la constitution de l’objet technique, et pas seulement aux discours qui l’entoure ou à l’idéologie scientifique qui l’anime. Il s'agit ainsi de saisir l’IA à partir de tous les processus concrets qui participent de sa production et de son devenir, en s'attardant sur les configurations et les dynamiques (sociales, économiques, politiques, techniques) dans lesquelles les systèmes d'IA évoluent. 
+**Conception matérialiste**, au sens d’une approche qui s’intéresse à tout ce qui participe matériellement la constitution de l’objet technique, et pas seulement aux discours qui l’entourent ou à l’idéologie scientifique qui l’anime. Il s'agit ainsi de saisir l’IA à partir de tous les processus concrets qui participent de sa production et de son devenir, en s'attardant sur les configurations et les dynamiques (sociales, économiques, politiques, techniques) dans lesquelles les systèmes d'IA évoluent. 
 
 ![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
 
