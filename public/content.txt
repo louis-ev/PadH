@@ -242,10 +242,10 @@ Le concept de **prise** s’articule ainsi dans notre approche à celui des **so
 Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces opérations participent de la constitution et de la trajectoire de l’IA. **En prêtant attention aux soucis de praticien.nes de l’IA en France, notre recherche cherche ainsi à repérer les pratiques (dans leur pluralité) et les séries d’opérations et d’épreuves qui donnent forme IA.**
 
 
-Par rapport au courant participatif des STS, cette approche propose au moins trois déplacements :
+Par rapport au courant participatif des STS, cette approche propose au moins **trois déplacements** :
 
 **Un déplacement vers des praticien.ne.s soucieux.ses**
-Là où la ligne de partage séparait les experts des non-experts (ou “profanes”), nous nous intéressons aux activités de praticien.nes “soucieux.ses”. La qualification de “praticien” met en avant la dimension expérientielle et praxéologique et ne définit pas d’objets particuliers ou de milieux a priori. L’adjectif “soucieux” rend compte la dimension réflexive, manifestement en enquête et doutant de la bonne manière d’agir quant à l’objet en formation. Un.e praticien.ne soucieux.se agit directement ou indirectement sur l’objet de l’enquête avec une forme de réflexivité quant aux opérations qu’il.elle déploie.
+Là où la ligne de partage séparait les experts des non-experts (ou “profanes”), nous nous intéressons aux activités de praticien.nes “soucieux.ses”. La qualification de “praticien” met en avant la dimension expérientielle et praxéologique et ne définit pas d’activités particulières ou de milieux *a priori*. L’adjectif “soucieux” rend compte la dimension réflexive, manifestement en enquête et doutant de la bonne manière d’agir quant à l’objet en formation. Un.e praticien.ne soucieux.se agit directement ou indirectement sur l’objet de l’enquête avec une forme de réflexivité quant aux opérations qu’il.elle déploie.
 
 **Un déplacement dans des situations inscrites temporellement et socialement**
 Ici, il ne s’agit pas d’anticiper des risques ou des problèmes à venir mais de partir du présent des expériences vécues pour étudier comment sont identifiés et pris en charge les éléments jugés problématiques au sein des situations. De plus, s’intéresser aux situations permet de prendre en compte la dimension nécessairement située et partielle d’une pratique, inscrite dans un milieu et des relations spécifiques et contrainte par des attitudes et des habitudes personnelles et collectives éprouvées. Au cours de l’enquête, beaucoup des soucis des praticien.nes co-enquêteur.rices semblaient concerner des objets “accessoires” à l’IA mais qui se sont en fait révélés constitutifs, d’où l’importance de rester ouvert à ce qui se présente concrètement au sein des activités situées.
@@ -264,27 +264,19 @@ C’est à un exercice de zoom et de dézoom simultané qu’invite l’analyse 
 <br>
 <br>
 
-## Partis pris et méthodes d'enquête
+## Ce que l’enquête fait aux problèmes : méthodes et partis pris
 ---
 
-### Ce que l'enquête fait aux problèmes
+![Diagramme du parcours de recherche et carte du site](https://corpora.medialab.sciences-po.fr/contenus/shai2artboard-1.png)
 
-	* Varier les échelles
+### Combiner les échelles
 Allier small et big data → ce que les discours font aux pratiques et vice et versa
 pour une vue à la fois d'ensemble et très fine. Permet de replacer dans une carte plus large certains développements et situations singulières. 
 
 	* Une enquête située et collective (milieux, pratiques, inter-objectivation)
 
 
-### Parcours de recherche < | > Carte du site
 
-
-<small>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg>  ![Parcours de recherche < | > carte du site](https://corpora.medialab.sciences-po.fr/contenus/shai2artboard-1.png)
-Ce site regroupe des contributions conceptuelles, méthodologiques et empiriques, organisées en 5 sections qui racontent le parcours de recherche.
-
-</small>
 
 • un observatoire de la polarisation des discours dans la presse
 	* les soucis des praticiens de l’IA
