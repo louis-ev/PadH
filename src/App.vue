@@ -3,7 +3,7 @@
     <transition name="pagechange" mode="out-in">
       <router-view
         v-if="!is_loading"
-        :key="$route.path"
+        :key="$route.hash"
         :nav_menu="nav_menu"
         :page="current_content"
         :corpora_data="corpora_data"
@@ -43,7 +43,7 @@ export default {
     current_content() {
       if (this.pages) {
         const matching_page = this.pages.find(
-          (p) => p.url === this.$route.path
+          (p) => p.url === this.$route.path + this.$route.hash
         );
         return matching_page || "no_matching_page";
       }

@@ -417,7 +417,7 @@ Par rapport aux modèles proposés par Nick Srnicek ou Kate Crawford, cette repr
 
 
 [PAGE]
-url="/medias"
+url="/#medias"
 nom_de_page="La presse"
 contenu="""
  
@@ -526,7 +526,7 @@ Les deux cadrant du bas, qu’ils soient associés à la promesse ou à la criti
 
 
 [PAGE]
-url="/les-soucis"
+url="/#les-soucis"
 nom_de_page="Les soucis"
 contenu="""
 
@@ -847,7 +847,7 @@ Cependant, si ce type de représentation permet une autre lecture d'ensemble int
 """
 
 [PAGE]
-url="/cas"
+url="/#cas"
 nom_de_page="Etude de cas"
 contenu="""
 
@@ -985,7 +985,7 @@ Parce que finalement, là, une des justifications de l'IA et de ces méthodes un
 """
 
 [PAGE]
-url="/participer"
+url="/#participer"
 nom_de_page="Souci 0.1"
 invisible_dans_menu="true"
 contenu="""
@@ -1051,7 +1051,7 @@ Une deuxième version a été créée lors du workshop de Juin 2022
 """
 
 [PAGE]
-url="/tester"
+url="/#tester"
 nom_de_page="Tester l'IA dans le monde"
 invisible_dans_menu="true"
 contenu="""
@@ -1110,7 +1110,7 @@ le droit, caméras, mecs dans la sécurité, PSU, mecs à capuche nord-africains
 
 
 [PAGE]
-url="/definir"
+url="/#definir"
 nom_de_page="Définir l'IA"
 invisible_dans_menu="true"
 contenu="""
