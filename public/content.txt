@@ -533,14 +533,13 @@ contenu="""
 <br>
 <br>
 
-![A FAIRE]()
 
 # Les soucis de l'IA
 ---
 
 ## Le développement de l’IA, pris entre tests et participation publique
 
-![Extraits de 2 vidéos-soucis, mis en regard](
+![le développement de l'IA, entre tester et participer - Verbatim extraits des vidéos qui présentent ces deux soucis.](
 https://corpora.medialab.sciences-po.fr/contenus/participer-tester.png)
 
 Un jeu de miroirs entre expérimentations et participation publique : l'expérimentation serait du côté des concepteurs et producteurs d'IA tandis que la participation serait du côté du monde, des citoyens ou autres profanes. On voit bien que la question des prises est centrale, en creux dans ce jeu d'opposition en miroir. Les uns étant autorisés à tous les coups ou presque et les autres, tentant de les contrer, de s'organiser mais avec difficulté et fatigue.
@@ -584,7 +583,7 @@ Si on prend l'exemple du souci ![Exemple de composition d'un souci - Verbatim is
 
 **L'archive documentaire : sédimentation et circulations des prises**
 
-[A FAIRE - visualisation de l'ensemble de l'archive (types de docs, liens entre familles, etc.]
+![distribution des documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/archive.png)
 
 Un autre élément très utiles à la constitution des soucis collectifs a été l'analyse de l'archive documentaire qui, d'une part concrétise les prises en témoignant d'actions passées. D'autre part, elle fait apparaître des circulations intéressante et met en lien les pratiques comme des points de jonction et de construction de prises communes.
 
