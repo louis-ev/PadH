@@ -118,7 +118,7 @@ Contenu en licence CC-BY-SA
 
 [PAGE]
 nom_de_page="Avoir prise..."
-url="/avoir-prise"
+url="/#avoir-prise"
 contenu="""
 
 <br>
@@ -316,7 +316,7 @@ A travers ces trois niveaux et leur articulation par la centralité des pratique
 
 
 [PAGE]
-url="/la-boucle"
+url="/#la-boucle"
 nom_de_page="La boucle de l'IA"
 contenu="""
 
