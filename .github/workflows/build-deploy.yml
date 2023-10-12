@@ -1,0 +1,38 @@
+name: Auto update, build and deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    name: Build website
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Install and build
+        run: |
+          npm install
+          npm run build
+
+      - name: Push and deploy build to GH pages
+        run: |
+          mv dist /tmp/shapingai
+          rm -rf node_modules
+          git branch -D gh-pages
+          git checkout --orphan gh-pages
+          git rm -rf .
+          mv /tmp/shapingai/* .
+          mv /tmp/shapingai/.htaccess .
+          git add .
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "commit gh-pages"
+          git push --set-upstream origin gh-pages -f
+
