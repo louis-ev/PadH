@@ -21,18 +21,11 @@ jobs:
           npm install
           npm run build
 
-      - name: Push and deploy build to GH pages
-        run: |
-          mv dist /tmp/shapingai
-          rm -rf node_modules
-          git branch -D gh-pages
-          git checkout --orphan gh-pages
-          git rm -rf .
-          mv /tmp/shapingai/* .
-          mv /tmp/shapingai/.htaccess .
-          git add .
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "commit gh-pages"
-          git push --set-upstream origin gh-pages -f
+      - name: Push and deploy build to GH pages 🚀
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist
+          SINGLE-COMMIT: true
 
