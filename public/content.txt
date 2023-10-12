@@ -621,7 +621,7 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 - Stratégie Nationale IA (2018)
 - article ImageNet (2012)
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/#definir)
+#### [voir le détail de ce souci](/ShapingAI/#definir)
 </details>
 
 
@@ -642,7 +642,7 @@ La nécessaire mise en données du monde et les difficultés qui lui sont associ
 - Missing Dataset (Mimi Onuoha)
 - La vie n'est pas donnée
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/#data)
+#### [voir le détail de ce souci](/ShapingAI/#data)
 </details>
 
 <details>
@@ -652,7 +652,7 @@ La nécessaire mise en données du monde et les difficultés qui lui sont associ
 Modéliser</summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/souci13)
+#### [voir le détail de ce souci](/ShapingAI/#modeliser)
 </details>
 
 <details>
