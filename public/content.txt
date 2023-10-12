@@ -264,40 +264,45 @@ Les extraits des entretiens ci-contre illustrent la carrière du terme de “bia
 <br>
 <br>
 
-## Ce que l’enquête fait aux problèmes : méthodes et partis pris
+## Jouer des échelles et enquêter collectivement : méthodes et partis pris 
+
 ---
 
-### Jouer des échelles et enquêter collectivement
-
 ![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/methodes-all.png)
-Pour étudier un phénomène aussi hétérogène dans ses manifestations que ramifié spatialement, matériellement et historiquement, nous avons combiné trois méthodes d'enquête qui offrent trois niveaux d'analyse, de la plus distante à la plus spécifique. Ajustées les unes par rapport aux autres, ces lentilles permettent d'analyser finement les d'interactions situées à un instant T autour d'un système d'IA particulier tout en ayant la capacité de les situer dans des vues plus larges.
+Pour étudier un phénomène aussi hétérogène dans ses manifestations que ramifié spatialement, matériellement et historiquement, **nous avons combiné trois méthodes d'enquête qui offrent trois niveaux d'analyse, de la plus distante à la plus située**. Ajustées les unes par rapport aux autres, ces lentilles permettent de saisir la formation de l’IA depuis les “jeux de prises” et leur circulation depuis un instant T autour d'un système d'IA particulier aux imaginaires présents dans les récits qui font autorité.
 
 *Une premier niveau d’analyse* (![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/medias.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-medias.png)), mobilisant des méthodes numériques d’analyse de corpus textuels conséquents, a consisté à thématiser et cartographier les enjeux relatifs à l’IA présents dans les récits médiatiques vecteurs de critiques ou, au contraire, vecteurs de promesses. A partir d’un corpus de plus de 45.000 articles parus dans la presse écrite française (281 sources) entre 2011 et 2021, nous avons entraîné un modèle de traitement automatique du langage pour obtenir deux sous-corpus (comprenant 14.000 articles au total) : un sous-corpus d’articles “critiques”, mettant en avant les effets délétères de l’IA et un sous-corpus d’articles “positifs”, vantant les bienfaits de l’IA. Nous avons dans un second temps généré un réseau des thèmes présents, analysé leur tonalité, leur évolution dans le temps et repéré les entités mentionnées pour chacun de ces thèmes.
 
-Cette première plongée dans les discours de l’IA nous a permis de mettre à jour quatre configurations—ou discours-types qui font apparaître des types d’entités et des relations spécifiques entre ces entités. Ces configurations s’organisent dans une carte bien utile pour comprendre la performativité des discours et l’emprise qu’ils exercent sur les pratiques situées des acteurs et sur la disponibilités de prises.
+Cette première plongée dans les discours de l’IA nous a permis de mettre à jour quatre configurations—ou récits-types qui font apparaître des types d’entités et des relations spécifiques entre ces entités. Ces configurations s’organisent dans une matrice bien utile pour comprendre la performativité de ces récits et l’emprise qu’ils exercent sur le cadrage des problèmes dans des situations concrètes.
 
 <br>
 
-*Un deuxième niveau d’analyse*, le plus conséquent et pivot dans notre approche, se concentre sur les ![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/pratiques.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-pratiques.png). Au cours d’une enquête collective, réunissant des *praticien.nes soucieux.ses* de l’IA (n=29) aux activités très diverses, nous avons testé un dispositif qui remplit d’une part un rôle d’intensification des expériences vécues comme problématiques ou préoccupantes et d’autre part un rôle d’explication des opérations entreprises pour les transformer (ou dans certains cas, du sentiment d’impuissance de ne pas pouvoir le faire).
+*Un deuxième niveau d’analyse*, le plus conséquent et pivot dans notre approche, se concentre sur les ![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/pratiques.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-pratiques.png). Au lieu d’observer des pratiques individuelles à la manière de l’ethnographie, nous avons organisé une enquête collective réunissant des *praticien.nes soucieux.ses* de l’IA (n=29) aux activités très diverses (data science, journalisme, droit, entreprenariat, recherche, fonction publique, activisme,…). Attentifs aux dynamiques de problématisation qui structurent le champ d’expériences des co-enquêteur.rices (Cefaï, 2012), nous avons conçu et testé un  dispositif qui remplit d’une part un rôle d’*intensification* des expériences vécues comme problématiques ou préoccupantes et d’autre part un rôle d’*explication* des opérations entreprises pour les transformer (ou dans certains cas, du sentiment d’impuissance de ne pas pouvoir le faire). La documentation et les témoignages récoltés à l’aide de ce dispositif nous ont permis de thématiser les soucis portés par les praticien.nes et de rendre compte de quatre grands objets d’activité relatifs à l’IA. Ces thèmes sont dépliés dans de petites vidéo qui donnent à entendre la voix des co-enquêteur.rices et montées de manière à faire saisir la pluralité des perspectives et des prises disponibles pour un souci donné. Enfin, nous avons discuté collectivement nos analyses et les thèmes ont été retravaillés par les co-enquêteur.rices eux-mêmes.
 
+Résolument inscrite dans une sociologie pragmatique, l'enquête est envisagée comme un processus de valuation collective ([Cefaï, 2012](https://books.openedition.org/editionsehess/19537)) capable d’agir sur les trajectoires socio-techniques en réouvrant les futurs, notamment grâce à la formation d’objets communs.
 
-Résolument inscrite dans une sociologie pragmatique qui envisage les enjeux de participation aux développements socio-techniques et les problèmes publics qu'ils génèrent d'un seul tenant, l'enquête est vue comme un processus de valuation collective (Musiani, 2009; Cefaï, 2012; Quéré, 2012 ) capable d’agir sur les trajectoires socio-techniques. 
+> “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
 
-> “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet
-constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
+—([Zask, 2004](https://books.openedition.org/editionsehess/11206?lang=fr))
 
-—(Zask, 2004, p.6)
+<br>
 
+Enfin, *le dernier niveau d’analyse* s’intéresse aux ![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/cas.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-cas.png), c’est-à-dire à la conception et à l’expérimentation concrète d’un système ayant recours à des techniques d’IA pour effectuer des tâches spécifiques, dans une situation donnée. Tirant parti de l’analyse des soucis des praticien.nes et de leurs convergences, le choix d’un cas repose sur une volonté d’élaboration de prises communes efficaces, en faisant l’hypothèse qu’une description fine du fonctionnement des rapports soucis/prises depuis ce cas permet de construire des prises transverses, mobilisables dans plusieurs situations, susceptibles d’inverser les “jeux de prises”.
 
+Nous avons mené une enquête approfondie sur le cas d’une expérimentation d’un système de reconnaissance d’images mis en œuvre sur des photographies aériennes par la Direction Générale des Finances Publiques (DGFiP). Cette expérimentation, nommée *Foncier Innovant*, a pour objectif d’aider au contrôle des fraudes sur la taxe foncière. Nous avons d’abord cartographié les entités prises et assemblées par cette expérimentation, à partir d’entretiens avec une vingtaine de personnes et d’un important travail d’archives. Puis, dans l’esprit de la première enquête collective, nous avons réuni une dizaine de personnes concernées au premier plan par ce cas pour déplier, amender et expliciter les soucis et les prises à partir des perspectives de chacun.e.
 
+<br>
 
+A travers ces trois niveaux et leur articulation par la centralité des pratiques, nous multiplions les sondes et parvenons à mieux saisir la formation de l’IA et de ses problèmes, depuis son *traitement monolithique* jusqu’à sa granularité la plus fine, au cœur des *situations d’expérimentation*.
 
 
 
 <br>
 <br>
 
-<small>Note : Chaque pièce iconographique choisie pour accompagner les textes, si elle n’est produite pour les besoins de cette recherche, participe de l’histoire de l’IA (d’une manière qui n’est pas toujours explicitée dans le texte pour des raisons de clarté), du dessin de neurone par S. Ramon y Cajal, jusqu’à la vague de surf, petit clin d’œil au texte de Deleuze sur les sociétés de contrôle).</small>
+---
+
+<small>Note : Chaque pièce iconographique choisie pour accompagner les textes de ce site, si elle n’est produite spécifiquement pour les besoins de cette recherche, participe de l’histoire de l’IA (d’une manière qui n’est pas toujours explicitée dans le texte pour des raisons de clarté), du dessin de neurone par S. Ramon y Cajal, jusqu’à la vague de surf, petit clin d’œil au texte de Deleuze sur les sociétés de contrôle).</small>
 
 
 <br>
