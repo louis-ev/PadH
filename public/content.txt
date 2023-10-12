@@ -56,7 +56,7 @@ Une nouvelle séquence médiatique, plus virulente encore que la précédente, v
 <small>
 
 
-[Entrer dans le site <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/avoir-prise)
+[Entrer dans le site <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/#avoir-prise)
 
 
 <br>
@@ -392,7 +392,7 @@ Par rapport aux modèles proposés par Nick Srnicek ou Kate Crawford, cette repr
 
 <small>
 
-[Voir comment la boucle est utilisée dans l'enquête <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/les-soucis)
+[Voir comment la boucle est utilisée dans l'enquête <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/#les-soucis)
 
 </small>
 
@@ -513,7 +513,7 @@ Les deux cadrant du bas, qu’ils soient associés à la promesse ou à la criti
 
 <small>
 
-[Voir la suite de l'enquête <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/les-soucis)
+[Voir la suite de l'enquête <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/#les-soucis)
 
 </small>
 
@@ -550,7 +550,7 @@ Deux soucis posent la question des formes de participation et constituent pour n
 
 
     
-#### [Tester l'IA dans le monde](/ShapingAI/tester)  |  [Modalités de participation à l'IA](/ShapingAI/participer) 
+#### [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Modalités de participation à l'IA](/ShapingAI/#participer) 
 
 Les participants au workshop était très clairement concernés et alignés sur cet enjeu de la participation, de le voir à la fois comme un endroit "qui cloche" et comme une question mal posée mais dont la reformulation n'est pas évidente. 
 
@@ -621,7 +621,7 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 - Stratégie Nationale IA (2018)
 - article ImageNet (2012)
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/definir)
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/#definir)
 </details>
 
 
@@ -642,7 +642,7 @@ La nécessaire mise en données du monde et les difficultés qui lui sont associ
 - Missing Dataset (Mimi Onuoha)
 - La vie n'est pas donnée
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/data)
+#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/#data)
 </details>
 
 <details>
@@ -662,7 +662,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Écologiser</summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/souci14)
+#### [voir le détail de ce souci](/ShapingAI/#ecologiser)
 </details>
 
 <details>
@@ -672,7 +672,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Institutionnaliser l'IA</summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#institutionnaliser)
 </details>
 
 ### FABRIQUER DES SYSTÈMES
@@ -684,7 +684,7 @@ Résumé et problématisation de cette famille.
 Optimiser </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/fabriquer)
+#### [voir le détail de ce souci](/ShapingAI/#fabriquer)
 </details>
 
 <details>
@@ -693,7 +693,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Passer en production </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#produire)
 </details>
 
 <details>
@@ -702,7 +702,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Travailler avec </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#travailler)
 </details>
 
 <details>
@@ -711,7 +711,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Instrumenter l'action publique </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#action-publique)
 </details>
 
 
@@ -725,7 +725,7 @@ Résumé et problématisation de cette famille.
 Réguler </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#reguler)
 </details>
 
 <details>
@@ -734,7 +734,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Performer le social </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#performer)
 </details>
 
 <details>
@@ -743,7 +743,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Critiquer</summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#critiquer)
 </details>
 
 <details>
@@ -752,7 +752,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Ouvrir les boîtes noires </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#enqueter)
 </details>
 
 <details>
@@ -761,7 +761,7 @@ Ici un petit résumé et le lien vers le souci en question.
 Justifier </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#justifier)
 </details>
 
 ### INTÉGRER L'IA À UN MILIEU
@@ -774,7 +774,7 @@ Résumé et problématisation de cette famille.
 Futurer</summary>
 Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des discours médiatiques et des contre-récits, ce souci rend compte des pratiques de mises en récit de l’intelligence artificielle et de l’agentivité de ces récits sur ce qu’est l’IA et comment elle est perçue, développée et débattue.
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#futurer)
 </details>
 
 <details>
@@ -783,7 +783,7 @@ Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des 
 Valoriser</summary>
 Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur création jusqu’à leur exploitation, avec une attention particulière sur les conditions de leur circulation et les frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#valoriser)
 </details>
 
 <details>
@@ -792,7 +792,7 @@ Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur
 Individuer</summary>
 Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques, la disposition d’un milieu (notamment par des normes juridiques et l’installation d’une culture) et la production des subjectivités par l’appropriation des ces dispositifs et développements dans ces milieux. Les questions d’autonomie (tant comme concept juridique que philosophique) et de fabrique de la normativité sont centrales. 
 
-#### [voir le détail de ce souci](https://latelier-des-chercheurs.fr/ShapingAI/souci15)
+#### [voir le détail de ce souci](/ShapingAI/#individuer)
 </details>
 
 <br>
