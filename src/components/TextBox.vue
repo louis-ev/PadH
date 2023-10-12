@@ -242,11 +242,13 @@ export default {
       const btn = btns[closest_index];
 
       const imagetodisplay = btn.dataset?.imagetodisplay;
+      /*
       console.log("btn to show", imagetodisplay);
       console.log(
         "this.currently_active_image.id",
         this.currently_active_image?.id
       );
+      */
       if (imagetodisplay !== this.currently_active_image?.id)
         this.$emit("showImage", imagetodisplay);
     },
