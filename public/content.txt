@@ -121,8 +121,8 @@ nom_de_page="Avoir prise..."
 url="/#avoir-prise"
 contenu="""
 
-<br>
-<br>
+![](https://corpora.medialab.sciences-po.fr/contenus/mains.png)
+
 <br>
 <br>
 
