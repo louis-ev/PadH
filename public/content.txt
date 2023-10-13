@@ -529,10 +529,28 @@ contenu="""
 <br>
 <br>
 
-![Dispositif d'enquête sur les soucis, composé d'une table de travail, où les documents sont analysés et discutés par les co-enquêteur.rices, surmontée d'une caméra et accompagné d'un écran](https://corpora.medialab.sciences-po.fr/contenus/soucis-intro.png)
+![Dispositif d'enquête, composé d'une table de travail, où les documents sont analysés et discutés par les co-enquêteur.rices, surmontée d'une caméra et accompagné d'un écran](https://corpora.medialab.sciences-po.fr/contenus/soucis-intro.png)
 
 # Les soucis de l'IA
 ---
+
+## Enquête collective et dispositif d'attention
+
+Résolument inscrite dans une sociologie pragmatique, l'enquête est envisagée comme un processus de valuation collective ([Cefaï, 2012](https://books.openedition.org/editionsehess/19537)) capable d’agir sur les trajectoires socio-techniques en réouvrant les futurs, notamment grâce à la formation d’objets communs.
+
+> “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
+
+— [Joëlle Zask, 2004](https://books.openedition.org/editionsehess/11206?lang=fr)
+
+**Les vidéos : Des soucis individuels aux soucis composés**
+
+L'explicitation des soucis à partir des documents a permis de reconstituer pour chacun des co-enquêteur.rices une série d'opérations concrètes au sein des pratiques avec les affects associés. Ces éléments réflexifs ont mis à jour des perspectives et des impossibilités d'évolution, chacune faisant l'objet d'une valuation par les co-enquêteur.rices et toujours contextualisé à partir de leurs pratiques et des prises qui leur semblent accessibles.
+
+Ces différents récits individuels ont été thématisés dans des "soucis collectifs", qui composent depuis des pratiques différentes des manières de décrire, d'appréhender et d'agir sur un même thème.
+
+**L'archive documentaire : sédimentation et circulations des prises**
+
+<br>
 
 ## Le développement de l’IA, pris entre tests et participation publique
 
@@ -543,9 +561,6 @@ Un jeu de miroirs entre expérimentations et participation publique : l'expérim
 
 Deux soucis posent la question des formes de participation et constituent pour nous un point d'entrée à partir duquel lire les autres soucis / problématique de recherche :
     
-
-
-    
 #### [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Modalités de participation à l'IA](/ShapingAI/#participer) 
 
 Les participants au workshop était très clairement concernés et alignés sur cet enjeu de la participation, de le voir à la fois comme un endroit "qui cloche" et comme une question mal posée mais dont la reformulation n'est pas évidente. 
@@ -554,16 +569,8 @@ Les participants au workshop était très clairement concernés et alignés sur 
 <br>
 <br>
 
-
-
 ## Des soucis à 4 motifs  
 ---
-
-Résolument inscrite dans une sociologie pragmatique, l'enquête est envisagée comme un processus de valuation collective ([Cefaï, 2012](https://books.openedition.org/editionsehess/19537)) capable d’agir sur les trajectoires socio-techniques en réouvrant les futurs, notamment grâce à la formation d’objets communs.
-
-> “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
-
-— [Joëlle Zask, 2004](https://books.openedition.org/editionsehess/11206?lang=fr)
 
 
 Un espace de problèmes organisé à partir des expériences vécues comme problématiques par les praticien.nes de l'IA depuis leurs activités situées et replacées sur la boucle de l'IA.
@@ -575,13 +582,7 @@ Un espace de problèmes organisé à partir des expériences vécues comme probl
 <br>
 <br>
 
-### Des soucis individuels aux soucis composés
-
-**L'explicitation des soucis à partir des documents** a permis de reconstituer pour chacun des co-enquêteur.rices une série d'opérations concrètes au sein des pratiques avec les affects associés. Ces éléments réflexifs ont mis à jour des perspectives et des impossibilités d'évolution, chacune faisant l'objet d'une valuation par les co-enquêteur.rices et toujours contextualisé à partir de leurs pratiques et des prises qui leur semblent accessibles.
-
-Ces différents récits individuels ont été thématisés dans des "soucis collectifs", qui composent depuis des pratiques différentes des manières de décrire, d'appréhender et d'agir sur un même thème.
-
-Si on prend l'exemple du souci ![Exemple de composition d'un souci - Verbatim issus de nos entretiens](https://corpora.medialab.sciences-po.fr/contenus/travailler-icone.png>https://corpora.medialab.sciences-po.fr/contenus/travailler.png)
+**Les compositions** Si on prend l'exemple du souci ![Exemple de composition d'un souci - Verbatim issus de nos entretiens](https://corpora.medialab.sciences-po.fr/contenus/travailler-icone.png>https://corpora.medialab.sciences-po.fr/contenus/travailler.png)
 
 <br>
 
