@@ -542,13 +542,15 @@ Résolument inscrite dans une sociologie pragmatique, l'enquête est envisagée 
 
 — [Joëlle Zask, 2004](https://books.openedition.org/editionsehess/11206?lang=fr)
 
-**Les vidéos : Des soucis individuels aux soucis composés**
+**Travailler des soucis composés avec la vidéo**
 
 L'explicitation des soucis à partir des documents a permis de reconstituer pour chacun des co-enquêteur.rices une série d'opérations concrètes au sein des pratiques avec les affects associés. Ces éléments réflexifs ont mis à jour des perspectives et des impossibilités d'évolution, chacune faisant l'objet d'une valuation par les co-enquêteur.rices et toujours contextualisé à partir de leurs pratiques et des prises qui leur semblent accessibles.
 
 Ces différents récits individuels ont été thématisés dans des "soucis collectifs", qui composent depuis des pratiques différentes des manières de décrire, d'appréhender et d'agir sur un même thème.
 
 **L'archive documentaire : sédimentation et circulations des prises**
+Nous avons récoltés plus de 1000 ![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.png>https://corpora.medialab.sciences-po.fr/contenus/archive.png) donct 477 ont été associés par les co-enquêteur.rices à des soucis.
+
 
 <br>
 
@@ -588,7 +590,6 @@ Un espace de problèmes organisé à partir des expériences vécues comme probl
 
 **L'archive documentaire : sédimentation et circulations des prises**
 
-![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/archive.png)
 ![Documents mobilisés par les co-enquêteurs oragnisés selon par leurs motifs et triés par date de publications.](https://corpora.medialab.sciences-po.fr/contenus/distribution-archive.png)
 
 
