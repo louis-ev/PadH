@@ -583,7 +583,7 @@ Si on prend l'exemple du souci ![Exemple de composition d'un souci - Verbatim is
 
 **L'archive documentaire : sédimentation et circulations des prises**
 
-![distribution des documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/archive.png)
+![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/archive.png)
 
 Un autre élément très utiles à la constitution des soucis collectifs a été l'analyse de l'archive documentaire qui, d'une part concrétise les prises en témoignant d'actions passées. D'autre part, elle fait apparaître des circulations intéressante et met en lien les pratiques comme des points de jonction et de construction de prises communes.
 
