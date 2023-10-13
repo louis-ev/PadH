@@ -239,7 +239,7 @@ Le concept de **prise** s’articule ainsi dans notre approche à celui des **so
 
 ![extraits de nos entretiens, illustrations du concept de prise dans le récit rétrospectif de deux praticiens de l'IA.](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-19-15-13.png)
 
-Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces opérations participent de la constitution et de la trajectoire de l’IA. **En prêtant attention aux soucis de praticien.nes de l’IA en France, notre recherche cherche ainsi à repérer les pratiques (dans leur pluralité) et les séries d’opérations et d’épreuves qui donnent forme IA.**
+Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces opérations participent de la constitution et de la trajectoire de l’IA. **En prêtant attention aux soucis de praticien.nes de l’IA en France, notre recherche cherche ainsi à repérer les pratiques (dans leur pluralité) et les séries d’opérations et d’épreuves qui donnent forme à l'IA.**
 
 
 Par rapport au courant participatif des STS, cette approche propose au moins **trois déplacements** :
@@ -273,17 +273,11 @@ Pour étudier un phénomène aussi hétérogène dans ses manifestations que ram
 
 *Une premier niveau d’analyse* (![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/medias.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-medias.png)), mobilisant des méthodes numériques d’analyse de corpus textuels conséquents, a consisté à thématiser et cartographier les enjeux relatifs à l’IA présents dans les récits médiatiques vecteurs de critiques ou, au contraire, vecteurs de promesses. A partir d’un corpus de plus de 45.000 articles parus dans la presse écrite française (281 sources) entre 2011 et 2021, nous avons entraîné un modèle de traitement automatique du langage pour obtenir deux sous-corpus (comprenant 14.000 articles au total) : un sous-corpus d’articles “critiques”, mettant en avant les effets délétères de l’IA et un sous-corpus d’articles “positifs”, vantant les bienfaits de l’IA. Nous avons dans un second temps généré un réseau des thèmes présents, analysé leur tonalité, leur évolution dans le temps et repéré les entités mentionnées pour chacun de ces thèmes.
 
-Cette première plongée dans les discours de l’IA nous a permis de mettre à jour quatre configurations—ou récits-types qui font apparaître des types d’entités et des relations spécifiques entre ces entités. Ces configurations s’organisent dans une matrice bien utile pour comprendre la performativité de ces récits et l’emprise qu’ils exercent sur le cadrage des problèmes dans des situations concrètes.
+Cette première plongée dans les discours de l’IA nous a permis de mettre à jour quatre configurations—ou récits-types qui font apparaître des types d’entités et des relations spécifiques entre ces entités. Ces configurations s’organisent dans une matrice bien utile pour comprendre l’emprise que ces récits exercent sur le cadrage des problèmes dans des situations concrètes.
 
 <br>
 
-*Un deuxième niveau d’analyse*, le plus conséquent et pivot dans notre approche, se concentre sur les ![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/pratiques.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-pratiques.png). Au lieu d’observer des pratiques individuelles à la manière de l’ethnographie, nous avons organisé une enquête collective réunissant des *praticien.nes soucieux.ses* de l’IA (n=29) aux activités très diverses (data science, journalisme, droit, entreprenariat, recherche, fonction publique, activisme,…). Attentifs aux dynamiques de problématisation qui structurent le champ d’expériences des co-enquêteur.rices (Cefaï, 2012), nous avons conçu et testé un  dispositif qui remplit d’une part un rôle d’*intensification* des expériences vécues comme problématiques ou préoccupantes et d’autre part un rôle d’*explication* des opérations entreprises pour les transformer (ou dans certains cas, du sentiment d’impuissance de ne pas pouvoir le faire). La documentation et les témoignages récoltés à l’aide de ce dispositif nous ont permis de thématiser les soucis portés par les praticien.nes et de rendre compte de quatre grands objets d’activité relatifs à l’IA. Ces thèmes sont dépliés dans de petites vidéo qui donnent à entendre la voix des co-enquêteur.rices et montées de manière à faire saisir la pluralité des perspectives et des prises disponibles pour un souci donné. Enfin, nous avons discuté collectivement nos analyses et les thèmes ont été retravaillés par les co-enquêteur.rices eux-mêmes.
-
-Résolument inscrite dans une sociologie pragmatique, l'enquête est envisagée comme un processus de valuation collective ([Cefaï, 2012](https://books.openedition.org/editionsehess/19537)) capable d’agir sur les trajectoires socio-techniques en réouvrant les futurs, notamment grâce à la formation d’objets communs.
-
-> “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
-
-—([Zask, 2004](https://books.openedition.org/editionsehess/11206?lang=fr))
+*Un deuxième niveau d’analyse*, le plus conséquent et pivot dans notre approche, se concentre sur les ![Les trois lentilles mobilisées dans notre recherche et leur articulation](https://corpora.medialab.sciences-po.fr/contenus/pratiques.png>https://corpora.medialab.sciences-po.fr/contenus/methodes-pratiques.png). Au lieu d’observer des pratiques individuelles à la manière de l’ethnographie, nous avons organisé une enquête collective réunissant des *praticien.nes soucieux.ses* de l’IA (n=29) aux activités très diverses (data science, journalisme, droit, entreprenariat, recherche, fonction publique, activisme,…). Attentifs aux dynamiques de problématisation qui structurent le champ d’expériences des co-enquêteur.rices (Cefaï, 2012), nous avons conçu et testé un  dispositif qui remplit d’une part un rôle d’*intensification* des expériences vécues comme problématiques ou préoccupantes et d’autre part un rôle d’*explication* des opérations entreprises pour les transformer (ou dans certains cas, du sentiment d’impuissance de ne pas pouvoir le faire). La documentation et les témoignages récoltés à l’aide de ce dispositif nous ont permis de thématiser les soucis portés par les praticien.nes et de rendre compte de quatre grands objets d’activité relatifs à l’IA. Ces thèmes sont dépliés dans de petites vidéo qui donnent à entendre la voix des co-enquêteur.rices et montées de manière à faire saisir la pluralité des perspectives et des prises disponibles pour un souci donné. Enfin, nous avons discuté collectivement nos analyses et les thèmes ont été retravaillés par les co-enquêteur.rices.
 
 <br>
 
@@ -561,6 +555,13 @@ Les participants au workshop était très clairement concernés et alignés sur 
 
 ## Des soucis à 4 motifs  
 ---
+
+Résolument inscrite dans une sociologie pragmatique, l'enquête est envisagée comme un processus de valuation collective ([Cefaï, 2012](https://books.openedition.org/editionsehess/19537)) capable d’agir sur les trajectoires socio-techniques en réouvrant les futurs, notamment grâce à la formation d’objets communs.
+
+> “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
+
+— [Joëlle Zask, 2004](https://books.openedition.org/editionsehess/11206?lang=fr)
+
 
 Un espace de problèmes organisé à partir des expériences vécues comme problématiques par les praticien.nes de l'IA depuis leurs activités situées et replacées sur la boucle de l'IA.
 
