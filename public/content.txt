@@ -1154,13 +1154,18 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 
 <br>
 
-**Thèmes abordés**
-	1. Débat scientifique sur l’objet : limité ou non à l’apprentissage automatique ? Rejoue la controverse symbolique / connexionniste de manière actualisée (de toute façon, le ML/DL s’intègre à des algorithmes et autres logiques (théorie des jeux, SMA, systèmes experts…). Risque de déception (nouvel hiver ?) si limité à seulement apprentissage automatique.
-	2. Entretien de la confusion pour financements : la confusion entre IA connexionniste et symbolique a été entretenue notamment par les institutions de recherche par rapport aux pouvoirs publics (notamment pour des questions de financement). Aussi dans les réponses d’appel à projets etc. buzzword IA utilisé pour remporter des appels. A créé un décalage de perception important. 
-	3. Imaginaires de l’IA puisent dans l’IA symbolique (ancienne IA): imaginaire plus fourni (films, science-fiction)  et réflexions/médiatisation (même juridiques) encore dirigées par les concepts symboliques (ontologie de la machine etc.)
-	4. Une notion qui fait débat en droit et qui a des effets : Lois et réglement IA (UE) s’appuient sur des définitions extensives. Définition des systèmes à haut risques (réglementation contraignante) âprement négociée. Nécessité de cohérence entre les notions définies dans les différents textes. Lobbys importants (business + nationaux) pour influencer le travail de rédaction du texte européen. Réglementation sectorielle préférée par beaucoup d’acteus (invalidation de l’objet IA).
-	5. Approches pour se débarrasser de cet objet / critiques de l’objet : Nommer autrement (ex. pattern recognition / économie de la donnée), se débarrasser des récits antiques. Redéfinir en situant historiquement, ce qui permet une critique différente en élargissant la focale de ce qui est en jeu (forme d’organisation des sociétés complexes / informatisation).
-	6. Volet industriel/économique peu mis au centre alors que premier : Internet est devenue une industrie totale et globale. Somme d’objets qui s’aggrègent avec le temps pour former une “économie des données”.
+###Thèmes abordés
+**Débat scientifique sur l’objet**, limité ou non à l’apprentissage automatique ? Rejoue la controverse symbolique / connexionniste de manière actualisée (de toute façon, le ML/DL s’intègre à des algorithmes et autres logiques (théorie des jeux, SMA, systèmes experts…). Risque de déception (nouvel hiver ?) si limité à seulement apprentissage automatique.
+
+**Entretien de la confusion pour financements** La confusion entre IA connexionniste et symbolique a été entretenue notamment par les institutions de recherche par rapport aux pouvoirs publics (notamment pour des questions de financement). Aussi dans les réponses d’appel à projets etc. buzzword IA utilisé pour remporter des appels. A créé un décalage de perception important. 
+
+**Imaginaires de l’IA** puisent dans l’IA symbolique (ancienne IA): imaginaire plus fourni (films, science-fiction)  et réflexions/médiatisation (même juridiques) encore dirigées par les concepts symboliques (ontologie de la machine etc.)
+
+**Une notion qui fait débat en droit et qui a des effets** Lois et réglement IA (UE) s’appuient sur des définitions extensives. Définition des systèmes à haut risques (réglementation contraignante) âprement négociée. Nécessité de cohérence entre les notions définies dans les différents textes. Lobbys importants (business + nationaux) pour influencer le travail de rédaction du texte européen. Réglementation sectorielle préférée par beaucoup d’acteus (invalidation de l’objet IA).
+
+**Approches critiques pour se débarrasser de cet objet** Nommer autrement (ex. pattern recognition / économie de la donnée), se débarrasser des récits antiques. Redéfinir en situant historiquement, ce qui permet une critique différente en élargissant la focale de ce qui est en jeu (forme d’organisation des sociétés complexes / informatisation).
+
+**Volet industriel/économique peu mis au centre** alors que premier : Internet est devenue une industrie totale et globale. Somme d’objets qui s’aggrègent avec le temps pour former une “économie des données”.
 
 <br>
 
@@ -1175,6 +1180,80 @@ Assemblée Nationale, IA Act, House of Mirrors (exposition), Légifrance, IA à 
 
 ### Les documents (26)
 ##### 1.1
+
+
+"""
+
+
+[PAGE]
+url="/#travailler"
+nom_de_page="Travailler avec l'IA"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Travailler avec l'IA
+
+> “La force de travail se déplace et on la retrouve aujourd'hui à différents endroits.”
+
+— K., artiste
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720018455?h=240141e50b" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+
+
+<br>
+
+###Thèmes abordés
+
+**Intervention humaine et dégradation du travail (travail du clic)** 
+- pour le data scientist, 3 postes perçus → collecte et définition du dataset, définition de l’architecture, et définition des paramètres d’optimisation.
+- L’humain dans la boucle dans l’implémentation : celui qui en dernier ressort valide ou invalide la sortie de la machine. Importance pour des questions de responsabilité.
+- Tâches d’annotation : tâches plus ou moins compliquées (du captcha à la rédaction), souvent déplacé dans des pays avec main d’œuvre moins chère. Cas des annotations participatives (avec ou sans rétribution - en mode commun ou en mode travail)
+
+**Beta-test et entraînement des algo** Tâches de vérification et de recalibrage / ré-entraînement. Homogénéisation des missions, qui deviennent des missions de bureau (peu de terrain et de mobilisation du corps). Dans la phase de déploiement, les tâches relatives aux systèmes d’IA se superposent à celles déjà effectuées (et qualité plus faible).
+
+**Prisme de la théorie politique classique** Exploitation d’une main d’œuvre précarisée avec développements d’instruments de contrôle / managériaux (Amazon : “work hard, have fun, make history” ou classes d’ouvriers / de consommateurs / de patrons). Peu de diversité des profils dans les équipes d’IA (hommes blancs très diplômés). Glissements : suppression de catégories d’emplois moins qualifiés au profit de moins d’emplois très qualifiés. Dévalorisation du travail : Dépend du contexte (ex. aviation : environnement déjà très contraint) - techniques d’enrôlement auprès de travailleurs déjà dévalorisés/précarisés (ex. sécurité / CSU)…
+
+**Pas de remplacement du travail, mais déplacement** Tant dans les types de tâches / transfo des missions et des statuts que géographiquement. Disparition des métiers fait partie de l’imaginaire, mais il y a juste un déplacement de la force de travail. Célébration de la machine pour invisibiliser le travail qui s’est déplacé. Quid de la technicité qui ne sera plus maîtrisée / perte de savoir-faires critiques ?
+
+**Gain de temps et/ou manque de personnel** Rhétorique de l’efficacité et de l’objectivité (face à subjectivité humaine) et IA comme instrument pertinent sur certains types de tâches (reconnaissance, contrôle,...). Rhétorique dans certains champs d’activité du manque de main d’œuvre pour développements de systèmes d’IA (médecine, agriculture…)
+
+**Reconsidération de l’expertise** Si l’IA ne “remplace pas” le travail humain, il le met en tension et le transforme (encore plus vrai avec les IA génératives ?). Impose une forme de réflexivité et re-négociation collective des tâches ? L’expertise et les prises de décision se déplacent elles-aussi des agents/opérateurs vers les développeurs et data scientists qui scriptent les algo (et vérouillent souvent les possibles).
+
+**Resituer dans une histoire longue du travail en informatique** Figure du Magicien d’Oz (figure encore très présente en IHM / Computer sciences). Début du XIXe siècle, salles de calculs avec calculateurs humains, avec une forte rationalisation/division du travail (opérations de base versus grands mathématiciens). Puis comparaison de la rapidité d’exécution avec les premiers ordinateurs. Voir l'AI non pas comme un outil d'émancipation ou un outil de réflexion sur l'intelligence mais au contraire un outil disciplinaire dans le cadre très restreint du travail. Progrès n’est pas compris dans le sens du progrès social ou de la qualité des services rendus (publics ou privés) mais du progrès technique.
+
+**Médiations et traductions à retracer (STS)** Comment le travail des humains est sollicité, produit, enregistré, transformé, catégorisé, mis dans un espace de calcul qui a des ambitions très spécifiques… Il ne s’agit pas de dire qu’il n’y a pas d’IA parce qu’il y a du travail humain caché (Casilli).
+
+**Rapports de force avec les hiérarchies très asymétriques** Seuls arguments consentis portent sur les biais. Pas de connaissance des projets, pas d’implication des agents ni de co-conception et outils livrés du jour au lendemain. Organisations syndicales écartées et argument du TINA. Rhétorique du progrès fonctionne à plein avec accompagnement au changement, souvent fait par des cabinets de conseil. Les directions cherchent à expliquer / accompagner les agents, vus comme rétifs au changement mais pas du point de vue de l’amélioration des missions de service public (dans le cas du public) → du point de vue de la modernisation de l’action publique (cf. FTAP).
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+Wiener, von Neumann, grands mathématiciens, data scientists, chercheurs, calculateurs humains, mechanical Turk, Magicien d’OZ, ENIAC, Casilli, la force de travail, mecs de la sécurité, géomètres, hiérarchie, agent.es (catégories A, B, C), Amazon, ouvriers, consommateurs, DGFiP, service public, hommes blancs diplômés, médecins, pneumologues, une IA, humain, citoyens
+
+</small>
+
+<br>
+
+### Les documents (36)
+##### 3.4
 
 
 """
