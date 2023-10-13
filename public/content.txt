@@ -529,6 +529,7 @@ contenu="""
 <br>
 <br>
 
+![Dispositif d'enquête sur les soucis, composé d'une table de travail, où les documents sont analysés et discutés par les co-enquêteur.rices, surmontée d'une caméra et accompagné d'un écran](https://corpora.medialab.sciences-po.fr/contenus/soucis-intro.png)
 
 # Les soucis de l'IA
 ---
