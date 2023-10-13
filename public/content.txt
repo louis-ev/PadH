@@ -1025,7 +1025,8 @@ contenu="""
 <br>
 
 
-### Points de friction () et prises
+### Thèmes abordés.
+
 **Consultations publiques (CNIL, UE, …)** Inefficacité (participation washing) et expertise nécessaire pour participer.
 
 **Fabriquer des publics** Médiations pour rendre sensible aux calculs (sensibilité peu élevée). Travail de ventriloquie, travailler à constituer le problème avant qu’il ne puisse être porté/ puisse exister.
@@ -1092,6 +1093,7 @@ contenu="""
 
 
 ### Thèmes abordés.
+
 **Expérimentation a priori; encadrement a posteriori** La fabrique de la loi trop lente par rapport à la fabrique de prototypes + justification pratique : mieux de tester pour encadrer, prises en compte des situations spécifiques par le développement agile (production de connaissances utiles à l’élaboration de régulations).
 
 **Stratégies d’enrôlement et d’alignement par la sécurité et le contrôle** que ce soit les JO ou les centres de supervision urbain (bientôt la surveillance écolo?), ou en termes de contrôle (fraude, occupations, etc.) les acteurs lobbyent à partir de besoins sécuritaires, policiers ou budgétaires pour faire sauter des verrous. Utilisation de l’open data pour analyse des besoins pour enrôlement. Risques importants d’effets cliquet (l’exception devient la règle) et de la banalisation de techniques/lois liberticides.
@@ -1154,7 +1156,8 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 
 <br>
 
-###Thèmes abordés
+###Thèmes abordés.
+
 **Débat scientifique sur l’objet**, limité ou non à l’apprentissage automatique ? Rejoue la controverse symbolique / connexionniste de manière actualisée (de toute façon, le ML/DL s’intègre à des algorithmes et autres logiques (théorie des jeux, SMA, systèmes experts…). Risque de déception (nouvel hiver ?) si limité à seulement apprentissage automatique.
 
 **Entretien de la confusion pour financements** La confusion entre IA connexionniste et symbolique a été entretenue notamment par les institutions de recherche par rapport aux pouvoirs publics (notamment pour des questions de financement). Aussi dans les réponses d’appel à projets etc. buzzword IA utilisé pour remporter des appels. A créé un décalage de perception important. 
@@ -1217,9 +1220,9 @@ contenu="""
 
 <br>
 
-###Thèmes abordés
+###Thèmes abordés.
 
-**Intervention humaine et dégradation du travail (travail du clic)** 
+**Tâches laborieuses tout au long de la chaîne et dégradation du travail** 
 - pour le data scientist, 3 postes perçus → collecte et définition du dataset, définition de l’architecture, et définition des paramètres d’optimisation.
 - L’humain dans la boucle dans l’implémentation : celui qui en dernier ressort valide ou invalide la sortie de la machine. Importance pour des questions de responsabilité.
 - Tâches d’annotation : tâches plus ou moins compliquées (du captcha à la rédaction), souvent déplacé dans des pays avec main d’œuvre moins chère. Cas des annotations participatives (avec ou sans rétribution - en mode commun ou en mode travail)
