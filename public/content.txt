@@ -422,7 +422,9 @@ contenu="""
 # Approcher l’IA par l’analyse des récits médiatiques
 
 ---
+## Petit paragraphe méthodo / et cadrage -> approche de l'analyse visuel de réseaux
 
+## Question de recherche
 
 Pour comprendre les enjeux publics de l'IA, notre première approche vise à étudier la nature du discours médiatique qui se déploie dans le contexte national français. En nous appuyant sur le domaine des *media studies* sur l’IA (Cools et al 2022 ; Chuan, Tsai et Cho 2019 ; Nguyen et Hekman 2022) et sur les méthodes d’issue mapping (Marres et Moats 2015 ; Venturini et Munk 2022), notre enquête sur la couverture médiatique des technologies d’IA vise à comprendre la manière dont les médias participent à façonner l'opinion publique en établissant un horizon d’attentes et des préoccupations concernant ces technologies. Cette approche permet de déconstruire la vision monolithique de l’IA en un ensemble plus composite de technologies de calculs qui se structurent autour de différents domaines d’application associés à l’IA et font l’objet d’une mise en récit spécifique de la part des médias d’information. Elle permet également d’identifier des cas de problématiques spécifiques au contexte français en restituant la pluralité des entités et des enjeux qui leurs sont associés afin de donner des plus de prises pour de futures enquête sur ces cas controversés.
  
