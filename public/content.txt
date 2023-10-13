@@ -1156,7 +1156,7 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 
 <br>
 
-###Thèmes abordés.
+### Thèmes abordés.
 
 **Débat scientifique sur l’objet**, limité ou non à l’apprentissage automatique ? Rejoue la controverse symbolique / connexionniste de manière actualisée (de toute façon, le ML/DL s’intègre à des algorithmes et autres logiques (théorie des jeux, SMA, systèmes experts…). Risque de déception (nouvel hiver ?) si limité à seulement apprentissage automatique.
 
@@ -1220,7 +1220,7 @@ contenu="""
 
 <br>
 
-###Thèmes abordés.
+### Thèmes abordés.
 
 **Tâches laborieuses tout au long de la chaîne et dégradation du travail** 
 - pour le data scientist, 3 postes perçus → collecte et définition du dataset, définition de l’architecture, et définition des paramètres d’optimisation.
