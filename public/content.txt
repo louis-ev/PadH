@@ -9,7 +9,7 @@ contenu="""
 <br>
 <br>
 
-# PRISES ,  EM.PRISES  ,  DÉ.PRISES  ,    RE.PRISES…
+# PRISES ,  MÉ.PRISES, EM.PRISES  ,  DÉ.PRISES  ,  RE.PRISES…
 # Les *formes de participation* au développement de l'IA en France
 
 
