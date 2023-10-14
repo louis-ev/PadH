@@ -545,11 +545,9 @@ Résolument inscrite dans une sociologie pragmatique (voir par exemple [Cefaï, 
 <br>
 
 **Les détails de la méthodologie**
-![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png)
+---
 
-<details>
-
-<summary>La description du dispositif <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png) <details><summary>La description du dispositif <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
 *  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg></summary>
 
 Dans cette perspective, nous avons conçu et testé un dispositif d’enquête qui cherche à **outiller ces deux opérations, la description et la valuation. Comment se rendre attentif à ce qui est, au réel des situations au sein desquelles on agit ? Comment prendre soin de leur description et se rendre sensible à ce que l’on ne dit pas d’elles, ce que l’on occulte ?** Les émotions sont de précieuses informatrices car il s’agit de suivre et d’apprécier la manière dont les différents éléments pris en compte nous affectent. 
@@ -603,6 +601,9 @@ Nous avons récoltés plus de 1000 documents donct 477 ont été associés par l
 </details>
 
 <br>
+
+**Les résultats**
+---
 
 ## Le développement de l’IA, pris entre tests et participation publique
 
