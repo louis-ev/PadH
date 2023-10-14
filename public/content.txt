@@ -10,7 +10,7 @@ contenu="""
 <br>
 
 # PRISES ,  MÉ.PRISES, EM.PRISES  ,  DÉ.PRISES  ,  RE.PRISES…
-# Les *formes de participation* au développement de l'IA en France
+# Les formes de participation au développement de l'IA en France
 
 
 ---
@@ -592,11 +592,10 @@ L'explicitation des soucis à partir des documents a permis de reconstituer pour
 
 Ces différents récits individuels ont été thématisés dans des "soucis collectifs", qui composent depuis des pratiques différentes des manières de décrire, d'appréhender et d'agir sur un même thème.
 
+
 </details>
 
-<details>
-
-<summary> L'archive documentaire : sédimentation et circulations des prises</summary>
+![travail de composition](https://corpora.medialab.sciences-po.fr/contenus/videos.png) <details><summary> L'archive documentaire : sédimentation et circulations des prises</summary>
 
 ![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) 
 Nous avons récoltés plus de 1000 documents donct 477 ont été associés par les co-enquêteur.rices à des soucis.
