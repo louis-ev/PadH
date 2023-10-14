@@ -548,11 +548,13 @@ Résolument inscrite dans une sociologie pragmatique (voir par exemple [Cefaï, 
 
 ---
 
-<details><summary>L’enrôlement de 29 praticien.nes</summary>
+<details>
+<summary>L’enrôlement de 29 praticien.nes</summary>
 Au-delà du critère géographique de leurs activités (situées en France), nous avons pris contact avec des personnes qui manifestaient un questionnement ou racontaient leurs tâtonnements face à l’IA, que ce soit sur des aspects concrets (par exemple, *“je me soucie du consentement dans la constitution de mes jeux de données”*) ou plus largement dans leur approche du sujet. Nous avons aussi veillé à réunir une pluralité de voix (pluralité de pratiques, d’âge, de milieux, d’opinions, …). 
 
 Nous nous sommes notamment aidés de notre veille et des connaissances diversifiées de l’équipe sur le sujet, d’une analyse systématique de comptes Twitter et des recommandations des praticien.nes déjà rencontrés. Les secteurs d’activités des co-enquêteur.rices sont variés : data-science, recherche (tant en maths, IA ou computer science qu’en SHS), journalisme, droit, art, administration publique, syndicalisme et activisme…
 </details>
+
 ![Tweets présentant des signes de réflexivité face à l'IA.](https://corpora.medialab.sciences-po.fr/contenus/tweets.png) 
 
 
@@ -581,13 +583,11 @@ Concrètement, l’enquête collective s’est déroulée en quatre étapes prin
 
 **Discuter collectivement**
 
-
 </details>
 
 ![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png) 
 
 <details>
-
 <summary>Le rôle de la <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-camera-reels" viewBox="0 0 16 16">
   <path d="M6 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0zM1 3a2 2 0 1 0 4 0 2 2 0 0 0-4 0z"/>
   <path d="M9 6h.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 7.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 16H2a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h7zm6 8.73V7.27l-3.5 1.555v4.35l3.5 1.556zM1 8v6a1 1 0 0 0 1 1h7.5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1z"/>
@@ -602,10 +602,10 @@ Ces différents récits individuels ont été thématisés dans des "soucis coll
 
 ![travail de composition](https://corpora.medialab.sciences-po.fr/contenus/videos.png) 
 
-<details><summary> L'archive documentaire, archéologie des prises sur l'IA</summary>
+<details>
+<summary> L'archive documentaire, archéologie des prises sur l'IA</summary>
 
 Nous avons récoltés plus de 1000 documents donct 477 ont été associés par les co-enquêteur.rices à des soucis.
-
 </details>
 
 ![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) 
