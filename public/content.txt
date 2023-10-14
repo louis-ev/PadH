@@ -237,7 +237,7 @@ Nous appelons **souci** le sentiment éprouvé au sein d'une activité répété
 
 Le concept de **prise** s’articule ainsi dans notre approche à celui des **soucis** de praticien.nes. La mise en mouvement provoqué par un souci s’apparente à une forme d’enquête (au sens de Dewey) : on tâtonne, on cherche des moyens, des ressources et des appuis (des *prises*) pour reconfigurer la situation qui préoccupe et à travers cette enquête, l’objet du souci se forme. . En ce sens, les soucis sont un lieu de fabrique et de mise à l'épreuve des prises, qui donnent à voir les possibilités et les contraintes (matérielles, symboliques, sociales) des acteurs pris à partir des milieux qu’ils investissent. 
 
-![extraits de nos entretiens, illustrations du concept de prise dans le récit rétrospectif de deux praticiens de l'IA.](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-19-15-13.png)
+![extraits de nos entretiens, illustrations du concept de prise dans le récit rétrospectif de deux praticiens de l'IA.](https://corpora.medialab.sciences-po.fr/contenus/prises.png)
 
 Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces opérations participent de la constitution et de la trajectoire de l’IA. **En prêtant attention aux soucis de praticien.nes de l’IA en France, notre recherche cherche ainsi à repérer les pratiques (dans leur pluralité) et les séries d’opérations et d’épreuves qui donnent forme à l'IA.**
 
