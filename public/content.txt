@@ -572,18 +572,30 @@ Concrètement, l’enquête collective s’est déroulée en cinq étapes princi
 
 </details>
 
+<details>
 
-**Travailler des soucis composés avec la vidéo**
+<summary>
+**Le rôle de la <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-camera-reels" viewBox="0 0 16 16">
+  <path d="M6 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0zM1 3a2 2 0 1 0 4 0 2 2 0 0 0-4 0z"/>
+  <path d="M9 6h.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 7.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 16H2a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h7zm6 8.73V7.27l-3.5 1.555v4.35l3.5 1.556zM1 8v6a1 1 0 0 0 1 1h7.5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1z"/>
+  <path d="M9 6a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM7 3a2 2 0 1 1 4 0 2 2 0 0 1-4 0z"/></svg> dans le travail des soucis composés**
+</summary>
 
 L'explicitation des soucis à partir des documents a permis de reconstituer pour chacun des co-enquêteur.rices une série d'opérations concrètes au sein des pratiques avec les affects associés. Ces éléments réflexifs ont mis à jour des perspectives et des impossibilités d'évolution, chacune faisant l'objet d'une valuation par les co-enquêteur.rices et toujours contextualisé à partir de leurs pratiques et des prises qui leur semblent accessibles.
 
 Ces différents récits individuels ont été thématisés dans des "soucis collectifs", qui composent depuis des pratiques différentes des manières de décrire, d'appréhender et d'agir sur un même thème.
 
-**L'archive documentaire : sédimentation et circulations des prises**
+</details>
+
+<details>
+
+<summary> **L'archive de ![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) : sédimentation et circulations des prises**
+</summary>
 
 
-Nous avons récoltés plus de 1000 ![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) donct 477 ont été associés par les co-enquêteur.rices à des soucis.
+Nous avons récoltés plus de 1000 documents donct 477 ont été associés par les co-enquêteur.rices à des soucis.
 
+</details>
 
 <br>
 
