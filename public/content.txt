@@ -548,7 +548,12 @@ Résolument inscrite dans une sociologie pragmatique (voir par exemple [Cefaï, 
 
 ---
 
-![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png) 
+<details><summary>L’enrôlement de 29 praticien.nes</summary>. 
+Au-delà du critère géographique de leurs activités (situées en France), nous avons pris contact avec des personnes qui manifestaient un questionnement ou racontaient leurs tâtonnements face à l’IA, que ce soit sur des aspects concrets (par exemple, *“je me soucie du consentement dans la constitution de mes jeux de données”*) ou plus largement dans leur approche du sujet. Nous avons aussi veillé à réunir une pluralité de voix (pluralité de pratiques, d’âge, de milieux, d’opinions, …). Nous nous sommes notamment aidés de notre veille et des connaissances diversifiées de l’équipe sur le sujet, d’une analyse systématique de comptes Twitter et des recommandations des praticien.nes déjà rencontrés. Les secteurs d’activités des co-enquêteur.rices sont variés : data-science, recherche (tant en maths, IA ou computer science qu’en SHS), journalisme, droit, art, administration publique, syndicalisme et activisme…
+</details
+![Tweets présentant des signes de réflexivité face à l'IA.](https://corpora.medialab.sciences-po.fr/contenus/tweets.png) 
+
+
 <details>
 <summary>La description du dispositif <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
 *  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
@@ -558,10 +563,7 @@ Dans cette perspective, nous avons conçu et testé un dispositif d’enquête q
 
 Un premier principe du dispositif consiste ainsi à intensifier les expériences vécues pour faire apparaître une scène et la décrire, mais aussi pour en faire ressortir les aspects problématiques ou préoccupants. De plus, il doit s’attacher à faire expliciter les réactions potentielles ou réalisées face à l’incertitude provoquée par la situation. C’est-à-dire faire déplier les actions entreprises, spéculées ou empêchées dans la recherche d’une bonne conduite et d’en discuter leurs valeurs.
 
-Concrètement, l’enquête collective s’est déroulée en cinq étapes principales : 
-
-**L’enrôlement de 29 praticien.nes**. Au-delà du critère géographique de leurs activités (situées en France), nous avons pris contact avec des personnes qui manifestaient un questionnement ou racontaient leurs tâtonnements face à l’IA, que ce soit sur des aspects concrets (par exemple, *“je me soucie du consentement dans la constitution de mes jeux de données”*) ou plus largement dans leur approche du sujet. Nous avons aussi veillé à réunir une pluralité de voix (pluralité de pratiques, d’âge, de milieux, d’opinions, …). Nous nous sommes notamment aidés de notre veille et des connaissances diversifiées de l’équipe sur le sujet, d’une analyse systématique de comptes Twitter et des recommandations des praticien.nes déjà rencontrés. Les secteurs d’activités des co-enquêteur.rices sont variés : data-science, recherche (tant en maths, IA ou computer science qu’en SHS), journalisme, droit, art, administration publique, syndicalisme et activisme…
-![Tweets présentant des signes de réflexivité face à l'IA.](https://corpora.medialab.sciences-po.fr/contenus/tweets.png) 
+Concrètement, l’enquête collective s’est déroulée en quatre étapes principales : 
 
 **Discussion autour des parcours de vie** de chacun.e des 29 praticien.nes (environ 2h), au cours de laquelle étaient identifiées les expériences vécues relatives à l’IA et leurs enjeux. 
 
@@ -579,8 +581,7 @@ Concrètement, l’enquête collective s’est déroulée en cinq étapes princi
 
 
 </details>
-
-<br> 
+![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png) 
 
 <details>
 
