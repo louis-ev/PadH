@@ -545,6 +545,7 @@ Résolument inscrite dans une sociologie pragmatique (voir par exemple [Cefaï, 
 <br>
 
 **Les détails de la méthodologie**
+
 ---
 
 ![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png) 
@@ -596,16 +597,19 @@ Ces différents récits individuels ont été thématisés dans des "soucis coll
 
 </details>
 
-![travail de composition](https://corpora.medialab.sciences-po.fr/contenus/videos.png) <details><summary> L'archive documentaire : sédimentation et circulations des prises</summary>
+![travail de composition](https://corpora.medialab.sciences-po.fr/contenus/videos.png) 
 
-![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) 
+<details><summary> L'archive documentaire : sédimentation et circulations des prises</summary>
+
 Nous avons récoltés plus de 1000 documents donct 477 ont été associés par les co-enquêteur.rices à des soucis.
 
 </details>
 
+![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) 
 <br>
 
 **Les résultats**
+
 ---
 
 ## Le développement de l’IA, pris entre tests et participation publique
