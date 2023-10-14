@@ -546,6 +546,33 @@ Résolument inscrite dans une sociologie pragmatique, l'enquête est envisagée 
 
 ![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png)
 
+<details>
+
+<summary>Lire la description du dispositif d’enquête</summary>
+Dans cette perspective, nous avons conçu et testé un dispositif d’enquête qui cherche à **outiller ces deux opérations, la description et la valuation. Comment se rendre attentif à ce qui est, au réel des situations au sein desquelles on agit ? Comment prendre soin de leur description et se rendre sensible à ce que l’on ne dit pas d’elles, ce que l’on occulte ?** Les émotions sont de précieuses informatrices car il s’agit de suivre et d’apprécier la manière dont les différents éléments pris en compte nous affectent. 
+Un premier principe du dispositif consiste ainsi à intensifier les expériences vécues pour faire apparaître une scène et la décrire, mais aussi pour en faire ressortir les aspects problématiques ou préoccupants. De plus, il doit s’attacher à faire expliciter les réactions potentielles ou réalisées face à l’incertitude provoquée par la situation. C’est-à-dire faire déplier les actions entreprises, spéculées ou empêchées dans la recherche d’une bonne conduite et d’en discuter leurs valeurs.
+Concrètement, l’enquête collective s’est déroulée en cinq étapes principales : 
+**L’enrôlement de 29 praticien.nes**. Au-delà du critère géographique de leurs activités (situées en France), nous avons été curieux de personnes qui manifestaient un questionnement ou racontaient leurs tâtonnements face à l’IA, que ce soit sur des aspects concrets (par exemple, *“je me soucie du consentement dans la constitution de mes jeux de données”*) ou plus largement dans leur approche du sujet. Nous avons aussi veillé à réunir une pluralité de voix (pluralité de pratiques, d’âge, de milieux, d’opinions, …). Nous nous sommes notamment aidés de notre veille et des connaissances diversifiées de l’équipe sur le sujet, d’une analyse systématique de comptes Twitter et des recommandations des praticien.nes déjà rencontrés. Les secteurs d’activités des co-enquêteur.rices sont variés : data-science, recherche (tant en maths, IA ou computer science qu’en SHS), journalisme, droit, art, administration publique, syndicalisme et activisme…
+
+
+**Discussion autour des parcours de vie** de chacun.e des 29 praticien.nes (environ 2h), au cours de laquelle étaient identifiées les expériences vécues relatives à l’IA et leurs enjeux. 
+
+
+**Recherche documentaire**, conduite principalement en ligne. A partir des discussions biographiques, nus avons tenté de trouver des traces des éléments mentionnés dans ces discussions, permettant de les matérialiser (voir plus bas pour plus de détail sur l’archive)
+
+
+**Formulation individuelle des soucis**, filmé, avec la médiation des documents (voir photo ci-dessous)
+
+
+**Composer des soucis**
+
+
+**Discuter collectivement**
+
+
+</details>
+
+
 **Travailler des soucis composés avec la vidéo**
 
 L'explicitation des soucis à partir des documents a permis de reconstituer pour chacun des co-enquêteur.rices une série d'opérations concrètes au sein des pratiques avec les affects associés. Ces éléments réflexifs ont mis à jour des perspectives et des impossibilités d'évolution, chacune faisant l'objet d'une valuation par les co-enquêteur.rices et toujours contextualisé à partir de leurs pratiques et des prises qui leur semblent accessibles.
