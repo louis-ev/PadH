@@ -591,7 +591,7 @@ Concrètement, l’enquête collective s’est déroulée en quatre étapes prin
 <summary>Le rôle de la <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-camera-reels" viewBox="0 0 16 16">
   <path d="M6 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0zM1 3a2 2 0 1 0 4 0 2 2 0 0 0-4 0z"/>
   <path d="M9 6h.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 7.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 16H2a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h7zm6 8.73V7.27l-3.5 1.555v4.35l3.5 1.556zM1 8v6a1 1 0 0 0 1 1h7.5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1z"/>
-  <path d="M9 6a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM7 3a2 2 0 1 1 4 0 2 2 0 0 1-4 0z"/></svg> dans le travail des soucis composés**
+  <path d="M9 6a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM7 3a2 2 0 1 1 4 0 2 2 0 0 1-4 0z"/></svg> dans le travail de composition
 </summary>
 
 L'explicitation des soucis à partir des documents a permis de reconstituer pour chacun des co-enquêteur.rices une série d'opérations concrètes au sein des pratiques avec les affects associés. Ces éléments réflexifs ont mis à jour des perspectives et des impossibilités d'évolution, chacune faisant l'objet d'une valuation par les co-enquêteur.rices et toujours contextualisé à partir de leurs pratiques et des prises qui leur semblent accessibles.
@@ -606,6 +606,7 @@ Ces différents récits individuels ont été thématisés dans des "soucis coll
 <summary> L'archive documentaire, archéologie des prises sur l'IA</summary>
 
 Nous avons récoltés plus de 1000 documents donct 477 ont été associés par les co-enquêteur.rices à des soucis.
+Un autre élément très utiles à la constitution des soucis collectifs a été l'analyse de l'archive documentaire qui, d'une part concrétise les prises en témoignant d'actions passées. D'autre part, elle fait apparaître des circulations intéressante et met en lien les pratiques comme des points de jonction et de construction de prises communes.
 </details>
 
 ![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) 
@@ -637,22 +638,18 @@ Les participants au workshop était très clairement concernés et alignés sur 
 
 Un espace de problèmes organisé à partir des expériences vécues comme problématiques par les praticien.nes de l'IA depuis leurs activités situées et replacées sur la boucle de l'IA.
 
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg> Les 4 motifs des soucis de l'IA, situées sur la boucle  vue ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-27-55.png) | décomposition des motifs avec les 17 soucis ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png).
-
-<br>
-<br>
-
-**Les compositions** Si on prend l'exemple du souci ![Exemple de composition d'un souci - Verbatim issus de nos entretiens](https://corpora.medialab.sciences-po.fr/contenus/travailler-icone.png>https://corpora.medialab.sciences-po.fr/contenus/travailler.png)
-
-<br>
-
-**L'archive documentaire : sédimentation et circulations des prises**
-
-![Documents mobilisés par les co-enquêteurs oragnisés selon par leurs motifs et triés par date de publications.](https://corpora.medialab.sciences-po.fr/contenus/distribution-archive.png)
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg> Les 4 motifs des soucis de l'IA sur la boucle ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-27-55.png) | décomposition des 17 soucis ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png).
 
 
-Un autre élément très utiles à la constitution des soucis collectifs a été l'analyse de l'archive documentaire qui, d'une part concrétise les prises en témoignant d'actions passées. D'autre part, elle fait apparaître des circulations intéressante et met en lien les pratiques comme des points de jonction et de construction de prises communes.
+**Comprendre les soucis à partir des motifs** 
 
+L'exemple du souci ![Exemple de composition d'un souci - Verbatim issus de nos entretiens](https://corpora.medialab.sciences-po.fr/contenus/travailler-icone.png>https://corpora.medialab.sciences-po.fr/contenus/travailler.png)
+
+****
+
+![Documents mobilisés par les co-enquêteurs oragnisés par motifs et par date de publications.](https://corpora.medialab.sciences-po.fr/contenus/distribution-archive.png)
+
+Parmi les documents les plus cités par les co-enquêteur.rices, on trouve 2 textes de loi, l'un national et l'autre européen, un article scientifique marquant dans le récit de l'IA contemporaine, et un portefeuille de projets portés par la Direction Interministérielle du Numérique, sorte de démonstrateur de ce que peut l'IA pour l'action publique.
 ![les 4 documents mobilisés par le plus grand nombre de co-enquêteurs](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-14-38-26.png)
 
 *Deux textes de loi aux trajectoires et finalités variées* : Loi Lemaire et AI Act
