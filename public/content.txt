@@ -549,10 +549,14 @@ Résolument inscrite dans une sociologie pragmatique (voir par exemple [Cefaï, 
 ---
 
 <details>
-<summary>L’enrôlement dans l'enquête de 29 "praticien.nes soucieux.ses"</summary>
-Au-delà du critère géographique de leurs activités (situées en France), nous avons pris contact avec des personnes qui manifestaient un questionnement ou racontaient leurs tâtonnements face à l’IA, que ce soit sur des aspects concrets (par exemple, *“je me soucie du consentement dans la constitution de mes jeux de données”*) ou plus largement dans leur approche du sujet. Nous avons aussi veillé à réunir une pluralité de voix (pluralité de pratiques, d’âge, de milieux, d’opinions, …). 
+<summary>L’enrôlement dans l'enquête de 29 "praticien.nes soucieux.ses"
+</summary>
 
-Nous nous sommes notamment aidés de notre veille et des connaissances diversifiées de l’équipe sur le sujet, d’une analyse systématique de comptes Twitter et des recommandations des praticien.nes déjà rencontrés. Les secteurs d’activités des co-enquêteur.rices sont variés : data-science, recherche (tant en maths, IA ou computer science qu’en SHS), journalisme, droit, art, administration publique, syndicalisme et activisme…
+Au-delà de la situation géographique de leurs activités (situées en France), nous avons pris contact avec des personnes qui manifestaient un questionnement ou racontaient leurs tâtonnements face à l’IA, que ce soit dans leur approche du sujet ou sur des aspects concrets, comme l'illustre par exemple ce tweet : *“Hey, I’m conducting a survey to understand how data science teams work with sensitive data! Interested?”*) ou les deux documents ci-contre. 
+
+Nous nous sommes notamment aidés de notre veille et des connaissances diversifiées de l’équipe sur le sujet, d’une analyse systématique de comptes Twitter et des recommandations des praticien.nes déjà rencontrés. Nous avons veillé à pluraliser les secteurs d’activités des co-enquêteur.rices : data-science, recherche (tant en maths, IA ou computer science qu’en SHS), journalisme, droit, art, administration publique, syndicalisme et activisme… Nous avons également appliquer ce critère de pluralité à d'autres dimensions : âge, genre, milieux, opinions, … 
+
+
 </details>
 
 ![Élements pris comme signes d'une forme de réflexivité des praticien.nes - à gauche, un tweet qui parle de la désertion d'un ingénieur data-scientist; à droite, la charte de contribution à la constitution du jeu de données francophone ouvert pour l'IA (PIAF), portée par Etalab.](https://corpora.medialab.sciences-po.fr/contenus/tweets.png) 
@@ -567,7 +571,7 @@ Dans cette perspective, nous avons conçu et testé un dispositif d’enquête q
 
 Un premier principe du dispositif consiste ainsi à intensifier les expériences vécues pour faire apparaître une scène et la décrire, mais aussi pour en faire ressortir les aspects problématiques ou préoccupants. De plus, il doit s’attacher à faire expliciter les réactions potentielles ou réalisées face à l’incertitude provoquée par la situation. C’est-à-dire faire déplier les actions entreprises, spéculées ou empêchées dans la recherche d’une bonne conduite et d’en discuter leurs valeurs.
 
-Concrètement, l’enquête collective s’est déroulée en quatre étapes principales : 
+Concrètement, l’enquête collective s’est déroulée en quatre étapes : 
 
 **Discussion autour des parcours de vie** de chacun.e des 29 praticien.nes (environ 2h), au cours de laquelle étaient identifiées les expériences vécues relatives à l’IA et leurs enjeux. 
 
