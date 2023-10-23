@@ -563,26 +563,26 @@ Nous nous sommes notamment aidés de notre veille et des connaissances diversifi
 
 
 <details>
-<summary>La description du dispositif <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+<summary>Description du dispositif <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
 *  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
 </summary>
 
 Dans cette perspective, nous avons conçu et testé un dispositif d’enquête qui cherche à **outiller ces deux opérations, la description et la valuation. Comment se rendre attentif à ce qui est, au réel des situations au sein desquelles on agit ? Comment prendre soin de leur description et se rendre sensible à ce que l’on ne dit pas d’elles, ce que l’on occulte ?** Les émotions sont de précieuses informatrices car il s’agit de suivre et d’apprécier la manière dont les différents éléments pris en compte nous affectent. 
 
-Un premier principe du dispositif consiste ainsi à intensifier les expériences vécues pour faire apparaître une scène et la décrire, mais aussi pour en faire ressortir les aspects problématiques ou préoccupants. De plus, il doit s’attacher à faire expliciter les réactions potentielles ou réalisées face à l’incertitude provoquée par la situation. C’est-à-dire faire déplier les actions entreprises, spéculées ou empêchées dans la recherche d’une bonne conduite et d’en discuter leurs valeurs.
+Un premier principe du dispositif consiste ainsi à intensifier les expériences vécues pour faire apparaître une scène à décrire et de rendre saillant les aspects problématiques ou préoccupants. De plus, il s'agit de faire expliciter les réactions potentielles ou réalisées face à l’incertitude provoquée par la situation, c’est-à-dire déplier les actions entreprises, spéculées ou empêchées dans la recherche d’une bonne conduite et d’en discuter leurs valeurs.
 
-Concrètement, l’enquête collective s’est déroulée en quatre étapes : 
+Concrètement, l’enquête collective s’est déroulée en cinq étapes, étalées sur 7 mois : 
 
 **Discussion autour des parcours de vie** de chacun.e des 29 praticien.nes (environ 2h), au cours de laquelle étaient identifiées les expériences vécues relatives à l’IA et leurs enjeux. 
 
 
-**Recherche documentaire**, conduite principalement en ligne. A partir des discussions biographiques, nous avons tenté de matérialiser les éléments mentionnés et d'en retrouver des traces tangibles (voir le point sur l'archive). Nous avons collectés environ 45 documents par personnes.
+**Recherche documentaire**, conduite principalement en ligne. A partir des discussions biographiques, l'équipe a tenté de matérialiser les éléments mentionnés et d'en retrouver des traces tangibles (voir le point sur l'archive). Nous avons collectés environ 45 documents par personnes.
 
 
-**Formulation individuelle des soucis**, filmé, avec la médiation des documents (voir photo ci-dessous)
+**Formulation individuelle des soucis**. Au cours d'une deuxième rencontre (à la cité des Sciences et de l'Industrie), nous avons présenté à chacun.e des co-enquêteur.rices les documents que nous avions collectés à partir de son récit. Ces documents, étalés sur un mur, ont servi à la fois comme support de mémoire mais également comme aide à la thématisation des "soucis" de chacun.e. Les co-enquêteur.rices ont ainsi trié et choisi certains de ses documents, qu'ils ont ensuite placés sur une table afin d'expliciter leur sens et les soucis associés. Ces explicitations ont été filmées avec un point de vue zénithale, ce qui permet de voir les documents et les mains des co-enquêteur.rices et leurs gestes.
 
 
-**Composer des soucis**
+**Composer des soucis**. Les témoignages des 
 
 
 **Discuter collectivement**
