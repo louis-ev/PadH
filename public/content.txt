@@ -548,6 +548,8 @@ Résolument inscrite dans une sociologie pragmatique (voir par exemple [Cefaï, 
 
 ---
 
+![Élements pris comme signes d'une forme de réflexivité des praticien.nes - à gauche, un tweet qui parle de la désertion d'un ingénieur data-scientist; à droite, la charte de contribution à la constitution du jeu de données francophone ouvert pour l'IA (PIAF), portée par Etalab.](https://corpora.medialab.sciences-po.fr/contenus/tweets.png)
+
 <details>
 <summary>L’enrôlement dans l'enquête de 29 "praticien.nes soucieux.ses"
 </summary>
@@ -556,11 +558,9 @@ Au-delà de la situation géographique de leurs activités (situées en France),
 
 Nous nous sommes notamment aidés de notre veille et des connaissances diversifiées de l’équipe sur le sujet, d’une analyse systématique de comptes Twitter et des recommandations des praticien.nes déjà rencontrés. Nous avons veillé à pluraliser les secteurs d’activités des co-enquêteur.rices : data-science, recherche (tant en maths, IA ou computer science qu’en SHS), journalisme, droit, art, administration publique, syndicalisme et activisme… Nous avons également appliquer ce critère de pluralité à d'autres dimensions : âge, genre, milieux, opinions, … 
 
-
 </details>
 
-![Élements pris comme signes d'une forme de réflexivité des praticien.nes - à gauche, un tweet qui parle de la désertion d'un ingénieur data-scientist; à droite, la charte de contribution à la constitution du jeu de données francophone ouvert pour l'IA (PIAF), portée par Etalab.](https://corpora.medialab.sciences-po.fr/contenus/tweets.png) 
-
+ ![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png) 
 
 <details>
 <summary>Description du dispositif <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
@@ -582,14 +582,16 @@ Concrètement, l’enquête collective s’est déroulée en cinq étapes, étal
 **Formulation individuelle des soucis**. Au cours d'une deuxième rencontre à [la cité des Sciences et de l'Industrie](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/living-lab/residences-living-lab/shaping-ai), nous avons présenté à chacun.e des co-enquêteur.rices les documents collectés à partir de leur récit biographique. Étalés sur un mur, ces documents ont joué le rôle de support de mémoire mais a été également une aide à la thématisation des "soucis". Au cours des entretiens (± 2h), les co-enquêteur.rices ont individuellement trié et sélectionné quelques uns de ces documents, pour formuler et expliciter des "soucis". Placés sur une table montée d'une caméra avec point de vue zénithale, ils sont décrits, commentés ou analysés pour éclairer un ou des aspects des soucis thématisés.
 
 
-**Composer des soucis**. Les films ainsi générés au cours des entretiens individuels ont été la matière première d'une analyse thématique des soucis des co-enquêteur.rices. Les manipulations et les gestes associés aux documents sont autant de ressources pour l'analyse que les commentaires oraux. L'analyse a abouti à la création de 19 films (entre 12 et 15 minutes chacun) qui composent des "soucis collectifs". Ces compositions épaississent les problèmes publics de l'intelligence artificielle en montrant à la fois la variété des soucis mais aussi leurs motifs en fonction des pratiques situées des acteur.rices. L'ensemble des matériaux vidéo et documentaire est disponible ici (voir plus bas, la description de chacun des soucis).
+**Composer des soucis**. Les films ainsi générés au cours des entretiens individuels ont été la matière première d'une analyse thématique des soucis des co-enquêteur.rices. Les manipulations et les gestes associés aux documents sont autant de ressources pour l'analyse que les commentaires oraux. L'analyse a abouti à la création de 19 films (entre 12 et 15 minutes chacun) qui composent des "soucis collectifs". Ces compositions épaississent les problèmes publics de l'intelligence artificielle en montrant à la fois la variété des soucis mais aussi leurs motifs en fonction des pratiques situées des acteur.rices. 
+
+<small>A noter : L'ensemble des matériaux vidéo et documentaire est disponible depuis ce site (voir plus bas : la description des soucis).</small>
 
 
 **Discuter collectivement pour identifier des problèmes publics et dessiner des prises communes**. A l'issue de ce travail d'analyse, l'intégralité des matériaux et des résultats a été remise en jeu avec les co-enquêteur.rices, au cours d'un workshop en juin 2022 à la Cité des Sciences et de l'Industrie. Réunissant 23 des 29 co-enquêteur.rices se sont réunis pendant deux jours pour discuter des soucis thématisés. Une deuxième vidéo a été élaborée et enregistrée par groupe de trois co-enquêteur.rices pour 6 des 19 soucis identifiés, témoignant d'une part de l'importance de ces 6 soucis sur l'ensemble et densifiant encore leurs descriptions et interrogeant de manière fine les prises que l'on peut trouver ou fabriquer pour agir sur eux.
 
 </details>
 
-![Vue du dispositif d'enquête avec les documents accrochés au mur et la table de travail avec sa caméra zénithale. Carrefour Numérique 2, Cité des sciences et de l'industrie, Paris.](https://corpora.medialab.sciences-po.fr/contenus/photo-cite.png) 
+![travail de composition](https://corpora.medialab.sciences-po.fr/contenus/videos.png) 
 
 <details>
 <summary>Le rôle de la <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-camera-reels" viewBox="0 0 16 16">
@@ -602,25 +604,28 @@ L'explicitation des soucis à partir des documents a permis de reconstituer pour
 
 A l'aide d'un logiciel de montage, les films pris au cours des entretiens ont été découpés et remontés pour composer les soucis collectifs, donnant à voir pour un même thème la pluralité des perspectives et des prises des co-enquêteur.rices. Ces vidéos sont le matériau de l'analyse : à la manière de la "grounded theory", nous avons cherché itérativement à saturer des thèmes émergents, en juxtaposant des morceaux choisis. Le travail de montage a consisté à faire se répondre des voix autour d'une même problématique, pour la densifier et la complexifier, en cherchant les contrastes et les nuances et en mettant le plus possible en avant la dimension pratique et les actions des acteur.rices.
 
-</details>
-
-![travail de composition](https://corpora.medialab.sciences-po.fr/contenus/videos.png) 
-
-<details>
-<summary> L'archive documentaire, archéologie des prises sur l'IA</summary>
-
-Très utiles dans le travail de constitution des soucis collectifs, les documents ont servi à consolider les thèmes identifiés au cours de l'analyse des vidéos. Plus de 1000 documents ont été récoltés au cours de ce travail d'enquête : ils forment une archive précieuse, soigneusement labellisée. **477 documents, soit près de la moitié de cette archive, ont été associés par les co-enquêteur.rices à des soucis**. Cette matière documentaire est également disponible ci-dessous, organisée et accessible depuis la description des soucis.
-
-Ces documents sont centraux dans l'observatoire de la formation et de la circulation des prises. D'une part, ils sont des enregistrements d'actions passées et à ce titre, ils concrétisent des tentatives de prises par certains acteurs. D'autre part, ils font apparaître des circulations intéressantes qui révèlent des liens historiques entre certaines pratiques ou retracent la carrière de certains termes ou de certains manières de faire. 
-
-L'analyse de cette archive ressemble ainsi à une sorte d'archéologie des prises, qui doit prendre en compte autant les formats d'enregistrement que les actions enregistrées. La visualisation des registres de ces documents montrent que, malgré leur dimension pratique, les documents issus des médias (traditionnels et autres) représentent une part importante des ressources dont les co-enquêteur.ices font usage à part quasi équivalente. Par ailleurs, les registres scientifique, administratif et analytique sont largement dominants, même si pour ces derniers, nous verrons que les mobilisations dépend fortement du type de pratiques et de motifs.
-Par ailleurs, les types de documents sont aussi des indices précieux : ils suggèrent des modalités d'action ou d'intervention possibles dans les modalités de participation à l'IA.
-
+<small>A noter : Les 19 films sont disponibles sur ce site (voir plus bas : la description des soucis, cliquer sur le détail pour chacun.</small>
 
 </details>
 
 ![Distribution des 477 documents de l'archive par type de documents](https://corpora.medialab.sciences-po.fr/contenus/doc-icone.jpg>https://corpora.medialab.sciences-po.fr/contenus/archive.png) 
 
+<details>
+<summary> L'archive documentaire, archéologie des prises sur l'IA</summary>
+
+Très utiles dans le travail de constitution des soucis collectifs, les documents ont servi à consolider les thèmes identifiés au cours de l'analyse des vidéos. Plus de 1000 documents ont été récoltés au cours de ce travail d'enquête : ils forment une archive précieuse, soigneusement labellisée. **477 documents, soit près de la moitié de cette archive, ont été associés par les co-enquêteur.rices à des soucis**. 
+
+Ces documents sont centraux pour l'observatoire de la formation et de la circulation des prises. D'une part, ils sont des enregistrements d'actions passées et à ce titre, ils concrétisent des tentatives de prises par certains acteurs, témoignent de modalités d'action spécifiques. D'autre part, les formats dans lesquels s'enregistrent ces actions et leurs inscriptions (sociales et matérielles) font apparaître les médiations privilégiées par les praticiens pour traduire et faire circuler ces tentatives. Ces médiations des liens historiques entre certaines pratiques, , qui expliquent la carrière de termes ou de manières de faire.
+
+L'analyse de ces documents pourrait ainsi s'apparenter à une sorte d'archéologie des prises, qui tient compte autant des formats d'enregistrement que des actions qu'ils enregistrent. La visualisation des registres de ces documents montrent que, malgré leur dimension pratique, les documents issus des médias (traditionnels et autres) représentent une part importante des ressources dont les co-enquêteur.ices font usage à part quasi équivalente. Par ailleurs, les registres scientifique, administratif et analytique sont largement dominants, même si pour ces derniers, nous verrons que les mobilisations dépend fortement du type de pratiques et de motifs.
+Par ailleurs, les types de documents sont aussi des indices précieux : ils suggèrent des modalités d'action ou d'intervention possibles dans les modalités de participation à l'IA.
+
+<small> A noter : cette matière documentaire est disponible ci-dessous, organisée et accessible depuis la description des soucis.</small>
+</details>
+
+
+
+<br>
 <br>
 
 **Les résultats**
