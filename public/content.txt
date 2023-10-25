@@ -619,7 +619,7 @@ Ces documents sont centraux pour l'observatoire de la formation et de la circula
 
 D'autre part, les registres de ces documents, témoins de leurs inscriptions sociales et matérielles (par exemple, "sientifique", "pédagogique", "administratif"), font apparaître des médiations privilégiées par les praticien.nes pour donner à voir, traduire et faire circuler leurs opérations. Ces médiations mettent en lumière des liens historiques entre certaines pratiques et certains milieux. Elles permettent également de pister la carrière de termes ou de manières de faire mais aussi de mettre à jour des mécanismes d'emprise.
 
-L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie des prises, qui tient compte autant des formats et médiations d'enregistrement que des actions qu'ils enregistrent. On constate par exemple que les praticien.nes mobilisent largement des documents issus de sources médiatiques (et dans une proportion importante, issus de sources traditionnelles). Par ailleurs, les registres scientifique, administratif et analytique sont largement représentés, même si nous verrons que le recours à ces registres, contrairement au registre médiatique, dépend fortement du type des pratiques et des motifs qui les animent.
+L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie des prises, qui tient compte autant des formats et médiations d'enregistrement que des opérations enregistrées. On constate par exemple que les praticien.nes mobilisent largement des documents issus de sources médiatiques (et dans une proportion importante, issus de la presse). Par ailleurs, les registres scientifique, administratif et analytique sont largement représentés, même si nous verrons que le recours à ces registres, contrairement au registre médiatique, dépend fortement du type des pratiques et des motifs qui les animent.
 
 <small> A noter : cette matière documentaire est disponible ci-dessous, organisée et accessible depuis la description des soucis, ci-dessous.</small>
 </details>
@@ -633,18 +633,29 @@ L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie d
 
 ---
 
-## Le développement de l’IA, pris entre tests et participation publique
+## Deux visions du développement qui s'opposent : le test et la participation publique
 
 ![le développement de l'IA, entre tester et participer - Verbatim extraits des vidéos qui présentent ces deux soucis.](
 https://corpora.medialab.sciences-po.fr/contenus/participer-tester.png)
 
-Un jeu de miroirs entre expérimentations et participation publique : l'expérimentation serait du côté des concepteurs et producteurs d'IA tandis que la participation serait du côté du monde, des citoyens ou autres profanes. On voit bien que la question des prises est centrale, en creux dans ce jeu d'opposition en miroir. Les uns étant autorisés à tous les coups ou presque et les autres, tentant de les contrer, de s'organiser mais avec difficulté et fatigue.
+La question des modalités de participation au développement de l’IA—qui est notre question de recherche principale, est partagée par l’ensemble des praticien.nes mobilisés au cours de l’enquête. Si tous la reconnaissent comme essentielle et parlent d’un déficit de participation, beaucoup affirment se trouver démunis, faute de cadrages agissants, efficaces. 
 
-Deux soucis posent la question des formes de participation et constituent pour nous un point d'entrée à partir duquel lire les autres soucis / problématique de recherche :
+L’enquête montre que cette problématique de la participation se trouve exprimée à travers deux soucis, qui révèlent une franche ligne de partage entre deux visions du développement technologique. D’un côté, est mis en avant le souci *des conditions* du développement, de l’autre, s’exprime un souci *démocratique* avec une focale sur les asymétries de pouvoirs entre concepteurs, autorités de régulation et citoyens.
+
+Retrouver le détail et les matériaux de ces deux soucis : 
     
 #### [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Modalités de participation à l'IA](/ShapingAI/#participer) 
 
-Les participants au workshop était très clairement concernés et alignés sur cet enjeu de la participation, de le voir à la fois comme un endroit "qui cloche" et comme une question mal posée mais dont la reformulation n'est pas évidente. 
+Ces deux soucis sont construits en miroir, comme les deux faces d’une même pièce, tendues entre une logique d’expérimentation qui serait toute entière du côté des producteurs d'IA et qui pousserait l'innovation coûte que coûte, tandis que la participation publique serait elle, du côté du monde, mettant en scène des citoyens (ou autres “non-experts”) mal définis, tentant de résister. 
+
+Comme les discours typiques analysés dans la presse, la configuration de rapports sociaux que cette dualité met en scène laisse largement dubitatifs. Comme le défend Noortje Marres dans son [plaidoyer pour une sociologie du test](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-4446.12746), les expérimentations de systèmes d’IA ne doivent pas se comprendre comme un passage du laboratoire au monde. Au contraire, **les tests réalisent le social**. Le social n’est donc pas le “contexte” du développement technologique, c’est le tissu social lui-même qui est mis au test par le développement technologique et il s’agit de comprendre comment il est affecté et transformé par lui, par les modalités mêmes d’expérimentation.
+
+Si les visions qui sous-tendent les soucis **Tester l’IA** et **Modalités de participation l’IA** s’opposent, les descriptions des co-enquêteur.rices détaillent les prises des uns et la manière dont certaines volontés s’exercent par-delà les protestations d’autres et parfois mêmes par-delà des refus clairement exprimés et largement relayés. Ces descriptions insistent notamment sur la manière dont le droit est continuellement aménagé pour permettre aux entrepreneurs d’expérimenter et exposent les tensions entre une volonté de tester (notamment pour développer des opportunités de business) et la difficulté de mettre en place des “gardes-fous” efficaces pour encadrer ces tests.
+
+La répétition de configurations asymétriques semblables constatées au cours de plusieurs développements technologiques récents engendrent des frustrations légitimes. Participer authentiquement aux choix techniques devient une revendication forte d’une partie de la société civile [voir par exemple la question de la 5G dans la CCC](https://www.conventioncitoyennepourleclimat.fr/). Mais cette revendication semble se focaliser pour le moment sur des arènes politiques, limitant ainsi fortement les marges opératoires et prises possibles (à quelques exceptions près, voir la vidéo [Modalités de participation à l'IA](/ShapingAI/#participer), alors que les démonstrateurs technologiques, rapidement produits à peu de frais, performent les preuves d'un besoin et infrastructurent leur devenir.
+
+C'est en cela que la question des prises devient centrale, dans ce jeu d'opposition en miroir qui met en scène des rôles dont l'issue est connue d'avance : les uns étant autorisés à tous les coups ou presque, les autres, tentant de les contrer et de s'organiser mais avec difficulté et fatigue. Cette opposition ne semble donc pas efficace face aux modalités de tests propre aux produits et services informatiques, qui suppose itérations, démonstration de performance, logique incrémentale, dans laquelle compte les petits pas et le placement de “briques” clés.
+
 
 <br> 
 <br>
