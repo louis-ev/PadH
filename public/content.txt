@@ -633,7 +633,7 @@ L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie d
 
 ---
 
-## Une première ligne de partage entre deux visions du développement technologique : le test et la participation publique
+## Une première ligne de partage entre deux motifs du développement technologique : le test et la participation publique
 
 ![le développement de l'IA, entre tester et participer - Verbatim extraits des vidéos qui présentent ces deux soucis.](
 https://corpora.medialab.sciences-po.fr/contenus/participer-tester.png)
