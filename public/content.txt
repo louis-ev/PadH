@@ -687,12 +687,9 @@ Les documents mobilisés pour expliciter les soucis consolide notre catégorisat
 
 Si on considère la distribution temporelle de l'archive, on constate une augmentation récente et importante du nombre de documents, surtout depuis 2017-2018. Cependant, aucun motif ne semble sur-représenté par rapport à un autre, même si on constate que les motifs de fabrication et de participation semblent se développer un peu plus tardivement que les autres. 
 
-Un autre intérêt de l'archive réside dans le psitage de liens entre Parmi les documents les plus cités par les co-enquêteur.rices, on trouve 2 textes de loi, l'un national et l'autre européen, un article scientifique marquant dans le récit de l'IA contemporaine, et un portefeuille de projets portés par la Direction Interministérielle du Numérique, sorte de démonstrateur de ce que peut l'IA pour l'action publique.
-![les 4 documents mobilisés par le plus grand nombre de co-enquêteurs](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-14-38-26.png)
+![les 4 documents mobilisés par le plus grand nombre de co-enquêteurs différents](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-14-38-26.png)
 
-*Deux textes de loi aux trajectoires et finalités variées* : Loi Lemaire et AI Act
-*Les projets du Lab IA : une curiosité scrutée de près, une mine à cas d'étude* 
-*ImageNet* la boucle, de haut en bas
+Enfin, en pistant les documents à travers les soucis, des résonnances apparaissent entre les motifs. Parmi les documents les plus cités par les co-enquêteur.rices, on trouve 2 textes de loi, l'un national et l'autre européen, un article scientifique marquant dans le récit de l'IA contemporaine, et un portefeuille de projets portés par la Direction Interministérielle du Numérique, sorte de démonstrateur de ce que peut l'IA pour l'action publique. On retrouve leur présence au sein de différents soucis, comme le montre le schéma ci-contre, ce qui permet de saisir comment certaines prises agissent, au croisement de préoccupations variées.
 
 
 <br>
