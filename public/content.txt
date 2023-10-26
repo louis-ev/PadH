@@ -658,7 +658,7 @@ Si les motifs qui sous-tendent les soucis **Tester l’IA** et **Participer à l
 
 Là encore, l’IA ne fait pas figure d’exception, et la répétition de cette configuration asymétrique est à l'œuvre dans les développements récents de plusieurs technologies, engendrant des frustrations légitimes. Participer authentiquement aux choix techniques devient une revendication forte d’une partie de la société civile (voir par exemple [les débats sur la 5G dans la CCC](https://propositions.conventioncitoyennepourleclimat.fr/objectif/accompagner-levolution-du-numerique-pour-reduire-ses-impacts-environnementaux/)). Mais cette revendication semble se focaliser pour le moment sur des arènes politiques, limitant ainsi fortement les marges opératoires et les prises possibles (à quelques exceptions près, voir la vidéo [Participer à l'IA](/ShapingAI/#participer)), pendant que les démonstrateurs technologiques, rapidement produits à peu de frais, performent en continu les preuves de leur besoin et infrastructurent leur devenir.
 
-Pour sortir de l’opposition dualiste et peu agissante du test face à la participation publique et commencer à envisager des modalités de participation au sein même des expériementations, il nous semble donc intéressant de nous pencher sur ce qui est spécifique dans les mécanismes du développement de l’IA en France pour tenter de dessiner des prises et permettre une prise en compte efficace de voix et d’intérêts pluriels.
+Pour sortir de l’opposition dualiste et peu agissante du test face à la participation publique et commencer à envisager des modalités de participation au sein même des expériementations, il nous semble donc intéressant de nous pencher sur ce qui est spécifique dans les mécanismes du développement de l’IA en France pour tenter de dessiner des prises et permettre une prise en compte efficace de voix et d’intérêts pluriels. C'est ce que les soucis des praticien.nes, avec leurs prises, permettent justement d'éclairer.
 
 
 
@@ -666,11 +666,15 @@ Pour sortir de l’opposition dualiste et peu agissante du test face à la parti
 <br>
 <br>
 
+---
+
 ## Des soucis à 4 motifs  
+
+![Les quatres motifs des soucis de l'IA en France, situés sur le modèle "La boucle de l'IA"](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-27-55.png)
 
 Un espace de problèmes organisé à partir des expériences vécues comme problématiques par les praticien.nes de l'IA depuis leurs activités situées et replacées sur la boucle de l'IA.
 
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg> Les 4 motifs des soucis de l'IA sur la boucle ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-27-55.png) | décomposition des 17 soucis ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png).
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg>  décomposition des 17 soucis ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png).
 
 
 **Comprendre les soucis à partir des motifs** 
