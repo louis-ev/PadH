@@ -672,18 +672,19 @@ Pour sortir de l’opposition dualiste et peu agissante du test face à la parti
 
 ![Les quatres motifs des soucis de l'IA en France, situés sur le modèle "La boucle de l'IA"](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-27-55.png)
 
-Un espace de problèmes organisé à partir des expériences vécues comme problématiques par les praticien.nes de l'IA depuis leurs activités situées et replacées sur la boucle de l'IA.
+Les 17 autres soucis qui ont émergé de notre anayse organise un espace des problèmes de l’IA à partir des activités situées des praticien.nes de l'IA. Cet espace fait apparaître **quatre grands motifs qui sous-tendent ces activités**. Reportés sur la boucle de l’IA, ces motifs fonctionnent comme des lignes de partage qui s’expriment dans les processus de valuation** que les co-enquêteur.rices explicitent au cours de l’enquête. **Instituer l’IA, Fabriquer des systèmes, Appréhender l’IA et Disposer un milieu** :  ces motifs sont ce qui, in fine, importe et ce qui les guide dans l’élaboration de prises. Plus que de simples intérêts, ces motifs correspondent à des modes opératoires stabilisés dans des milieux spécifiques. 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg>  décomposition des 17 soucis ![les familles de soucis de l'IA en France - 2021-2022](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png).
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg> Les 17 soucis organisés par motif ![Répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png).
 
+**Soucis composés** Chacun des soucis rend compte de voix qui expriment les différents motifs. Prenons l'exemple du souci ![Exemple de composition d'un souci - Verbatim issus de nos entretiens](https://corpora.medialab.sciences-po.fr/contenus/travailler-icone.png>https://corpora.medialab.sciences-po.fr/contenus/travailler.png) : la représentation ci-contre illustre que, bien que le souci du travail soit particulièrement prégnant dans les activités motivées par la fabrication de systèmes d'IA, avec une préoccupation d'intégration, d'autres activités partagent ce souci en l'abordant différemment et en y attachant des préoccupations différentes (conception, résistance, appropriation).
 
-**Comprendre les soucis à partir des motifs** 
+**Les motifs inscrits dans l'archive**
 
-L'exemple du souci ![Exemple de composition d'un souci - Verbatim issus de nos entretiens](https://corpora.medialab.sciences-po.fr/contenus/travailler-icone.png>https://corpora.medialab.sciences-po.fr/contenus/travailler.png)
-
-****
+Les documents mobilisés dans les soucis permettent eux-aussi de révéler des motifs dominants, notamment du fait des registres privilégiés pour traiter de tel ou tel souci. Si le registre médiatique est également présent, sans surprise, le registre scientifique est particulièrement utilisé pour instituer l'IA, le registre analytique, lui, sert plutôt l'appréhension de l'IA, et enfin le registre administratif intervient dans le motif de la fabrication des systèmes. Les soucis motivés par la dispositiont du milieu, eux, s'illsutrent au contraire par le fait de ne pas privilégier de registre particulier.
 
 ![Documents mobilisés par les co-enquêteurs oragnisés par motifs et par date de publications.](https://corpora.medialab.sciences-po.fr/contenus/distribution-archive.png)
+
+On constate une augmentation importante du nombre de documents, 
 
 Parmi les documents les plus cités par les co-enquêteur.rices, on trouve 2 textes de loi, l'un national et l'autre européen, un article scientifique marquant dans le récit de l'IA contemporaine, et un portefeuille de projets portés par la Direction Interministérielle du Numérique, sorte de démonstrateur de ce que peut l'IA pour l'action publique.
 ![les 4 documents mobilisés par le plus grand nombre de co-enquêteurs](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-14-38-26.png)
