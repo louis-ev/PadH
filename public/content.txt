@@ -681,7 +681,7 @@ Chacun des soucis rend compte de voix qui expriment les différents motifs. Pren
 
 **Les motifs inscrits dans l'archive**
 
-Les documents mobilisés pour expliciter les soucis consolide notre catégorisation en quatre motifs, notamment quant on analyse les registres privilégiés pour les traiter. Si le registre médiatique est également présent sur l'ensemble des soucis, sans surprise, le registre scientifique est particulièrement utilisé pour *instituer l'IA*, le registre analytique, lui, sert plutôt à bien *appréhender l'IA*, et enfin le registre administratif est dominant lorsqu'il s'agit de *fabriquer des systèmes*. Les soucis motivés par la dispositiont du milieu, eux, s'illsutrent au contraire par le fait de ne privilégier auncun registre particulier.
+Les documents mobilisés pour expliciter les soucis consolide notre catégorisation en quatre motifs, notamment au regard des registres privilégiés pour les traiter. Si le registre médiatique est présent dans l'ensemble des soucis, le registre scientifique est sans surprise particulièrement utilisé pour *instituer l'IA*, le registre analytique, lui, reposant sur des rapports, livres et essais d'experts, sert plutôt à bien *appréhender l'IA*, et enfin le registre administratif est dominant lorsqu'il s'agit de *fabriquer des systèmes*. Les soucis motivés par la disposition du milieu s'illsutrent quant à eux par le fait de ne privilégier auncun registre particulier.
 
 ![Documents mobilisés par les co-enquêteurs oragnisés par motifs et par date de publications.](https://corpora.medialab.sciences-po.fr/contenus/distribution-archive.png)
 
