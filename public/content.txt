@@ -685,24 +685,23 @@ Les documents mobilisés pour expliciter les soucis consolide notre catégorisat
 
 ![Documents mobilisés par les co-enquêteurs oragnisés par motifs et par date de publications.](https://corpora.medialab.sciences-po.fr/contenus/distribution-archive.png)
 
-Si on considère la distribution temporelle de l'archive, on constate une augmentation récente et importante du nombre de documents, surtout depuis 2017-2018. Cependant, aucun motif ne semble sur-représenté par rapport à un autre, même si on constate que les motifs de fabrication et de participation semblent se développer un peu plus tardivement que les autres. 
+En considèrant la distribution temporelle de l'archive, on constate une augmentation récente et importante du nombre de documents, surtout depuis 2018. Cependant, aucun motif ne semble sur-représenté par rapport à un autre, même si on constate que les motifs de fabrication et de participation semblent se développer un peu plus tardivement que les autres, jusqu'à devenir aujourd'hui tout aussi denses. 
 
 ![les 4 documents mobilisés par le plus grand nombre de co-enquêteurs différents](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-14-38-26.png)
 
-Enfin, en pistant les documents à travers les soucis, des résonnances apparaissent entre les motifs. Parmi les documents les plus cités par les co-enquêteur.rices, on trouve 2 textes de loi, l'un national et l'autre européen, un article scientifique marquant dans le récit de l'IA contemporaine, et un portefeuille de projets portés par la Direction Interministérielle du Numérique, sorte de démonstrateur de ce que peut l'IA pour l'action publique. On retrouve leur présence au sein de différents soucis, comme le montre le schéma ci-contre, ce qui permet de saisir comment certaines prises agissent, au croisement de préoccupations variées.
+Enfin, en pistant les documents à travers les soucis, des résonnances apparaissent entre les motifs. Parmi les documents les plus cités par les co-enquêteur.rices, on trouve 2 textes de loi, l'un national et l'autre européen, un article scientifique marquant dans le récit de l'IA contemporaine, et un portefeuille de projets portés par la Direction Interministérielle du Numérique, sorte de démonstrateur de ce que peut l'IA pour l'action publique. On retrouve leur présence au sein de différents soucis, comme le montre le schéma ci-contre, ce qui permet de saisir comment certaines prises agissent au croisement de préoccupations variées. Ces circulations dessinent des lignes de force et des alliances entre pratiques et milieux, utiles pour saisir les rapports qu'organisent le développement de l'IA et leurs dynamiques.
 
 
 <br>
 <br>
 
-![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
 
 ### Description des soucis
 ---
 
 <small>Déplier les soucis pour obtenir le détail et accéder aux matériaux de l'enquête (vidéo, documents et synthèse).</small>
 
-
+![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
 
 ### INSTITUTER L'IA
 Résumé et problématisation de cette famille.
@@ -712,7 +711,7 @@ Résumé et problématisation de cette famille.
 *  <path fill-rule="evenodd" d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"/></svg> 
 Définir l'IA </summary>
 
-La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. La constitution de l’IA en définit les prises potentielles également et donc sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
+La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. De la défintion de l’IA, de sa constitutuon la plus restreinte à la plus élargie, découle également sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
 
 **Documents emblématiques de ce souci**
 - Proposition de réglement européen, IA Act (2021)
@@ -720,7 +719,7 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 - Stratégie Nationale IA (2018)
 - article ImageNet (2012)
 
-#### [voir le détail de ce souci](/ShapingAI/#definir)
+#### [Accéder aux matériaux de ce souci](/ShapingAI/#definir)
 </details>
 
 
@@ -731,17 +730,16 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 </svg> 
 Mettre en données le monde</summary>
 
-La nécessaire mise en données du monde et les difficultés qui lui sont associées (données de mauvaise qualité, recueil sans consentement, difficulté de suivi et d’identification des biais d’apprentissage, etc.) est un problème bien identifié de l’IA. Au-delà des aspects éthiques que cette traduction du monde en dataset implique, ce souci met en lumière les stratégies des acteurs pour parer aux limites que la création de dataset pose en termes scientifiques et à la génération de modèles généralisables. Les impacts sociaux et discriminations sont pointés avec comme question : faut-il toujours plus de données pour régler le problème ?
+La nécessaire mise en données du monde et les difficultés qui lui sont associées (données de mauvaise qualité, recueil sans consentement, difficulté de suivi et d’identification des biais d’apprentissage, etc.) est un problème bien identifié de l’IA. En plus des aspects éthiques que cette traduction du monde en données implique, ce souci met en lumière les stratégies des acteurs pour parer aux limites que la création de dataset pose en termes scientifiques et à la génération de modèles généralisables. Les impacts sociaux sont pointés avec comme ultime question : faut-il toujours plus de données pour régler ces problèmes ?
 
 **Documents emblématiques de ce souci**
 - Stochastic Parrots
 - Sensivic / sound Scanner
-- Entrepôt des données de santé (ou dataset médical)
+- Entrepôt des données de santé
 - Triage 4.0
-- Missing Dataset (Mimi Onuoha)
 - La vie n'est pas donnée
 
-#### [voir le détail de ce souci](/ShapingAI/#data)
+#### [Accéder aux matériaux de ce souci](/ShapingAI/#data)
 </details>
 
 <details>
@@ -751,7 +749,7 @@ La nécessaire mise en données du monde et les difficultés qui lui sont associ
 Modéliser</summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/#modeliser)
+#### [Accéder aux matériaux de ce souci](/ShapingAI/#modeliser)
 </details>
 
 <details>
