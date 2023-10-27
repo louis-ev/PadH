@@ -638,13 +638,13 @@ L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie d
 ![le développement de l'IA, entre tester et participer - Verbatim extraits des vidéos qui présentent ces deux soucis.](
 https://corpora.medialab.sciences-po.fr/contenus/participer-tester.png)
 
-Prenons un cas concret, amené par un co-enquêteur.
+Partons d'un cas concret, amené par un co-enquêteur.
 
 En 2020, le Ministère de la Justice annonce l’expériementation d’un algorithme d’évaluation des préjudices corporels à partir d’un traitement automatisé des décisions de justice (DataJust), autorisé par un décret du Premier Ministre et de la Garde des Sceaux. Provoquant une levée de boucliers de la part des professionnels de la justice, cette initiative a été largement décriée et un recours en conseil d’Etat a même été déposé par plusieurs associations. Si le Conseil d’État a validé le décret, le projet d’expérimentation a finalement été abandonné par le Ministère lui-même, faute de capacités (techniques et humaines) pour le mettre en œuvre.
 
-Illustrant finement la question de recherche qui sous-tend Shaping AI, l’histoire de DataJust révèle les tensions propres au développement technologique, motivé d’une part par une mise à profit des innovations en les testant dans le monde, et d’autre part par une demande de prise en compte des préoccupations légitimes d'un public qui se sent concerné. Elle pose ainsi la question des mécanismes qui prévalent (ou devraient prévaloir) dans les mécanismes de développement de l’IA en France.
+L’histoire de DataJust illustre les tensions propres au développement technologique, motivé d’une part par une mise à profit des innovations en les testant dans le monde, et d’autre part par une demande de prise en compte des préoccupations légitimes d'un public qui se sent concerné. Ce cas permet de saisir des motifs et des intérêts dans des situations de développement spécifique, mélange de trajectoire globale et de contingences locales. 
 
-L’enquête montre que cette problématique des modalités du développement se trouve exprimée à travers deux soucis, qui révèlent cette franche ligne de partage entre deux visions du développement technologique. D’un côté, est mis en avant le souci des *conditions du développement*, de l’autre, s’exprime un souci *démocratique* avec une focale sur les asymétries de pouvoirs entre concepteurs, autorités de régulation et citoyens.
+Comme dans le cas DataJust, l’enquête montre que cette problématique des modalités du développement se trouve exprimée à travers deux soucis, qui dessinent une franche ligne de partage entre deux visions du développement technologique. D’un côté, est mis en avant le souci des *conditions du développement*, de l’autre, s’exprime un souci *démocratique* avec une focale sur les asymétries de pouvoirs entre concepteurs, autorités de régulation et citoyens.
 
 <small>Accéder aux matériaux de ces deux soucis </small>
 #### [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Participer à l'IA](/ShapingAI/#participer) 
