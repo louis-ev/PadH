@@ -242,7 +242,7 @@ Le concept de **prise** s’articule ainsi dans notre approche à celui des **so
 Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces opérations participent de la constitution et de la trajectoire de l’IA. **En prêtant attention aux soucis de praticien.nes de l’IA en France, notre recherche cherche ainsi à repérer et bien décrire les pratiques (dans leur pluralité) et les séries d’opérations et d’épreuves qui donnent forme à l'IA.**
 
 
-Par rapport aux approches participatives traditionnelles des STS, cette approche propose au moins **trois déplacements** :
+Par rapport à des approches plus traditionnelles en sociologie des sciences, cette approche propose au moins **trois déplacements** :
 
 **Un déplacement vers des praticien.ne.s soucieux.ses**
 Là où les instances participatives cherchaient à faire discuter des non-experts (ou “profanes”), nous nous intéressons aux activités de praticien.nes “soucieux.ses”. La qualification de “praticien” met en avant la dimension expérientielle et praxéologique et ne définit pas d’activités particulières ou de milieux *a priori*. L’adjectif “soucieux” rend compte la dimension réflexive, manifestement en enquête et doutant de la bonne manière d’agir quant à un objet en formation. Un.e praticien.ne soucieux.se agit directement ou indirectement sur l’objet de l’enquête avec une forme de réflexivité quant aux opérations qu’il.elle déploie.
@@ -361,7 +361,7 @@ Par exemple, Nick Srniček a proposé d’analyser la production des modèles d�
 
 <br>
 
-A plusieurs égards, ce découpage n'est pas très éloigné de ceux présentés dans plusieurs articles académiques récents de chercheurs en IA, ![Cascades, 2021](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-17-11-47.png) ![Foundation Models, 2022](https://corpora.medialab.sciences-po.fr/contenus/photo-2023-09-18-17-08-55-1.jpeg) et on retrouve cette même préoccupation d'élargissement dans certaines représentations institutionnelles ![OCDE - 2023](https://corpora.medialab.sciences-po.fr/contenus/ocde.png). La multiplication de ces représentations dans différents milieux semble indiquer que cette focale élargie soit en passe de devenir plus communément établie.
+A plusieurs égards, ce découpage n'est pas très éloigné de ceux présentés dans plusieurs articles académiques récents de chercheurs en IA, ![Cascades, 2021](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-17-11-47.png) ![Foundation Models, 2022](https://corpora.medialab.sciences-po.fr/contenus/photo-2023-09-18-17-08-55-1.jpeg) et on retrouve cette même préoccupation d'élargissement dans certaines représentations institutionnelles, comme l'[OCDE](https://www.oecd.org/publications/oecd-framework-for-the-classification-of-ai-systems-cb6d9eca-en.htm) ![OCDE Framework for the classification of AI systems - 2023](https://corpora.medialab.sciences-po.fr/contenus/OCDE.png). La multiplication de ces représentations dans différents milieux semble indiquer que cette focale élargie soit en passe de devenir plus communément établie.
 
 <br>
 
