@@ -326,22 +326,22 @@ contenu="""
 
 ---
 
-Les entités qui viennent immédiatement en tête quand on parle d'IA ou de Machine Learning sont les réseaux neurones, que ce soit leur représentation historique ![Perceptron](https://corpora.medialab.sciences-po.fr/contenus/picture3.png) ou des versions plus récentes ![Neural Network Zoo, Asimov Institute](https://corpora.medialab.sciences-po.fr/contenus/neuralnetworkzoo20042019-1.png). 
+Une image vient immédiatement en tête quand on parle d'IA ou de Machine Learning : celle des réseaux neurones, que ce soit leur représentation historique ![Perceptron](https://corpora.medialab.sciences-po.fr/contenus/picture3.png) ou des versions plus récentes ![Neural Network Zoo, Asimov Institute](https://corpora.medialab.sciences-po.fr/contenus/neuralnetworkzoo20042019-1.png). 
 
-Mais une autre image est couramment utilisée lorsqu'on parle de systèmes d'IA ou de systèmes algorithmiques : celle de "black box" ![Le Hemostat du cybernéticien W. Ashby Ross, premier appareil à avoir été qualifié de boîte noire. source : W. A. Ross, 1948](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-20-00-13.png>https://upload.wikimedia.org/wikipedia/commons/4/43/W._Ross_Ashby%27s_1948_Homeostat.jpg). Dans cette image, les entités disparaissent au profit d'un processus, qu'il soit linéaire ou circulaire.
+Mais une autre image est couramment utilisée lorsqu'on parle de systèmes d'IA ou de systèmes algorithmiques : celle de "black box" ![Le Hemostat du cybernéticien W. Ashby Ross, premier appareil à avoir été qualifié de boîte noire. source : W. A. Ross, 1948](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-20-00-13.png>https://upload.wikimedia.org/wikipedia/commons/4/43/W._Ross_Ashby%27s_1948_Homeostat.jpg). 
 
 <br>
 
 ## L’IA, une boîte noire ?
 
-Mais qu'est-ce qu'une boîte noire ? Ce concept désigne, en STS, la manière dont le travail scientifique ou technique est rendu invisible par son propre succès : 
+Mais qu'est-ce qu'une boîte noire ? Ce concept désigne la manière dont le travail scientifique ou technique est rendu invisible par son propre succès : 
 
 <img src="https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-19-54-58.png" style="width:90%"></img>
 
 <small> Latour, *L’espoir de pandore*, p. 304. </small>
 
 Dans le domaine de l’IA en particulier, la notion de “black box” a été élargie pour désigner d'une part les difficultés d’interprétation et d’explication du fonctionnement des modèles d’IA, et d'autre part l'impossibilité de remonter aux données utilisées pour entraîner de grands modèles.
-Par extension, ce terme est employé au regard des conséquences inattendues de ces systèmes lorsqu'ils sont déployés dans le monde. Franck Pasquale parle par exemple de ["la société boîte noire"](https://www.hup.harvard.edu/catalog.php?isbn=9780674970847) qui, derrière la complexité technique chercherait à cacher la part de choix inhérente à toute décision.
+Par extension, ce terme est employé au regard des conséquences inattendues de ces systèmes lorsqu'ils sont déployés dans le monde. Franck Pasquale parle par exemple d'une ["société boîte noire"](https://www.hup.harvard.edu/catalog.php?isbn=9780674970847) qui, derrière la complexité technique chercherait à cacher la part de choix inhérente à toute décision.
 
 En plus de l’opacité relative au fonctionnement technique à proprement parler, il semble difficile d’identifier les personnes et les activités responsables de la production de systèmes d’IA, “chacun situant l’algorithme juste en dehors de ses tâches de travail”, comme le montre [Nick Seaver](https://journals.sagepub.com/doi/full/10.1177/2053951717738104) dans ses études ethnographiques sur les algorithmes. On retombe ainsi sur l'idée d'un objet insaisissable, présent partout et nulle part.
 
@@ -350,9 +350,9 @@ En plus de l’opacité relative au fonctionnement technique à proprement parle
 
 ## Une représentation élargie : l’approche des STS
 
-L’inquiétude qu'éveille l'IA et les débats qui l'entoure ont suscité un renouveau de travaux en études des sciences et des techniques (en anglais, *science & technology studies* ou STS). 
+L’inquiétude qu'éveille l'IA et les débats qui l'entourent ont suscité un renouveau des travaux en études des sciences et des techniques (en anglais, *science & technology studies* ou STS). 
 
-L'approche  des STS consiste à tenter d'ouvrir la “boîte noire” de l’IA par un épaississement des descriptions socio-techniques pour étudier son fonctionnement, sa production, les cultures et les conflits qui s’y trament, la manière dont elle transforme les milieux dans lesquels elle s'insère. Ces auteurs s’appuient sur différentes conceptions et représentations des assemblages que forment les entités prises dans les systèmes d’IA pour identifier des problèmes pertinents.
+L'approche  des STS consiste à tenter d'ouvrir la “boîte noire” de l’IA par un épaississement des descriptions socio-techniques pour étudier son fonctionnement, sa production, les cultures et les conflits qui s’y trament, la manière dont elle transforme les milieux dans lesquels elle s'insère. Les auteurs qui s'y rattachent s’appuient sur différentes conceptions et représentations des assemblages que forment les entités prises dans les systèmes d’IA pour identifier des problèmes pertinents.
 
 Par exemple, Nick Srniček a proposé d’analyser la production des modèles d’IA à partir des quatres étapes de la chaîne de travail de production des modèles: la collecte des données, leur nettoyage et étiquetage, la construction du modèle et son déploiement comme produit pour les utilisateurs. Il souligne l’importance que cette focale élargie peut avoir pour la formulation des problèmes dont s’emparent les politiques publiques.
 > “Tant que l’on ne change pas le regard sur l’IA et que l’on ne considère pas toutes les étapes de sa production, on ne pourra prendre en compte que les problèmes de données et de surveillance, alors que de nombreux enjeux se concentrent autour des équipements de calcul et des infrastructures (énergétiques, hydriques) qui permettent de les approvisionner.” 
@@ -361,11 +361,11 @@ Par exemple, Nick Srniček a proposé d’analyser la production des modèles d�
 
 <br>
 
-A plusieurs égards, ce découpage n'est pas très éloigné de ceux présentés dans plusieurs articles académiques récents de chercheurs en IA. ![Cascades, 2021](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-17-11-47.png) ![Foundation Models, 2022](https://corpora.medialab.sciences-po.fr/contenus/photo-2023-09-18-17-08-55-1.jpeg), ce qui signifie que cette focale élargie semble devenir plus communément établie.
+A plusieurs égards, ce découpage n'est pas très éloigné de ceux présentés dans plusieurs articles académiques récents de chercheurs en IA, ![Cascades, 2021](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-17-11-47.png) ![Foundation Models, 2022](https://corpora.medialab.sciences-po.fr/contenus/photo-2023-09-18-17-08-55-1.jpeg) et on retrouve cette même préoccupation d'élargissement dans certaines représentations institutionnelles ![OCDE - 2023](https://corpora.medialab.sciences-po.fr/contenus/ocde.png). La multiplication de ces représentations dans différents milieux semble indiquer que cette focale élargie soit en passe de devenir plus communément établie.
 
 <br>
 
-Dans [Anatomie d'un système d’IA](https://anatomyof.ai/) de 2018, Kate Crawford et Vladan Joler ont proposé une représentation ![Anatomy of an AI system](https://corpora.medialab.sciences-po.fr/contenus/ai-anatomy-map.pdf.0.png.1600.jpeg?v=1695049162426) qui appréhende l’IA à partir de trois “processus d’extraction” nécessaires à son fonctionnement: les ressources matérielles, le travail humain et les données. Partant de l’enceinte connectée Echo de Amazon, ils décrivent à l’échelle planétaire l’imbrication qui va des matières premières aux infrastructures à l’usage de ce petit outil connecté. Dans une version plus synthétique ![Illustration Vladan Joler](https://corpora.medialab.sciences-po.fr/contenus/atlas-of-ai-projection.png), cette même idée préside dans l'illustration de l'ouvrage [Atlas of AI](https://www.katecrawford.net/) de Crawford (illustrée également par Joler). Adoptant une approche systémique, ils se donnent ainsi pour objectif de fabriquer des représentations de type cartographique, comme un atlas, pour se repérer dans la géographie planétaire de l’IA. 
+Dans [Anatomie d'un système d’IA](https://anatomyof.ai/) de 2018, Kate Crawford et Vladan Joler ont proposé une représentation fouillée ![Anatomy of an AI system](https://corpora.medialab.sciences-po.fr/contenus/ai-anatomy-map.pdf.0.png.1600.jpeg?v=1695049162426) qui appréhende l’IA à partir de trois “processus d’extraction” nécessaires à son fonctionnement: les ressources matérielles, le travail humain et les données. Partant de l’enceinte connectée Echo de Amazon, ils décrivent à l’échelle planétaire l’imbrication qui va des matières premières aux infrastructures à l’usage de ce petit outil connecté. Dans une version plus synthétique ![Illustration Vladan Joler](https://corpora.medialab.sciences-po.fr/contenus/atlas-of-ai-projection.png), cette même idée préside dans l'illustration de l'ouvrage [Atlas of AI](https://www.katecrawford.net/) de Crawford (illustrée également par Joler). Adoptant une approche systémique, ils se donnent ainsi pour objectif de fabriquer des représentations de type cartographique, comme un atlas, pour se repérer dans la géographie planétaire de l’IA. 
 
 <br>
 <br>
