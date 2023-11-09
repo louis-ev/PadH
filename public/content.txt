@@ -418,7 +418,7 @@ Par rapport aux modèles proposés par Nick Srnicek ou Kate Crawford, cette repr
 
 [PAGE]
 url="/#medias"
-nom_de_page="La presse"
+nom_de_page="Les récits de l'IA"
 contenu="""
  
 ![coupures de presse](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-22-17-58.png)
@@ -529,7 +529,7 @@ Les deux cadrant du bas, qu’ils soient associés à la promesse ou à la criti
 
 [PAGE]
 url="/#les-soucis"
-nom_de_page="Les soucis"
+nom_de_page="Les soucis de l'IA"
 contenu="""
 
 <br>
@@ -951,7 +951,7 @@ Cependant, si ce type de représentation permet une autre lecture d'ensemble int
 
 [PAGE]
 url="/#cas"
-nom_de_page="Etude de cas"
+nom_de_page="Un système d'IA"
 contenu="""
 
 ![Document d'arpentage](https://corpora.medialab.sciences-po.fr/contenus/document-d-arpentage.jpeg)
