@@ -563,9 +563,7 @@ contenu="""
 ## Enquête collective et dispositif d'attention
 
 Résolument inscrite dans une sociologie pragmatique (voir par exemple [Cefaï et Terzi, 2012](https://books.openedition.org/editionsehess/19537)), cette enquête est envisagée comme un processus de *valuation* collective ([Musiani, 2011](https://journals.sagepub.com/doi/10.1111/j.1467-954X.2012.02056.x)), c’est-à-dire comme une activité qui revisite, discute, négocie, les valeurs en jeu dans les objets considérés—dans le cas qui nous occupe, il s’agit de chaînes socio-techniques. L’objectif de l’enquête est de ré-ouvrir les futurs sur le devenir de ces assemblages, grâce à un double mouvement : d’une part à travers la formation d’*objets communs*, générés au cours de la description fine de ce qui constitue ces chaînes à partir des pratiques, préoccupations et intérêts de chacun; et d’autre part, par une considération minutieuse des valeurs attribuées aux différentes entités identifiées et à leurs relations. C'est ce processus de valuation, opéré depuis plusieurs points de vue, que les soucis des praticien.nes de l'IA et co-enquêteur.rices de Shaping AI donnent à voir. 
-<small>
-(pour plus de détail sur le concept de *souci*, lire la section [Avoir prise...](/ShapingAI/#avoir-prise).)
-<\small>
+<small>(pour plus de détail sur le concept de *souci*, lire la section [Avoir prise...](/ShapingAI/#avoir-prise).)</small>
 
 > “Un « objet » n’est pas ce qui s’impose au même titre à tout le monde, mais ce qui sert de pivot à une pluralité d’expériences ultérieures. Plus la liberté et les opportunités d’expériences futures sont importantes, plus l’objet constitué est pertinent. (...) Les enquêtes sociales constituent en objet les relations sociales qui leur servent de matériau, la convergence entre activités différentes doit l’emporter sur leur identité.”
 
