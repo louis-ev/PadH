@@ -326,7 +326,7 @@ contenu="""
 
 ---
 
-Une image vient immédiatement en tête quand on parle d'IA ou de Machine Learning : celle des réseaux neurones, que ce soit leur représentation historique ![Perceptron](https://corpora.medialab.sciences-po.fr/contenus/picture3.png) ou des versions plus récentes ![Neural Network Zoo, Asimov Institute](https://corpora.medialab.sciences-po.fr/contenus/neuralnetworkzoo20042019-1.png). 
+Une image vient immédiatement en tête quand on parle d'IA ou de machine learning : celle des réseaux neurones, que ce soit leur représentation historique ![Perceptron](https://corpora.medialab.sciences-po.fr/contenus/picture3.png) ou des versions plus récentes ![Neural Network Zoo, Asimov Institute](https://corpora.medialab.sciences-po.fr/contenus/neuralnetworkzoo20042019-1.png). 
 
 Mais une autre image est couramment utilisée lorsqu'on parle de systèmes d'IA ou de systèmes algorithmiques : celle de "black box" ![Le Hemostat du cybernéticien W. Ashby Ross, premier appareil à avoir été qualifié de boîte noire. source : W. A. Ross, 1948](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-20-00-13.png>https://upload.wikimedia.org/wikipedia/commons/4/43/W._Ross_Ashby%27s_1948_Homeostat.jpg). 
 
@@ -334,7 +334,7 @@ Mais une autre image est couramment utilisée lorsqu'on parle de systèmes d'IA 
 
 ## L’IA, une boîte noire ?
 
-Mais qu'est-ce qu'une boîte noire ? Ce concept désigne la manière dont le travail scientifique ou technique est rendu invisible par son propre succès : 
+Qu'est-ce qu'une boîte noire ? Ce concept désigne la manière dont le travail scientifique ou technique est rendu invisible par son propre succès : 
 
 <img src="https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-19-54-58.png" style="width:90%"></img>
 
@@ -352,10 +352,10 @@ En plus de l’opacité relative au fonctionnement technique à proprement parle
 
 L’inquiétude qu'éveille l'IA et les débats qui l'entourent ont suscité un renouveau des travaux en études des sciences et des techniques (en anglais, *science & technology studies* ou STS). 
 
-L'approche  des STS consiste à tenter d'ouvrir la “boîte noire” de l’IA par un épaississement des descriptions socio-techniques pour étudier son fonctionnement, sa production, les cultures et les conflits qui s’y trament, la manière dont elle transforme les milieux dans lesquels elle s'insère. Les auteurs qui s'y rattachent s’appuient sur différentes conceptions et représentations des assemblages que forment les entités prises dans les systèmes d’IA pour identifier des problèmes pertinents.
+L'approche  des STS consiste à tenter d'ouvrir la “boîte noire” de l’IA par un épaississement des descriptions socio-techniques pour étudier le fonctionnement d'objets techniques spécifiques, leurs modes de production, les cultures et les conflits qui s’y trament, la manière dont ils transforment les milieux dans lesquels ils s'insèrent. Les auteurs qui s'y rattachent s’appuient sur différentes conceptions et représentations des assemblages que forment les entités prises dans ces systèmes d’IA pour identifier des problèmes pertinents.
 
-Par exemple, Nick Srniček a proposé d’analyser la production des modèles d’IA à partir des quatres étapes de la chaîne de travail de production des modèles: la collecte des données, leur nettoyage et étiquetage, la construction du modèle et son déploiement comme produit pour les utilisateurs. Il souligne l’importance que cette focale élargie peut avoir pour la formulation des problèmes dont s’emparent les politiques publiques.
-> “Tant que l’on ne change pas le regard sur l’IA et que l’on ne considère pas toutes les étapes de sa production, on ne pourra prendre en compte que les problèmes de données et de surveillance, alors que de nombreux enjeux se concentrent autour des équipements de calcul et des infrastructures (énergétiques, hydriques) qui permettent de les approvisionner.” 
+Par exemple, Nick Srniček a proposé d’analyser la production des modèles d’IA en distinguant quatres étapes dans la chaîne de travail de production de modèles : la collecte des données, leur nettoyage et étiquetage, la construction d'un modèle et son déploiement pour des usages spécifiques. Il souligne l’importance que cette focale élargie peut avoir pour la formulation des problèmes dont s’emparent les politiques publiques.
+> “Tant que l’on ne change pas le regard sur l’IA et que l’on ne considère pas toutes les étapes de sa production, on restera focaliser sur des problèmes de données et de surveillance, alors que de nombreux enjeux se concentrent autour des équipements de calcul et des infrastructures (énergétiques, hydriques) qui permettent de les approvisionner.” 
 
 <small>[article AOC, 2023](https://aoc.media/entretien/2023/07/14/nick-srnicek-on-peut-imaginer-un-agenda-radical-en-matiere-de-nouvelles-technologies/)</small>
 
@@ -365,26 +365,27 @@ A plusieurs égards, ce découpage n'est pas très éloigné de ceux présentés
 
 <br>
 
-Dans [Anatomie d'un système d’IA](https://anatomyof.ai/) de 2018, Kate Crawford et Vladan Joler ont proposé une représentation fouillée ![Anatomy of an AI system](https://corpora.medialab.sciences-po.fr/contenus/ai-anatomy-map.pdf.0.png.1600.jpeg?v=1695049162426) qui appréhende l’IA à partir de trois “processus d’extraction” nécessaires à son fonctionnement: les ressources matérielles, le travail humain et les données. Partant de l’enceinte connectée Echo de Amazon, ils décrivent à l’échelle planétaire l’imbrication qui va des matières premières aux infrastructures à l’usage de ce petit outil connecté. Dans une version plus synthétique ![Illustration Vladan Joler](https://corpora.medialab.sciences-po.fr/contenus/atlas-of-ai-projection.png), cette même idée préside dans l'illustration de l'ouvrage [Atlas of AI](https://www.katecrawford.net/) de Crawford (illustrée également par Joler). Adoptant une approche systémique, ils se donnent ainsi pour objectif de fabriquer des représentations de type cartographique, comme un atlas, pour se repérer dans la géographie planétaire de l’IA. 
+Dans [Anatomie d'un système d’IA](https://anatomyof.ai/) de 2018, Kate Crawford et Vladan Joler ont proposé une représentation fouillée ![Anatomy of an AI system](https://corpora.medialab.sciences-po.fr/contenus/ai-anatomy-map.pdf.0.png.1600.jpeg?v=1695049162426) qui appréhende l’IA à partir de trois “processus d’extraction” nécessaires à son fonctionnement : les ressources matérielles, le travail humain et les données. Partant de l’enceinte connectée Echo de Amazon, ils décrivent à l’échelle planétaire l’imbrication des processus de transformation qui permettent de passer de matières premières à l’usage d'un gadget connecté. Une version synthétique ![Illustration Vladan Joler](https://corpora.medialab.sciences-po.fr/contenus/atlas-of-ai-projection.png) de cette même idée préside dans l'illustration de l'ouvrage [Atlas of AI](https://www.katecrawford.net/) de Crawford (illustrée également par Joler). Adoptant une approche systémique, ils se donnent ainsi pour objectif de fabriquer des représentations de type cartographique—un atlas, pour se repérer dans la géographie planétaire de l’IA. 
 
 <br>
 <br>
 
 ## La boucle de l'IA : une heuristique pour enquêter de manière située et plurielle
 
-Poursuivant le même mouvement d'élargissement et à des fins d'outillage de notre enquête collective, nous avons développé un modèle heuristique ![la boucle](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-11-18-32.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-58-08.png) à **quatre pôles**, qui part du monde pour y revenir.
+Poursuivant le même mouvement d'élargissement et à des fins d'outillage de notre enquête collective, nous avons développé une représentation heuristique ![la boucle](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-11-18-32.png>https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-28-a-20-58-08.png) à **quatre pôles**, qui part du monde pour y revenir.
 
 Depuis le **monde** où les **données** sont extraites, la partie gauche de la boucle rend compte des pratiques relatives à la formulation des tâches que les **modèles** doivent accomplir et au développement de ces modèles. Cela comprend toutes les pratiques relatives au travail des données, à l'entraînement et l'évaluation des modèles, mais aussi celles relatives à l'ingénierie des systèmes, des réseaux et des infrastructures, leur déploiement et leur maintenance. Une part importante des pratiques juridiques et économiques de l'IA sont aussi fortement associées au pôle données. Le côté droit de la boucle, quant à lui, part des modèles pour circuler vers leur opérationnalisation dans des **instanciations**, c'est-à-dire des produits ou des interfaces numériques qui mettent en œuvre une version spécifique d'un modèle d'IA. Intégré à d'autres systèmes numériques et d'autres instruments, ces instanciations agissent dans le **monde**, au sein de situations concrètes qui se réorganisent.
 
-La représentation circulaire souligne la coproduction, mutuelle et continue, du social et de la technique : elle met en avant une conception relationnelle et matérialiste des techniques. 
+La représentation circulaire souligne la coproduction, mutuelle et continue, du social et de la technique : elle met en avant une conception matérialiste et relationnelle des techniques. 
 
-**Conception relationnelle**, au sens où elle ne caractérise pas les objets techniques par une identité stable et invariante, mais elle s’intéresse à leur transformation continues, depuis leur conception jusqu'à leurs devenirs, au sein de situations concrètes [(sur ce point, voir Didier Debaise)](https://www.cairn.info/revue-multitudes-2004-4-page-15.htm). Cela implique d'étudier les systèmes d’IA et leurs problèmes à partir des processus de production et de déploiement au sein de milieux spécifiques, en donnant de l'importance aux composantes de ceux-ci et aux réagencements qui adviennent.
 
-**Conception matérialiste** qui considère tout ce qui participe matériellement de la constitution de l’objet technique et pas seulement aux discours qui l’entourent ou à l’idéologie scientifique qui l’anime. Il s'agit ainsi de saisir l’IA à partir de tous les processus concrets qui participent de sa production et de son devenir, en s'attardant sur les configurations et les dynamiques (sociales, économiques, politiques, techniques, matérielles) dans lesquelles les systèmes d'IA évoluent. 
+**Une conception matérialiste** : la constitution d'un objet technique se comprend d'abord matériellement, elle ne peut être appréhender par les seuls discours qui l’entourent ou par l’idéologie scientifique qui l’anime. Il s'agit ainsi de saisir l’IA à partir de tous les processus concrets qui participent de sa production et de son devenir, c'est-à-dire à partir des configurations et des dynamiques sociales, économiques, politiques, techniques et matérielles qui participent de son développement.
+
+**Une conception relationnelle** : les objets techniques ne sont pas caractérisés par une identité stable et invariante, mais sont en constante transformation, depuis leur conception jusqu'à leurs devenirs, au sein de situations concrètes [(sur ce point, voir Didier Debaise)](https://www.cairn.info/revue-multitudes-2004-4-page-15.htm). Cela implique d'étudier les systèmes d’IA et leurs problèmes à partir des processus de production et de déploiement au sein de milieux spécifiques, en donnant de l'importance aux entités qui composent ces milieux et à leurs interactions.
 
 ![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
 
-Par rapport aux modèles proposés par Nick Srnicek ou Kate Crawford, cette représentation est envisagée comme un outil pour saisir l’IA à partir des situations, des pratiques et des milieux dans lesquels elle advient et par lesquels elle circule. Elle vise d'une part à **rendre compte dans un même espace d'une pluralité de pratiques participant de la trajectoire de l'IA** et d'autre part à **reconstituer l'ensemble des entités participant à un ou plusieurs systèmes d'IA** grâce aux points de vue situés — et donc partiels— de personnes concernées.
+Par rapport aux modèles proposés par Nick Srnicek ou Kate Crawford, cette représentation est envisagée comme un outil pour saisir l’IA à partir des situations, des pratiques et des milieux dans lesquels elle advient et par lesquels elle circule. Elle vise d'une part à **reconstituer l'ensemble des entités concernées par le développement d'un ou de plusieurs systèmes d'IA**, décrits à travers des témoignanges situés—et donc partiels—de personnes concernées par eux. D'autre part, elle tente de **rendre compte dans un même espace d'une pluralité de pratiques et de modalités opératoires donnant forme à l'IA**, mettant en lumière leur dynamiques et leurs conflits, permettant ainsi une mise en dialogue quant à l'ojet "IA" qu'elles font apparaître.
 
 <br>
 <br>
