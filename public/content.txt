@@ -927,18 +927,28 @@ Résumé et problématisation de cette famille.
 <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
 *  <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/></svg>
 Réguler </summary>
-Ici un petit résumé et le lien vers le souci en question.
 
 #### [voir le détail de ce souci](/ShapingAI/#reguler)
+
+Interrogeant la protection des libertés publiques et l'encadrement des risques liés au déploiement de nouvelles technologies, ce souci pointe les limites et failles du droit. Ces remises en cause opposent ceux qui, du côté de l'application des normes, dénoncent les défaillance de l'effectivité des normes juridiques, à ceux qui, dressant le constat d'une crise plus large des institutions, remettent en cause le droit comme mécanisme de légitimation de progrès technologiques délétères. 
+
+
+**Documents emblématiques de ce souci**
+
 </details>
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrows-fullscreen" viewBox="0 0 16 16">
 *  <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344 0a.5.5 0 0 1 .707 0l4.096 4.096V11.5a.5.5 0 1 1 1 0v3.975a.5.5 0 0 1-.5.5H11.5a.5.5 0 0 1 0-1h2.768l-4.096-4.096a.5.5 0 0 1 0-.707zm0-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707zm-4.344 0a.5.5 0 0 1-.707 0L1.025 1.732V4.5a.5.5 0 0 1-1 0V.525a.5.5 0 0 1 .5-.5H4.5a.5.5 0 0 1 0 1H1.732l4.096 4.096a.5.5 0 0 1 0 .707z"/></svg>
 Performer le social </summary>
-Ici un petit résumé et le lien vers le souci en question.
 
 #### [voir le détail de ce souci](/ShapingAI/#performer)
+
+L’analyse historique et sociale des développements informatiques fait apparaître des sens et des visions qui ont présidé / président à la fabrication des techniques de calcul, qui y sont incorporées. Loin d’être uniquement issues des computer sciences, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
+
+
+**Documents emblématiques de ce souci**
+
 </details>
 
 <details>
@@ -1906,6 +1916,133 @@ Etalab, Mike Flowers, NYC Mayor Office, Barack Obama, Open Gov. Partnership, DIT
 
 """
 
+
+[PAGE]
+url="/#performer"
+nom_de_page="Performer le social"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Performer le social
+
+> “Il y a bien un esprit dans le calcul.”
+
+— D., sociologue
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720016449?h=3ff1e7e15a" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+L’analyse historique et sociale des développements informatiques fait apparaître des visions qui ont présidé / président à la fabrication des techniques de calcul qui y sont incorporées. Loin d’être cantonnées au milieu des *computer sciences*, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
+
+
+<br>
+
+### Thèmes abordés.
+
+**De la consultation à l’injonction (ou gouvernementalité)** Que ce soit dans l’édiction de normes individuelles en fonction des capacités ou dans la réalisation de tâches de travail, l’IA est vue comme pouvant permettre ou interdire (prescrire) des conduites en situation (à un niveau micro/individuel/personnalisé). 
+
+**Formes désirables du social préfigurées dans les techniques de ML** Le choix des paramètres des calculs, son organisation et les dispositifs qui l’encadrent mettent en avant, en plus des choix de leurs concepteurs, une représentation de la forme désirable du social (ex. Page Rank et l’autorité). Alibi pour acceptation sociale (ex. IA et Santé), mais pas la question du niveau de technicisation et ses implications en termes d’organisation politique et sociale.
+
+**Controverse symbolique / connexionniste et le rapport aux situations et aux représentations** Dans la controverse symbolique / connexionniste, on se demande si la machine raisonne à partir de fonctions logiques (programmées par un concepteur démiurge) ou si elle vit avec un environnement qui lui permet de réajuster ses modèles d’action (apprentissage de l’écart entre projection et monde pour corriger / boucle de rétroaction permanente). Rejoint un débat ontologique en SHS et les questions de socialisation et d’apprentissage.
+
+**Constructions et évaluations de modèles mathématiques, vers du comportementalisme** A partir de l’algorithmique financière et de l’étude des marchés, tentative de plus en plus vers l’analyse des comportements avec l’organisation de compétitions qui réunissent chercheurs (maths, stats…).
+Rapport entre recherche d’automatisation et transformation / invisibilisation du travail : histoire qui remonte à Babbage et turc mécanique, qu’on retrouve aujourd’hui avec les pseudo-IA. IA s’inscrit dans une histoire du travail avec la création d’un nouvel espace disciplinaire du travail. Tensions depuis le début de la cybernétique entre une vision utilitariste (idéalisée - VonNeumann) et une vision consciente des dangers d’exploitation (Wiener). Projet politique de la cybernétique.
+
+**Co-évolution de l’informatique et des états modernes** Au service des besoins de la bureaucratie et son expansion. Homologies entre imaginaire politique de la révolution industrielle et fabrication de ces technologies. Co-constitutif des états modernes (cf. USA / exigences constitutionnelles demandent une grande capacité de calcul et de gestion de l’information). Informatique comme mode de gouvernement impersonnel nécessaire aux bureaucraties → bon angle pour une critique politique de ces systèmes.
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+John Agar, Babbage, Turc mécanique, USA (état fédéral), Wiener, Von Neumann, Suchmann, Flores, Winograd, mamie, les statistiques, GPS, ouvriers, techniciens, Kaggle, Page Rank, Google, chercheur en sciences sociales, Boltanski, STS, concepteurs, pionniers de la cybernétique, la machine, Malchiel, Wall Street Journal, singe, traders, mathématiciens, statisticiens, la bourse, magicien d’Oz, sténographes, Mazel, Delphine Gardey, Weber, Harendt, Castoriadis, l’école de Francfort.
+</small>
+
+<br>
+
+### Les documents (41)
+##### 2.1
+
+
+"""
+[PAGE]
+url="/#reguler"
+nom_de_page="Réguler l'IA"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Réguler l'IA
+
+> “Qui va s'assurer que les garanties apportées dans la loi sont bien appliquées en pratique ?”
+
+— F., chercheur et militant
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720020132?h=278b2a9429" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Interrogeant la protection des libertés publiques et l'encadrement des risques liés au déploiement de nouvelles technologies, ce souci pointe les limites et failles du droit. Ces remises en cause opposent ceux qui, du côté de l'application des normes, dénoncent les défaillance de l'effectivité des normes juridiques, à ceux qui, dressant le constat d'une crise plus large des institutions, remettent en cause le droit comme mécanisme de légitimation de progrès technologiques délétères au service du capitalisme mondialisé. 
+
+<br>
+
+### Thèmes abordés.
+
+**Evaluer le coût des conséquences de la mise en place des innovations technologiques ?** Faut-il faire une évaluation des risques ou qualifier ces machines en droit ? débat en droit sur la posture d’évaluation des risques comme une approche néo-libérale au lieu de prendre en compte la réalité ontologique des machines.
+
+**La promesse des réformateurs, évolution du cadre juridique (affirmation des libertés publique)** En 1978, loi Info. et libertés, encadrements des risques liés au développement de l’informatique (nécessaire au développement d’une nouvelle économie). Etait peut-être sincère à l’époque mais disparition progressive des positions techno-critiques et inconséquences de nos politiques. Aujourd’hui libertés publiques mentionnées uniquement pour la forme mais pas prises au sérieux.
+
+**Le droit semble une entreprise de légitimation** pour poser les conditions d’acceptabilité sociale des développements technologiques. Mobiliser le droit pour défendre les libertés : tentative échouée de la Quadra. (notamment sur la VSA, processus de légalisation progressif de toute manière). Nécessité de trouver d’autres modes d’action.
+
+**Effectivité de la norme** Problèmes tant dans les interfaces (dark pattern / écologie de l’attention + privacy) que dans le contrôle (mal assuré de la CNIL). Propositions d’associations d’acteurs plus variés pour des études d’impact et consacrer de nouveaux droits aux utilisateurs (droit au paramétrage…) et les rendre effectifs (notamment by design.) Mise en conformité difficile et peu anticipée (encore moins son contrôle ?) notamment du fait de la multiplication des textes. 
+
+**Remise en cause du progrès** Quel niveau de technicisation de nos sociétés ? Qui décide ? (low-tech, auto-détermination, etc.). Ne pas se limiter à considérer les risques mais remise en cause plus fondamentale du modèle de société induit par les développements techniques.
+
+**Enjeux plus politiques que juridiques** Le droit “fonctionne”-t-il ? Défaillance pas dans les textes mais dans leur application. Norme rédigée sous pression du débat souvent superflue (besoin de maturation) et inflation des textes juridiques (quand souvent des textes protègent déjà). Par contre, code is law, importance de la norme technique.
+
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+François Sureau, Quadrature du Net, élite technocratique, innovation, CNIL, Comité National pilote d’éthique du Numérique, Alain Supiot, institutions européennes, HAL, 2001 l’Odyssée, RGPD, juristes, Carrefour, Lawrence Lessig
+
+</small>
+
+<br>
+
+### Les documents (45)
+##### 2.4
+
+
+"""
 
 
 
