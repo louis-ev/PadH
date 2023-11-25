@@ -663,7 +663,7 @@ L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie d
 
 <small>
 
-1.Une première ligne de partage entre deux motifs du développement technologique : le test et la participation publique
+1. Une première ligne de partage entre deux motifs du développement technologique : le test et la participation publique
 
 2. Des soucis à 4 motifs (accès aux 19 soucis, avec le détail des vidéos et documents)
 
@@ -696,7 +696,7 @@ Dans ces soucis, les co-enquêteur.rices détaillent les prises des uns et la ma
 Là encore, l’IA ne fait pas figure d’exception, et de telles configurations asymétriques se répètent dans les développements récents de plusieurs technologies, engendrant des frustrations légitimes. Participer authentiquement aux choix techniques devient une revendication forte d’une partie de la société civile (voir par exemple [les débats sur la 5G dans la CCC](https://propositions.conventioncitoyennepourleclimat.fr/objectif/accompagner-levolution-du-numerique-pour-reduire-ses-impacts-environnementaux/)). Mais ces revendications semblent se focaliser pour le moment sur des arènes politiques, limitant ainsi fortement les marges opératoires et les prises possibles (à quelques exceptions près, voir la vidéo [Participer à l'IA](/ShapingAI/#participer)). Pendant ce temps, les démonstrateurs technologiques, rapidement produits à peu de frais, performent en continu des preuves de leur pertinence et infrastructurent leur devenir.
 
 
-Il est important de noter que malgré cette opposition et de manière unanime, les co-enquêteur.rices de Shaping AI partagent le constat d’un “déficit de participation”. Ils s'accordent sur les effets problématiques voire délétères de certaines expérimentations, mises en œuvre avec peu de moyen de contrôle et sans qu'aucun mécanisme d'exercice démocratique ne soit prévu, au-delà des mécanismes laborieux de la représentation nationale. Cependant, beaucoup affirment se trouver démunis quant aux formes que pourrait ou devrait avoir un tel exercice démocratique—la participation publique telle que pratiquée par les institutions étant largement critiquée (sur ce point, voir également la section [Avoir prise...](/ShapingAI/#avoir-prise). 
+Il est important de noter que malgré cette opposition et de manière unanime, les co-enquêteur.rices de Shaping AI partagent le constat d’un “déficit de participation”. Ils s'accordent sur les effets problématiques voire délétères de certaines expérimentations, mises en œuvre avec peu de moyen de contrôle et sans qu'aucun mécanisme d'exercice démocratique ne soit prévu, au-delà des mécanismes laborieux de la représentation nationale. Cependant, beaucoup affirment se trouver démunis quant aux formes que pourrait ou devrait avoir un tel exercice démocratique—la participation publique telle que pratiquée par les institutions étant largement critiquée (sur ce point, voir également la section [Avoir prise...](/ShapingAI/#avoir-prise)). 
 
 Comme les récits typiques analysés dans la presse, la configuration des rapports sociaux que la dualité entre tester et participer met en scène laisse insatisfait. Un renouvellement des approches sociologiques semble nécessaire et des travaux comme ceux de Noortje Marres proposent des pistes. Plaidant pour une [sociologie du test](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-4446.12746) qui n'analyse pas les expérimentations de systèmes d’IA comme un passage du laboratoire au monde, mais au contraire, comme réalisant le social. Le social n’est donc pas le “contexte” du développement technologique, c’est le tissu social lui-même qui est mis au test par le développement technologique et il s’agit de comprendre comment il est affecté et transformé par lui, par les modalités et les formes de ces expérimentation. 
 
@@ -853,36 +853,69 @@ Résumé et problématisation de cette famille.
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-bounding-box" viewBox="0 0 16 16">
 *  <path d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"/>  <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm8-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/></svg>
 Optimiser </summary>
-Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/#fabriquer)
+#### [voir le détail de ce souci](/ShapingAI/#optimiser)
+
+Les algorithmes des plateformes sont-ils optimisés pour nous ou contre nous ? Comment gagner en pouvoir d'agir quand on utilise ces systèmes ? Face à des risques individuels et collectifs de mieux en mieux connus, relatifs à la manipulation des comportements et à la captation de l'attention, plusieurs pistes de réponses tant juridiques que techniques sont discutés.
+
+**Documents emblématiques de ce souci**
+- La formes de choix, Linc/CNIL
+- Votre attention s'il vous plaît, CNNum
+- Frances Haugen appelle à une régulation de Facebook (New York Times)
+- L'économie de l'attention saisie par le droit
+
+
 </details>
 
 <details>
 <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-hdd-network" viewBox="0 0 16 16">
 *  <path d="M4.5 5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM3 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2H8.5v3a1.5 1.5 0 0 1 1.5 1.5h5.5a.5.5 0 0 1 0 1H10A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5H.5a.5.5 0 0 1 0-1H6A1.5 1.5 0 0 1 7.5 10V7H2a2 2 0 0 1-2-2V4zm1 0v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1zm6 7.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5z"/></svg>
 Passer en production </summary>
-Ici un petit résumé et le lien vers le souci en question.
+
+Les ponts entre la recherche académique en IA et l'industrie sont nombreux et épousent différentes formes. Quelles sont les implications des transferts technologiques ? Peut-on être à la fois chercheur et industriel et comment ces différents rôles orientent les choix techniques qui sont faits au cours du développement des systèmes d'IA ? Ce souci pointe les différences fondamentales entre prototypage et production et décrit la manière dont les modèles d'affaire orientent les développements, parfois jusqu'à trahir les ambitions initiales des fondateurs.
 
 #### [voir le détail de ce souci](/ShapingAI/#produire)
+
+**Documents emblématiques de ce souci**
+- Liberté & Cie, Quand la liberté des salariés fait le succès des entreprises. (Getz et Carney)
+- Les chercheurs de l'INRIA contre leur parton "startupper" (Médiapart)
+- Start-up française, Santé et IA (BPI France)
+
 </details>
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-workspace" viewBox="0 0 16 16">
 *  <path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H4Zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"/>  <path d="M2 1a2 2 0 0 0-2 2v9.5A1.5 1.5 0 0 0 1.5 14h.653a5.373 5.373 0 0 1 1.066-2H1V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9h-2.219c.554.654.89 1.373 1.066 2h.653a1.5 1.5 0 0 0 1.5-1.5V3a2 2 0 0 0-2-2H2Z"/></svg>
-Travailler avec </summary>
-Ici un petit résumé et le lien vers le souci en question.
+Travailler avec de l'IA</summary>
 
 #### [voir le détail de ce souci](/ShapingAI/#travailler)
+
+Le futur du travail est une préoccupation prégnante des débats actuels sur l'IA. Les voix ici  décalent la focale temporelle : l'accent est placé à la fois sur les transformations actuelles et sur le temps long, en rappelant comment les rapports sociaux et le travail ont été transformés  par les développements des systèmes d'information et de calcul. Quels sont les effets du découpage de la chaîne de travail tâches toujours plus petites et isolées ? Quels nouveaux rapports à la décision et l'expertise se développent et porteurs de quel sens au travail ? Enfin une critique des rapports de pouvoir est dressée à partir du mythe de la disparition du travail, qui ne date pas de l'IA.
+ 
+**Documents emblématiques de ce souci**
+- L'automatisation et le futur du travail
+- Human Computers - timeline, RYBN
+- En attendant les robots, Antonio Casilli
+- Programme Open Law - travail d'annotation
+
 </details>
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-ui-checks" viewBox="0 0 16 16">
 *  <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/></svg>
 Instrumenter l'action publique </summary>
-Ici un petit résumé et le lien vers le souci en question.
 
 #### [voir le détail de ce souci](/ShapingAI/#action-publique)
+
+Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant car l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur. Les politiques publiques ont fixé le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager le pouvoir politique à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. 
+
+**Documents emblématiques de ce souci**
+- Loi pour une République Numérique (dite Loi Lemaire-2016)
+- La donnée comme infrastructure essentielle, rapport de l'administrateur général des données (2017)
+- Intelligence artificielle et action publique - Etide du Conseil d'État
+- Changer de Cap, Dossier le contrôle de la CAF contre les droits
+- Podcast "Hackers Publics"
+
 </details>
 
 
@@ -1597,6 +1630,139 @@ statistiques computationnelles, mathématiques, modèle, données, probabilités
 
 """
 
+
+[PAGE]
+url="/#optimiser"
+nom_de_page="Optimiser les sytsèmes d'IA"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Optimiser les sytsèmes d'IA
+
+> “Aujourd'hui, ce dont nous sommes exclus, c'est d'être présents dans ces systèmes.”
+
+— H., journaliste
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720019131?h=1f0f6b9a63" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Les algorithmes des plateformes sont-ils optimisés pour nous ou contre nous ? Comment gagner en pouvoir d'agir quand on utilise ces systèmes ? Face à des risques individuels et collectifs de mieux en mieux connus, relatifs à la manipulation des comportements et à la captation de l'attention, plusieurs pistes de réponses tant juridiques que techniques sont discutés.
+
+
+<br>
+
+### Thèmes abordés.
+
+**Conséquences des techniques d’optimisation des performances des algorithmes** Conception de fonctions d’utilité, fonctions objectif, et de calcul des coûts pour maximiser les résultats des algo, notamment algo de recommandation (de Maps à YouTube et TikTok). Calcul jamais simple ou trivial : implique beaucoup de choix dans la définition des critères pertinents (écologiques, économiques, sociales…). Mesurer l’écart entre deux algorithmes en soit peut être modélisé mathématiquement selon des méthodes différentes qui chacunes ont des implications et incorporent des orientations.
+
+**Les critères d’optimisation dépendent des modèles d’affaires des plateformes/réseaux sociaux** business modèles reposent sur la nécessité de capter l’attention et d’inciter, avec un aspect adversarial et une tendance à diriger vers des contenus sensationnels/impressionnants. Inquiétudes assumées lorsque produits / services étrangers (surtout chinois) mais peu remis en question lorsque occidental.
+
+**Redonner du pouvoir d’agir aux utilisateurs** Nécessité de sensibiliser → avoir conscience de la contrainte qui s’exerce sur les utilisateurs. 
+• Intervenir par le design → enjeux des dark patterns et de la non-efficacité de la mise en conformité car non respect des droits des utilisateurs dans les interfaces elles-mêmes (cf. la forme des choix du LINC). Pouvoir d’agir se joue à l’endroit du design des interfaces autant que dans les normes juridiques. Enjeux aussi de co-design, implication des utilisateurs dans la conception des services et interfaces (“pas pour nous, sans nous”).
+• Intervenir par des régulations → Notion de jouabilité ou droit au paramétrage : pouvoir tester et choisir les paramètres de calcul pour les services. Question de la portée de ces droits (cf. droit à la portabilité)
+
+**Micro-targeting / personnalisation** Diminution de la liberté d'opinion, de conscience, de culture des gens qui sont visés par le service, sorte de pluralisme diminué. Implications individuelles mais aussi collectives, par exemple l’orientation politique.
+
+**Responsabilisation des opérateurs** Mettre en place des audits sur les mécanismes de captation de l’attention et faire des politiques publiques de l’attention. Quid de l’attention collective et des enjeux politiques ? Notion juridique de loyauté (dommage collectif) pourrait trouver à s’appliquer ici, aussi pour les processus collectifs, en réponse à des techniques d’incitation / nudge automatisé.
+
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+fonction objectif, réseaux sociaux, algorithme, Youtube, TikTok, droits fondamentaux, utilisateur, Facebook, la Fing, attention protection officer, LINC (CNIL)
+
+</small>
+
+<br>
+
+### Les documents (27)
+##### 3.3
+
+
+"""
+
+
+[PAGE]
+url="/#produire"
+nom_de_page="Passer en production"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Passer en production
+
+> “Ça c'est le moment critique qui fait qu'on se spécialise.”
+
+— C., chercheur en IA, start-upper
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720019237?h=416a0c384c" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Les ponts entre la recherche académique en IA et l'industrie sont nombreux et épousent différentes formes. Quelles sont les implications des transferts technologiques ? Peut-on être à la fois chercheur et industriel et comment ces différents rôles orientent les choix techniques qui sont faits au cours du développement des systèmes d'IA ? Ce souci pointe les différences fondamentales entre prototypage et production et décrit la manière dont les modèles d'affaire orientent les développements, parfois jusqu'à trahir les ambitions initiales des fondateurs.
+
+<br>
+
+### Thèmes abordés.
+
+**Tension entre travail de recherche (générique) et développement de produits (spécifique)** Motivation à travailler sur des mathématiques et des modèles poussés multi-usages, avec des applications dans domaines très variés. Relation ambigue entre généralisation et performances spécifiques : les deux aspects se nourrissent dans l’IA (“Avec des problèmes concrets on arrive à faire les bons algorithmes. Avec les bons algorithmes on résoud les problèmes.”). 
+
+**Choix d’une spécialisation et modèle d’affaires** Les choix sont guidés par les opportunités d’affaires qui se présentent et la définition/conception progressive d’un produit. Témoignages de démarrages de startup autour d’algo qui pouvaient servir à plein de use-cases et explicitations des décisions itératives vers une restriction de plus en plus forte des domaines d’activité (spécialisation). Pose la question des recrutements (profils complémentaires qui petit à petit orientent l’ADN de la boîte).
+
+**Plateformes de partage de modèles entraînés** Ouverture du code permet la réutilisation et la “démocratisation”.
+
+**Division de la chaîne de production** Difficultés pour “petits” players ou administrations d’aller au bout de la production - POC ou début de production mais pas de produit véritablement finalisé. Etalab avec le programme EIG démarre des chaînes de production au sein des administrations mais nécessité ensuite d’internaliser des équipes pour poursuivre la production et maintenir. Dans beaucoup de cas, nécessité d’avoir un tiers privé qui opère pour le compte des administrations (qui achètent des licences ou autre). Les montages avec les universités fonctionnent beaucoup comme ça : les labos développent les modèles, des entreprises se créent et se saisissent de la technologie pour la “packager” aux besoins d’une administration / d’un ministère.
+
+**L'offre des start-ups face à celles de grands groupes** Travail important pour convaincre des  clients (notamment acteurs publics, ex. hopitaux) car services chaque fois spécifiques. 
+
+**Relations étroites entre monde académique et monde économique** Beaucoup de chercheurs lancent des startups à partir de leurs recherches (spin-off). Les universités et écoles ont des incubateurs spécialisés (cf. Agoranov). Dans l'échantillon de co-enquêteur.ices, la moitié ont un pied dans la recherche et un pied dans l’industrie.
+
+**Effets de modes et cycles de “produits” en vogue** Tension entre le secret des affaires et la culture de publication de la recherche, qui rend obsolète certaines techniques - car elles ne doivent leur valeur qu’à leur secret (ex. sentiment analysis sur Twitter).
+<br>
+
+<small> 
+
+**Entités mentionnées**
+Facebook AI Research (FAIR), chercheurs, industries pharma, hopitaux, Agoranov, Start-ups, EIG, étalab, Cour de Cassation, Hugging Face, ministère de la Recherche, argent, Louis Vuitton, l’Armée, NavalGroup, Terega, iAdvize, algorithmes (online learning), domaine/spécialité, ingénieurs, clients, investisseurs, pôle marketing, corrélation, performances, modèles d’affaires, Palantir
+
+</small>
+
+<br>
+
+### Les documents (39)
+##### 3.1
+
+
+"""
+
+
 [PAGE]
 url="/#travailler"
 nom_de_page="Travailler avec l'IA"
@@ -1608,7 +1774,7 @@ contenu="""
 
 # Travailler avec l'IA
 
-> “La force de travail se déplace et on la retrouve aujourd'hui à différents endroits.”
+> “À partir du moment où la machine devient plus rapide que les humains, à ce moment là ils sont mis au rebus.”
 
 — K., artiste
 
@@ -1625,7 +1791,7 @@ contenu="""
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/720018455?h=240141e50b" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
 
 **Résumé**
-
+Le futur du travail est une préoccupation prégnante des débats actuels sur l'IA. Les voix ici  décalent la focale temporelle : l'accent est placé à la fois sur les transformations actuelles et sur le temps long, en rappelant comment les rapports sociaux et le travail ont été transformés  par les développements des systèmes d'information et de calcul. Quels sont les effets du découpage de la chaîne de travail tâches toujours plus petites et isolées ? Quels nouveaux rapports à la décision et l'expertise se développent et porteurs de quel sens au travail ? Enfin une critique des rapports de pouvoir est dressée à partir du mythe de la disparition du travail, qui ne date pas de l'IA.
 
 <br>
 
@@ -1638,7 +1804,7 @@ contenu="""
 
 **Beta-test et entraînement des algo** Tâches de vérification et de recalibrage / ré-entraînement. Homogénéisation des missions, qui deviennent des missions de bureau (peu de terrain et de mobilisation du corps). Dans la phase de déploiement, les tâches relatives aux systèmes d’IA se superposent à celles déjà effectuées (et qualité plus faible).
 
-**Prisme de la théorie politique classique** Exploitation d’une main d’œuvre précarisée avec développements d’instruments de contrôle / managériaux (Amazon : “work hard, have fun, make history” ou classes d’ouvriers / de consommateurs / de patrons). Peu de diversité des profils dans les équipes d’IA (hommes blancs très diplômés). Glissements : suppression de catégories d’emplois moins qualifiés au profit de moins d’emplois très qualifiés. Dévalorisation du travail : Dépend du contexte (ex. aviation : environnement déjà très contraint) - techniques d’enrôlement auprès de travailleurs déjà dévalorisés/précarisés (ex. sécurité / CSU)…
+**Prisme de la théorie politique classique et exploitation** Main d’œuvre précarisée avec développements d’instruments de contrôle / managériaux (Amazon : “work hard, have fun, make history” ou classes d’ouvriers / de consommateurs / de patrons). Peu de diversité des profils dans les équipes d’IA (hommes blancs très diplômés). Glissements : suppression de catégories d’emplois moins qualifiés au profit de moins d’emplois très qualifiés. Dévalorisation du travail : Dépend du contexte (ex. aviation : environnement déjà très contraint) - techniques d’enrôlement auprès de travailleurs déjà dévalorisés/précarisés (ex. sécurité / CSU)…
 
 **Pas de remplacement du travail, mais déplacement** Tant dans les types de tâches / transfo des missions et des statuts que géographiquement. Disparition des métiers fait partie de l’imaginaire, mais il y a juste un déplacement de la force de travail. Célébration de la machine pour invisibiliser le travail qui s’est déplacé. Quid de la technicité qui ne sera plus maîtrisée / perte de savoir-faires critiques ?
 
@@ -1666,6 +1832,76 @@ Wiener, von Neumann, grands mathématiciens, data scientists, chercheurs, calcul
 
 ### Les documents (36)
 ##### 3.4
+
+
+"""
+
+
+[PAGE]
+url="/#action-publique"
+nom_de_page="Instrumenter l'action publique"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Instrumenter l'action publique
+
+> “Ils en profitent pour mettre un article sur l'échange généralisé de données entre administrations..”
+
+— E., journaliste spécialisé (affaires publiques et numérique)
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720019889?h=d92cf3029c" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant car l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur. Les politiques publiques ont fixé le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager le pouvoir politique à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. 
+
+<br>
+
+### Thèmes abordés.
+
+**Développement de l’informatique et automatisation des fonctions administratives** 
+Histoire longue de l'évolution conjointe entre informatique et administration publique, nouvel épisode avec l'IA et le big data : aux USA / Europe et en France, développement similaire au sein des administrations. Dynamiques conjointes et mondialisées : Open Data & Open Gov Partnership.
+
+**La mise en valeur de la donnée (production, exploitation, circulation)** Ouverture des données par l’administration, pour elle-même (instrument d’action publique) et mise en valeur / consolidation des bases de données. Nomination d’un administrateur général des données en 2014 et évangélisation avec des démonstrateurs pour convaincre les administrations du potentiel de l’exploitation de leurs données (création d'étalab). La question de la circulation des données entre administrations est un enjeu au centre préoccupations.
+
+**Développement du secteur privé** Beaucoup de contrats entre état et boîtes privées dont certaines font à la fois le diagnostic, la prospective et les prestataires de service. 
+Externalisation des projets, financements par projets (cabinets de conseil, labo de recherche) : manque de moyens humains, difficulté à recruter des profils compétents dans les administrations. 
+
+**Déplacement du travail et logique de réduction de coûts** Au sein de la fonction publique suppression de postes de catégories B&C (sous-traitance à l’étranger / main d’œuvre à faible coût) et embauches de catégorie A. Rôle important de la DITP dans le portage de projets pour coordonner des développements et efforts qui vont dans le même sens (déploiement numérique à grande échelle, innovation etc.). Approche par à coups plutôt que de longue durée (travail d’intégration et maintenance non prise en compte). Administrations pas encore matures, équipes très petites et dynamiques fragiles (même DINUM). 
+
+**Pas de concertation ni de co-conception avec les agents** Lancement des projets par les équipes de direction et peu de concertation avec les équipes déjà en place (que ce soit dans les DSI ou dans les équipes métier). Opacité et mise à l’écart des agents (qu’il s’agit de rassurer ou à qui il faut mieux expliquer que c’est dans leur intérêt) et des organisations syndicales.
+
+**Concilier les tensions entre vie privée et sécurité** Réflexion éthique aide à anticiper (notamment rôle du LINC). La CNIL a été pointée par le Conseil d’Etat pour devenir une autorité de régulation, et rendre des avis contraignants, en plus de son rôle de contrôle de conformité. Difficultés car peu de moyens humains et financiers. Les autres enjeux (sociaux, politiques) de ces nouveaux instruments sont éludés (inégalités face au service public, déplacement des missions et du travail, dégradation des services publics, perte de sens…).
+
+**Niveau industriel du numérique dans l’état aujourd’hui - état avancé de dématérialisation** Difficultés de contestation (prétextes positifs, cf. lutte contre le non-recours), process streamlinés et peu de prises. Tuyauterie robuste et rapports de force asymétriques. Logiques de réduction de coûts / réduction d’effectifs, inefficace en pratique et précarisation des plus pauvres. Méconnaissance des situations particulières pour se focaliser sur des actions de contrôle à distance (fraude, vérif…).
+
+**Opacité administrative et pas de doctrine d’évaluation des projets d’IA dans l’état** En plus d’une absence de partage d’information sur les expérimentations, pas d’évaluation coûts / bénéfices. Demandes CADA obstruées. Une fois les projets lancés, ils ne soient pas remis en question.
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+Etalab, Mike Flowers, NYC Mayor Office, Barack Obama, Open Gov. Partnership, DITP, ANTS, EDF, empreintes digitales, Etat, Ficoba, loi 3DS, DGFiP, 300 ETP, travailleurs du clic à Madagascar, sénatrice (Pas de Calais), agent.es, CADA, LINC, CNIL, Ministère de l’économie et des finances, Conseil d’Etat, DDTM, DINUM, Cabinets de conseil, circulaire du premier ministre, Administrateur Général des données, Henri Verdier, Data scientists, administrations publiques, Chief data officer, Hollande.
+</small>
+
+<br>
+
+### Les documents (67)
+##### 2.5
 
 
 """
