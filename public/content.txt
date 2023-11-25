@@ -661,6 +661,15 @@ L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie d
 
 ---
 
+<small>
+1. Une première ligne de partage entre deux motifs du développement technologique : le test et la participation publique
+2. Des soucis à 4 motifs (accès aux 19 soucis, avec le détail des vidéos et documents)
+3. Discuter et éprouver les soucis : un workshop de travail collectif
+4. D'autres lignes de partage
+</small>
+
+---
+
 ## Une première ligne de partage entre deux motifs du développement technologique : le test et la participation publique
 
 ![le développement de l'IA, entre tester et participer - Verbatim extraits des vidéos qui présentent ces deux soucis.](
@@ -702,7 +711,7 @@ Pour sortir de l’opposition dualiste et peu agissante du test face à la parti
 
 ![Les quatres motifs des soucis de l'IA en France, situés sur le modèle "La boucle de l'IA"](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-27-55.png)
 
-Les 17 autres soucis qui ont émergé de notre anayse organise un espace des problèmes de l’IA à partir des activités situées des praticien.nes de l'IA. Cet espace fait apparaître **quatre grands motifs qui sous-tendent ces activités**. Reportés sur la boucle de l’IA, ces motifs fonctionnent comme des lignes de partage qui s’expriment dans les processus de valuation que les co-enquêteur.rices explicitent au cours de l’enquête. **Instituer l’IA, Fabriquer des systèmes, Appréhender l’IA et Disposer un milieu** :  ces motifs sont ce qui *in fine* importe et guide dans l’élaboration de prises. Plus que de simples intérêts, ces motifs correspondent ainsi à des modes opératoires stabilisés dans des milieux spécifiques. 
+Les 17 autres soucis qui ont émergé de notre anayse organise un espace des problèmes de l’IA à partir des activités situées des praticien.nes de l'IA. Cet espace fait apparaître **quatre grands motifs qui sous-tendent ces activités**. Reportés sur la boucle de l’IA, ces motifs fonctionnent comme des lignes de partage praxéologiques qui s’expriment dans les processus de valuation que les co-enquêteur.rices explicitent au cours de l’enquête. **Instituer l’IA, Fabriquer des systèmes, Appréhender l’IA et Disposer un milieu** :  ces motifs sont ce qui *in fine* importe et guide dans l’élaboration de prises. Ces motifs ne décrivent pas des simples intérêts ou idéologies, ils correspondent à des modes opératoires stabilisés dans des milieux spécifiques. 
 
 ![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg> Carte des 17 soucis.
 
@@ -711,7 +720,7 @@ Chacun des soucis rend compte de voix qui expriment les différents motifs. Pren
 
 **Les motifs inscrits dans l'archive**
 
-Les documents mobilisés pour expliciter les soucis consolide notre catégorisation en quatre motifs, notamment au regard des registres privilégiés pour les traiter. Si le registre médiatique est présent dans l'ensemble des soucis, le registre scientifique est sans surprise particulièrement utilisé pour *instituer l'IA*, le registre analytique, lui, reposant sur des rapports, livres et essais d'experts, sert plutôt à bien *appréhender l'IA*, et enfin le registre administratif est dominant lorsqu'il s'agit de *fabriquer des systèmes*. Les soucis motivés par la disposition du milieu s'illsutrent quant à eux par le fait de ne privilégier auncun registre particulier.
+Les documents mobilisés pour expliciter les soucis consolide notre catégorisation en quatre motifs, notamment au regard des registres privilégiés pour les traiter. Si le registre médiatique est présent dans l'ensemble des soucis, le registre scientifique est sans surprise particulièrement utilisé pour *instituer l'IA*, le registre analytique, lui, reposant sur des rapports, livres et essais d'experts, sert plutôt à bien *appréhender l'IA*, et enfin le registre administratif est dominant lorsqu'il s'agit de *fabriquer des systèmes*. Les soucis motivés par la disposition du milieu s'illsutrent quant à eux par le fait de ne privilégier aucun registre particulier.
 
 ![Documents mobilisés par les co-enquêteurs oragnisés par motifs et par date de publications.](https://corpora.medialab.sciences-po.fr/contenus/distribution-archive.png)
 
@@ -729,17 +738,19 @@ Enfin, en pistant les documents à travers les soucis, des résonnances apparais
 ### Description des soucis
 ---
 
-<small>Déplier les soucis pour obtenir le détail et accéder aux matériaux de l'enquête (vidéo, documents et synthèse).</small>
+<small>Déplier chacun des soucis pour obtenir le détail et accéder aux matériaux de l'enquête (vidéo, documents et synthèse).</small>
 
 ![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
 
 ### INSTITUTER L'IA
-Résumé et problématisation de cette famille.
+
+Une première préoccupation relient celles et ceux qui cherchent à instituter l'IA dans le champ scientifique. Comment s'y prennent les praticien.nes qui cherchent tout à la fois à repousser les limites de leurs connaissances actuelles, à préfigurer des applications pertinentes et à développer des bonnes pratiques ? Quelles résistances leur oppose-t-on et à quelles formes de justification donnent-elles lieu ?
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-fill" viewBox="0 0 16 16">
 *  <path fill-rule="evenodd" d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"/></svg> 
 Définir l'IA </summary>
+#### [Accéder aux matériaux de ce souci](/ShapingAI/#definir)
 
 La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. De la défintion de l’IA, de sa constitutuon la plus restreinte à la plus élargie, découle également sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
 
@@ -749,7 +760,6 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 - Stratégie Nationale IA (2018)
 - article ImageNet (2012)
 
-#### [Accéder aux matériaux de ce souci](/ShapingAI/#definir)
 </details>
 
 
@@ -759,6 +769,7 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 *  <path d="M5.526 13.09c.976 0 1.524-.79 1.524-2.205 0-1.412-.548-2.203-1.524-2.203-.978 0-1.526.79-1.526 2.203 0 1.415.548 2.206 1.526 2.206zm-.832-2.205c0-1.05.29-1.612.832-1.612.358 0 .607.247.733.721L4.7 11.137a6.749 6.749 0 0 1-.006-.252zm.832 1.614c-.36 0-.606-.246-.732-.718l1.556-1.145c.003.079.005.164.005.249 0 1.052-.29 1.614-.829 1.614zm5.329.501v-.595H9.73V8.772h-.69l-1.19.786v.688L8.986 9.5h.05v2.906h-1.18V13h3z"/>  <path d="M4 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H4zm0 1h8a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z"/> 
 </svg> 
 Mettre en données le monde</summary>
+#### [Accéder aux matériaux de ce souci](/ShapingAI/#data)
 
 La nécessaire mise en données du monde et les difficultés qui lui sont associées (données de mauvaise qualité, recueil sans consentement, difficulté de suivi et d’identification des biais d’apprentissage, etc.) est un problème bien identifié de l’IA. En plus des aspects éthiques que cette traduction du monde en données implique, ce souci met en lumière les stratégies des acteurs pour parer aux limites que la création de dataset pose en termes scientifiques et à la génération de modèles généralisables. Les impacts sociaux sont pointés avec comme ultime question : faut-il toujours plus de données pour régler ces problèmes ?
 
@@ -769,7 +780,7 @@ La nécessaire mise en données du monde et les difficultés qui lui sont associ
 - Triage 4.0
 - La vie n'est pas donnée
 
-#### [Accéder aux matériaux de ce souci](/ShapingAI/#data)
+
 </details>
 
 <details>
@@ -777,9 +788,18 @@ La nécessaire mise en données du monde et les difficultés qui lui sont associ
 *  <path fill-rule="evenodd" d="M10.5 1a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4H1.5a.5.5 0 0 1 0-1H10V1.5a.5.5 0 0 1 .5-.5ZM12 3.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5Zm-6.5 2A.5.5 0 0 1 6 6v1.5h8.5a.5.5 0 0 1 0 1H6V10a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5ZM1 8a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2A.5.5 0 0 1 1 8Zm9.5 2a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V13H1.5a.5.5 0 0 1 0-1H10v-1.5a.5.5 0 0 1 .5-.5Zm1.5 2.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5Z"/> 
 </svg> 
 Modéliser</summary>
-Ici un petit résumé et le lien vers le souci en question.
-
 #### [Accéder aux matériaux de ce souci](/ShapingAI/#modeliser)
+
+Comment bien concevoir un modèle ? Quelles relations entretiennent les modèles avec le monde ? Telles sont les questions au centre de ce souci, qui met en résonnance les travaux des chercheurs en mathématiques et en IA avec des points de vue critiques qui en discutent les limites. 
+
+**Documents emblématiques de ce souci**
+- Probabilistic Latent Semantic Indexing
+- Objectivité, Lorraine Daston et Peter Galison
+- The end of therory (article de Wired)
+- Mitigating Unwanted Biases with Adversarial Learning
+- On the opportunities and risks of Foundation Models
+
+
 </details>
 
 <details>
@@ -787,9 +807,16 @@ Ici un petit résumé et le lien vers le souci en question.
 *  <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7ZM11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1Z"/>  <path d="M12.096 6.223A4.92 4.92 0 0 0 13 5.698V7c0 .289-.213.654-.753 1.007a4.493 4.493 0 0 1 1.753.25V4c0-1.007-.875-1.755-1.904-2.223C11.022 1.289 9.573 1 8 1s-3.022.289-4.096.777C2.875 2.245 2 2.993 2 4v9c0 1.007.875 1.755 1.904 2.223C4.978 15.71 6.427 16 8 16c.536 0 1.058-.034 1.555-.097a4.525 4.525 0 0 1-.813-.927C8.5 14.992 8.252 15 8 15c-1.464 0-2.766-.27-3.682-.687C3.356 13.875 3 13.373 3 13v-1.302c.271.202.58.378.904.525C4.978 12.71 6.427 13 8 13h.027a4.552 4.552 0 0 1 0-1H8c-1.464 0-2.766-.27-3.682-.687C3.356 10.875 3 10.373 3 10V8.698c.271.202.58.378.904.525C4.978 9.71 6.427 10 8 10c.262 0 .52-.008.774-.024a4.525 4.525 0 0 1 1.102-1.132C9.298 8.944 8.666 9 8 9c-1.464 0-2.766-.27-3.682-.687C3.356 7.875 3 7.373 3 7V5.698c.271.202.58.378.904.525C4.978 6.711 6.427 7 8 7s3.022-.289 4.096-.777ZM3 4c0-.374.356-.875 1.318-1.313C5.234 2.271 6.536 2 8 2s2.766.27 3.682.687C12.644 3.125 13 3.627 13 4c0 .374-.356.875-1.318 1.313C10.766 5.729 9.464 6 8 6s-2.766-.27-3.682-.687C3.356 4.875 3 4.373 3 4Z"/> 
 </svg> 
 Écologiser</summary>
-Ici un petit résumé et le lien vers le souci en question.
-
 #### [voir le détail de ce souci](/ShapingAI/#ecologiser)
+
+Tiraillés entre performance, économie ou justice, les praticien.nes font ici part de leurs difficultés d’arbitrage au regard des enjeux environnementaux et de la pollution engendrée par l’IA. En filigrane, la question de savoir ce qui compte dans la question écologique apparaît de façon vertigineuse : où s’arrête la chaîne de l’IA ? 
+
+**Documents emblématiques de ce souci**
+- Anatomy of an AI system
+- Conférence AI 4 Climate
+- Towards the Systemic Reporting of the Energy and Carbon Footprints of Machine Learning
+- Technocritiques, François Jarrige
+
 </details>
 
 <details>
@@ -797,9 +824,17 @@ Ici un petit résumé et le lien vers le souci en question.
 *  <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917l-7.5-3.5ZM8 8.46 1.758 5.965 8 3.052l6.242 2.913L8 8.46Z"/>  <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466 4.176 9.032Zm-.068 1.873.22-.748 3.496 1.311a.5.5 0 0 0 .352 0l3.496-1.311.22.748L8 12.46l-3.892-1.556Z"/> 
 </svg> 
 Institutionnaliser l'IA</summary>
-Ici un petit résumé et le lien vers le souci en question.
-
 #### [voir le détail de ce souci](/ShapingAI/#institutionnaliser)
+
+Machine Learning et deep learning : discipline académique "sérieuse" ou cuisine d'ingénieurs ? Les retours d'expériences et les analyses discutent la trajectoire d'une discipline en cours de stabilisation dans le paysage académique.
+
+**Documents emblématiques de ce souci**
+- La revanche des neurones (Cardon, Mazière et Cointet)
+- ImageNet (2012)
+- Statistical Modeling : the two cultures
+- Les instituts 3IA (stratégie nationale IA)
+- MOOC "Deep Learning" (CNAM)
+
 </details>
 
 ### FABRIQUER DES SYSTÈMES
@@ -1302,7 +1337,70 @@ Assemblée Nationale, IA Act, House of Mirrors (exposition), Légifrance, IA à 
 
 
 """
+[PAGE]
+url="/#definir"
+nom_de_page="Définir l'IA"
+invisible_dans_menu="true"
+contenu="""
 
+<br>
+<br>
+
+# Définir l'IA
+
+> “Il y a un peu de tricherie dans la constitution publique de l'IA qui profite à tout le monde.”
+
+— D., sociologue
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720016297?h=2816a0d5a9" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. La constitution de l’IA en définit les prises potentielles également et donc sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
+
+<br>
+
+### Thèmes abordés.
+
+**Changement d’échelle par les volumes de données** De nouvelles techniques d’IA s'élaborent (stochastic gradient descent / adversarial) et tentent de remédier à la reproduction des biais statistiques du dataset. La performance des modèles semble être dépendante du volume de données. Mais acquérir toujours plus de données est-il la bonne solution ? Cette direction apporte son lot de nouveaux soucis (problèmes d’optimisation, surveillance, gouvernance par la donnée etc.)…
+
+**Rapport à la généralisation** Il existe une croyance selon laquelle plus le jeu de données est gros, plus le modèle va bien généraliser :  si il y a peu de données en fait, on a peu de moyens de contredire une certaine règle qui ne serait pas générale. Une voie alternative de recherche s'intéresse aux biais inductifs d’apprentissage et aux propriétés des collections de documents avec une focale sur la causalité plutôt que la corrélation. 
+
+**Extraction, exploitation et circulation des données** par les plus en capacité de le faire, sans nécessairement savoir la qualité des données, leur provenance, leur mode de production etc.  Certains travaillent à des manières plus constructives de faire des jeux de données (participative, contrôlée, documentée…). Les question de documentation et de consentement sont centrales. 
+
+**Logique de tests, accélération et effets délétères** Des expérimentations sont menées trop vite dans la vraie vie sans vérification ou attention soutenue aux données. Cela entraîne des discriminations sociales et effets concrets sur la vie des gens (ex. triage 4.0). Faut-il récolter plus de données pour éviter les effets de bord des systèmes d’IA ? Quelle est la solution au mauvais calcul ? Est-elle technique (plus de données, des techniques plus optimisées) ou politique ? 
+
+**Génération de données** comme solution pour augmenter les petitx volume de données (ex. jeux de données non-alignés, données synthétiques, etc.) Mais l'application des modèles entraînés sur des données synthétiques sur des données réelles ne donnent pas des résultats toujours satisfaisants. Importance de valider les modèles sur des données réelles (données synthétiques, données contrôlées (propres) et données réelles (sales)).
+
+**Problèmes politiques de la catégorisation** Réductionnisme et fixation. Comment adapter et interprétater les catégories en fonction du contexte ? Comment laisser ouvert et négociable la définition des catégories?
+
+**Relocalisation, mise au service de communautés** Peut-on envisager des développement à petites échelles et situés, sur des données maîtrisées de bout en bout avec une élaboration concertée des tâches et objectifs ?
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+ADN, communautés, calcul, catégories, Etats-Unis, africains-américains, Kate Crawford, Data Feminism, documents, modèles, corrélation, causalité, dataset, chercheurs, chien, chat, sport, poids du réseau, biais, adversaire
+
+</small>
+
+<br>
+
+### Les documents (26)
+##### 1.2
+
+"""
 
 [PAGE]
 url="/#travailler"
