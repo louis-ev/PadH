@@ -663,8 +663,11 @@ L'analyse de ces documents peut ainsi s'apparenter à une sorte d'archéologie d
 
 <small>
 1. Une première ligne de partage entre deux motifs du développement technologique : le test et la participation publique
+
 2. Des soucis à 4 motifs (accès aux 19 soucis, avec le détail des vidéos et documents)
+
 3. Discuter et éprouver les soucis : un workshop de travail collectif
+
 4. D'autres lignes de partage
 </small>
 
