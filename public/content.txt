@@ -872,9 +872,9 @@ Les algorithmes des plateformes sont-ils optimisés pour nous ou contre nous ? C
 *  <path d="M4.5 5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM3 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2H8.5v3a1.5 1.5 0 0 1 1.5 1.5h5.5a.5.5 0 0 1 0 1H10A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5H.5a.5.5 0 0 1 0-1H6A1.5 1.5 0 0 1 7.5 10V7H2a2 2 0 0 1-2-2V4zm1 0v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1zm6 7.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5z"/></svg>
 Passer en production </summary>
 
-Les ponts entre la recherche académique en IA et l'industrie sont nombreux et épousent différentes formes. Quelles sont les implications des transferts technologiques ? Peut-on être à la fois chercheur et industriel et comment ces différents rôles orientent les choix techniques qui sont faits au cours du développement des systèmes d'IA ? Ce souci pointe les différences fondamentales entre prototypage et production et décrit la manière dont les modèles d'affaire orientent les développements, parfois jusqu'à trahir les ambitions initiales des fondateurs.
-
 #### [voir le détail de ce souci](/ShapingAI/#produire)
+
+Les ponts entre la recherche académique en IA et l'industrie sont nombreux et épousent différentes formes. Quelles sont les implications des transferts technologiques ? Peut-on être à la fois chercheur et industriel et comment ces différents rôles orientent les choix techniques qui sont faits au cours du développement des systèmes d'IA ? Ce souci pointe les différences fondamentales entre prototypage et production et décrit la manière dont les modèles d'affaire orientent les développements, parfois jusqu'à trahir les ambitions initiales des fondateurs.
 
 **Documents emblématiques de ce souci**
 - Liberté & Cie, Quand la liberté des salariés fait le succès des entreprises. (Getz et Carney)
@@ -907,7 +907,7 @@ Instrumenter l'action publique </summary>
 
 #### [voir le détail de ce souci](/ShapingAI/#action-publique)
 
-Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant car l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur. Les politiques publiques ont fixé le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager le pouvoir politique à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. 
+Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant pour deux raisons : 1) l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur et 2) les instruments de l'action publique révèlent autant qu'ils performent les politiques publiques. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager les pouvoirs politiques à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. Sont aussi questionnées ici les politiques publiques qui fixent le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique et externalisant une partie non négligeable de ses missions.
 
 **Documents emblématiques de ce souci**
 - Loi pour une République Numérique (dite Loi Lemaire-2016)
