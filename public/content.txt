@@ -911,10 +911,10 @@ Sonder les soucis des développements de l'IA dans les administrations publiques
 
 **Documents emblématiques de ce souci**
 - Loi pour une République Numérique (dite Loi Lemaire-2016)
-- La donnée comme infrastructure essentielle, rapport de l'administrateur général des données (2017)
 - Intelligence artificielle et action publique - Etide du Conseil d'État
+- Portefeuille de projets, LabIA - Étalab
 - Changer de Cap, Dossier le contrôle de la CAF contre les droits
-- Podcast "Hackers Publics"
+- Grand Plan d'investissement, Fonds pour la transformation de l'action publique
 
 </details>
 
@@ -1875,8 +1875,7 @@ contenu="""
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/720019889?h=d92cf3029c" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
 
 **Résumé**
-Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant car l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur. Les politiques publiques ont fixé le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager le pouvoir politique à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. 
-
+Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant pour deux raisons : 1) l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur et 2) les instruments de l'action publique révèlent autant qu'ils performent les politiques publiques. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager les pouvoirs politiques à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. Sont aussi questionnées ici les politiques publiques qui fixent le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique et externalisant une partie non négligeable de ses missions.
 <br>
 
 ### Thèmes abordés.
