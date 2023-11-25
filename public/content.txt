@@ -809,7 +809,7 @@ Comment bien concevoir un modèle ? Quelles relations entretiennent les modèles
 Écologiser</summary>
 #### [voir le détail de ce souci](/ShapingAI/#ecologiser)
 
-Tiraillés entre performance, économie ou justice, les praticien.nes font ici part de leurs difficultés d’arbitrage au regard des enjeux environnementaux et de la pollution engendrée par l’IA. En filigrane, la question de savoir ce qui compte dans la question écologique apparaît de façon vertigineuse : où s’arrête la chaîne de l’IA ? 
+Tiraillés entre performance, économie ou justice, les praticien.nes font ici part de leurs difficultés d’arbitrage au regard des enjeux environnementaux et des pollutions engendrées par l’IA. En filigrane, la question de savoir ce qui compte dans la question écologique apparaît de façon vertigineuse : où s’arrête la chaîne de l’IA et ses effets ? 
 
 **Documents emblématiques de ce souci**
 - Anatomy of an AI system
@@ -1337,20 +1337,21 @@ Assemblée Nationale, IA Act, House of Mirrors (exposition), Légifrance, IA à 
 
 
 """
+
 [PAGE]
-url="/#definir"
-nom_de_page="Définir l'IA"
+url="/#data"
+nom_de_page="Mettre en données le monde"
 invisible_dans_menu="true"
 contenu="""
 
 <br>
 <br>
 
-# Définir l'IA
+# Mettre en données le monde
 
-> “Il y a un peu de tricherie dans la constitution publique de l'IA qui profite à tout le monde.”
+> “Pour moi, un changement d'échelle, c'est en soi un changement de sujet.”
 
-— D., sociologue
+— S., éditrice et membre d'Open Law
 
 <br>
 
@@ -1362,16 +1363,15 @@ contenu="""
 
 ---
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/720016297?h=2816a0d5a9" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720018171?h=94b2e66687" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
 
 **Résumé**
-La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. La constitution de l’IA en définit les prises potentielles également et donc sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
-
+La nécessaire mise en données du monde et les difficultés qui lui sont associées (données de mauvaise qualité, recueil sans consentement, difficulté de suivi et d’identification des biais d’apprentissage, etc.) est un problème bien identifié de l’IA. En plus des aspects éthiques que cette traduction du monde en données implique, ce souci met en lumière les stratégies des acteurs pour parer aux limites que la création de dataset pose en termes scientifiques et à la génération de modèles généralisables. Les impacts sociaux sont pointés avec comme ultime question : faut-il toujours plus de données pour régler ces problèmes ?
 <br>
 
 ### Thèmes abordés.
 
-**Changement d’échelle par les volumes de données** De nouvelles techniques d’IA s'élaborent (stochastic gradient descent / adversarial) et tentent de remédier à la reproduction des biais statistiques du dataset. La performance des modèles semble être dépendante du volume de données. Mais acquérir toujours plus de données est-il la bonne solution ? Cette direction apporte son lot de nouveaux soucis (problèmes d’optimisation, surveillance, gouvernance par la donnée etc.)…
+**Travailler avec des grands volumes de données** De nouvelles techniques d’IA s'élaborent (stochastic gradient descent / adversarial) et tentent de remédier à la reproduction des biais statistiques du dataset. La performance des modèles semble être dépendante du volume de données. Mais acquérir toujours plus de données est-il la bonne solution ? Cette direction apporte son lot de nouveaux soucis (problèmes d’optimisation, surveillance, gouvernance par la donnée etc.)…
 
 **Rapport à la généralisation** Il existe une croyance selon laquelle plus le jeu de données est gros, plus le modèle va bien généraliser :  si il y a peu de données en fait, on a peu de moyens de contredire une certaine règle qui ne serait pas générale. Une voie alternative de recherche s'intéresse aux biais inductifs d’apprentissage et aux propriétés des collections de documents avec une focale sur la causalité plutôt que la corrélation. 
 
@@ -1397,8 +1397,194 @@ ADN, communautés, calcul, catégories, Etats-Unis, africains-américains, Kate 
 
 <br>
 
-### Les documents (26)
+### Les documents (45)
 ##### 1.2
+
+"""
+
+[PAGE]
+url="/#modeliser"
+nom_de_page="Modéliser"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Modéliser
+
+> “Il n'y a pas de modèle qui imbrique le monde.”
+
+— K., artiste
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720012499?h=3746eed9f8" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Comment bien concevoir un modèle ? Quelles relations entretiennent les modèles avec le monde ? Telles sont les questions au centre de ce souci, qui met en résonnance les travaux des chercheurs en mathématiques et en IA avec des points de vue critiques qui en discutent les limites. 
+
+<br>
+
+### Thèmes abordés.
+
+**Prendre le modèle pour le monde (ou la carte pour le territoire)** Illusion de la représentation et risques à penser qu’un modèle mathématique produit avec le réel un ensemble de relations harmonieuses. Causalité versus Corrélation : les corrélations permettent de mieux prédire et la causalité permet de mieux généraliser. Fin de la théorie comme slogan qui porte à confusion. Il n’y pas de modèle qui imbrique le monde et on a besoin d'ausculter les modèles lorsqu’ils interagissent avec le monde..
+
+**Formalisme des mathématiques et de la modélisation** jeu qui s’affranchit du monde réel pour poser ses propres contraintes, maîtrisées (cf. jeu d’échecs, Alpha Go). Recherche de l’élégance, dirigée par la forme. Fuite des problèmes compliqués / du réel. Questions applicatives et risques/décalages non prises en compte ou seulement tardivement. 
+
+**Statistique des modèles versus machine learning** Partir d’hypothèses sur les données pour construire un algorithme ou au contraire j’étudie l'algorithme et les données ne sont plus des variables aléatoires mais sont déterministes (points et non distribution).
+
+**Les effets des classifications dans le réel** Conséquences dans des applications de la vie de l’automatisation des classifications et évolution/négociation des catégories (ex. de la chaise - le sol devient chaise si on s’assoit dessus ?). Traduction par des recherches sur dimensionnalité et normalité : adaptation aux contextes et calcul par rapport aux variations passées.
+
+**Avantages et limites des modèles** Un système automatisé détecte toujours de la même façon, très efficace et puissant lorsque appliqué à des domaines restreints, mais incapacité à sortir du contexte. Modèle fonctionne dans un certain cadre avec des hypothèses de départ. Prédictions très aléatoires lorsque sortie du domaine et variations du contexte. Difficultés pour dire si on est confiant sur les sorties du modèle.
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+modèles, algorithmes, étudiants, Oxford, réel, notions, équations, scientifiques, polarisation, dimensions, catégories, système de combat, avion/drône, Daston, santé, artiste, humains, data scientists, contexte, marchés financiers
+
+</small>
+
+<br>
+
+### Les documents (37)
+##### 1.3
+
+"""
+
+[PAGE]
+url="/#ecologiser"
+nom_de_page="Écologiser l'IA"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Écologiser l'IA
+
+> “On va se dire : c'est une seule personne, elle utilise 100 GPU...”
+
+— A., chercheur en IA
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720018824?h=074189ee25" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Tiraillés entre performance, économie ou justice, les praticien.nes font ici part de leurs difficultés d’arbitrage au regard des enjeux environnementaux et des pollutions engendrées par l’IA. En filigrane, la question de savoir ce qui compte dans la question écologique apparaît de façon vertigineuse : où s’arrête la chaîne de l’IA et ses effets ? 
+
+<br>
+
+### Thèmes abordés.
+
+**Que doit prendre en compte une approche écologique de l’IA ?** De la consommation énergétique à la chaîne complète de production (depuis les mines jusqu’aux décharges), les praticien.nes discutent ceux sur quoi elles ont la main : 1) la conso des modèles, 2)  la question des infrastructures techniques (cloud, serveurs…), 3) la santé et la justice des humains et de l’environnement.
+
+**Rapport coûts / bénéfices et arbitrages** Comment savoir et décider, arbitrer entre développer ou ne pas le faire ? Les questions sont traitées à partir des différents environnements de travail (GAFAM, recherche, administrations, start-up, usines) et de vie ce qui amène des réponses différentes. Des micro-gestes (prendre l’avion pour aller en conférence) aux politiques publiques.
+
+**Enjeux de valeurs** Notions d'ouverture (open source) et de démocratisation comme justification et moyens d'arbitrage.
+
+**Limites de production (de données, de micro-puces) et souveraineté numérique**
+
+**Gestions de contraintes techniques au quotidien** limites de mémoire, droit des données perso., doctrine CLOUD, dimensionnement des serveurs…
+
+**Sensibiliser aux enjeux environnementaux du numérique** Question de mesures : construction d’indicateurs et de bonnes pratiques. Dommage car trop peu valorisé dans la recherche académique ou l’indicateur premier reste la performance.
+
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+Alexa, geste, énergie, minerai, infrastructure, travail, décharges, semi-conducteurs, performance, GPU, humain, CO2, terminaux, bande passante, Claude Shannon, industrie, Meta, licence, serveurs, DINUM, Etalab, Cloud, Hub, Health Data Hub, OVH, AP-HP, cluster, AI4Climate, chercheurs, Processed World, ouvrières latinos, Technocritiques
+
+</small>
+
+<br>
+
+### Les documents (34)
+##### 1.4
+
+"""
+[PAGE]
+url="/#institutionnaliser"
+nom_de_page="Institutionnaliser l'IA"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Institutionnaliser l'IA comme discipline
+
+> “La seule chose que vous savez, c'est qu'il y a un modèle qui est certainement responsable de ça.”
+
+— P., chercheur en statistiques computationnelles
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720018961?h=cb8de0eb0e" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Machine Learning et deep learning : discipline académique "sérieuse" ou cuisine d'ingénieurs ? Les retours d'expériences et les analyses discutent la trajectoire d'une discipline en cours de stabilisation dans le paysage académique.
+
+<br>
+
+### Thèmes abordés.
+
+**Un changement de paradigme** de la culture des modèles à la culture des algorithmes : partir de jeux de données pour rechercher un modèle mathématique qui explique sa création et maximiser des fonctions de ressemblance, au lieu de partir d’hypothèses mathématiques. Changement du rapport au calcul : pas vu comme une suite d’opérations logiques mais de distribution de forces entre des nœuds. Choc de 2012 — d’abord avec une épreuve dans le monde de l’image, avec l’arrivée de ImageNet, entérine et légitime ce renversement du rapport entre les deux cultures, malgré les critiques qui restent fortes chez certains mathématiciens et statisticiens.
+
+**Consolidation progressive de méthodes à partir de plusieurs champs disciplinaires (applications)** : méthodes (réseaux de neurones ou pas) finalement peu centrales dans la construction de l’IA par rapport à la force de l’image d’intelligence. Notamment dans le
+Transformations des formations et embauches : nombreux sont les chercheur.euses qui, déjà en poste, ont vu se développer les techniques d’IA et se sont formés sur le tard via des MOOCs (Stanford, MIT, FUN…). Mais lors des embauches, les
+
+**Le deep learning, beaucoup de "cuisine" évaluée à la performance** Difficultés liées à l’explicabilité de ce que font les algorithmes. Itérations un peu à l’aveugle et partages de résultats empiriques dans les communautés de recherche.
+
+**Transformations des pratiques académiques vers des pratiques d’ingénierie** Diffusion de librairies off the shelf, valorisation de nouveaux outcomes (logiciels, librairies, code, jeux de données…), déplacement nécessaire des manières de reviewer / évaluer. Va avec des postes d’ingénieur de recherche prisés (culture/mémoire institutionnelle, bonnes pratiques) et formation des doctorants à ces bonnes pratiques.
+
+**La culture des institutions de recherche standardise les approches d’IA** culture du formalisme et de l’élégance et développement de gros modèles, challengeant du point de vue mathématiques. Peu de places aux discours et pratiques alternatives, plus légères ou situées.
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+statistiques computationnelles, mathématiques, modèle, données, probabilités, Rumelhart, Hinton, gradient stochastic, Rosenblatt, calcul, distribution, forces, nœuds, sérieux, équations, cultures (de recherche), hypothèses, algorithme, machine learning, PhD students, ingénieurs de recherche, écoles/formations, tests, logiciel, collègues, reviewers, inférence, zeitgeist, grosses têtes de laboratoires, Nature/Science, PI, Github, codes, formats, projets, IRCAM, INRIA, élégance, puissance
+
+</small>
+
+<br>
+
+### Les documents (43)
+##### 1.5
 
 """
 
