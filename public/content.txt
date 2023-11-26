@@ -1013,11 +1013,10 @@ Résumé et problématisation de cette famille.
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-fast-forward" viewBox="0 0 16 16">
 *  <path d="M6.804 8 1 4.633v6.734L6.804 8Zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C.713 12.69 0 12.345 0 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692Z"/>  <path d="M14.804 8 9 4.633v6.734L14.804 8Zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C8.713 12.69 8 12.345 8 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692Z"/></svg>
 Futurer</summary>
-Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des discours médiatiques et des contre-récits, ce souci rend compte des pratiques de mises en récit de l’intelligence artificielle et de l’agentivité de ces récits sur ce qu’est l’IA et comment elle est perçue, développée et débattue.
 
 #### [Voir la fiche de ce souci](/ShapingAI/#futurer)
 
-Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des discours médiatiques et des contre-récits, ce souci rend compte des pratiques de mises en récit de l’intelligence artificielle et de l’agentivité de ces récits sur ce qu’est l’IA et comment elle est perçue, développée et débattue.
+Comment sont construits les récits qui mettent en scène l’intelligence artificielle ? Quels éléments sont mis en avant ? Et quels buts servent-ils ? Les rhétoriques de l’innovation mobilisées dans le cas de l'IA sont analysées du point de vue de leur performativité, à la fois comme stratégie d’enrôlement d'acteurs et de capitaux mais aussi comme moteurs des horizons de développement technologique. L'élaboration de récits plus critiques et de contre-récits, tentant de dessiner d'autres trajectoires, est un souci pour les praticien.nes.  
 
 
 **Documents emblématiques de ce souci**
@@ -1037,8 +1036,7 @@ Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur
 
 #### [Voir la fiche de ce souci](/ShapingAI/#valoriser)
 
-Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur création jusqu’à leur exploitation, avec une attention particulière sur les conditions de leur circulation et les frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
-
+Comment les chaînes de valeur des données qui se développent affectent les rapports sociaux ? Les reconfigurations engendrées par ces nouvelles chaînes de valeur (depuis la création des données jusqu’à leur exploitation) sont mises en débat, avec une attention particulière aux conditions de leur circulation et aux frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
 
 **Documents emblématiques de ce souci**
 - L'open data des décisions de justice
@@ -1053,11 +1051,10 @@ Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16">
 *  <path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm-9 8c0 1 1 1 1 1h5.256A4.493 4.493 0 0 1 8 12.5a4.49 4.49 0 0 1 1.544-3.393C9.077 9.038 8.564 9 8 9c-5 0-6 3-6 4Zm9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382l.045-.148ZM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"/></svg>
 Individuer</summary>
-Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques, la disposition d’un milieu (notamment par des normes juridiques et l’installation d’une culture) et la production des subjectivités par l’appropriation des ces dispositifs et développements dans ces milieux. Les questions d’autonomie (tant comme concept juridique que philosophique) et de fabrique de la normativité sont centrales. 
 
 #### [Voir la fiche de ce souci](/ShapingAI/#individuer)
 
-Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques, la disposition d’un milieu (notamment par des normes juridiques et l’installation d’une culture) et la production des subjectivités par l’appropriation des ces dispositifs et développements dans ces milieux. Les questions d’autonomie (tant comme concept juridique que philosophique) et de fabrique de la normativité sont centrales. 
+Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques et la production des subjectivités à travers l’appropriation des ces dispositifs. Les notions d’autonomie (tant comme concept juridique que philosophique) et de normativité sont centrales et mettent l'accent sur la constitution des milieux d'individuation par la technique.
 
 
 **Documents emblématiques de ce souci**
@@ -2103,9 +2100,201 @@ François Sureau, Quadrature du Net, élite technocratique, innovation, CNIL, Co
 
 """
 
+[PAGE]
+url="/#futurer"
+nom_de_page="Futurer"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Futurer
+
+> “Le futur en 2019, c'était un chien intelligent.”
+
+— L., journaliste tech
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720019625?h=638206eda7" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Comment sont construits les récits qui mettent en scène l’intelligence artificielle ? Quels éléments sont mis en avant et quels imaginaires participent-ils à former ? Dans quels buts ? Les rhétoriques de l’innovation mobilisées dans le cas de l'IA sont analysées du point de vue de leur performativité, à la fois comme stratégie d’enrôlement d'acteurs et de capitaux mais aussi comme moteurs des horizons de développement technologique. L'élaboration de récits plus critiques et de contre-récits, tentant de dessiner d'autres trajectoires, est un souci pour les praticien.nes.
+
+<br>
+
+### Thèmes abordés.
+
+**Rhétorique de la promesse produite en continu par les innovateurs** Ancrer son succès dans son histoire personnelle (mythologie personnelle), chercher des inspirations (bio-mimétisme, brevets…) et savoir s’entourer. Proposer un pitch qui résonne avec des problèmes rencontrés pour créer le désir.
+
+**Faire l’actualité (présence en salon, démo, nouvelles features, financements…)** Des évènements tech sont organisés (VivaTech en France par ex.) et les journalistes tech sont utilisés par les PR des entreprises pour diffuser leur rhétorique de la promesse (salons, interviews de top innovateurs…). Les pouvoirs politiques se servent aussi des médias à des fins économiques pour promouvoir la dynamique de ce secteur nationalement. Les industries, en partenariat avec les états, cherchent à créer l’actualité en mettant en avant des chercheurs star et en ouvrant à grand bruit des centres de recherche et développement. 
+
+**Souveraineté** Contradiction entre un discours politique sur la souveraineté et un soutien important financier aux GAFAM en France.
+
+**Médiatisation des affaires** Transformation du type d'information autour de 2015 : Enjeux sociaux deviennent plus présents (depuis l’affaire Snowden…) dans les médias avec une série de lanceur.ses d’alerte.
+
+**Oppositions traitées comme un manque de connaissances avec nécessité de pédagogie** dans le monde du travail (face aux agent.es et aux praticiens qui émettent des critiques) et dans la réception grand public. Les controverses sont tuées dans l’œuf sous prétexte de méconnaissance et de non-expertise, les solutions étant présentées comme faisant gagner du temps et de l’argent (plus simple, plus efficace et human-in-the-loop). Les questions politiques sont éludées.
+
+**Difficultés à se débarrasser des “grands récits”** (humain versus machine, prométhée…) pour construire une critique opérante : intérêt à resituer les développements actuels dans une histoire longue pour voir les récurrences dans les discours d’opposition. Le récit devient problématique, stratégie des promoteurs de l’IA - on est noyé par le nombre de récits produits.
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+journalistes, start-uppers, juristes, Apple, GAFAM, Ridley Scott, VivaTech, Apple Keynote, IGN, DGFiP, Orwell, Uber, FAIR, Boston Dynamics, Macron, Le Figaro, la Nature, les oiseaux, pom-pom girl, buzzwords, licornes françaises, newsletter, agent.es (fonctionnaires), les machines, Hollywood
+
+</small>
+
+<br>
+
+### Les documents (46)
+##### 4.3
+
+
+"""
+
+[PAGE]
+url="/#valoriser"
+nom_de_page="Valoriser"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Valoriser
+
+> “Les données, c’est le nerf de la guerre.”
+
+— N., chercheuse en imagerie médicale
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720019462?h=617c834c88" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Comment les chaînes de valeur des données qui se développent affectent les rapports sociaux ? Les reconfigurations engendrées par ces nouvelles chaînes de valeur (depuis la création des données jusqu’à leur exploitation) sont mises en débat, avec une attention particulière aux conditions de leur circulation et aux frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
+
+<br>
+
+### Thèmes abordés.
+
+**L’open data bénéficie à ceux en capacité d’exploiter les données** malgré une rhétorique de transparence/ouverture, ce qui est recherché par les politiques publiques de la donnée est la création de valeur (en faire un “actif stratégique”) et le développement d’entreprises (start-ups, PME, GAFAM). L’extraction de données et la création de valeur arrive souvent à l’insu des producteurs de données (ex. vidéos amateurs sur YouTube).
+
+**Frictions pour l’accès aux données** 
+- Le cas de la recherche médicale : les cliniciens gardent les données pour faire eux-mêmes de la recherche OU les données sont protégées par le RGPD/privacy
+-Le cas de l’open data des décisions de justice : administration en retard sur le calendrier d’ouverture (loi Lemaire 2016). Circulaire Doctrine : résistance de l’administration / demandes d’accès aux décisions autorisées si une par une (pas l’ensemble) → protection de la vie privée + bonne administration de la justice.
+
+**L’ouverture des données de l’administration** L'initiative Etalab a impulsé à partir de 2014 une culture de la donnée et de sa chaîne de valeur dans les administrations (data.gouv, API, évangélisation avec démonstrateurs et cas…) et pointé la nécessité de mettre les données à disposition pour servir à la fois les administrations et les usagers de la donnée. Mésusages beaucoup discutés (par ex. dans le domaine de la justice), proposition d’utiliser le design fiction pour spéculer.
+
+**Externalisation des services publics et utilisation des données publiques** critique de la délégation des services publics à des entreprises privées qui revendent des données publiques. Manque de moyens dans les services informatiques des administrations et dénonciation de la participation des agents du SP au développement de systèmes algorithmiques privés (dans des montages avec des conditions de travail non conformes au droit français - cf. Madagascar).
+Pour les entreprises, si les administrations sont contraintes à fournir de l’Open Data propre et exploitable, elles peuvent se concentrer sur leur valeur ajoutée.
+
+**Réglementation relatives aux données par les textes européens** Tentative de mise en concurrence des détenteurs de données (grosses industries numériques et administrations) (ex. altruisme des données dans le DGA ou Digital Market Act) sans remettre en question le droit de la concurrence. Multiplication des textes législatifs et réglementaires européens qui tournent tous autour de la question des données (gouvernance, exploitation, circulation, protection…). Harmonisation et clarté compliquée et à regarder en parallèle de la réglementation IA.
+
+**Vers de nouveaux modèles d’affaires et associations d’acteurs** le modèle du partenariat public-privé (PPP) et de la “data philanthropy” semble muter et s’orienter vers la constitution de communs numériques (avec des données détenues par les acteurs publics et la mutualisation d’infrastructures). Cela pose des questions de responsabilité et de pérennité. Ils sont encore peu développés dans la communauté IA (trop académique / business ?).
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+Youtube; cliniciens; chercheurs en IA; startups; administrations; DGFiP; fonctionnaires; Etalab; Doctrine; éditeurs juridiques; Open Law; Commission Européenne
+
+</small>
+
+<br>
+
+### Les documents (48)
+##### 4.2
+
+
+"""
+
+[PAGE]
+url="/#individuer"
+nom_de_page="S'individuer"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# S'individuer
+
+> “Une nouvelle forme de gouvernementalité qui fonctionne à l'autonomie.”
+
+— D., sociologue
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720016134?h=d8110d3e5d" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques et la production des subjectivités à travers l’appropriation des ces dispositifs. Les notions d’autonomie (tant comme concept juridique que philosophique) et de normativité sont centrales et mettent l'accent sur la constitution des milieux d'individuation par la technique.
+
+
+<br>
+
+### Thèmes abordés.
+
+**La normalisation des comportements** induite par les recommandations des machines : Suivre les recommandations de la machine peut conduire à une normalisation des comportements, ce qui soulève des préoccupations quant à la perte d'autonomie de l'individu. Le traitement massif des données peut entraîner des changements comportementaux au sein d'une population, soulevant des préoccupations sur les conséquences de l'utilisation de technologies telles que les capteurs d'anormalité sonore dans l'espace public.
+
+**La redéfinition du sujet de droit et de la notion d'autonomie** Les interactions numériques remettent en question la conception traditionnelle du sujet de droit en tant qu'être rationnel, mettant en évidence les usages et les interactions numériques qui peuvent limiter l'autonomie et la rationalité des individus.
+
+**Les impacts des algorithmes sur la perception de soi/de la réalité et les normes sociales** Les algorithmes automatisent et amplifient les critères de beauté injustes (ou autres discriminations), ce qui peut affecter la perception de soi et renforcer les normes sociales. Des mouvements tels que les influenceuses body positive cherchent à contester ces normes.
+
+**L'IA et l’intime** Avec le déploiement de l'IA, il est nécessaire de réfléchir à l'établissement de nouveaux droits fondamentaux, tels que le droit à la protection de l'intégrité psychique, compte tenu de la capacité des systèmes à permettre une forte introspection et immersion dans l'intimité.
+
+**L’appropriation individuelle grâce à l’entraînement des algorithmes ou à “la jouabilité”** plutôt que d’attendre un travail politique et juridique, certain.es internautes se débrouillent et entraînent les algos des plateformes.
+
+**La production de nouveaux sujets** La théorie “des effets forts des technologies” est une théorie des dominants ? Dans la pratique, les gens ne sont pas dupes et s’approprient les technologies. Cela dit, les systèmes algorithmiques produisent bien des sujets (impatients, désireux de relations sociales, habitués à des services à la demande…), qui nécessitent de la personnalisation et précision de calculs. Elles marchent à l’autonomie pour nous gouverner. A défaut de les défaire totalement, il faut déterminer les applications qui peuvent être nocives.
 
 
 
+<br>
 
+<small> 
+
+**Entités mentionnées**
+juristes; internautes; utilisateurs de plateforme; influenceurs; jeunes filles; grosse femme noire; chirurgien; journaliste; designers (UX / artistes); milieu tech; industries
+
+</small>
+
+<br>
+
+### Les documents (28)
+##### 4.1
+
+
+"""
 
 
