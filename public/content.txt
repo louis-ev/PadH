@@ -760,7 +760,7 @@ Définir l'IA </summary>
 La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. De la défintion de l’IA, de sa constitutuon la plus restreinte à la plus élargie, découle également sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
 
 **Documents emblématiques de ce souci**
-- Proposition de réglement européen, IA Act (2021)
+- Proposition de réglement européen, AI Act (2021)
 - Audition de l'OPECST (2017)
 - Stratégie Nationale IA (2018)
 - article ImageNet (2012)
@@ -948,7 +948,7 @@ Performer le social </summary>
 
 #### [Voir la fiche de ce souci](/ShapingAI/#performer)
 
-L’analyse historique et sociale des développements informatiques fait apparaître des sens et des visions qui ont présidé / président à la fabrication des techniques de calcul, qui y sont incorporées. Loin d’être uniquement issues des computer sciences, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
+L’analyse historique et sociale des développements informatiques fait apparaître des visions du social qui ont présidé / président à la fabrication des techniques de calcul et qui y sont incorporées. Loin d’être cantonnées au milieu des *computer sciences*, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/ adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
 
 **Documents emblématiques de ce souci**
 - The Master Algorithm, P. Domingos
@@ -965,6 +965,8 @@ Critiquer</summary>
 
 #### [Voir la fiche de ce souci](/ShapingAI/#critiquer)
 
+Quels sont les rôles possibles de la critique face aux dévloppements de l'IA ? Sur quelles bases produire une critique et avec quelle efficace ? Des productions de chercheurs et essayistes sont passées en revue et décrites du point de vue des lectures et des prises qu'elles proposent pour penser l'IA et au regard des effets qu'elles produisent. Et au-delà d'une production critique, comment mobiliser face aux enjeux que la critique révèle ?
+
 **Documents emblématiques de ce souci**
 - Data Feminism, C. d'Ignazio et L. Klein
 - Algorithms of Oppression, S. Noble
@@ -979,6 +981,8 @@ Critiquer</summary>
 Ouvrir les boîtes noires </summary>
 
 #### [Voir la fiche de ce souci](/ShapingAI/#enqueter)
+
+Comment mener des enquêtes sur les technologies en cours de développement ? L'IA étant décrite comme une boîte noire dont les processus de production et le fonctionnement sont opaques, des chercheurs et des artistes mettent au point de nouvelles manières d'enquêter sur les systèmes d'IA. Ces nouvelles méthodes ne poursuivent pas les mêmes objectifs : production de preuves, développement d'une contre-expertise, ouverture de nouvelles trajectoires de développement ou renouvellement des formes de relation aux dispositifs d'IA, les finalités abordées renouvellent le répertoire des modalités d'action avec ou contre les systèmes d'IA.
 
 **Documents emblématiques de ce souci**
 - Algotransparency
@@ -996,6 +1000,8 @@ Justifier </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
 #### [Voir la fiche de ce souci](/ShapingAI/#justifier)
+
+Comment sont décidés les développements de systèmes d'IA ? Comment arbitrer pour savoir si on doit ou non s'engager dans de tels projets ? Ce souci qui habite les praticien.nes lorsqu'ils participent au développement de systèmes d'IA contraste deux types de justifications : l'une morale et l'autre utilitariste. Une troisième voie pointe l'enjeu démocratique que pose ce souci, notamment en décalant la focale sur des dimensions politiques ou esthétiques.
 
 **Documents emblématiques de ce souci**
 - The City of Broken Windows, Hito Steyerl
@@ -2001,8 +2007,7 @@ contenu="""
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/720016449?h=3ff1e7e15a" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
 
 **Résumé**
-L’analyse historique et sociale des développements informatiques fait apparaître des visions qui ont présidé / président à la fabrication des techniques de calcul qui y sont incorporées. Loin d’être cantonnées au milieu des *computer sciences*, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
-
+L’analyse historique et sociale des développements informatiques fait apparaître des visions du social qui ont présidé / président à la fabrication des techniques de calcul et qui y sont incorporées. Loin d’être cantonnées au milieu des *computer sciences*, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/ adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
 
 <br>
 
@@ -2035,6 +2040,204 @@ John Agar, Babbage, Turc mécanique, USA (état fédéral), Wiener, Von Neumann,
 
 
 """
+[PAGE]
+url="/#critiquer"
+nom_de_page="Critiquer"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Critiquer
+
+> “Toute connaissance est intriquée avec le dispositif qui produit cette connaissance.”
+
+— H., designer-chercheur
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720016616?h=6e75ff1655" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Quels sont les rôles possibles de la critique face aux dévloppements de l'IA ? Sur quelles bases produire une critique et avec quelle efficace ? Des productions de chercheurs et essayistes sont passées en revue et décrites du point de vue des lectures et des prises qu'elles proposent pour penser l'IA et au regard des effets qu'elles produisent. Et au-delà d'une production critique, comment mobiliser face aux enjeux que la critique révèle ?
+
+<br>
+
+### Thèmes abordés.
+
+**D’une critique correctrice à une critique fondamentale** Un chantier pour les STS et études critiques : montrer en quoi les technologies sont toujours le produit de systèmes de pouvoirs et rappeler les contingences qui font l’ordre dans lequel on est. Ce n’est pas un problème de réflexivité mais de luttes politiques qui ont été invisibilisées et qui donnent l’impression d’une trajectoire lisse et non-contingente. Etudier les modes d’action des luttes passées pour mesurer le décalage dans les possibilités actuelles d’action militante (sabotage matériel, etc.). Mais attention aux effets “double-click” et aux rapprochements qui feraient l’impasse des médiations.
+
+**Collusion entre intérieur et extérieur** Dénonciations et critiques faites par des personnes participant à la fabrication des systèmes. En même temps, difficulté voire impossibilité de connaître les détails des systèmes car opacité très forte.
+
+**Tentatives pour produire des effets différents** Recommandations pour permettre des observatoires de ces technos avec trois adresses différentes : à l'état (observatoire), aux plateformes (contraintes d’ouverture et d’accès) et aux utilisateurs. Proposition de plus d' enseignements de SHS dans les formations d’ingénieurs. 
+
+**Problèmes de traduction entre mondes et inefficacité ou travestissement des critiques** (cf. de la critique politique au développement personnel). Difficultés au vue des asymétries de prises et rapport de force. Pensée féministe propose de transformer la relation autoritaire aux technologies - les penser à partir de ce qu’elles produisent comme effets (soigner ou au contraire, abîmer).
+
+**Former de nouveaux objets** Contester l’existence de l’IA, raconter des contre-récits, montrer des choses invisibles - à partir de l’information disponible. Être conscient du prisme et du dispositif qu’on met en place pour étudier, observer, raconter ces technologies.
+
+**Difficultés pour mobiliser autour de ces enjeux** Discours critique (notamment par les media studies) omniprésent et fatiguant, peu intéressant quand il y a absence des chaînes de traduction - possiblement puissant lorsqu’elles sont décrites. 
+
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+Carly Kind, STS, Fressoz, Latour, informaticiens, ethicistes, activitstes, media studies, Zuboff, D’Ignazio/Data Feminism, Statactivism, femmes racisées, industries, GAFAM, danah boyd, Timnit Gebru, Catherine Malabou, Turing, Etat, utilisateurs, plateformes, ingénieurs, les autres, Félix Tréguer, Facebook, Zuckerberg, le Times, dispositifs
+
+</small>
+
+<br>
+
+### Les documents (46)
+##### 2.2
+
+
+"""
+[PAGE]
+url="/#enqueter"
+nom_de_page="Ouvrir les boîtes noires"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Ouvrir les boîtes noires
+
+> “Ces petits glitchs qui permettent aussi de voir comment ça fonctionne.”
+
+— M., journaliste et curatrice
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720018065?h=c842ccdf74" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Comment mener des enquêtes sur les technologies en cours de développement ? L'IA étant décrite comme une boîte noire dont les processus de production et le fonctionnement sont opaques, des chercheurs et des artistes mettent au point de nouvelles manières d'enquêter sur les systèmes d'IA. Ces nouvelles méthodes ne poursuivent pas les mêmes objectifs : production de preuves, développement d'une contre-expertise, ouverture de nouvelles trajectoires de développement ou renouvellement des formes de relation aux dispositifs d'IA, les finalités abordées renouvellent le répertoire des modalités d'action avec ou contre les systèmes d'IA.
+
+<br>
+
+### Thèmes abordés.
+
+**Expérimentations techniques pour développer une approche critique** Les expérimentations permettent d’ouvrir les boîtes noires et de révéler des fonctionnements en générant de la connaissance intermédiaire. Donner à voir le en cours d’expérimentation, avec tous les glitchs, précieux car révélateurs de logiques, et itérations.
+
+**Construction de preuves** Stratégies d’objectivation du fonctionnement des algorithmes en vue de dénoncer leurs partis pris.
+
+**Les artistes porteurs de contre-expertises et de contre-récits** Les artistes s’intéressent souvent avant les autres à des sujets difficiles/rébarbatifs car très techniques. Ils•elles ont une sorte de radar pour des sujets aux interstices (non traités par ailleurs), susceptibles de faire émerger des problèmes publics. Sorte de “Forensic du futur” ? (ex. extraction audio via Youtube)
+
+**Refaire manuellement pour éprouver les choses en jeu** révèle l’énorme travail laborieux et invisibilisé et les choix sous-jacents, rendre sensible à ce qui est en jeu. Interventions du corps pour faire ressentir et voir les manières dont il est mobilisé.
+
+**Humour** Mises en scène absurdes ou bouffonnes pour démystifier et raconter autre chose de ces machines que le récit de la singularité.
+
+**Sensibiliser / mobiliser** Faire comprendre ce que les systèmes ont d’adversarial. Dire autrement / nommer autrement et faire de la médiation qui mettent en jeu d’autres récits ou imaginaires pour faire sentir où sont les enjeux.
+
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+artistes, Anna Riedler, Memo Akthen, RYBN, GANs, réseau de neurone, modèle, Guillaume Chaslot, Youtube, Google, McLuhan, tulipe, classification/classer, annotations, Mechical Turk, grosses companies, extractions, étudiante en art/design, glitchs, robots, Simone Giertz, compétition, PAcT, UNESCO, danseurs, corps, perceptron, Franck Gilbreth, Etienne Jules Marey, micro-travailleur
+
+</small>
+
+<br>
+
+### Les documents (40)
+##### 2.3
+
+
+"""
+
+[PAGE]
+url="/#justifier"
+nom_de_page="Justifier les projets d'IA"
+invisible_dans_menu="true"
+contenu="""
+
+<br>
+<br>
+
+# Justifier les projets d'IA
+
+> “Quels projets on accepte, et surtout quels projets on n'accepte pas de faire ?”
+
+— F., data scientist
+
+<br>
+
+<small>
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/></svg> Retour à la liste des soucis](/ShapingAI/#les-soucis)
+
+</small>
+
+---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/720018602?h=9e98132f4a" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
+
+**Résumé**
+Comment sont décidés les développements de systèmes d'IA ? Comment arbitrer pour savoir si on doit ou non s'engager dans de tels projets ? Ce souci qui habite les praticien.nes lorsqu'ils participent au développement de systèmes d'IA contraste deux types de justifications : l'une morale et l'autre utilitariste. Une troisième voie pointe l'enjeu démocratique que pose ce souci, notamment en décalant la focale sur des dimensions politiques ou esthétiques.
+
+<br>
+
+### Thèmes abordés.
+
+**Intérêt général** Négociation de l’interprétation de la notion d’intérêt général. Aider les citoyens… Est-ce que travailler avec l’armée va dans le sens de l’intérêt général ? Aller contre l’état, proposer des alternatives aux initiatives étatiques ?
+Pas facile de répondre pour les agent.es de l’administration qui font du contrôle et qui se voient dôtés d’outils toujours plus efficaces de surveillance. 
+
+**Visions (contre) techno-solutionnistes** On ne va pas résoudre nos problèmes sociétaux avec cette technologie. Rendre sensible à ça par des procédés artistiques par ex. Montrer d’autres esthétiques, cosmologies, modes d’existence pour décaler la manières dont les problèmes sont posés (cf. Hito Steyerl) ? Peut-être qu'il y a certains secteurs qui devraient rester en dehors de ces champs d'application. Mettre ça en débat.
+
+**Qui décide ? De quels besoins part-on ?** Problème de démocratie dans les choix de développement, car instances de décision réservées et pas de gouvernance partagée / arènes de débat sur ces questions. (Exemple d’entreprises libérées qui proposent une gouvernance collective, mais difficultés à arbitrer et finalement décisions sont prises par qqun.es.)
+
+**Questions morales et éthiques** Reconnaissance partagée que l’IA serait dangereuse. Comment départager le bien du mal (bien agir/mal agir) ? Interaction entre décisions éthiques et possibilités de croissance / marchés. Est-ce que ces questions doivent être prises en charge par les personnes individuellement au sein de leur activité ou discutées / arbitrées collectivement ? 
+
+**Critère d’ouverture (open source, partage) et de collaboration / participation** La circulation et le réemploi est-il un critère valable, suffisant ?
+
+**Interroger les justifications et les arbitrages derrière les projets** Proposition d’avoir des agent.es référents pour juger de l’opportunité de développer des systèmes d’IA dans tels ou tels cas. Ne pas développer l’IA pour elle-même ou pour avoir des financements ou grimper dans une organisation (se rendre visible/innovant). Valorisation personnelle ? question de l’intéressement personnel (portfolio, réseaux…). Mais si on ne le fait pas…. Quelqu’un d’autre, un autre pays, une entreprise privée, etc.
+
+**Entre surveillance et utilité** Arbitrages difficiles entre la nécessité de récolter beaucoup de données (privacy/surveillance) et l’intérêt de monitorer certains phénomènes (politiques, sociaux etc.)
+
+**Quelles garanties** pour le respect des droits fondamentaux et des libertés publiques ? 
+
+
+<br>
+
+<small> 
+
+**Entités mentionnées**
+les armées, intérêt général, code, data for good, open source, ministère de l’intérieur, outil, bénévoles, étudiants, startuppeurs, Etalab, ressource, usager, administration, agents publics, data scientists, inspecteur, référents, artisans, hauts fonctionnaires, besoins, problèmes, consultation, équipes, petit patron, jeux de données publics, choix, éthique, droit de refus, combattant, euros, débat/vote, boîtes françaises, le bien/le mal, morale, politique, habitants, travailleurs, force de l’ordre, entropie, philosophies de vie.
+
+</small>
+
+<br>
+
+### Les documents (31)
+##### 3.5
+
+
+"""
+
 [PAGE]
 url="/#reguler"
 nom_de_page="Réguler l'IA"
