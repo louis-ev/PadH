@@ -748,7 +748,9 @@ Enfin, en pistant les documents à travers les soucis, des résonnances apparais
 
 ### INSTITUTER L'IA
 
+<small>
 Un premièr motif correspond aux pratiques de celles et ceux qui cherchent à instituter l'IA dans le champ scientifique. De quoi se soucient les praticien.nes qui cherchent tout à la fois à repousser les limites de leurs connaissances actuelles, à préfigurer des applications pertinentes et à développer des bonnes pratiques ? Quelles résistances leur oppose-t-on et à quelles formes de justification ces résistances donnent-elles lieu ?
+</small>
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-fill" viewBox="0 0 16 16">
@@ -850,7 +852,9 @@ Machine Learning et deep learning : discipline académique "sérieuse" ou cuisin
 
 ### FABRIQUER DES SYSTÈMES
 
+<small>
 C'est une dimension moins développée dans la littérature scientifique sur l'IA à ce jour, pourtant la fabrication de systèmes comportent son lot de soucis spécifiques. Occupés à bien intégrer l'IA dans des systèmes d'instrument et des routines préexistantes, les praticien.nes sont confrontés à des questions de passage à l'échelle, de modèles d'affaire, d'infrastructures et de régulation, toutes critiques pour que ces systèmes existent durablement dans le monde. Ces efforts d'intégration, reflets de choix éthiques et politiques, font l'objet de vives controverses et occasionnent des affaires. Ces affaires révèlent à quel point ces pratiques, bien qu'elles aient parfois l'air accessoires ou secondes dans le développement de l'IA, en sont en réalité constitutives : elles l'infrastructurent. 
+</small>
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-bounding-box" viewBox="0 0 16 16">
@@ -925,7 +929,9 @@ Sonder les soucis des développements de l'IA dans les administrations publiques
 
 ### APPRÉHENDER L'IA
 
+<small>
 La bonne appréhension, ou l'appréhension efficace, est un motif partagé celles et ceux qui tentent de décrire et/ou de réguler l'IA, et notamment les chercheurs en SHS, les juristes et les artistes. À quoi tient l'IA ? Qu'est-ce que l'IA fait à la société, aux rapports sociaux ? Quels rapports de pouvoir sont institués par sa constitution progressive ? En discutant les manières qu'ils ont d'appréhender l'IA, les praticien.nes déplient les dynamiques dans lesquels les processus de développement technologique sont pris. Pluralisant les perspectives, ils font apparaître un objet IA à géométrie variable, dont les différentes versions révèlent les fronts d'opposition et notamment une dialectique entre une vision critique (politique) et une vision centrée sur l’anticipation et la gestion des risques.
+</small>
 
 <details>
 <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
@@ -1019,7 +1025,9 @@ Comment sont décidés les développements de systèmes d'IA ? Comment arbitrer 
 
 ### DISPOSER UN MILIEU
 
+<small>
 Les technologies d'IA n'adviennent pas dans un vide, elles prennent place dans des milieux qu'elles contribuent à transformer et qui les transforment à leur tour, dans une action réciproque. Ainsi certaines pratiques ont le souci d'aménager un milieu, en anticipation de ce couplage, pour lui projeter un sens. Le motif de disposition d'un milieu apparaît dans des activités qui ont trait à la formation de cultures et de normes communes, agissant comme vecteurs de sens et déterminants des développements futurs.
+</small>
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-fast-forward" viewBox="0 0 16 16">
