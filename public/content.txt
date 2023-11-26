@@ -755,7 +755,7 @@ Une première préoccupation relient celles et ceux qui cherchent à instituter 
 *  <path fill-rule="evenodd" d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"/></svg> 
 Définir l'IA </summary>
 
-#### [Accéder aux matériaux de ce souci](/ShapingAI/#definir)
+#### [Voir la fiche de ce souci](/ShapingAI/#definir)
 
 La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. De la défintion de l’IA, de sa constitutuon la plus restreinte à la plus élargie, découle également sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
 
@@ -775,7 +775,7 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 </svg> 
 Mettre en données le monde</summary>
 
-#### [Accéder aux matériaux de ce souci](/ShapingAI/#data)
+#### [Voir la fiche de ce souci](/ShapingAI/#data)
 
 La nécessaire mise en données du monde et les difficultés qui lui sont associées (données de mauvaise qualité, recueil sans consentement, difficulté de suivi et d’identification des biais d’apprentissage, etc.) est un problème bien identifié de l’IA. En plus des aspects éthiques que cette traduction du monde en données implique, ce souci met en lumière les stratégies des acteurs pour parer aux limites que la création de dataset pose en termes scientifiques et à la génération de modèles généralisables. Les impacts sociaux sont pointés avec comme ultime question : faut-il toujours plus de données pour régler ces problèmes ?
 
@@ -795,7 +795,7 @@ La nécessaire mise en données du monde et les difficultés qui lui sont associ
 </svg> 
 Modéliser</summary>
 
-#### [Accéder aux matériaux de ce souci](/ShapingAI/#modeliser)
+#### [Voir la fiche de ce souci](/ShapingAI/#modeliser)
 
 Comment bien concevoir un modèle ? Quelles relations entretiennent les modèles avec le monde ? Telles sont les questions au centre de ce souci, qui met en résonnance les travaux des chercheurs en mathématiques et en IA avec des points de vue critiques qui en discutent les limites. 
 
@@ -815,7 +815,7 @@ Comment bien concevoir un modèle ? Quelles relations entretiennent les modèles
 </svg> 
 Écologiser</summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#ecologiser)
+#### [vVoir la fiche de ce souci](/ShapingAI/#ecologiser)
 
 Tiraillés entre performance, économie ou justice, les praticien.nes font ici part de leurs difficultés d’arbitrage au regard des enjeux environnementaux et des pollutions engendrées par l’IA. En filigrane, la question de savoir ce qui compte dans la question écologique apparaît de façon vertigineuse : où s’arrête la chaîne de l’IA et ses effets ? 
 
@@ -833,7 +833,7 @@ Tiraillés entre performance, économie ou justice, les praticien.nes font ici p
 </svg> 
 Institutionnaliser l'IA</summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#institutionnaliser)
+#### [Voir la fiche de ce souci](/ShapingAI/#institutionnaliser)
 
 Machine Learning et deep learning : discipline académique "sérieuse" ou cuisine d'ingénieurs ? Les retours d'expériences et les analyses discutent la trajectoire d'une discipline en cours de stabilisation dans le paysage académique.
 
@@ -854,7 +854,7 @@ Résumé et problématisation de cette famille.
 *  <path d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"/>  <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm8-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/></svg>
 Optimiser </summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#optimiser)
+#### [Voir la fiche de ce souci](/ShapingAI/#optimiser)
 
 Les algorithmes des plateformes sont-ils optimisés pour nous ou contre nous ? Comment gagner en pouvoir d'agir quand on utilise ces systèmes ? Face à des risques individuels et collectifs de mieux en mieux connus, relatifs à la manipulation des comportements et à la captation de l'attention, plusieurs pistes de réponses tant juridiques que techniques sont discutés.
 
@@ -872,7 +872,7 @@ Les algorithmes des plateformes sont-ils optimisés pour nous ou contre nous ? C
 *  <path d="M4.5 5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM3 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2H8.5v3a1.5 1.5 0 0 1 1.5 1.5h5.5a.5.5 0 0 1 0 1H10A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5H.5a.5.5 0 0 1 0-1H6A1.5 1.5 0 0 1 7.5 10V7H2a2 2 0 0 1-2-2V4zm1 0v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1zm6 7.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5z"/></svg>
 Passer en production </summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#produire)
+#### [Voir la fiche de ce souci](/ShapingAI/#produire)
 
 Les ponts entre la recherche académique en IA et l'industrie sont nombreux et épousent différentes formes. Quelles sont les implications des transferts technologiques ? Peut-on être à la fois chercheur et industriel et comment ces différents rôles orientent les choix techniques qui sont faits au cours du développement des systèmes d'IA ? Ce souci pointe les différences fondamentales entre prototypage et production et décrit la manière dont les modèles d'affaire orientent les développements, parfois jusqu'à trahir les ambitions initiales des fondateurs.
 
@@ -888,13 +888,13 @@ Les ponts entre la recherche académique en IA et l'industrie sont nombreux et �
 *  <path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H4Zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"/>  <path d="M2 1a2 2 0 0 0-2 2v9.5A1.5 1.5 0 0 0 1.5 14h.653a5.373 5.373 0 0 1 1.066-2H1V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9h-2.219c.554.654.89 1.373 1.066 2h.653a1.5 1.5 0 0 0 1.5-1.5V3a2 2 0 0 0-2-2H2Z"/></svg>
 Travailler avec de l'IA</summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#travailler)
+#### [Voir la fiche de ce souci](/ShapingAI/#travailler)
 
 Le futur du travail est une préoccupation prégnante des débats actuels sur l'IA. Les voix ici  décalent la focale temporelle : l'accent est placé à la fois sur les transformations actuelles et sur le temps long, en rappelant comment les rapports sociaux et le travail ont été transformés  par les développements des systèmes d'information et de calcul. Quels sont les effets du découpage de la chaîne de travail tâches toujours plus petites et isolées ? Quels nouveaux rapports à la décision et l'expertise se développent et porteurs de quel sens au travail ? Enfin une critique des rapports de pouvoir est dressée à partir du mythe de la disparition du travail, qui ne date pas de l'IA.
  
 **Documents emblématiques de ce souci**
 - L'automatisation et le futur du travail
-- Human Computers - timeline, RYBN
+- Human Perceptron, RYBN
 - En attendant les robots, Antonio Casilli
 - Programme Open Law - travail d'annotation
 
@@ -905,13 +905,13 @@ Le futur du travail est une préoccupation prégnante des débats actuels sur l'
 *  <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/></svg>
 Instrumenter l'action publique </summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#action-publique)
+#### [Voir la fiche de ce souci](/ShapingAI/#action-publique)
 
 Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant pour deux raisons : 1) l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur et 2) les instruments de l'action publique révèlent autant qu'ils performent les politiques publiques. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager les pouvoirs politiques à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. Sont aussi questionnées ici les politiques publiques qui fixent le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique et externalisant une partie non négligeable de ses missions.
 
 **Documents emblématiques de ce souci**
 - Loi pour une République Numérique (dite Loi Lemaire-2016)
-- Intelligence artificielle et action publique - Etide du Conseil d'État
+- Intelligence artificielle et action publique - Etude du Conseil d'État
 - Portefeuille de projets, LabIA - Étalab
 - Changer de Cap, Dossier le contrôle de la CAF contre les droits
 - Grand Plan d'investissement, Fonds pour la transformation de l'action publique
@@ -928,12 +928,16 @@ Résumé et problématisation de cette famille.
 *  <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/></svg>
 Réguler </summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#reguler)
+#### [Voir la fiche de ce souci](/ShapingAI/#reguler)
 
 Interrogeant la protection des libertés publiques et l'encadrement des risques liés au déploiement de nouvelles technologies, ce souci pointe les limites et failles du droit. Ces remises en cause opposent ceux qui, du côté de l'application des normes, dénoncent les défaillance de l'effectivité des normes juridiques, à ceux qui, dressant le constat d'une crise plus large des institutions, remettent en cause le droit comme mécanisme de légitimation de progrès technologiques délétères. 
 
 
 **Documents emblématiques de ce souci**
+- Proposition de réglement européen sur l'IA (AI Act)
+- Loi Informatique et Libertés
+- Code is Law (1999)
+- Consultation publique de la CNIL sur les caméras "intelligentes"
 
 </details>
 
@@ -942,12 +946,15 @@ Interrogeant la protection des libertés publiques et l'encadrement des risques 
 *  <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344 0a.5.5 0 0 1 .707 0l4.096 4.096V11.5a.5.5 0 1 1 1 0v3.975a.5.5 0 0 1-.5.5H11.5a.5.5 0 0 1 0-1h2.768l-4.096-4.096a.5.5 0 0 1 0-.707zm0-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707zm-4.344 0a.5.5 0 0 1-.707 0L1.025 1.732V4.5a.5.5 0 0 1-1 0V.525a.5.5 0 0 1 .5-.5H4.5a.5.5 0 0 1 0 1H1.732l4.096 4.096a.5.5 0 0 1 0 .707z"/></svg>
 Performer le social </summary>
 
-#### [voir le détail de ce souci](/ShapingAI/#performer)
+#### [Voir la fiche de ce souci](/ShapingAI/#performer)
 
 L’analyse historique et sociale des développements informatiques fait apparaître des sens et des visions qui ont présidé / président à la fabrication des techniques de calcul, qui y sont incorporées. Loin d’être uniquement issues des computer sciences, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
 
-
 **Documents emblématiques de ce souci**
+- The Master Algorithm, P. Domingos
+- Patterns of Life, Julien Prévieux
+- IA et réforme de l'État : vers des bureaucraties sans humains ? Félix Tréguer
+- Do categories have politics ? Lucy Suchman
 
 </details>
 
@@ -955,18 +962,31 @@ L’analyse historique et sociale des développements informatiques fait appara�
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-crosshair" viewBox="0 0 16 16">
 *  <path d="M8.5.5a.5.5 0 0 0-1 0v.518A7.001 7.001 0 0 0 1.018 7.5H.5a.5.5 0 0 0 0 1h.518A7.001 7.001 0 0 0 7.5 14.982v.518a.5.5 0 0 0 1 0v-.518A7.001 7.001 0 0 0 14.982 8.5h.518a.5.5 0 0 0 0-1h-.518A7.001 7.001 0 0 0 8.5 1.018V.5Zm-6.48 7A6.001 6.001 0 0 1 7.5 2.02v.48a.5.5 0 0 0 1 0v-.48a6.001 6.001 0 0 1 5.48 5.48h-.48a.5.5 0 0 0 0 1h.48a6.002 6.002 0 0 1-5.48 5.48v-.48a.5.5 0 0 0-1 0v.48A6.001 6.001 0 0 1 2.02 8.5h.48a.5.5 0 0 0 0-1h-.48ZM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/></svg>
 Critiquer</summary>
-Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/#critiquer)
+#### [Voir la fiche de ce souci](/ShapingAI/#critiquer)
+
+**Documents emblématiques de ce souci**
+- Data Feminism, C. d'Ignazio et L. Klein
+- Algorithms of Oppression, S. Noble
+- Merci de changer de métier, C. Izoard
+- Agir dans un monde incertain, Callon, Lascoumes et Barthe
+
 </details>
 
 <details>
 <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
 *  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
 Ouvrir les boîtes noires </summary>
-Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/#enqueter)
+#### [Voir la fiche de ce souci](/ShapingAI/#enqueter)
+
+**Documents emblématiques de ce souci**
+- Algotransparency
+- Exposing AI, Adam Harvey
+- Human Computers - timeline, RYBN
+- Myriad Tulips, Anna Ridler
+- Deep Visual Instruments, Mehmet Akten
+
 </details>
 
 <details>
@@ -975,7 +995,14 @@ Ici un petit résumé et le lien vers le souci en question.
 Justifier </summary>
 Ici un petit résumé et le lien vers le souci en question.
 
-#### [voir le détail de ce souci](/ShapingAI/#justifier)
+#### [Voir la fiche de ce souci](/ShapingAI/#justifier)
+
+**Documents emblématiques de ce souci**
+- The City of Broken Windows, Hito Steyerl
+- Portfolio de l'association Data for Good
+- On the morality of AI, Luccioni et Bengio
+- Ils ont quitté le secteur de la tech pour entreprendre dans le public - article sur les Entrepreneurs d'intérêt général (EIG)
+
 </details>
 
 ### INTÉGRER L'IA À UN MILIEU
@@ -988,7 +1015,18 @@ Résumé et problématisation de cette famille.
 Futurer</summary>
 Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des discours médiatiques et des contre-récits, ce souci rend compte des pratiques de mises en récit de l’intelligence artificielle et de l’agentivité de ces récits sur ce qu’est l’IA et comment elle est perçue, développée et débattue.
 
-#### [voir le détail de ce souci](/ShapingAI/#futurer)
+#### [Voir la fiche de ce souci](/ShapingAI/#futurer)
+
+Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des discours médiatiques et des contre-récits, ce souci rend compte des pratiques de mises en récit de l’intelligence artificielle et de l’agentivité de ces récits sur ce qu’est l’IA et comment elle est perçue, développée et débattue.
+
+
+**Documents emblématiques de ce souci**
+- La French Tech
+- Work hard, Have fun, Make history - slogan Amazon
+- Computing Machinery and Intelligence, A. Turing
+- IA vecteur de simplicité et d'efficacité pour le service public
+- L'IA AlphaGo bat une nouvelle fois le champion du monde de go (article Le Monde)
+
 </details>
 
 <details>
@@ -997,7 +1035,18 @@ Entre rhétorique de l’innovation, stratégie d’enrôlement et fabrique des 
 Valoriser</summary>
 Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur création jusqu’à leur exploitation, avec une attention particulière sur les conditions de leur circulation et les frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
 
-#### [voir le détail de ce souci](/ShapingAI/#valoriser)
+#### [Voir la fiche de ce souci](/ShapingAI/#valoriser)
+
+Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur création jusqu’à leur exploitation, avec une attention particulière sur les conditions de leur circulation et les frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
+
+
+**Documents emblématiques de ce souci**
+- L'open data des décisions de justice
+- Circulaire anti-Doctrine
+- Partenariat entre l'AP-HP et le Health Data Hub
+- Feuille de route 2020-2022 du Ministère de l'économie et des finances
+- La plateforme d'une ville
+
 </details>
 
 <details>
@@ -1006,7 +1055,18 @@ Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur
 Individuer</summary>
 Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques, la disposition d’un milieu (notamment par des normes juridiques et l’installation d’une culture) et la production des subjectivités par l’appropriation des ces dispositifs et développements dans ces milieux. Les questions d’autonomie (tant comme concept juridique que philosophique) et de fabrique de la normativité sont centrales. 
 
-#### [voir le détail de ce souci](/ShapingAI/#individuer)
+#### [Voir la fiche de ce souci](/ShapingAI/#individuer)
+
+Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques, la disposition d’un milieu (notamment par des normes juridiques et l’installation d’une culture) et la production des subjectivités par l’appropriation des ces dispositifs et développements dans ces milieux. Les questions d’autonomie (tant comme concept juridique que philosophique) et de fabrique de la normativité sont centrales. 
+
+
+**Documents emblématiques de ce souci**
+- Avis N°3 du Comité National Pilote d'Éthique du Numérique : Agents conversationnels
+- Comment le droit numérique peut-il réguler la crise de l'attention (colloque)
+- Sensivic (fiche produit d'un sound scanner)
+- Algoglitch
+- Period-tracking app are not for women
+
 </details>
 
 <br>
