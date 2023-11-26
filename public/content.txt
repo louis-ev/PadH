@@ -817,7 +817,7 @@ Comment bien concevoir un modèle ? Quelles relations entretiennent les modèles
 </svg> 
 Écologiser</summary>
 
-#### [vVoir la fiche de ce souci](/ShapingAI/#ecologiser)
+#### [Voir la fiche de ce souci](/ShapingAI/#ecologiser)
 
 Tiraillés entre performance, économie ou justice, les praticien.nes font ici part de leurs difficultés d’arbitrage au regard des enjeux environnementaux et des pollutions engendrées par l’IA. En filigrane, la question de savoir ce qui compte dans la question écologique apparaît de façon vertigineuse : où s’arrête la chaîne de l’IA et ses effets ? 
 
@@ -848,7 +848,7 @@ Machine Learning et deep learning : discipline académique "sérieuse" ou cuisin
 
 </details>
 
-
+<br>
 
 ### FABRIQUER DES SYSTÈMES
 
@@ -925,7 +925,7 @@ Sonder les soucis des développements de l'IA dans les administrations publiques
 
 </details>
 
-
+<br>
 
 ### APPRÉHENDER L'IA
 
@@ -1021,7 +1021,7 @@ Comment sont décidés les développements de systèmes d'IA ? Comment arbitrer 
 
 </details>
 
-
+<br>
 
 ### DISPOSER UN MILIEU
 
