@@ -1278,6 +1278,11 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 
 ### Le souci du travail
 ---
+> On peut faire l'hypothèse que la qualité, elle vient aussi d'une qualité des conditions de travail. Donc en fait, ce souci, il est à la fois en termes de conditions de travail, mais aussi d'un point de vue technique.
+
+– C., sociologue
+
+
 ![Entreprise sous-traitant l’annotation de données, Tana, Madagascar - Crédits : Clément Le Ludec, Maxime Cornet, 2022](https://corpora.medialab.sciences-po.fr/contenus/click-workers.png)
 
 
@@ -1285,25 +1290,20 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 • rapport d'exploitation d'une main d'œuvre étrangère peu qualifiée
 • qualité du travail d'annotation et l'élaboration d'une vérité terrain robuste
 
-> On peut faire l'hypothèse que la qualité, elle vient aussi d'une qualité des conditions de travail. Donc en fait, ce souci, il est à la fois en termes de conditions de travail, mais aussi d'un point de vue technique.
-
-– C., sociologue
 
 "Ces éléments là, on les a aussi identifiés lorsqu'on a déployé le projet et on s'est dit : mais comment on va répondre à ces sujets là qui sont extrêmement prégnants ? Et est ce que nous, on peut y répondre en interne ?"
 – F., chef du bureau du cadastre
 
-
-> Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
-
 - L'exclusion des travailleurs dans les processus de conception (opacité des processus de développement et des choix de conception)
 - Transformations des missions et perte de sens au travail
 
-> Ce qui est vachement compliqué pour nous, c'est de voir ce qu'on fait actuellement comme boulot dehors. Est-ce qu'on doit continuer à être sérieux ? À respecter les tolérances ? Vu qu'ils veulent nous remplacer par des machines qui ne marchent pas très bien, derrière il y aura du plan de qualité et des choses de très mauvaise qualité. On est en train de douter du sens de notre travail.
-
+"Ce qui est vachement compliqué pour nous, c'est de voir ce qu'on fait actuellement comme boulot dehors. Est-ce qu'on doit continuer à être sérieux ? À respecter les tolérances ? Vu qu'ils veulent nous remplacer par des machines qui ne marchent pas très bien, derrière il y aura du plan de qualité et des choses de très mauvaise qualité. On est en train de douter du sens de notre travail."
 – B., géomètre
 
-> Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évident parce que allant avec l'intelligence artificielle qui doit être mise en place ? Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc qu'elle sert d'instrument à ça. 
+> Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
 
+
+"Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évident parce que allant avec l'intelligence artificielle qui doit être mise en place ? Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc qu'elle sert d'instrument à ça."
 – M., cadre à l'IGN
 
 <br>
@@ -1316,22 +1316,29 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 
 – M., cadre à l'IGN
 
+- Perte des savoirs-faire et de la technicité des agents
+- Au-delà des problématiques de coûts et de rapports publics/privés, souci de ne pas voir l'état complètement dépendant ou transférant complètement ses missions de service public / missions régaliennes (les taxes) à des acteurs privés.
+
 <br>
 <br>
 
 
-### Le souci du monde-laboratoire
+### Le souci du monde-laboratoire au service de l'innovation
 ---
 
-> Si on fait un peu l'autopsie de ce cas là, finalement, on en vient rapidement à se demander pourquoi il y a un modèle d’IA dans ce cas d'application. (...)  Les données aériennes de l'IGN qui sont produites tous les quatre ans, elles sont traitables à la main en fait, assez rapidement et pour beaucoup moins que 20 millions. (...) Est ce que ce n'est pas un truc qui s'auto-justifie ? Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
+> Si on fait un peu l'autopsie de ce cas là, on en vient à se demander pourquoi il y a un modèle d’IA dans ce cas d'application. (...)  Les données aériennes de l'IGN sont traitables à la main  pour beaucoup moins que 20 millions. (...) Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
 
 — M., sociologue
+
+Seule compterait la démonstration pour elle-même et pour organiser des acteurs et des capitaux autour d'un modèle technique facile à fabriquer ?
 
 <br>
 <br>
 
 ### Le souci de la relation à l'usager
 ---
+On voit apparaître la figure de l'usager dans la rhétorique de l'administration, en ligne avec les discours sur l'état plateforme et la dématérialisation. Mais il faut distinguer ici deux types s'usagers.
+
 ![](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-data-valo.png .png)
 **L'usager de la donnée**
 
@@ -1342,7 +1349,7 @@ Je m'interrogeais assez peu sur pourquoi j'acquiers et comment je peux améliore
 (F., chef de bureau du cadastre)
 
 
-![](https://corpora.medialab.sciences-po.fr/contenus/contentieux.png)
+![article du Parisien paru en Juillet 2023](https://corpora.medialab.sciences-po.fr/contenus/contentieux.png)
 **L'usager contribuable**
 
 - diminution de la relation directe aux contribuables
