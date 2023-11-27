@@ -1144,7 +1144,7 @@ Cependant, si ce type de représentation permet une lecture d'ensemble intéress
 
 <small>
 
-[Lire l'étude de cas <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/cas)
+[Lire l'étude de cas <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/></svg>](/ShapingAI/#cas)
 
 </small>
 
@@ -1329,24 +1329,22 @@ contenu="""
 
 <br>
 
+### Résumé.
+Comment avoir prise sur le développement des technologies d'intelligence artificielle ? Ce souci montre à quel point les instances actuelles sont insatisfaisantes et révèle les difficultés de penser des mécanismes au delà de ceux de la représentation ou de la consultation à des fins de régulation.
 
 ### Thèmes abordés.
 
-**Consultations publiques (CNIL, UE, …)** Inefficacité (participation washing) et expertise nécessaire pour participer.
+**Instances de démocratie technique** Injonction à faire de la participation publique et des consultations publiques pour impliquer des citoyens dans les décisions de développement au-delà des mécanismes déjà en place comme le Parlement ou le Sénat. Mais depuis la convention citoyenne pour le climat, vu comme du “participation washing”. La question de l'expertise nécessaire pour participer est soulevée.
 
-**Fabriquer des publics** Médiations pour rendre sensible aux calculs (sensibilité peu élevée). Travail de ventriloquie, travailler à constituer le problème avant qu’il ne puisse être porté/ puisse exister.
+**Fabriquer des publics** Médiations pour rendre sensible aux calculs (sensibilité peu élevée). Devenir porte-parole d'une cause est un travail de ventriloquie : il faut travailler à constituer le problème avant qu’il puisse exister et être porté.
 
-**Instances de démocratie technique** Implication des citoyens dans les décisions de développement : au-delà des mécanismes déjà en place comme le Parlement ou le Sénat. Mais depuis la convention citoyenne pour le climat, vu comme du “participation washing”. 
+**Relations sciences-société** Débats et dispositifs avec la société civile (forum de consensus etc.) : quelle posture des sciences sociales ?
 
-**Débats publics / Relations sciences-société** avec la société civile (forum de consensus etc.) : quelle posture des sciences sociales ?
+**Empowerment** Il faut qu'un maximum de gens soient capables de fabriquer et développer les techno pour plus de démocratie. Incubateur d’initiatives citoyennes ou asso comme Data for Good ? Quid de ces initiatives si elles ne vont pas dans le sens des politiques mises en œuvre par le gouvernement (empêcher les oppositions par le truchement des financements notamment).
 
-**Empowerment** Maximum de gens capables de fabriquer / développer les techno pour plus de démocratie. Incubateur d’initiatives citoyennes ou asso comme Data for Good ? Pas possible si ne va pas dans le sens des politiques mises en œuvre par le gouvernement (par le truchement des financements notamment).
+**Désertion et luttes** La désertion professionnelle (lieux de travail / lieux de pouvoir) est revendiquée comme une voie désirable par certains ingénieurs ou jeunes professionnels qui refusent de participer par leur travail au développement de ces technologies, voyant que leurs actions sont limitées par un cadre et leur revendication non prises en compte. La lutte (action directe, sabotage matérielle, etc.) est envisagée devant l’inefficacité et l'inaudibilité des discours d'opposition.
 
-**Désertion** professionnelle / des lieux de pouvoirs
-
-**Luttes** devant l’Inefficacité et inaudibilité des discours réfractaires
-
-**Crise des institutions** / démocratique
+**Crise démocratique** Au-delà de la seule question de l'IA, une sérieuse défaillance des institutions est pointée comme problème majeur, rendant les développements de technologies d'information, coercitives en plus d'être polluantes, préoccupantes.
 
 **Développer des rapports sensibles à la technologie** pour agir : mais limites → part actionnable concrètement au sein de communautés de pratiques ? Prise de vitesse par les géants (GAFAM)...
 
@@ -1396,22 +1394,24 @@ contenu="""
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/720019742?h=1cdca0e2bb" frameborder="0" allowfullscreen="allowfullscreen" width="90%" style="aspect-ratio: 16/9"></iframe>
 
 
+### Résumé.
+L'IA se réalise à travers des expérimentations concrètes qui prennent place dans le monde et alignent des acteurs variés aux motivations convergentes. Une puissante force de convergence semble résider dans la recherche de moyens de contrôle et de répression plus efficaces, ce qui amène à remettre en cause certaines libertés publiques fondamentales. Par ailleurs, pour se déployer, les expérimentations ont besoind d'aménager des cadres réglemetaires qui dérogent au droit commun, ce qui appelle à une extrême vigilance et nécessite des contre-pouvoirs avec des moyens d'évaluation importants, qui à ce jour font défaut. De nombreux praticien.nes, cherchant à alerter sur ces dangers, sont inquiets de voir ces questions méprisées.
 
 ### Thèmes abordés.
 
-**Expérimentation a priori; encadrement a posteriori** La fabrique de la loi trop lente par rapport à la fabrique de prototypes + justification pratique : mieux de tester pour encadrer, prises en compte des situations spécifiques par le développement agile (production de connaissances utiles à l’élaboration de régulations).
+**Expérimentation a priori; encadrement a posteriori** La fabrique de la loi trop lente par rapport à la fabrique de prototypes. Justification pratique : il est préférable de de tester pour bien encadrer avec une prise en compte des situations spécifiques par le développement agile (production de connaissances utiles à l’élaboration de régulations).
 
-**Stratégies d’enrôlement et d’alignement par la sécurité et le contrôle** que ce soit les JO ou les centres de supervision urbain (bientôt la surveillance écolo?), ou en termes de contrôle (fraude, occupations, etc.) les acteurs lobbyent à partir de besoins sécuritaires, policiers ou budgétaires pour faire sauter des verrous. Utilisation de l’open data pour analyse des besoins pour enrôlement. Risques importants d’effets cliquet (l’exception devient la règle) et de la banalisation de techniques/lois liberticides.
+**Stratégies d’enrôlement par la sécurité et le contrôle** Lobby puissant à partir de besoins sécuritaires, policiers ou budgétaires. Ces portes d'entrée sont efficace et permettent de suspendre le droit commun et d'utiliser des régimes d'exception pour stabiliser une industrie (exemple des JO ou du COVID). Utilisation de l’open data pour analyse des besoins comme stratégie enrôlement. Risques importants d’effets-cliqué (l’exception devient la règle) et de la banalisation de techniques/lois liberticides. La répression de la fraude est aussi une application qui aligne de nombreux acteurs. 
 
-**La réglementation européenne répond à une logique de mise en conformité / produits défectueux (case-based)** : elle soutient le développement et la régulation d’un marché intérieur (orienté produits), avec une tendance à pousser l’innovation européenne (pour concurrencer les autres puissances).
+**La réglementation européenne répond à une logique de mise en conformité / produits défectueux (case-based)** : elle soutient le développement et la régulation d’un marché intérieur (orienté produits), avec une tendance à pousser l’innovation européenne pour concurrencer les autres puissances.
 
-**Droit souple (pro-innovation) et autorité administrative indépendante** Respect des droits fondamentaux tant que cela n’élimine pas le business. Autorité pour contrôler, réglementer, accompagner. Trop de régulation risque de freiner l’IA.
+**Droit souple (pro-innovation) et autorité administrative indépendante** Respect des droits fondamentaux tant que cela n’élimine pas le business. Il faut une autorité avec des moyens pour contrôler, réglementer, accompagner. Trop de régulation risque de freiner l’IA ?
 
-**Modalités d’expérimentation** : évènements (hackathon), formation et animation de communautés, preuves de concept, démos. Aujourd’hui infrastructure dans les administrations ou les entreprises avec des rôles dédiés (ex. EIG). Questions des ressources humaines importantes pour passage à l’échelle. 
+**Modalités d’expérimentation** : évènements (hackathon), formation et animation de communautés, preuves de concept, démos. il y a eu d'importants processus d'évangélisation dans les administrations ou les entreprises avec des rôles dédiés (ex. EIG). Questions des ressources humaines importantes pour passage à l’échelle. 
 
-**Droits de regard et recours** : Difficultés d’accès à l’information sur le développement / expérimentations de systèmes d’IA (opacité administrative), besoin de répertorier les initiatives. Parlement doit donner son aval + décret si modifications de la loi. Citoyens ont aussi des droits de recours. La CNIL a des difficultés pour traiter les dossiers et ne rend des avis souvent seulement consultative.
+**Droits de regard et recours** : Difficultés d’accès à l’information quant au développement / expérimentations de systèmes d’IA (opacité administrative / secret des affaires) et il y a un besoin de répertorier les initiatives. Le parlement doit donner son aval pour qu'une expérimentation puisse déroger au droit, suivi d'un décret si modifications de la loi. Citoyens ont aussi des droits de recours, mais difficiles à mettre en œuvre. La CNIL a des difficultés pour traiter les dossiers et ne rend des avis souvent seulement consultatifs.
 
-**Question de l’évaluation des projets d’IA** : à qui cela bénéficie, comment on évalue les coûts et bénéfices ? Qui doit être associé à la chaîne de conception et d’évaluation ? Une fois les projets lancés, il semble qu’ils ne soient jamais remis en question de toute façon. → effet cliquet
+**Question de l’évaluation des projets d’IA** : à qui cela bénéficie, comment on évalue les coûts et bénéfices ? Qui doit être associé à la chaîne de conception et d’évaluation ? Une fois les projets lancés, il semble qu’ils ne soient jamais remis en question de toute façon. → effet cliqué
 
 <small>
 
