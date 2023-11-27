@@ -1258,7 +1258,7 @@ C'est ce que le volet participatif de cette enquête à tenter d'éclaircir.
 ## Les soucis des praticien.nes concerné.es
 --- 
 
-Chacun des praticien.nes présent.es lors du workshop a fait valoir des soucis associés au projet *Foncier Innovant* depuis un prisme singulier. Pour mettre à jour ces prismes et bien saisir les préoccupations de chacun, nous avons d'abord posé la question : comment en est-on arrivé là ? C'est-à-dire, quels sont les évènements marquants et signifiants qui font que le projet *Foncier Innovant* existe aujourd'hui ? Des lignes de temps croisées sont ainsi apparu, mêlant des saillances aux tonalités variées. 
+Chacun des praticien.nes présent.es lors du workshop a fait valoir des soucis associés au projet *Foncier Innovant* depuis un prisme singulier. Pour mettre à jour ces prismes et bien saisir les préoccupations de chacun, nous avons d'abord posé la question : comment en est-on arrivé là ? C'est-à-dire, quels sont les évènements marquants et signifiants qui font que le projet *Foncier Innovant* existe aujourd'hui ? Des lignes de temps sont alors apparues sur des empans temporels très différents et avec des saillances contrastées. 
 
 ### Synthèse des prismes des praticien.nes :
 - Modernisation de l’action publique
@@ -1281,8 +1281,6 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 ![Entreprise sous-traitant l’annotation de données, Tana, Madagascar - Crédits : Clément Le Ludec, Maxime Cornet, 2022](https://corpora.medialab.sciences-po.fr/contenus/click-workers.png)
 
 
-> [§]  Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
-
 - Pas de disparition mais un déplacement et une invisibilisation du travail
 • rapport d'exploitation d'une main d'œuvre étrangère peu qualifiée
 • qualité du travail d'annotation et l'élaboration d'une vérité terrain robuste
@@ -1295,9 +1293,14 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 – F., chef du bureau du cadastre
 
 
+> Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
+
 - L'exclusion des travailleurs dans les processus de conception (opacité des processus de développement et des choix de conception)
 - Transformations des missions et perte de sens au travail
 
+> Ce qui est vachement compliqué pour nous, c'est de voir ce qu'on fait actuellement comme boulot dehors. Est-ce qu'on doit continuer à être sérieux ? À respecter les tolérances ? Vu qu'ils veulent nous remplacer par des machines qui ne marchent pas très bien, derrière il y aura du plan de qualité et des choses de très mauvaise qualité. On est en train de douter du sens de notre travail.
+
+– B., géomètre
 
 > Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évident parce que allant avec l'intelligence artificielle qui doit être mise en place ? Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc qu'elle sert d'instrument à ça. 
 
@@ -1329,8 +1332,14 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 
 ### Le souci de la relation à l'usager
 ---
-![](https://corpora.medialab.sciences-po.fr/contenus/data-valorisation.png)
+![](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-data-valo.png .png)
 **L'usager de la donnée**
+
+On parle de nouveaux "couloirs de valorisation de la donnée".
+
+“À la DGFIP, on était souvent des producteurs un peu brut de la donnée. (...) 
+Je m'interrogeais assez peu sur pourquoi j'acquiers et comment je peux améliorer cette acquisition et comment je peux mettre en qualité la donnée, comment je peux la valoriser, la croiser. C'est un peu des questions nouvelles que l'on se pose.”
+(F., chef de bureau du cadastre)
 
 
 ![](https://corpora.medialab.sciences-po.fr/contenus/contentieux.png)
