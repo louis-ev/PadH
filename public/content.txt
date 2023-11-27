@@ -1186,53 +1186,21 @@ contenu="""
 
 <br>
 
-Cette étude analyse les transformations générées par le recours à l’intelligence artificielle (IA) dans les opérations de mise à jour du cadastre et du calcul de l’impôt. Instrument foncier et fiscal de premier ordre, le cadastre est un mélange d’opérations topographiques et administratives sans cesse revisitées, co-constitutives des manières de tenir compte du territoire et de son occupation. En 1807, Napoléon fait dénombrer par arpentage et figurer dans le cadastre les terres de toutes les communes de France. Aujourd’hui, la Direction Générale des Finances Publiques (DGFiP), héritière de ce mandat, décide d’utiliser des techniques de reconnaissance d’image automatisées sur des photos aériennes. Quelles nouvelles opérations, entités et agencements sont mis à l’épreuve quand ces techniques automatisées tiennent compte du territoire ?
+Cette étude analyse les transformations générées par le recours à l’intelligence artificielle (IA) dans les opérations de mise à jour du cadastre et du calcul de l’impôt. Instrument foncier et fiscal de premier ordre, le cadastre est un mélange d’opérations topographiques et administratives sans cesse revisitées, co-constitutives des manières de tenir compte du territoire et de son occupation. En 1807, Napoléon fait dénombrer par arpentage et figurer dans le cadastre les terres de toutes les communes de France. Aujourd’hui, la Direction Générale des Finances Publiques (DGFiP), héritière de ce mandat, décide d’utiliser des techniques de reconnaissance d’image automatisées sur des photos aériennes. **Quelles nouvelles opérations, entités et agencements sont mis à l’épreuve quand ces techniques automatisées tiennent compte du territoire ?**
 
 <br>
 
 ## Le projet *Foncier Innovant* au Bureau du Cadastre
 
+Au printemps 2023, les agents des Finances Publiques en charge du recouvrement des taxes foncières se préparent : le nombre de contentieux à traiter risque bien d’exploser du fait d’une expérimentation à grande échelle d’un système de détection automatisée de piscines. Ce système est réputé d’une aide efficace pour repérer les cas de fraude et améliorer les bases de données du fisc, mais les contribuables pourraient bien être nombreux à contester la présence d’une piscine dans leur jardin. De telles erreurs de prédictions se nomment des faux positifs dans le jargon de la science des données. Au même moment, les porteurs du projet semblent confiants et dressent déjà un bilan qui ne laisse place à aucune remise en cause. Forts des premiers retours sur 9 départements, ils entendent bien pousser l’expérimentation plus loin, en détectant d’autres objets tels que des bâtiments isolés ou des extensions de bâti, avec en ligne de mire la mise à jour automatique des plans cadastraux.
 
+Jusqu’à aujourd’hui, le dessin des bâtiments et autres objets sur les plans cadastraux relevait des missions et de la compétence de géomètres, fonctionnaires de la fonction publique, présents dans tous les départements et rattachés aux trésoreries. Organisant leurs tournées quotidiennes à partir des informations transmises aux mairies par les contribuables, les géomètres pratiquent des levées de terrain. Ces mesures précises permettent de reporter au plan les constructions nouvelles et de tenir à jour les données du cadastre. Ils utilisent des outils de mesure numériques, parmi lesquels des GPS, des télémètres laser et des applications numériques qui ont remplacé progressivement les chaînes d’arpentage, le papier et le crayon. 
 
-<br>
+Le projet baptisé Foncier Innovant porté par Bercy et financé par la DITP (Direction interministérielle de la Transformation Publique) est une initiative pensée dans une large série de trasnformations des pratiques du Trésor Public. Son objectif est de transférer l’essentiel de cette mission de mise à jour des données cadastrales à un système automatisé. Sur la base de réseaux de neurones entraînés à reconnaître certains objets sur des photos aériennes, ce système pointe aux géomètres les incohérences dans les bases de données du fisc, à l’aide de pastilles. L’expérimentation de ces nouvelles techniques, sans concertation ni formation préalable des personnels, provoque la crispation des agents—et en premier lieu, des agents géomètres—relayée par l’ensemble des syndicats de la Direction générale des Finances publiques.
 
----
+Le chef du Bureau du Cadastre en convient, il s’agit d’un changement profond qui demande une réorganisation des missions et des services : 
 
-## *Tenir compte* du territoire et pratiques cadastrales
-
-### Quatre vignettes historiques
-
-Afin de comprendre ce qui est en jeu dans les manières de tenir compte de l'occupation d'un territoire, il semble intéressant d'avoir en tête d'autres configurations et d'autres finalités attachées aux pratiques cadastrales.
-
-![“Le gromaticien" Un géomètre (agrimencier) mesure la terre à l'aide d'une groma (gruma). Sculpture en bronze. Rome, Musée de la civilisation romaine, non daté.](https://corpora.medialab.sciences-po.fr/contenus/roman-roman-roman-art-the-gromatician-a-surveyor-agrimeners-measures-the-land-using-a-gro-meisterdrucke-993738.jpeg) **Les gromaticiens romains** Rapport au terrain / rôle social de construction du paysage
-
-![Fig. de Heuilley et Talmay, XVe (sans titre), parchemin couleur. (62 X 56 cm). Dans "Quand les artistes dessinaient les cartes, Vues et figures de l’espace français. Moyen-Âge et Renaissance." Éditions Le Passage et Les Archives Nationales. 2019](https://corpora.medialab.sciences-po.fr/contenus/map-dessin-v2-copy.png) **Des artistes au service rapport au support / mobilisation dans la cas de contentieux et procès
-
-![Cadastre de Bertier de Sauvigny (réalisation 1776-1791).  Plan de Bessancourt et Frépillon. (wikipedia, licence CC)](https://corpora.medialab.sciences-po.fr/contenus/cadastre-de-bertier-de-sauvigny-plan-de-bessancourt-et-fre-pillon-1.jpg) **Les arpenteurs, dessinateurs de plans** Rapport entre équité fiscale et mathématiques
-
-![Notice sur les grandes tables logarithmiques et trigonométrques](https://corpora.medialab.sciences-po.fr/contenus/prony-tables-thb.jpeg) **Des calculateurs organisés rationnellement** Changement d’échelle : territoire national et calcul massif
-
-<br>
-
-### Numérisation récente des pratiques cadastrales en France
-
-Héritier du cadastre dit de Napoléon, le cadastre est produit par des géomètres (900 pers. en 2022), agents de la Direction Générale des Finances Publiques (DGFiP), rattachée au Ministère de l’Économie. 
-
-Ils sont répartis sur tout le territoire, dans des bureaux locaux, pilotés par un bureau central. 
-Ils ont une mission topographique et effectuent des levées sur le terrain.
-
-Évolutions importantes avec l’introduction d’outils numériques, tels que :
-
-![Système de numérisation des planches du cadastre mis en œuvre au SDNC à Saint Germain en Laye. Source : Géomatique Expert, N°20 - novembre/décembre 2002, reportage sur le Service de la Documentation Nationale du Cadastre (SDNC). ](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-10-09-a-21-02-23.png)
-
-( → 1980) Numérisation du plan et des matrices 
-   cadastrales 
-(→ 1990)  Logiciels de traitement 
-(→ 2005) Télémètre laser 
-(→ 2005) GPS 
-(→ 2010)  Imagerie aérienne 
-
-Le dispositif du Foncier Innovant, jusqu'à sa finalité de dessiner et de reporter automatiquement les détections faites par reconnaissance d'images sur des prises de vue aérienne, représente ainsi une nouvelle épreuve. 
+“On est un peu sur une révolution, sur une transformation profonde de nos missions et de nos métiers. Et tout ça à un instant T, on fait tout en même temps. En fait, la dématérialisation, le recours à l'IA—ou à une technologie innovante au sens large—pour identifier les biens qui doivent faire l'objet d'une nouvelle évaluation, les biens qui doivent faire l'objet d'une représentation graphique sur le plan… tout ça arrive au même moment. Et donc socialement, sociologiquement, ça a des impacts assez massifs sur l'organisation du travail, sur les missions au quotidien. Et tout ça arrive, entre guillemets un peu brutalement.” 
 
 <br>
 <br>
