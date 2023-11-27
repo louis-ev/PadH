@@ -1186,7 +1186,7 @@ contenu="""
 
 <br>
 
-Cette étude analyse les transformations générées par le recours à l’intelligence artificielle (IA) dans les opérations de mise à jour du cadastre et du calcul de l’impôt. Instrument foncier et fiscal de premier ordre, le cadastre est un mélange d’opérations topographiques et administratives sans cesse revisitées, co-constitutives des manières de tenir compte du territoire et de son occupation. En 1807, Napoléon fait dénombrer par arpentage et figurer dans le cadastre les terres de toutes les communes de France. Aujourd’hui, la Direction Générale des Finances Publiques (DGFiP), héritière de ce mandat, décide d’utiliser des techniques de reconnaissance d’image automatisées sur des photos aériennes. **Quelles nouvelles opérations, entités et agencements sont mis à l’épreuve quand ces techniques automatisées tiennent compte du territoire ?**
+Nous poursuivons l'enquête en analysant finement les soucis liés aux transformations générées au cours de la conception et l'introduction d'un système d'IA spécifique dans un cas précis : le recours à l’intelligence artificielle (IA) dans les opérations de mise à jour du cadastre et du calcul de l’impôt. Instrument foncier et fiscal de premier ordre, le cadastre est un mélange d’opérations topographiques et administratives sans cesse revisitées, co-constitutives des manières de tenir compte du territoire et de son occupation. Depuis la Révolution et Napoléon, le dessin du cadastre est réalisé, non sans mal, à partir d'un arpentage systématique de toutes les communes de France, opéré par des géomètres. Aujourd’hui, la Direction Générale des Finances Publiques (DGFiP), héritière de ce mandat, décide d’utiliser des techniques de reconnaissance d’image automatisées sur des photos aériennes. **Quelles nouvelles opérations, entités et agencements sont mis à l’épreuve quand ces techniques automatisées tiennent compte du territoire ? Quels soucis émergent de ces transformations pour les praticien.nes impliqué.es ?**
 
 <br>
 
@@ -1196,40 +1196,33 @@ Au printemps 2023, les agents des Finances Publiques en charge du recouvrement d
 
 Jusqu’à aujourd’hui, le dessin des bâtiments et autres objets sur les plans cadastraux relevait des missions et de la compétence de géomètres, fonctionnaires de la fonction publique, présents dans tous les départements et rattachés aux trésoreries. Organisant leurs tournées quotidiennes à partir des informations transmises aux mairies par les contribuables, les géomètres pratiquent des levées de terrain. Ces mesures précises permettent de reporter au plan les constructions nouvelles et de tenir à jour les données du cadastre. Ils utilisent des outils de mesure numériques, parmi lesquels des GPS, des télémètres laser et des applications numériques qui ont remplacé progressivement les chaînes d’arpentage, le papier et le crayon. 
 
-Le projet baptisé Foncier Innovant porté par Bercy et financé par la DITP (Direction interministérielle de la Transformation Publique) est une initiative pensée dans une large série de trasnformations des pratiques du Trésor Public. Son objectif est de transférer l’essentiel de cette mission de mise à jour des données cadastrales à un système automatisé. Sur la base de réseaux de neurones entraînés à reconnaître certains objets sur des photos aériennes, ce système pointe aux géomètres les incohérences dans les bases de données du fisc, à l’aide de pastilles. L’expérimentation de ces nouvelles techniques, sans concertation ni formation préalable des personnels, provoque la crispation des agents—et en premier lieu, des agents géomètres—relayée par l’ensemble des syndicats de la Direction générale des Finances publiques.
+Le projet baptisé *Foncier Innovant* porté par Bercy et financé par la DITP (Direction interministérielle de la Transformation Publique) est une initiative pensée dans une large série de trasnformations des pratiques du Trésor Public. Son objectif est de transférer l’essentiel de cette mission de mise à jour des données cadastrales à un système automatisé. Sur la base de réseaux de neurones entraînés à reconnaître certains objets sur des photos aériennes, ce système pointe aux géomètres les incohérences dans les bases de données du fisc, à l’aide de pastilles. L’expérimentation de ces nouvelles techniques, sans concertation ni formation préalable des personnels, provoque la crispation des agents—et en premier lieu, des agents géomètres—relayée par l’ensemble des syndicats de la Direction générale des Finances publiques.
 
 Le chef du Bureau du Cadastre en convient, il s’agit d’un changement profond qui demande une réorganisation des missions et des services : 
 
-“On est un peu sur une révolution, sur une transformation profonde de nos missions et de nos métiers. Et tout ça à un instant T, on fait tout en même temps. En fait, la dématérialisation, le recours à l'IA—ou à une technologie innovante au sens large—pour identifier les biens qui doivent faire l'objet d'une nouvelle évaluation, les biens qui doivent faire l'objet d'une représentation graphique sur le plan… tout ça arrive au même moment. Et donc socialement, sociologiquement, ça a des impacts assez massifs sur l'organisation du travail, sur les missions au quotidien. Et tout ça arrive, entre guillemets un peu brutalement.” 
+“On est un peu sur une *révolution*, sur une transformation profonde de nos missions et de nos métiers. Et tout ça à un instant T, on fait tout en même temps. En fait, la dématérialisation, le recours à l'IA—ou à une technologie innovante au sens large—pour identifier les biens qui doivent faire l'objet d'une nouvelle évaluation, les biens qui doivent faire l'objet d'une représentation graphique sur le plan… tout ça arrive au même moment. Et donc socialement, sociologiquement, ça a des impacts assez massifs sur l'organisation du travail, sur les missions au quotidien. Et tout ça arrive, entre guillemets un peu brutalement.” 
 
 <br>
 <br>
+<br>
 
+![workshop](https://corpora.medialab.sciences-po.fr/contenus/layer-1.png)
+
+## Les soucis des praticien.nes impliqué.es par le *Foncier Innovant*
 ---
 
-## Description des soucis liés aux 
-![workshop](https://corpora.medialab.sciences-po.fr/contenus/layer-1.png)
+
+### Méthodologie d'enquête 
+
+La carte
+![Carte](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-DEF.png)
+
 Timelines
 ![timelines](https://corpora.medialab.sciences-po.fr/contenus/2023-09-04-12-17-47.jpg)
-![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
 
-### SYNTHESE 
 
 ![plans cadastraux, 1865 (gauche) et 1986 (droite)](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-10-09-a-12-13-34.png)
 
-Qu’est-ce qui compte ? 
-→ élaborer une vérité terrain
-→ valeur de la donnée en elle-même
-→ (tensions sur) les capacités de mise à jour
-
-Comment on compte ? 
-→ pas d’automatisation mais déplacement, 
-division et invisibilisation du travail 
-→ le monde laboratoire (en mode industriel), l’innovation pour elle-même
-
-Pour quoi tenir compte ? 
-→ (coupure) des relations au terrain (“usagers”, collectivités, territoire) qui reconfigurent les rapports entre état central, autorités locales et citoyens
-→ (vulnérabilités) des savoirs critiques pour la puissance publique
 
 <br>
 
@@ -1241,6 +1234,7 @@ Ressources :
 
 ### La voix des participant.e.s à l'enquête 
 ---
+![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
 
 > [§]  Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
 
