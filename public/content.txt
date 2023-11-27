@@ -1110,17 +1110,20 @@ Description d’une danse, d’un mouvement de va-et-vient, entre la production 
 
 ![Images du workshop - Juin 2022, cité des sciences et de l'industrie, Carrefour Numérique2](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-06-a-16-43-36.png)
 
-## Discuter et éprouver les soucis collectivement
+## 3. Discuter et éprouver les soucis collectivement
 
 ---
 
 
 En juin 2022, un workshop a réuni les co-enquêteur.ices de Shaping AI pendant deux journées. Cette session de travail collectif a été l'occasion de présenter les soucis pour discuter leur découpage et leur pertinence.
 
-Quel décalage proposent les soucis par rapport aux problèmes publics de l'IA ?
-De quels effets sont-il porteurs quant au renouvellement des formes de participation au développement de l'IA ?
+**Quel décalage proposent les soucis par rapport aux problèmes publics de l'IA ?
+De quels effets sont-il porteurs quant au renouvellement des formes de participation au développement de l'IA ?**
 
-Au cours de cette session et avec ces questions en tête, les co-enquêteur.ices ont retravaillé par groupe de 3 et sous forme de vidéo, 7 des 19 soucis choisis collectivement ![Les 7 soucis travaillés pendant le workshop avec les co-enquêteur.ices](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-29-a-09-59-47.png). Ce choix témoigne de l'importance des enjeux présents dans ces 6 soucis sur l'ensemble, enjeux que les nouvelles versions ont permis d'affiner et de densifier encore. Ce travail collectif a donné lieu à de riches discussions, parfois à de fortes oppositions, permettant d'éprouver de manière fine les perspectives et les prises avec lesquelles les personnes forment l'IA au quotidien.
+Au cours de cette session et avec ces questions en tête, les co-enquêteur.ices ont retravaillé par groupe de 3 et sous forme de vidéo, 7 des 19 soucis, choisis collectivement ![Les 7 soucis travaillés pendant le workshop avec les co-enquêteur.ices](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-29-a-09-59-47.png). Ce choix témoigne de l'importance des enjeux présents dans ces 7 soucis par rapport à l'ensemble de la cartographie. Tous les motifs sont représentés dans cette sélection, même si on constate une sur-représentation du motif "instituer l'IA". 
+Non présent sur la carte, le souci de la participation a aussi fait l'objet d'une réécriture intéressante, soulignant la nécessité de repenser les rapports entre calculs, calculateurs et calculés. 
+
+Le processus d'élaboration de ces nouvelles versions a permis d'éprouver, amender, affiner et densifier encore les problèmes de l'IA, confrontant des perspectives plurielles. Donnant lieu à de riches discussions, parfois aussi à de vives oppositions, les co-enquêteur.ices ont pu mettre à l'épreuve les prises avec lesquelles ils et elles forment l'IA au quotidien, ouvrant la voie à des alliances et des ouvertures souhaitables.
 
 <small> Note : Une analyse fine de la reformulation des soucis est en cours de préparation dans le cadre du travail de thèse d'Axel Meunier.</small>
 
@@ -1128,7 +1131,7 @@ Au cours de cette session et avec ces questions en tête, les co-enquêteur.ices
 <br>
 <br>
 
-## D'autres lignes de partage
+## 4. D'autres lignes de partage
 ---
 
 Les matériaux recueillis et les arguments développés par les co-enquêteur.ices se prêtent à d'autres analyses, qui, bien qu'elles ne font pas l'objet de cette publication, pourraient être s'avérer génératives dans d'autres contextes (par exemple, de médiation). 
