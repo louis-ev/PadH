@@ -1225,7 +1225,8 @@ Poursuivant notre effort participatif, nous avons réuni 10 praticien.nes concer
 Le projet *Foncier Innovant* est décrit par ses concepteurs comme une optimisation du processus de détection des constructions ou aménagements non déclarés, à lutter plus efficacement contre les anomalies déclaratives et répondre ainsi aux principes d'équité et de justice fiscale des citoyens.
 Le schéma ci-dessous donne une représentation des tâches et du fonctionnement du système ![Slide issue d’une présentation officielle du projet Foncier Innovant. Séminaire IA, « Imagerie aérienne et report au plan » organisé par la délégation à la transformation numérique de la direction générale des Finances publiques (DTNum), 29 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-20-00-13.png>https://corpora.medialab.sciences-po.fr/contenus/design-process.png), tel que le concoivent les porteurs du projet. 
 
-Ce modèle de tâches réduit la complexité de la chaîne socio-technique nécessaire pour que le système existe à six étapes principales, faisant intervenir un agent machine pour la détection puis un agent humain pour la vérification. ![Slide issue d’une présentation officielle du projet Foncier Innovant. Séminaire IA, « Imagerie aérienne et report au plan » organisé par la délégation à la transformation numérique de la direction générale des Finances publiques (DTNum), 29 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/comparaison-agent-IA.png) 
+Ce modèle de tâches réduit la complexité de la chaîne socio-technique nécessaire pour que le système existe à six étapes principales, faisant intervenir un agent machine pour la détection puis un agent humain pour la vérification. 
+![Slide issue d’une présentation officielle du projet Foncier Innovant. Séminaire IA, « Imagerie aérienne et report au plan » organisé par la délégation à la transformation numérique de la direction générale des Finances publiques (DTNum), 29 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/comparaison-agent-IA.png) 
 Cette simplification permet d'évaluer la pertinence du système socio-technique en comparant seulement la performance à la sortie : est-ce que les tâches de détection sont exécutées de façon satisfaisante par la machine, quand on compare les résulats entre une opération manuelle et une opération automatique ? 
 
 
@@ -1259,7 +1260,7 @@ C'est ce que le volet participatif de cette enquête à tenter d'éclaircir.
 
 Chacun des praticien.nes présent.es lors du workshop a fait valoir des soucis associés au projet *Foncier Innovant* depuis un prisme singulier. Pour mettre à jour ces prismes et bien saisir les préoccupations de chacun, nous avons d'abord posé la question : comment en est-on arrivé là ? C'est-à-dire, quels sont les évènements marquants et signifiants qui font que le projet *Foncier Innovant* existe aujourd'hui ? Des lignes de temps croisées sont ainsi apparu, mêlant des saillances aux tonalités variées. 
 
-### Les prismes des praticien.nes :
+### Synthèse des prismes des praticien.nes :
 - Modernisation de l’action publique
 - Théorie politique et fonction publique
 - Economie politique de la donnée et digital labour
@@ -1273,48 +1274,78 @@ Chacun des praticien.nes présent.es lors du workshop a fait valoir des soucis a
 A partir de la reconnaissance de ces différents prismes, les soucis de chacun ont été dépliés dans un dialogue par binôme, avant d'être discutés collectivement. La carte a servi de médiation à la fois pour identifier et densifier les éléments problématiques et pour restituer les soucis.
 
 <br>
+<br>
 
 ### Le souci du travail
+---
+![Entreprise sous-traitant l’annotation de données, Tana, Madagascar - Crédits : Clément Le Ludec, Maxime Cornet, 2022](https://corpora.medialab.sciences-po.fr/contenus/click-workers.png)
 
-- déplacement du travail
-- exclusion des travailleurs dans les processus de conception (opacité des processus de développement et des choix de conception)
-- 
 
 > [§]  Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
 
+- Pas de disparition mais un déplacement et une invisibilisation du travail
+• rapport d'exploitation d'une main d'œuvre étrangère peu qualifiée
+• qualité du travail d'annotation et l'élaboration d'une vérité terrain robuste
 
-![Entreprise sous-traitant l’annotation de données, Tana, Madagascar - Crédits : Clément Le Ludec, Maxime Cornet, 2022](https://corpora.medialab.sciences-po.fr/contenus/click-workers.png)
+> On peut faire l'hypothèse que la qualité, elle vient aussi d'une qualité des conditions de travail. Donc en fait, ce souci, il est à la fois en termes de conditions de travail, mais aussi d'un point de vue technique.
 
-Et à quoi il sert. Et aussi alors, pour les travailleurs de Madagascar de définir un peu des standards de conditions de travail, même de salaire. Et ça pose la question de comment on accompagne ces travailleurs et qu'est ce qui est juste en termes de conditions de travail. Et voilà, c'était le principal souci, sachant qu'il y a un enjeu de qualité du modèle qui est lié aussi aux données et que on peut faire l'hypothèse que la qualité, elle vient aussi d'une qualité des conditions de travail. Donc en fait, ce souci, il est à la fois en termes de conditions de travail, mais aussi d'un point de vue technique.
-[...]
+– C., sociologue
 
-[•] Du coup, ces éléments là, on les a aussi identifiés lorsqu'on a déployé le projet et on s'est dit : mais comment on va répondre à ces sujets là qui sont extrêmement prégnants ? Et est ce que nous, on peut y répondre en interne ?
-[...]
+"Ces éléments là, on les a aussi identifiés lorsqu'on a déployé le projet et on s'est dit : mais comment on va répondre à ces sujets là qui sont extrêmement prégnants ? Et est ce que nous, on peut y répondre en interne ?"
+– F., chef du bureau du cadastre
 
-> [≈] Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évident parce que allant avec l'intelligence artificielle qui doit être mise en place ? Il y en a plusieurs dans ce qu'on a pu dire. 
 
-Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc qu'elle sert d'instrument à ça. 
+- L'exclusion des travailleurs dans les processus de conception (opacité des processus de développement et des choix de conception)
+- Transformations des missions et perte de sens au travail
 
-### Le souci des savoirs critiques de l'état
 
-Il y a l'idée que l'intelligence artificielle est quelque chose où, si on le met pas en place, nous administration, alors d'autres le feront à la place de l'administration avec un rapport de pouvoir qui est la menace plus ou moins forte d'externalisation. Ce qui n'est pas exactement la même chose que l'externalisation, mais le risque de disruption; qu'un autre acteur prenne complètement la place de la puissance publique dans le cas de la production de l'information géographique.
+> Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évident parce que allant avec l'intelligence artificielle qui doit être mise en place ? Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc qu'elle sert d'instrument à ça. 
+
+– M., cadre à l'IGN
 
 <br>
+<br>
+
+### Le souci des savoirs critiques et de la souveraineté de l'état
+---
+
+> Il y a l'idée que si on ne met l'IA pas en place, nous administration, alors d'autres le feront à la place de l'administration avec un rapport de pouvoir qui est la menace plus ou moins forte d'externalisation. Et donc un risque de disruption : qu'un autre acteur prenne complètement la place de la puissance publique.
+
+– M., cadre à l'IGN
+
+<br>
+<br>
+
 
 ### Le souci du monde-laboratoire
+---
 
-[#] On est partis à la base, de la manière dont est amené le modèle de construction de l'IA. Donc avec les quatre catégories [ndlr : la boucle avec les quatre pôles, monde data modèle instanciation], en essayant de remettre un peu d'objectif et de politique dedans. C'est à dire : personne ne fait un algorithme sans raison et un algorithme n'est jamais une représentation objective d'un phénomène. Les données, elles sont construites. Enfin je ne vous apprends rien. Mais voilà, il y a quelqu'un qui veut faire quelque chose et pour ça il a des métriques à optimiser. Il va le faire avec des loop de feed back entre ces données et son modèle. C'est du machine learning de base. Et donc on est parti de là et on a essayé de comprendre, pour ce cas de figure là, qu'est ce qu'essaye de faire la DGFiP ? Quel était l'objectif de la DGFiP—de la direction de la DGFiP ? Pourquoi est-ce qu'ils ont décidé de mettre en place un algorithme au niveau des piscines en fait ? Parce que 
+> Si on fait un peu l'autopsie de ce cas là, finalement, on en vient rapidement à se demander pourquoi il y a un modèle d’IA dans ce cas d'application. (...)  Les données aériennes de l'IGN qui sont produites tous les quatre ans, elles sont traitables à la main en fait, assez rapidement et pour beaucoup moins que 20 millions. (...) Est ce que ce n'est pas un truc qui s'auto-justifie ? Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
 
-> si on fait un peu l'autopsie de ce cas là, finalement, on comprend pas trop pourquoi est ce qu'il y a un modèle dans ce cas d'application là. (...) Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? 
+— M., sociologue
 
-Parce que finalement, là, une des justifications de l'IA et de ces méthodes un peu automatiques de traitement des données, c'est qu'on a des masses de données qui sont trop grosses pour être traitées à la main et du coup il faut des outils d'aide au traitement. Là, ce n'est pas le cas. C'est à dire que les données aériennes de l'IGN qui sont produites tous les quatre ans, elles sont faisables à la main en fait assez rapidement et pour beaucoup moins que 20 millions. Et donc ce qui pose la question de l'existence du modèle et de pourquoi est-ce que finalement quelqu'un à un moment a décidé de faire un modèle et de le vendre à la DGFiP ? Et du coup on arrive sur un modèle assez cyclique : est ce que ce n'est pas un truc qui s'auto-justifie ? Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Parce que finalement la taxation des piscines, si elles n'étaient pas traitée avant, c'est que tout le monde s'en fiche un peu, soyons honnêtes. Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
-
+<br>
 <br>
 
 ### Le souci de la relation à l'usager
+---
+![](https://corpora.medialab.sciences-po.fr/contenus/data-valorisation.png)
+**L'usager de la donnée**
 
-- Usager de la donnée
-- Usager-contribuable
+
+![](https://corpora.medialab.sciences-po.fr/contenus/contentieux.png)
+**L'usager contribuable**
+
+- diminution de la relation directe aux contribuables
+• fermeture de nombreuses trésoreries 
+• arrêt de la participation des géomètres aux commissions communales des impôts directs
+ 
+- le contribuable-contributeur
+- visibilisation du service public
+
+“Et ça permettait aussi aux propriétaires de voir qui on était, parce qu'il y en a qui ne comprenaient pas pourquoi on passait. Et je prévenais la commune qui faisait un affichage. On prévenait les communes à peu près quinze jours avant d'y aller et après on allait tout mesurer. Si les gens avaient des doutes, on montrait notre carte professionnelle, mais globalement, on était plutôt bien accueillis chez les particuliers. Et puis, ils aiment bien quand ils comprenaient qu'on leur montrait. Vous voyez, votre maison n'est pas sur le plan, on vient juste la mesurer pour qu'elle y soit et on repart. On n'est pas rentré, enfin on rassurait.”
+
+- renversement de la charge de la preuve ?
 
 
 """
