@@ -1231,8 +1231,9 @@ Cette simplification permet d'évaluer la pertinence du système socio-technique
 
 Or, ce seul critère de performance est insatisfaisant pour évaluer ce système. **Il convient de prendre en compte l'ensemble de la chaîne soci-technique induite par un tel déploiement pour juger des transformations qu'il provoque.** Ainsi, à l'aide de nos entretiens et d'une base documentaire variée, nous avons tenté de repeupler toute la chaîne en nous aidant là encore du modèle de la boucle des pratiques de l'IA. 
 
-Ce travail de reconstitution permet de mettre au jour la grande complexité qui préside à la mise en place d'un projet de ce type au sein d'une administration publique comme la DGFiP. ![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/documents01.png) Au-delà du travail technique sur les modèles et leur performance, on retrouve des processus législatifs, économique et politiques qui demandent l'engagement de nombreux acteurs et un contexte propice.
-![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/documents02.png) Souvent sous-considéré, une dimension importante est relative à l'intégration de ce système dans des chaînes opératoires déjà instrumentées, transformant à la fois le travail des agents mais également les relations entre l'administration et ses administrés. 
+Ce travail de reconstitution permet de mettre au jour la grande complexité qui préside à la mise en place d'un projet de ce type au sein d'une administration publique comme la DGFiP. 
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg>![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/documents01.png) Au-delà du travail technique sur les modèles et leur performance, on retrouve des processus législatifs, économique et politiques qui demandent l'engagement de nombreux acteurs et un contexte propice, rendu possible par des processus d'infrastructuration et d'acculturation au long court.
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/></svg>![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/documents02.png) Souvent sous-considéré, une dimension importante est relative à l'intégration de ce système dans des chaînes opératoires déjà instrumentées, transformant à la fois le travail des agents mais également les relations entre l'administration et ses administrés. 
 
 
 <br>
@@ -1267,10 +1268,17 @@ Chacun des praticien.nes présent.es lors du workshop a fait valoir des soucis a
 - État et numérique
 
 <br>
+
 ![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
 A partir de la reconnaissance de ces différents prismes, les soucis de chacun ont été dépliés dans un dialogue par binôme, avant d'être discutés collectivement. La carte a servi de médiation à la fois pour identifier et densifier les éléments problématiques et pour restituer les soucis.
 
+<br>
+
 ### Le souci du travail
+
+- déplacement du travail
+- exclusion des travailleurs dans les processus de conception (opacité des processus de développement et des choix de conception)
+- 
 
 > [§]  Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
 
@@ -1291,6 +1299,8 @@ Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justifi
 
 Il y a l'idée que l'intelligence artificielle est quelque chose où, si on le met pas en place, nous administration, alors d'autres le feront à la place de l'administration avec un rapport de pouvoir qui est la menace plus ou moins forte d'externalisation. Ce qui n'est pas exactement la même chose que l'externalisation, mais le risque de disruption; qu'un autre acteur prenne complètement la place de la puissance publique dans le cas de la production de l'information géographique.
 
+<br>
+
 ### Le souci du monde-laboratoire
 
 [#] On est partis à la base, de la manière dont est amené le modèle de construction de l'IA. Donc avec les quatre catégories [ndlr : la boucle avec les quatre pôles, monde data modèle instanciation], en essayant de remettre un peu d'objectif et de politique dedans. C'est à dire : personne ne fait un algorithme sans raison et un algorithme n'est jamais une représentation objective d'un phénomène. Les données, elles sont construites. Enfin je ne vous apprends rien. Mais voilà, il y a quelqu'un qui veut faire quelque chose et pour ça il a des métriques à optimiser. Il va le faire avec des loop de feed back entre ces données et son modèle. C'est du machine learning de base. Et donc on est parti de là et on a essayé de comprendre, pour ce cas de figure là, qu'est ce qu'essaye de faire la DGFiP ? Quel était l'objectif de la DGFiP—de la direction de la DGFiP ? Pourquoi est-ce qu'ils ont décidé de mettre en place un algorithme au niveau des piscines en fait ? Parce que 
@@ -1298,6 +1308,8 @@ Il y a l'idée que l'intelligence artificielle est quelque chose où, si on le m
 > si on fait un peu l'autopsie de ce cas là, finalement, on comprend pas trop pourquoi est ce qu'il y a un modèle dans ce cas d'application là. (...) Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? 
 
 Parce que finalement, là, une des justifications de l'IA et de ces méthodes un peu automatiques de traitement des données, c'est qu'on a des masses de données qui sont trop grosses pour être traitées à la main et du coup il faut des outils d'aide au traitement. Là, ce n'est pas le cas. C'est à dire que les données aériennes de l'IGN qui sont produites tous les quatre ans, elles sont faisables à la main en fait assez rapidement et pour beaucoup moins que 20 millions. Et donc ce qui pose la question de l'existence du modèle et de pourquoi est-ce que finalement quelqu'un à un moment a décidé de faire un modèle et de le vendre à la DGFiP ? Et du coup on arrive sur un modèle assez cyclique : est ce que ce n'est pas un truc qui s'auto-justifie ? Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Parce que finalement la taxation des piscines, si elles n'étaient pas traitée avant, c'est que tout le monde s'en fiche un peu, soyons honnêtes. Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
+
+<br>
 
 ### Le souci de la relation à l'usager
 
