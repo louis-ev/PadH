@@ -1115,7 +1115,7 @@ Description d’une danse, d’un mouvement de va-et-vient, entre la production 
 ---
 
 
-En juin 2022, un workshop a réuni les co-enquêteur.ices de Shaping AI pendant deux journées. Cette session de travail collectif a été l'occasion de présenter les soucis pour discuter à la fois leur découpage.
+En juin 2022, un workshop a réuni les co-enquêteur.ices de Shaping AI pendant deux journées. Cette session de travail collectif a été l'occasion de présenter les soucis pour discuter leur découpage et leur pertinence.
 
 Quel décalage proposent les soucis par rapport aux problèmes publics de l'IA ?
 De quels effets sont-il porteurs quant au renouvellement des formes de participation au développement de l'IA ?
