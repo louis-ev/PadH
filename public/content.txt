@@ -1208,46 +1208,74 @@ Le chef du Bureau du Cadastre en convient, il s’agit d’un changement profond
 
 ### Méthodologie d'enquête 
 
+Une première phase d'enquête à consister à réunir de la documentation disponible sur le projet ainsi qu'à mener une série d'entretiens avec des personnes directement concernées. Parmi elles, nous pouvons citer les porteurs de projet à la DGFiP, des représentants syndicaux, des agents-géomètres, ainsi que des personnes travaillant à l'IGN et à la CNIL.
+En complément, nous nous sommes également entretenu avec des personnes travaillant sur des objets proches et notamment des juristes et chercheurs en STS.
+
+Ces éléments nous ont permis de dresser une cartographie des entités assemblés et de saisir les dynamiques de leurs interactions.
+
+Poursuivant notre effort participatif, nous avons réuni 10 praticien.nes concerné.es lors d'un workshop qui s'est déroulé fin novembre 2022. L'objectif de ce workshop était double. D'une part, il s'agissait de discuter des soucis que cette chaîne socio-technique fait émerger du point de vue des différentes parties prenantes. D'autre part, nous souhaitions que cette discussion aboutisse à l'identification d'un travail collectif pour tenter de faire évoluer les situations problématiques identifiées.
+
+
 <br>
 <br>
+
 ## Décrire la chaîne socio-technique du projet *Foncier Innovant*
 ---
 
-![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/design-process.png)
-![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/comparaison-agent-IA.png)
+Le projet *Foncier Innovant* est décrit par ses concepteurs comme une optimisation du processus de détection des constructions ou aménagements non déclarés, à lutter plus efficacement contre les anomalies déclaratives et répondre ainsi aux principes d'équité et de justice fiscale des citoyens.
+Le schéma ci-dessous donne une représentation des tâches et du fonctionnement du système ![Slide issue d’une présentation officielle du projet Foncier Innovant. Séminaire IA, « Imagerie aérienne et report au plan » organisé par la délégation à la transformation numérique de la direction générale des Finances publiques (DTNum), 29 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/design-process.png), tel que le concoivent les porteurs du projet. 
+
+Ce modèle de tâches réduit la complexité de la chaîne socio-technique nécessaire pour que le système existe à six étapes principales, faisant intervenir un agent machine pour la détection puis un agent humain pour la vérification. Cette simplification permet d'évaluer la pertinence du système socio-technique en comparant seulement la performance à la sortie : est-ce que les tâches de détection sont exécutées de façon satisfaisante par la machine, quand on compare les résulats entre une opération manuelle et une opération automatique ? 
+![Slide issue d’une présentation officielle du projet Foncier Innovant. Séminaire IA, « Imagerie aérienne et report au plan » organisé par la délégation à la transformation numérique de la direction générale des Finances publiques (DTNum), 29 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/comparaison-agent-IA.png)
+
+Or, ce seul critère de performance est insatisfaisant et il convient de prendre en compte l'ensemble de la chaîne soci-technique induite par un tel déploiement pour discuter des transformations qu'il provoque. Ainsi, à l'aide de nos entretiens et d'une base documentaire variée, nous avons tenté de repeupler toute la chaîne en nous aidant là encore du modèle de la boucle des pratiques de l'IA. 
+
+Ce travail de reconstitution permet de mettre au jour la grande complexité qui préside à la mise en place d'un projet de ce type au sein d'une administration publique comme la DGFiP. Au-delà du travail technique sur les modèles et leur performance, on retrouve des processus législatifs, économique et politiques qui demandent l'engagement de nombreux acteurs et un contexte propice.
 ![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/documents01.png)
+Souvent sous-considérés, un enjeu important est relatif à l'intégration de ce système dans des chaînes opératoires déjà instrumentées, transformant à la fois le travail des agents mais également les relations entre l'administration et ses administrés. 
 ![documents récoltés au cours de l'enquête](https://corpora.medialab.sciences-po.fr/contenus/documents02.png)
 <br>
 
-La carte
+### La carte de la chaîne socio-technique du projet *Foncier Innovant*
 ![Carte](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-DEF-05.png)
+
+La carte qui s'élabore au fur et à mesure de l'enquête sert une fois encore plutôt de point de départ pour éprouver les soucis que ces nouveaux assemblages génèrent. Que déplacent-ils ? Quelles dynamiques sont mises en œuvre et qui affectent-elles ?
+C'est ce que le volet participatif de cette enquête à tenter d'éclaircir.
+
+> On voit bien qu'il y a tout un écosystème qui se développe, dont le but est de changer en fait des relations existantes par d'autres.
+
+– H., journaliste
 
 <br>
 
+<small>
 Ressources :
-[lien vers la page du projet / DGFiP](https://www.impots.gouv.fr/actualite/generalisation-du-foncier-innovant")
+• [La page du projet sur le site de la DGFiP](https://www.impots.gouv.fr/actualite/generalisation-du-foncier-innovant)
+• [La conférence du 29 juin 2022 à la DGFiP]()
+• [Un tract syndical]()
+• [La cour des comptes]()
+</small>
 
 <br>
 <br>
 
 ![workshop](https://corpora.medialab.sciences-po.fr/contenus/layer-1.png)
 
-## Les soucis des praticien.nes impliqué.es par le *Foncier Innovant*
+## Les soucis des praticien.nes concerné.es
 --- 
 
-Timelines
-![timelines](https://corpora.medialab.sciences-po.fr/contenus/2023-09-04-12-17-47.jpg)
-
--
 Modernisation de l’action publique
 Economie politique de la donnée & digital labour
 Politiques publiques environnementales
 Techniques d’ingénierie géomatique
 État et numérique
--
 
-> [√] On voit bien qu'il y a tout un écosystème qui se développe, dont le but est de changer en fait des relations existantes par d'autres.
-[...] 
+Timelines
+![timelines](https://corpora.medialab.sciences-po.fr/contenus/2023-09-04-12-17-47.jpg)
+
+
+
+
 
 ---
 
