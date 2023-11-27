@@ -216,10 +216,13 @@ export default {
     getPDFFromThumb(thumb_path) {
       // debugger;
       // return thumb_path;
-      if (thumb_path)
-        return thumb_path
-          .substring(0, thumb_path.indexOf(".pdf") + 4)
-          .replaceAll("/_thumbs", "");
+      if (thumb_path) {
+        if (/.pdf/.test(thumb_path))
+          return thumb_path
+            .substring(0, thumb_path.indexOf(".pdf") + 4)
+            .replace(/^.*_thumbs\/shaping-ai\//, "pdfs/");
+        else return thumb_path.replace(/^.*_thumbs\/shaping-ai\//, "pdfs/");
+      }
       return "";
     },
     onScroll() {
