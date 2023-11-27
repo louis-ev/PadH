@@ -1215,14 +1215,10 @@ Le chef du Bureau du Cadastre en convient, il s’agit d’un changement profond
 ### Méthodologie d'enquête 
 
 La carte
-![Carte](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-DEF.png)
+![Carte](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-DEF-05.png)
 
 Timelines
 ![timelines](https://corpora.medialab.sciences-po.fr/contenus/2023-09-04-12-17-47.jpg)
-
-
-![plans cadastraux, 1865 (gauche) et 1986 (droite)](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-10-09-a-12-13-34.png)
-
 
 <br>
 
@@ -1233,7 +1229,14 @@ Ressources :
 <br>
 
 ### La voix des participant.e.s à l'enquête 
+
+> [√] On voit bien qu'il y a tout un écosystème qui se développe, dont le but est de changer en fait des relations existantes par d'autres.
+[...] 
+
 ---
+
+<br>
+
 ![carte annotée](https://corpora.medialab.sciences-po.fr/contenus/layer-0.png)
 
 > [§]  Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
@@ -1243,9 +1246,6 @@ Et à quoi il sert. Et aussi alors, pour les travailleurs de Madagascar de défi
 
 [•] Du coup, ces éléments là, on les a aussi identifiés lorsqu'on a déployé le projet et on s'est dit : mais comment on va répondre à ces sujets là qui sont extrêmement prégnants ? Et est ce que nous, on peut y répondre en interne ?
 [...]
-
-> [√] On voit bien qu'il y a tout un écosystème qui se développe, dont le but est de changer en fait des relations existantes par d'autres.
-[...] 
 
 [•] Là ce qui est évoqué, c'est sur la partie représentation graphique des bâtiments détectés sur le plan cadastral où là effectivement, on a une opposition entre la manière dont va représenter demain et la manière dont c'est représenté aujourd'hui. Donc là, aujourd'hui, on a des géomètres qui vont sur le terrain et qui font un lever précis du bâtiment, effectivement, dans une interaction entre l'agent et le terrain. Demain, c'est un mode de représentation, indépendamment d'IA d'ailleurs, à partir de l'exploitation des prises de vue aériennes. Et rien que ça pourrait très bien être un opérateur qui fasse le contour et détours de l'objet à partir des prises de vues aériennes, indépendamment de l'utilisation de l'IA. Sauf que là, effectivement, on introduit en plus la couche de l'IA. On vient pré-établir la représentation graphique avec une validation par un agent. Donc là c'est vraiment deux modes de représentation qui viennent s'opposer. Donc, c'est ma relation avec le terrain d'un côté, et puis comment de l'autre, je vais beaucoup plus vite en matière de représentation graphique.
 [...] 
