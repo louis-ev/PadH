@@ -1222,12 +1222,14 @@ Poursuivant notre effort participatif, nous avons réuni 10 praticien.nes concer
 ## Décrire la chaîne socio-technique du projet *Foncier Innovant*
 ---
 
-Le projet *Foncier Innovant* est décrit par ses concepteurs comme une optimisation du processus de détection des constructions ou aménagements non déclarés, à lutter plus efficacement contre les anomalies déclaratives et répondre ainsi aux principes d'équité et de justice fiscale des citoyens.
+Le projet *Foncier Innovant* est décrit par ses concepteurs comme une optimisation du processus de détection des constructions ou aménagements non déclarés, à lutter plus efficacement contre les anomalies déclaratives et répondre ainsi aux principes d'équité et de justice fiscale des citoyens. Si il est pour l'instant testé pour la détection de piscines, il a bien pour vocation le report automatique au plan, c'est-à-dire le dessin automatisé du bâti sur les plans cadastraux.
+
 Le schéma ci-dessous donne une représentation des tâches et du fonctionnement du système ![Slide issue d’une présentation officielle du projet Foncier Innovant. Séminaire IA, « Imagerie aérienne et report au plan » organisé par la délégation à la transformation numérique de la direction générale des Finances publiques (DTNum), 29 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-20-00-13.png>https://corpora.medialab.sciences-po.fr/contenus/design-process.png), tel que le concoivent les porteurs du projet. 
 
-Ce modèle de tâches réduit la complexité de la chaîne socio-technique nécessaire pour que le système existe à six étapes principales, faisant intervenir un agent machine pour la détection puis un agent humain pour la vérification. 
+Ce modèle de tâches réduit la complexité de la chaîne socio-technique nécessaire pour que le système existe à six étapes principales, faisant intervenir un agent machine pour les étapes de détection puis un agent humain pour les étapes de vérification. 
+
 ![Slide issue d’une présentation officielle du projet Foncier Innovant. Séminaire IA, « Imagerie aérienne et report au plan » organisé par la délégation à la transformation numérique de la direction générale des Finances publiques (DTNum), 29 juin 2022.](https://corpora.medialab.sciences-po.fr/contenus/comparaison-agent-IA.png) 
-Cette simplification permet d'évaluer la pertinence du système socio-technique en comparant seulement la performance à la sortie : est-ce que les tâches de détection sont exécutées de façon satisfaisante par la machine, quand on compare les résulats entre une opération manuelle et une opération automatique ? 
+Ce modèle simplifié sert également à l'évaluation de la pertinence du système socio-technique, pour laquelle une simple comparaison de la performance sur les tâches est alors conduite. La question qui est posée par les concepteurs est alors : est-ce que les tâches de détection sont exécutées de façon satisfaisante par la machine, quand on compare les résulats entre une opération manuelle et une opération automatique ? 
 
 
 Or, ce seul critère de performance est insatisfaisant pour évaluer ce système. **Il convient de prendre en compte l'ensemble de la chaîne soci-technique induite par un tel déploiement pour juger des transformations qu'il provoque.** Ainsi, à l'aide de nos entretiens et d'une base documentaire variée, nous avons tenté de repeupler toute la chaîne en nous aidant là encore du modèle de la boucle des pratiques de l'IA. 
@@ -1282,29 +1284,30 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 
 – C., sociologue
 
+Contrairement à l'idée d'une disparition du travail, on assiste ici à un déplacement du travail, à la fois en termes géographique et en termes de métier et de tâches. Ainsi, le travail à la fois mute et se multiplie le long de la chaîne, divisé en des tâches plus petites qui sont largement invisibilisées, ce qui entraîne trois types de soucis : 
 
-![Entreprise sous-traitant l’annotation de données, Tana, Madagascar - Crédits : Clément Le Ludec, Maxime Cornet, 2022](https://corpora.medialab.sciences-po.fr/contenus/click-workers.png)
-
-
-- Pas de disparition mais un déplacement et une invisibilisation du travail
-• rapport d'exploitation d'une main d'œuvre étrangère peu qualifiée
-• qualité du travail d'annotation et l'élaboration d'une vérité terrain robuste
+- **Le déplacement géographique du travail** avec une sous-traitance des tâches d'annotation des jeux de données à des fins d'entraînement des modèles employant une main d'œuvre étrangère, peu chère, peu qualifiée et précarisée. La vérité terrain, ici le travail de photo-interprétation sur images aériennes, est aisni effectué par des travailleurs du clic ![Entreprise sous-traitant l’annotation de données, Tana, Madagascar - Crédits : Clément Le Ludec, Maxime Cornet, 2022](https://medialab.github.io/ShapingAI/contenus/souris.png>https://medialab.github.io/ShapingAI/contenus/click-workers.png), notamment à Madagascar, à l'aide de guides d'annotation. D'une part, cela pose le problème des conditions de travail précaires de ces travailleurs à qui on cache bien souvent les finalités de leur travail, mais cela pose également le problème de la qualité de la vérité terrain.
 
 
-"Ces éléments là, on les a aussi identifiés lorsqu'on a déployé le projet et on s'est dit : mais comment on va répondre à ces sujets là qui sont extrêmement prégnants ? Et est ce que nous, on peut y répondre en interne ?"
+Les porteurs de projet partagent en partie ce souci et ont affirmé avoir déjà pris des mesures pour réinternaliser ces missions au sein de l'administration, avec un coût de revient non négligeable. "Ces éléments là, on les a aussi identifiés lorsqu'on a déployé le projet et on s'est dit : mais comment on va répondre à ces sujets là qui sont extrêmement prégnants ? Et est ce que nous, on peut y répondre en interne ?"
 – F., chef du bureau du cadastre
 
-- L'exclusion des travailleurs dans les processus de conception (opacité des processus de développement et des choix de conception)
-- Transformations des missions et perte de sens au travail
+- Il y a une **délégation de tâches et de prises de décision au système**. En effet, le système est conçu comme une aide à la prise de décision pour les agents pour augmenter leur efficacité dans la réalisation de leurs missions. Mais les agents constatent plutôt une transforation profonde de ces missions. D'une part, la réalisation des tâches de vérification implique un travail de bureau sur un ordinateur, là où les tâches de levé de terrain impliquent d'être dehors à arpenter des lieux. D'autre part, là où ils avaient le contrôle sur l'ogranisation et la priorisation des levées à effectuer en fonction de leurs connaissances fines du terrain, ils sont aujourd'hui priés de suivre la programmation proposée par le système.
+
+- **Les agents géomètres sont exclus des processus de conception et de développement**. Les choix qui président à l'élaboration de ces outils de travail ne sont donc pas partagés avec ceux qui vont en être les utilisateurs finaux —et bien souvent, les outils leur sont livrés sans discussion et avec une formation rudimentaire. Or comme tout outil, ils incorporent des normes et des critères de réussite, qui dans le cas du Foncier Innovant, contredisent les critères qui étaient jusqu'ici au cœur du métier de géomètre, notamment au regard de la question de la précision des mesures et des reports.
 
 "Ce qui est vachement compliqué pour nous, c'est de voir ce qu'on fait actuellement comme boulot dehors. Est-ce qu'on doit continuer à être sérieux ? À respecter les tolérances ? Vu qu'ils veulent nous remplacer par des machines qui ne marchent pas très bien, derrière il y aura du plan de qualité et des choses de très mauvaise qualité. On est en train de douter du sens de notre travail."
 – B., géomètre
 
-> Finalement, entre les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu de rendre visible cette chaîne, de rendre visible le process. 
+> Finalement, pour les agents de la DGFiP et les travailleurs de Madagascar, il y a un enjeu similaire de rendre visible cette chaîne, de rendre visible le process. 
 
+– C., sociologue
 
-"Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évident parce que allant avec l'intelligence artificielle qui doit être mise en place ? Nous, à l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc qu'elle sert d'instrument à ça."
-– M., cadre à l'IGN
+In fine, le souci du travail se trouve bien résumée par la question d'un des participants, cadre à l'IGN : "Quels sont les rapports de pouvoir qui sont naturalisés par l'intelligence artificielle ? Qui sont pris comme évidents parce que allant avec l'intelligence artificielle qui doit être mise en place ?" Et il poursuit : "À l’IGN, il y a l'idée que l'intelligence artificielle sert de justification au fait qu'on va pouvoir diminuer des effectifs et donc elle sert d'instrument à ça." Cette question est d'autant plus prégnante quand on voit toute la communication et les efforts financiers qui sont déployées pour attirer les talents dans l'adminisatration publique...
+
+"Si ça vous intéresse de travailler sur ces sujets et de mobiliser vos intelligences et vos compétences dont on manque, pas simplement pour vous éclater dans la tech mais pour vous dire "je le fais parce que c'est utile à la société, à mon pays, à mes idéaux de justice" et bien, il y a un bon endroit pour le faire, c'est chez nous et on sera content de vous accueillir."
+– Antoine Magnant, Directeur Générale, DGFiP
+
 
 <br>
 <br>
@@ -1312,56 +1315,69 @@ A partir de la reconnaissance de ces différents prismes, les soucis de chacun o
 ### Le souci des savoirs critiques et de la souveraineté de l'état
 ---
 
-> Il y a l'idée que si on ne met l'IA pas en place, nous administration, alors d'autres le feront à la place de l'administration avec un rapport de pouvoir qui est la menace plus ou moins forte d'externalisation. Et donc un risque de disruption : qu'un autre acteur prenne complètement la place de la puissance publique.
+> Il y a l'idée que si on ne met l'IA pas en place, nous administration, alors d'autres le feront à la place de l'administration, avec la menace plus ou moins forte d'externalisation et un risque de disruption : qu'un autre acteur prenne complètement la place de la puissance publique.
 
 – M., cadre à l'IGN
 
-- Perte des savoirs-faire et de la technicité des agents
-- Au-delà des problématiques de coûts et de rapports publics/privés, souci de ne pas voir l'état complètement dépendant ou transférant complètement ses missions de service public / missions régaliennes (les taxes) à des acteurs privés.
-
-<br>
-<br>
-
-
-### Le souci du monde-laboratoire au service de l'innovation
----
-
-> Si on fait un peu l'autopsie de ce cas là, on en vient à se demander pourquoi il y a un modèle d’IA dans ce cas d'application. (...)  Les données aériennes de l'IGN sont traitables à la main  pour beaucoup moins que 20 millions. (...) Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
-
-— M., sociologue
-
-Seule compterait la démonstration pour elle-même et pour organiser des acteurs et des capitaux autour d'un modèle technique facile à fabriquer ?
+La multiplication des acteurs privés dans l'ensemble de la chaîne socio-technique amène certains à se soucier de la perte des savoirs-faire et de technicité dans les services publics. Deux aspects sont développés par rapport à ce souci :
+- Garder une capacité à faire techniquement, c'est-à-dire à maintenir les infrastrutures et les services nécessaires au bon fonctionement des institutions nationales.
+- Garder une indépendance quant aux instruments de l'action publique, surtout sur des missions régaliennes comme la levé de l'impôt.
 
 <br>
 <br>
 
 ### Le souci de la relation à l'usager
 ---
-On voit apparaître la figure de l'usager dans la rhétorique de l'administration, en ligne avec les discours sur l'état plateforme et la dématérialisation. Mais il faut distinguer ici deux types s'usagers.
+La figure de l'usager est centrale dans les justifications des proteurs de projet, en cohérence avec les discours sur l'état plateforme et la dématérialisation. Mais il convient distinguer deux types d'usagers relativement à ce souci. L'un est historique, c'est le contribuable ou citoyen; l'autre est nouveau : il s'agit des potentiels utilisateurs des données produites par la DGFiP.
 
-![](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-data-valo.png .png)
+![](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-data-valo.png)
 **L'usager de la donnée**
 
-On parle de nouveaux "couloirs de valorisation de la donnée".
+Les politique d'ouverture des données par les administrations et les nouvelles possibilités d'exploitation des données ont entraîné un changement de paradigme quant au rapport des administrations aux données qu'elles produisent. En effet, ces données ont maintenant de la valeur en elles-mêmes. Exploitables si elles sont de qualité suffisante, elles intéressent d'autres acteurs, publics comme privés, et représentent des opportunités stratégiques pour les administrations. Les porteurs de projet parlent à ce titre de nouveaux "couloirs de valorisation de la donnée". *Foncier Innovant* est à ce titre vue comme un moyen rapide et efficace pour améliorer la qualité des bases de données de l'administration fiscale, notamment en déplaçant l'effort de la représentation graphique (le plan cadastral) au recoupement entre bases de données notamment concernant les caractéristiques des bâtiments.
 
 “À la DGFIP, on était souvent des producteurs un peu brut de la donnée. (...) 
 Je m'interrogeais assez peu sur pourquoi j'acquiers et comment je peux améliorer cette acquisition et comment je peux mettre en qualité la donnée, comment je peux la valoriser, la croiser. C'est un peu des questions nouvelles que l'on se pose.”
 (F., chef de bureau du cadastre)
 
+Cette préoccupation croissante peut d'ailleurs se trouver prioritaire dans les arbitrages quant aux développements techniques, face aux besoins des services à l'"usager" historique du Trésor Public, à savoir le contribuable.
 
 ![article du Parisien paru en Juillet 2023](https://corpora.medialab.sciences-po.fr/contenus/contentieux.png)
 **L'usager contribuable**
 
-- diminution de la relation directe aux contribuables
-• fermeture de nombreuses trésoreries 
-• arrêt de la participation des géomètres aux commissions communales des impôts directs
+Les politiques de dématérialisation des services publics se traduit pour la DGFiP par la fermeture de trésoreries au profit d'interfaces numériques qui s'augmentent de nombreuses fonctionnalités. Au-delà des problèmes d'inclusivité mal anticipés (voir le récent [rapport du Défenseur des droits](https://www.defenseurdesdroits.fr/rapport-dematerialisation-des-services-publics-trois-ans-apres-ou-en-est-265)) que pose la dématérialisation des services publics, deux autres soucis spécifiques à l'administration fiscale se posent :  
  
-- le contribuable-contributeur
-- visibilisation du service public
+- **Le contribuable-contributeur**. L'administration fiscale a la charge de tenir systématiquement un registre des terres et des propriétés des citoyens sur le territoire national, et ce au moins depuis la Révolution. Avec les interfaces qui se développent entre les contribuables et l'administration fiscale, cette charge devient partagée entre les deux parties. En effet, il incombe alors aux contribuables de contribuer à la vérification des informations que l'administration possède sur leurs biens immobiliers ou leurs terrains et au besoin, de rectifier ces informations. De plus, en cas de litige si les détections automatisées et les informations reportées dans les bases de données ne coincident pas, il sera demandé au contribuable de rapporter la preuve de l'erreur de l'administration. On assiste donc à une inversion de la charge de la preuve, phénomène déjà en vigueur dans d'autres domaines (par ex. les radars de vitesse pour automobiles).
 
-“Et ça permettait aussi aux propriétaires de voir qui on était, parce qu'il y en a qui ne comprenaient pas pourquoi on passait. Et je prévenais la commune qui faisait un affichage. On prévenait les communes à peu près quinze jours avant d'y aller et après on allait tout mesurer. Si les gens avaient des doutes, on montrait notre carte professionnelle, mais globalement, on était plutôt bien accueillis chez les particuliers. Et puis, ils aiment bien quand ils comprenaient qu'on leur montrait. Vous voyez, votre maison n'est pas sur le plan, on vient juste la mesurer pour qu'elle y soit et on repart. On n'est pas rentré, enfin on rassurait.”
+- **Invisibilisation du service fiscal** La contrepartie d'une bonne administration fiscale est le consentement à l'impôt de la part des contrbuables. D'autant que cette bonne administration a un coût non négligeable. Ainsi, le souci de visibiliser l'action de l'administration par une médiation humaine, de rapprocher l'administration centrale du terrain pour être en prise avec lui porte in fine sur la légitimité de l'institution et de ses missions.
 
-- renversement de la charge de la preuve ?
+“Et ça permettait aussi aux propriétaires de voir qui on était, parce qu'il y en a qui ne comprenaient pas pourquoi on passait. On prévenait les communes à peu près quinze jours avant d'y aller, elles faisaient un affichage et après on allait tout mesurer. Globalement, on était plutôt bien accueillis chez les particuliers. Et puis, ils aiment bien quand on leur expliquait : 'Vous voyez, votre maison n'est pas sur le plan, on vient juste la mesurer pour qu'elle y soit.'"
+
+De ce point de vue, les trésoreries comme la participation des géomètres aux commissions communales des impôts directs permettaient de faire ce lien entre citoyens, collectivités et administration fiscale centralisée. Leur disparition progressive au profit de services dématérialisés pose la question des médiations qui pourront jouer ce rôle de liant. La détermination des taux d'imposition arbitrairement décidées par les communes en 2023 montre pourtant que le renforcement de ce liant est nécessaire, surtour en vue de la révison des revenus locatifs qui entraînera son lot de mécontentement.
+
+<br>
+<br>
+
+### Le souci des finalités réelles de l'innovation
+---
+
+> Si on fait un peu l'autopsie de ce cas là, on en vient à se demander pourquoi il y a un modèle d’IA dans ce cas d'application. (...)  Les données aériennes de l'IGN sont traitables à la main  pour beaucoup moins que 20 millions. (...) Est ce que toute cette construction là ne tient pas plus au fait de justifier le modèle que réellement d'aller taxer des piscines ? Et donc, est ce que ce n'est pas juste parce que c'est un cas d'application simple à mettre en avant ? 
+
+— M., sociologue
+
+Une lecture critique de la chaîne et de ses dynamiques amène à se poser la question des finalités poursuivies par la mise en œuvre d'un tel sytsème. Quand tant d'autres moyens étaient possibles pour atteindre le même résultat (peut-être à moindre coûts financier et humain), pourquoi ce choix-là ? Quelles autres finalités sont poursuivies ? A quoi sert la démonstration à grande échelle du *Foncier Innovant* si ce n'est peut-être l'infrastructuration d'un milieu, la ré-organisation d' acteurs publics et privés et de capitaux autour d'entités techniques ?
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 """
