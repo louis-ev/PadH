@@ -1264,7 +1264,7 @@ Chacun des praticien.nes présent.es lors du workshop a fait valoir des soucis a
 
 ### Synthèse des lignes de temps pertinentes pour les praticien.nes :
 - Modernisation de l’action publique
-- Théorie politique et fonction publique
+- Théorie politique et statut de la fonction publique
 - Economie politique de la donnée et digital labour
 - Politiques publiques environnementales
 - Techniques d’ingénierie géomatique
