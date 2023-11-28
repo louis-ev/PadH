@@ -1262,7 +1262,7 @@ C'est ce que le volet participatif de cette enquête à tenter d'éclaircir.
 
 Chacun des praticien.nes présent.es lors du workshop a fait valoir des soucis associés au projet *Foncier Innovant* depuis un prisme singulier. Pour mettre à jour ces prismes et bien saisir les préoccupations de chacun, nous avons d'abord posé la question : comment en est-on arrivé là ? C'est-à-dire, quels sont les évènements marquants et signifiants qui font que le projet *Foncier Innovant* existe aujourd'hui ? Des lignes de temps sont alors apparues sur des empans temporels très différents et avec des saillances contrastées. 
 
-### Synthèse des prismes des praticien.nes :
+### Synthèse des lignes de temps pertinentes pour les praticien.nes :
 - Modernisation de l’action publique
 - Théorie politique et fonction publique
 - Economie politique de la donnée et digital labour
