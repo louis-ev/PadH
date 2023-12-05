@@ -177,7 +177,7 @@ Cette manière de gouverner les problèmes liés à l'introduction d'une technol
 
 Chez les auteurs intéressés par ce tournant participatif dans les processus démocratiques, certains parlent d’*injonction à participer* ([Zask](https://www.editionsbdl.com/produit/participer-essai-sur-les-formes-democratiques-de-la-participation/)) ou de *participation-washing* (dans le cas de l’IA, voir par exemple les travaux de [Mona Sloane](https://arxiv.org/abs/2007.02423)).
 
-> “Il arrive bien souvent que le résultat soit décevant, surtout lorsque participer se limite finalement à légitimer un dispositif existant, sans pouvoir ne se prononcer ni sur les motifs poursuivis ni même sur les décisions qui sont prises.”
+> “Il arrive bien souvent que le résultat soit décevant, surtout lorsque participer se limite finalement à légitimer un dispositif existant, sans pouvoir se prononcer ni sur les motifs poursuivis ni même sur les décisions qui sont prises.”
 
 —Joëlle Zask, 2018
 
