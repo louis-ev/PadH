@@ -239,10 +239,10 @@ Le concept de **prise** s’articule ainsi dans notre approche à celui des **so
 
 ![extraits de nos entretiens, illustrations du concept de prise dans le récit rétrospectif de deux praticiens de l'IA.](https://corpora.medialab.sciences-po.fr/contenus/prises.png)
 
-Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces opérations participent de la constitution et de la trajectoire de l’IA. **En prêtant attention aux soucis de praticien.nes de l’IA en France, notre recherche cherche ainsi à repérer et bien décrire les pratiques (dans leur pluralité) et les séries d’opérations et d’épreuves qui donnent forme à l'IA.**
+Considérées de façon systémique, dans leur dimension distribuée (socialement et temporellement), toutes ces opérations participent de la constitution et de la trajectoire de l’IA. **En prêtant attention aux soucis de praticien.nes de l’IA en France, notre recherche tente ainsi de repérer et de bien décrire les pratiques (dans leur pluralité) et les séries d’opérations et d’épreuves qui donnent forme à l'IA.**
 
 
-Par rapport à des approches plus traditionnelles en sociologie des sciences, cette approche propose au moins **trois déplacements** :
+Par rapport à des approches plus traditionnelles en sociologie des sciences et des techniques, cette approche propose au moins **trois déplacements** :
 
 **Un déplacement vers des praticien.ne.s soucieux.ses**
 Là où les instances participatives cherchaient à faire discuter des non-experts (ou “profanes”), nous nous intéressons aux activités de praticien.nes “soucieux.ses”. La qualification de “praticien” met en avant la dimension expérientielle et praxéologique et ne définit pas d’activités particulières ou de milieux *a priori*. L’adjectif “soucieux” rend compte la dimension réflexive, manifestement en enquête et doutant de la bonne manière d’agir quant à un objet en formation. Un.e praticien.ne soucieux.se agit directement ou indirectement sur l’objet de l’enquête avec une forme de réflexivité quant aux opérations qu’il.elle déploie.
