@@ -100,12 +100,8 @@ export default {
 
                   if (p && p.thumbsData && p.thumbsData[0] && p.thumbsData[4]) {
                     return {
-                      large_src:
-                        "https://corpora.medialab.sciences-po.fr/" +
-                        p.thumbsData[4].path,
-                      icon_src:
-                        "https://corpora.medialab.sciences-po.fr/" +
-                        p.thumbsData[0].path,
+                      large_src: this.publicPath + p.thumbsData[4].path,
+                      icon_src: this.publicPath + p.thumbsData[0].path,
                     };
                   }
                   return "";
