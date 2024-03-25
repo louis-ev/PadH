@@ -1245,7 +1245,7 @@ Ce travail de reconstitution permet de mettre au jour la grande complexité qui 
 ![Carte](https://corpora.medialab.sciences-po.fr/contenus/carte-dgfip-DEF-05.png)
 
 La carte touffue des entités assemblées dans cette chaîne, qui s'élabore au fur et à mesure de l'enquête, sert une fois encore plutôt de point de départ pour éprouver les soucis que ces nouveaux assemblages génèrent. Que déplacent-ils ? Quelles dynamiques sont mises en œuvre et qui affectent-elles ?
-C'est ce que le volet participatif de cette enquête à tenter d'éclaircir.
+C'est ce que le volet participatif de cette enquête a tenté d'éclaircir.
 
 > On voit bien qu'il y a tout un écosystème qui se développe, dont le but est de changer en fait des relations existantes par d'autres.
 
