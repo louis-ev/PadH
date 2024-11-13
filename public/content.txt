@@ -130,10 +130,12 @@ contenu="""
 
 Ici sont résumés les résultats principaux des études réalisées dans le cadre de Shaping AI. 
 Ils se déclinent sur deux volets :
+
 <small> 
 1. Les problèmes publics de l'IA en France
 2. Analyse du traitement de l'IA par la presse française (2011-2021)
-<\small>
+</small>
+
 ---
 
 1. Les problèmes publics de l'IA en France
