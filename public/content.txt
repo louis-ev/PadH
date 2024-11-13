@@ -115,6 +115,25 @@ Contenu en licence CC-BY-SA
 <br>
 
 """
+[PAGE]
+nom_de_page="SYNTHÈSE"
+url="/#synthese"
+contenu="""
+
+![](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
+
+<br>
+<br>
+
+
+# Synthèse 
+
+---
+
+
+
+"""
+
 
 [PAGE]
 nom_de_page="Avoir prise..."
