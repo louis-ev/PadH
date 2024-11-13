@@ -120,16 +120,374 @@ nom_de_page="SYNTHÈSE"
 url="/#synthese"
 contenu="""
 
-![](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
+![Espace des problèmes publics de l'IA : répartition des 17 soucis de praticien.nes](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
 
 <br>
 <br>
 
 
-# Synthèse 
+# Synthèse des résultats 
 
+Ici sont résumés les résultats principaux des études réalisées dans le cadre de Shaping AI. 
+Ils se déclinent sur deux volets :
+<small> 
+1. Les problèmes publics de l'IA en France
+2. Analyse du traitement de l'IA par la presse française (2011-2021)
+<\small>
 ---
 
+1. Les problèmes publics de l'IA en France
+
+### Problématiser les modalités de développement des technologies computationnelles.
+<small>Accéder aux fiches de ces deux soucis </small>
+#### [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Participer à l'IA](/ShapingAI/#participer) 
+
+### Description des soucis
+---
+
+<small>Déplier chacun des soucis pour obtenir le détail et accéder aux matériaux de l'enquête (vidéo, documents et synthèse).</small>
+
+![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
+
+### INSTITUTER L'IA
+
+<small>
+Un premièr motif correspond aux pratiques de celles et ceux qui cherchent à instituter l'IA dans le champ scientifique. De quoi se soucient les praticien.nes qui cherchent tout à la fois à repousser les limites de leurs connaissances actuelles, à préfigurer des applications pertinentes et à développer des bonnes pratiques ? Quelles résistances leur oppose-t-on et à quelles formes de justification ces résistances donnent-elles lieu ?
+</small>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-fill" viewBox="0 0 16 16">
+*  <path fill-rule="evenodd" d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"/></svg> 
+Définir l'IA </summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#definir)
+
+La question du périmètre de l’IA et de sa constitution est au cœur des débats des praticiens. Elle a des conséquences majeures, tant pour la reconnaissance de la discipline de l’IA que d’un point de vue juridique, économique ou culturel. De la défintion de l’IA, de sa constitutuon la plus restreinte à la plus élargie, découle également sa vulnérabilité à la critique. Les intérêts divergents des acteurs se matérialisent dans les géométries variables de l’objet IA qu’ils proposent.
+
+**Documents emblématiques de ce souci**
+- Proposition de réglement européen, AI Act (2021)
+- Audition de l'OPECST (2017)
+- Stratégie Nationale IA (2018)
+- article ImageNet (2012)
+
+</details>
+
+
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-binary" viewBox="0 0 16 16">
+*  <path d="M5.526 13.09c.976 0 1.524-.79 1.524-2.205 0-1.412-.548-2.203-1.524-2.203-.978 0-1.526.79-1.526 2.203 0 1.415.548 2.206 1.526 2.206zm-.832-2.205c0-1.05.29-1.612.832-1.612.358 0 .607.247.733.721L4.7 11.137a6.749 6.749 0 0 1-.006-.252zm.832 1.614c-.36 0-.606-.246-.732-.718l1.556-1.145c.003.079.005.164.005.249 0 1.052-.29 1.614-.829 1.614zm5.329.501v-.595H9.73V8.772h-.69l-1.19.786v.688L8.986 9.5h.05v2.906h-1.18V13h3z"/>  <path d="M4 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H4zm0 1h8a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z"/> 
+</svg> 
+Mettre en données le monde</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#data)
+
+La nécessaire mise en données du monde et les difficultés qui lui sont associées (données de mauvaise qualité, recueil sans consentement, difficulté de suivi et d’identification des biais d’apprentissage, etc.) est un problème bien identifié de l’IA. En plus des aspects éthiques que cette traduction du monde en données implique, ce souci met en lumière les stratégies des acteurs pour parer aux limites que la création de dataset pose en termes scientifiques et à la génération de modèles généralisables. Les impacts sociaux sont pointés avec comme ultime question : faut-il toujours plus de données pour régler ces problèmes ?
+
+**Documents emblématiques de ce souci**
+- Stochastic Parrots
+- Sensivic / sound Scanner
+- Entrepôt des données de santé
+- Triage 4.0
+- La vie n'est pas donnée
+
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-sliders2" viewBox="0 0 16 16">
+*  <path fill-rule="evenodd" d="M10.5 1a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4H1.5a.5.5 0 0 1 0-1H10V1.5a.5.5 0 0 1 .5-.5ZM12 3.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5Zm-6.5 2A.5.5 0 0 1 6 6v1.5h8.5a.5.5 0 0 1 0 1H6V10a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5ZM1 8a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2A.5.5 0 0 1 1 8Zm9.5 2a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V13H1.5a.5.5 0 0 1 0-1H10v-1.5a.5.5 0 0 1 .5-.5Zm1.5 2.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5Z"/> 
+</svg> 
+Modéliser</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#modeliser)
+
+Comment bien concevoir un modèle ? Quelles relations entretiennent les modèles avec le monde ? Telles sont les questions au centre de ce souci, qui met en résonnance les travaux des chercheurs en mathématiques et en IA avec des points de vue critiques qui en discutent les limites. 
+
+**Documents emblématiques de ce souci**
+- Probabilistic Latent Semantic Indexing
+- Objectivité, Lorraine Daston et Peter Galison
+- The end of therory (article de Wired)
+- Mitigating Unwanted Biases with Adversarial Learning
+- On the opportunities and risks of Foundation Models
+
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-database-dash" viewBox="0 0 16 16">
+*  <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7ZM11 12h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1Z"/>  <path d="M12.096 6.223A4.92 4.92 0 0 0 13 5.698V7c0 .289-.213.654-.753 1.007a4.493 4.493 0 0 1 1.753.25V4c0-1.007-.875-1.755-1.904-2.223C11.022 1.289 9.573 1 8 1s-3.022.289-4.096.777C2.875 2.245 2 2.993 2 4v9c0 1.007.875 1.755 1.904 2.223C4.978 15.71 6.427 16 8 16c.536 0 1.058-.034 1.555-.097a4.525 4.525 0 0 1-.813-.927C8.5 14.992 8.252 15 8 15c-1.464 0-2.766-.27-3.682-.687C3.356 13.875 3 13.373 3 13v-1.302c.271.202.58.378.904.525C4.978 12.71 6.427 13 8 13h.027a4.552 4.552 0 0 1 0-1H8c-1.464 0-2.766-.27-3.682-.687C3.356 10.875 3 10.373 3 10V8.698c.271.202.58.378.904.525C4.978 9.71 6.427 10 8 10c.262 0 .52-.008.774-.024a4.525 4.525 0 0 1 1.102-1.132C9.298 8.944 8.666 9 8 9c-1.464 0-2.766-.27-3.682-.687C3.356 7.875 3 7.373 3 7V5.698c.271.202.58.378.904.525C4.978 6.711 6.427 7 8 7s3.022-.289 4.096-.777ZM3 4c0-.374.356-.875 1.318-1.313C5.234 2.271 6.536 2 8 2s2.766.27 3.682.687C12.644 3.125 13 3.627 13 4c0 .374-.356.875-1.318 1.313C10.766 5.729 9.464 6 8 6s-2.766-.27-3.682-.687C3.356 4.875 3 4.373 3 4Z"/> 
+</svg> 
+Écologiser</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#ecologiser)
+
+Tiraillés entre performance, économie ou justice, les praticien.nes font ici part de leurs difficultés d’arbitrage au regard des enjeux environnementaux et des pollutions engendrées par l’IA. En filigrane, la question de savoir ce qui compte dans la question écologique apparaît de façon vertigineuse : où s’arrête la chaîne de l’IA et ses effets ? 
+
+**Documents emblématiques de ce souci**
+- Anatomy of an AI system
+- Conférence AI 4 Climate
+- Towards the Systemic Reporting of the Energy and Carbon Footprints of Machine Learning
+- Technocritiques, François Jarrige
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mortarboard" viewBox="0 0 16 16">
+*  <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917l-7.5-3.5ZM8 8.46 1.758 5.965 8 3.052l6.242 2.913L8 8.46Z"/>  <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466 4.176 9.032Zm-.068 1.873.22-.748 3.496 1.311a.5.5 0 0 0 .352 0l3.496-1.311.22.748L8 12.46l-3.892-1.556Z"/> 
+</svg> 
+Institutionnaliser l'IA</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#institutionnaliser)
+
+Machine Learning et deep learning : discipline académique "sérieuse" ou cuisine d'ingénieurs ? Les retours d'expériences et les analyses discutent la trajectoire d'une discipline en cours de stabilisation dans le paysage académique.
+
+**Documents emblématiques de ce souci**
+- La revanche des neurones (Cardon, Mazière et Cointet)
+- ImageNet (2012)
+- Statistical Modeling : the two cultures
+- Les instituts 3IA (stratégie nationale IA)
+- MOOC "Deep Learning" (CNAM)
+
+</details>
+
+<br>
+
+### FABRIQUER DES SYSTÈMES
+
+<small>
+C'est une dimension moins développée dans la littérature scientifique sur l'IA à ce jour, pourtant la fabrication de systèmes comporte son lot de soucis spécifiques. Occupés à bien intégrer l'IA dans des systèmes d'instruments et des routines préexistantes, les praticien.nes sont confrontés à des questions de passage à l'échelle, de modèles d'affaire, d'infrastructures et de régulation, toutes critiques pour que ces systèmes existent durablement dans le monde. Ces efforts d'intégration, reflets de choix éthiques et politiques, font l'objet de vives controverses et occasionnent des affaires. Ces affaires révèlent à quel point ces pratiques, bien qu'elles aient parfois l'air accessoires ou secondes dans le développement de l'IA, en sont en réalité constitutives : elles l'infrastructurent. 
+</small>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-bounding-box" viewBox="0 0 16 16">
+*  <path d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"/>  <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm8-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/></svg>
+Optimiser </summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#optimiser)
+
+Les algorithmes des plateformes sont-ils optimisés pour nous ou contre nous ? Comment gagner en pouvoir d'agir quand on utilise ces systèmes ? Face à des risques individuels et collectifs de mieux en mieux connus, relatifs à la manipulation des comportements et à la captation de l'attention, plusieurs pistes de réponses tant juridiques que techniques sont discutés.
+
+**Documents emblématiques de ce souci**
+- La formes de choix, Linc/CNIL
+- Votre attention s'il vous plaît, CNNum
+- Frances Haugen appelle à une régulation de Facebook (New York Times)
+- L'économie de l'attention saisie par le droit
+
+
+</details>
+
+<details>
+<summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-hdd-network" viewBox="0 0 16 16">
+*  <path d="M4.5 5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM3 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2H8.5v3a1.5 1.5 0 0 1 1.5 1.5h5.5a.5.5 0 0 1 0 1H10A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5H.5a.5.5 0 0 1 0-1H6A1.5 1.5 0 0 1 7.5 10V7H2a2 2 0 0 1-2-2V4zm1 0v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1zm6 7.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5z"/></svg>
+Passer en production </summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#produire)
+
+Les ponts entre la recherche académique en IA et l'industrie sont nombreux et épousent différentes formes. Quelles sont les implications des transferts technologiques ? Peut-on être à la fois chercheur et industriel et comment ces différents rôles orientent les choix techniques qui sont faits au cours du développement des systèmes d'IA ? Ce souci pointe les différences fondamentales entre prototypage et production et décrit la manière dont les modèles d'affaire orientent les développements, parfois jusqu'à trahir les ambitions initiales des fondateurs.
+
+**Documents emblématiques de ce souci**
+- Liberté & Cie, Quand la liberté des salariés fait le succès des entreprises. (Getz et Carney)
+- Les chercheurs de l'INRIA contre leur parton "startupper" (Médiapart)
+- Start-up française, Santé et IA (BPI France)
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-workspace" viewBox="0 0 16 16">
+*  <path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H4Zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"/>  <path d="M2 1a2 2 0 0 0-2 2v9.5A1.5 1.5 0 0 0 1.5 14h.653a5.373 5.373 0 0 1 1.066-2H1V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9h-2.219c.554.654.89 1.373 1.066 2h.653a1.5 1.5 0 0 0 1.5-1.5V3a2 2 0 0 0-2-2H2Z"/></svg>
+Travailler avec de l'IA</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#travailler)
+
+Le futur du travail est une préoccupation prégnante des débats actuels sur l'IA. Les voix ici  décalent la focale temporelle : l'accent est placé à la fois sur les transformations actuelles et sur le temps long, en rappelant comment les rapports sociaux et le travail ont été transformés  par les développements des systèmes d'information et de calcul. Quels sont les effets du découpage de la chaîne de travail tâches toujours plus petites et isolées ? Quels nouveaux rapports à la décision et l'expertise se développent et porteurs de quel sens au travail ? Enfin une critique des rapports de pouvoir est dressée à partir du mythe de la disparition du travail, qui ne date pas de l'IA.
+ 
+**Documents emblématiques de ce souci**
+- L'automatisation et le futur du travail
+- Human Perceptron, RYBN
+- En attendant les robots, Antonio Casilli
+- Programme Open Law - travail d'annotation
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-ui-checks" viewBox="0 0 16 16">
+*  <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/></svg>
+Instrumenter l'action publique </summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#action-publique)
+
+Sonder les soucis des développements de l'IA dans les administrations publiques est particulièrement intéressant pour deux raisons : 1) l'État remplit le double rôle de régulateur de l'IA et de concepteur/utilisateur et 2) les instruments de l'action publique révèlent autant qu'ils performent les politiques publiques. Sans autorité indépendante forte ou autre contre-pouvoir, ce double rôle s'avère dangeureux car les bénéfices projetés à utiliser des systèmes d'IA pour l'action publique peuvent encourager les pouvoirs politiques à autoriser certains développements, au risque de réduire les libertés fondamentales. D'autre part, les différentes administrations sont hétérogènes et leurs pratiques en termes d'instrumentation variables—certaines parlent de communs lorsque d'autres cultivent une culture du secret. Sont aussi questionnées ici les politiques publiques qui fixent le cap vers toujours plus de dématérialisation dans l'action et les services publics, faisant des données un actif stratégique et externalisant une partie non négligeable de ses missions.
+
+**Documents emblématiques de ce souci**
+- Loi pour une République Numérique (dite Loi Lemaire-2016)
+- Intelligence artificielle et action publique - Etude du Conseil d'État
+- Portefeuille de projets, LabIA - Étalab
+- Changer de Cap, Dossier le contrôle de la CAF contre les droits
+- Grand Plan d'investissement, Fonds pour la transformation de l'action publique
+
+</details>
+
+<br>
+
+### APPRÉHENDER L'IA
+
+<small>
+La bonne appréhension, ou l'appréhension efficace, est un motif partagé celles et ceux qui tentent de décrire et/ou de réguler l'IA, et notamment les chercheurs en SHS, les juristes et les artistes. À quoi tient l'IA ? Qu'est-ce que l'IA fait à la société, aux rapports sociaux ? Quels rapports de pouvoir sont institués par sa constitution progressive ? En discutant les manières qu'ils ont d'appréhender l'IA, les praticien.nes déplient les dynamiques dans lesquels les processus de développement technologique sont pris. Pluralisant les perspectives, ils font apparaître un objet IA à géométrie variable, dont les différentes versions révèlent les fronts d'opposition et notamment une dialectique entre une vision critique (politique) et une vision centrée sur l’anticipation et la gestion des risques.
+</small>
+
+<details>
+<summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+*  <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/></svg>
+Réguler </summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#reguler)
+
+Interrogeant la protection des libertés publiques et l'encadrement des risques liés au déploiement de nouvelles technologies, ce souci pointe les limites et failles du droit. Ces remises en cause opposent ceux qui, du côté de l'application des normes, dénoncent les défaillance de l'effectivité des normes juridiques, à ceux qui, dressant le constat d'une crise plus large des institutions, remettent en cause le droit comme mécanisme de légitimation de progrès technologiques délétères. 
+
+
+**Documents emblématiques de ce souci**
+- Proposition de réglement européen sur l'IA (AI Act)
+- Loi Informatique et Libertés
+- Code is Law (1999)
+- Consultation publique de la CNIL sur les caméras "intelligentes"
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrows-fullscreen" viewBox="0 0 16 16">
+*  <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344 0a.5.5 0 0 1 .707 0l4.096 4.096V11.5a.5.5 0 1 1 1 0v3.975a.5.5 0 0 1-.5.5H11.5a.5.5 0 0 1 0-1h2.768l-4.096-4.096a.5.5 0 0 1 0-.707zm0-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707zm-4.344 0a.5.5 0 0 1-.707 0L1.025 1.732V4.5a.5.5 0 0 1-1 0V.525a.5.5 0 0 1 .5-.5H4.5a.5.5 0 0 1 0 1H1.732l4.096 4.096a.5.5 0 0 1 0 .707z"/></svg>
+Performer le social </summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#performer)
+
+L’analyse historique et sociale des développements informatiques fait apparaître des visions du social qui ont présidé / président à la fabrication des techniques de calcul et qui y sont incorporées. Loin d’être cantonnées au milieu des *computer sciences*, ces visions imprègnent aussi les questions et débats des sciences sociales (cognition, socialisation, apprentissage, construction des représentations) et des sciences politiques (organisation politique, instruments d’état, rapports à la norme, etc.). L’expansion de l’automatisation peut aussi être comprise comme la tentation d’une personnalisation/ adaptation située de la prescription (juridique, de travail etc.) grâce au calcul—rattachable au concept de gouvernementalité et à l’expansion des bureaucraties.
+
+**Documents emblématiques de ce souci**
+- The Master Algorithm, P. Domingos
+- Patterns of Life, Julien Prévieux
+- IA et réforme de l'État : vers des bureaucraties sans humains ? Félix Tréguer
+- Do categories have politics ? Lucy Suchman
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-crosshair" viewBox="0 0 16 16">
+*  <path d="M8.5.5a.5.5 0 0 0-1 0v.518A7.001 7.001 0 0 0 1.018 7.5H.5a.5.5 0 0 0 0 1h.518A7.001 7.001 0 0 0 7.5 14.982v.518a.5.5 0 0 0 1 0v-.518A7.001 7.001 0 0 0 14.982 8.5h.518a.5.5 0 0 0 0-1h-.518A7.001 7.001 0 0 0 8.5 1.018V.5Zm-6.48 7A6.001 6.001 0 0 1 7.5 2.02v.48a.5.5 0 0 0 1 0v-.48a6.001 6.001 0 0 1 5.48 5.48h-.48a.5.5 0 0 0 0 1h.48a6.002 6.002 0 0 1-5.48 5.48v-.48a.5.5 0 0 0-1 0v.48A6.001 6.001 0 0 1 2.02 8.5h.48a.5.5 0 0 0 0-1h-.48ZM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/></svg>
+Critiquer</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#critiquer)
+
+Quels sont les rôles possibles de la critique face aux dévloppements de l'IA ? Sur quelles bases produire une critique et avec quelle efficace ? Des productions de chercheurs et essayistes sont passées en revue et décrites du point de vue des lectures et des prises qu'elles proposent pour penser l'IA et au regard des effets qu'elles produisent. Et au-delà d'une production critique, comment mobiliser face aux enjeux que la critique révèle ?
+
+**Documents emblématiques de ce souci**
+- Data Feminism, C. d'Ignazio et L. Klein
+- Algorithms of Oppression, S. Noble
+- Merci de changer de métier, C. Izoard
+- Agir dans un monde incertain, Callon, Lascoumes et Barthe
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+*  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
+Ouvrir les boîtes noires </summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#enqueter)
+
+Comment mener des enquêtes sur les technologies en cours de développement ? L'IA étant décrite comme une boîte noire dont les processus de production et le fonctionnement sont opaques, des chercheurs et des artistes mettent au point de nouvelles manières d'enquêter sur les systèmes d'IA. Ces nouvelles méthodes ne poursuivent pas les mêmes objectifs : production de preuves, développement d'une contre-expertise, ouverture de nouvelles trajectoires de développement ou renouvellement des formes de relation aux dispositifs d'IA, les finalités abordées renouvellent le répertoire des modalités d'action avec ou contre les systèmes d'IA.
+
+**Documents emblématiques de ce souci**
+- Algotransparency
+- Exposing AI, Adam Harvey
+- Human Computers - timeline, RYBN
+- Myriad Tulips, Anna Ridler
+- Deep Visual Instruments, Mehmet Akten
+
+</details>
+
+<details>
+<summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-right-dots" viewBox="0 0 16 16">
+*  <path d="M2 1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h9.586a2 2 0 0 1 1.414.586l2 2V2a1 1 0 0 0-1-1H2zm12-1a2 2 0 0 1 2 2v12.793a.5.5 0 0 1-.854.353l-2.853-2.853a1 1 0 0 0-.707-.293H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12z"/>  <path d="M5 6a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/></svg>
+Justifier </summary>
+Ici un petit résumé et le lien vers le souci en question.
+
+#### [Voir la fiche de ce souci](/ShapingAI/#justifier)
+
+Comment sont décidés les développements de systèmes d'IA ? Comment arbitrer pour savoir si on doit ou non s'engager dans de tels projets ? Ce souci qui habite les praticien.nes lorsqu'ils participent au développement de systèmes d'IA contraste deux types de justifications : l'une morale et l'autre utilitariste. Une troisième voie pointe l'enjeu démocratique que pose ce souci, notamment en décalant la focale sur des dimensions politiques ou esthétiques.
+
+**Documents emblématiques de ce souci**
+- The City of Broken Windows, Hito Steyerl
+- Portfolio de l'association Data for Good
+- On the morality of AI, Luccioni et Bengio
+- Ils ont quitté le secteur de la tech pour entreprendre dans le public - article sur les Entrepreneurs d'intérêt général (EIG)
+
+</details>
+
+<br>
+
+### DISPOSER UN MILIEU
+
+<small>
+Les technologies d'IA n'adviennent pas dans un vide, elles prennent place dans des milieux qu'elles contribuent à transformer et qui les transforment à leur tour, dans une action réciproque. Ainsi certaines pratiques ont le souci d'aménager un milieu, en anticipation de ce couplage, pour lui projeter un sens. Le motif de disposition d'un milieu apparaît dans des activités qui ont trait à la formation de cultures et de normes communes, agissant comme vecteurs de sens et déterminants des développements futurs.
+</small>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-fast-forward" viewBox="0 0 16 16">
+*  <path d="M6.804 8 1 4.633v6.734L6.804 8Zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C.713 12.69 0 12.345 0 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692Z"/>  <path d="M14.804 8 9 4.633v6.734L14.804 8Zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C8.713 12.69 8 12.345 8 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692Z"/></svg>
+Futurer</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#futurer)
+
+Comment sont construits les récits qui mettent en scène l’intelligence artificielle ? Quels éléments sont mis en avant ? Et quels buts servent-ils ? Les rhétoriques de l’innovation mobilisées dans le cas de l'IA sont analysées du point de vue de leur performativité, à la fois comme stratégie d’enrôlement d'acteurs et de capitaux mais aussi comme moteurs des horizons de développement technologique. L'élaboration de récits plus critiques et de contre-récits, tentant de dessiner d'autres trajectoires, est un souci pour les praticien.nes.  
+
+
+**Documents emblématiques de ce souci**
+- La French Tech
+- Work hard, Have fun, Make history - slogan Amazon
+- Computing Machinery and Intelligence, A. Turing
+- IA vecteur de simplicité et d'efficacité pour le service public
+- L'IA AlphaGo bat une nouvelle fois le champion du monde de go (article Le Monde)
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bank2" viewBox="0 0 16 16">
+*  <path d="M8.277.084a.5.5 0 0 0-.554 0l-7.5 5A.5.5 0 0 0 .5 6h1.875v7H1.5a.5.5 0 0 0 0 1h13a.5.5 0 1 0 0-1h-.875V6H15.5a.5.5 0 0 0 .277-.916l-7.5-5zM12.375 6v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zM8 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zM.5 15a.5.5 0 0 0 0 1h15a.5.5 0 1 0 0-1H.5z"/></svg>
+Valoriser</summary>
+Synthèse des enjeux relatifs à la chaîne de valeur de la donnée, depuis leur création jusqu’à leur exploitation, avec une attention particulière sur les conditions de leur circulation et les frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
+
+#### [Voir la fiche de ce souci](/ShapingAI/#valoriser)
+
+Comment les chaînes de valeur des données qui se développent affectent les rapports sociaux ? Les reconfigurations engendrées par ces nouvelles chaînes de valeur (depuis la création des données jusqu’à leur exploitation) sont mises en débat, avec une attention particulière aux conditions de leur circulation et aux frictions auxquelles elles peuvent donner lieu. Ce souci est marqué par des questions juridiques (régulations sur les données - européenne, française), économiques (GAFAM versus petites entreprises; public versus privé; communs numériques) et politiques (redistribution de la valeur; mandats et rôle de l’état…).
+
+**Documents emblématiques de ce souci**
+- L'open data des décisions de justice
+- Circulaire anti-Doctrine
+- Partenariat entre l'AP-HP et le Health Data Hub
+- Feuille de route 2020-2022 du Ministère de l'économie et des finances
+- La plateforme d'une ville
+
+</details>
+
+<details>
+<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16">
+*  <path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm-9 8c0 1 1 1 1 1h5.256A4.493 4.493 0 0 1 8 12.5a4.49 4.49 0 0 1 1.544-3.393C9.077 9.038 8.564 9 8 9c-5 0-6 3-6 4Zm9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382l.045-.148ZM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"/></svg>
+Individuer</summary>
+
+#### [Voir la fiche de ce souci](/ShapingAI/#individuer)
+
+Description d’une danse, d’un mouvement de va-et-vient, entre la production de dispositifs algorithmiques et la production des subjectivités à travers l’appropriation des ces dispositifs. Les notions d’autonomie (tant comme concept juridique que philosophique) et de normativité sont centrales et mettent l'accent sur la constitution des milieux d'individuation par la technique.
+
+
+**Documents emblématiques de ce souci**
+- Avis N°3 du Comité National Pilote d'Éthique du Numérique : Agents conversationnels
+- Comment le droit numérique peut-il réguler la crise de l'attention (colloque)
+- Sensivic (fiche produit d'un sound scanner)
+- Algoglitch
+- Period-tracking app are not for women
+
+</details>
 
 
 """
