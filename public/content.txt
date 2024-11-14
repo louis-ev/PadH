@@ -138,18 +138,24 @@ Les principaux résultats du projet de recherche Shaping AI sont synthétisé ci
 Ils se déclinent en deux parties. 
 
 ## 1. Les problèmes publics de l'IA en France
-Une enquête collective a conduit à reproblématiser des modalités de développement des technologies computationnelles, à partir de pratiques hétérogènes de l'IA.
+L'enquête collective a permis de reproblématiser les développements des technologies computationnelles, à partir des soucis concrets et situés de praticien.nes de l'IA.
 
 <details> 
-<summary> Description de l'espace des problèmes </summary>
+<summary> Fracture entre deux visions du développement technique ?</summary>
 
-<small>Déplier chacun des soucis pour obtenir le détail et accéder aux matériaux de l'enquête (vidéo, documents et synthèse).</small>
+![les fiches synthétique des soucis](https://corpora.medialab.sciences-po.fr/contenus/fiche-souci.png)
+<small>Chaque souci est décrit par une fiche synthétique et donne accès aux matériaux d'enquête (vidéo et documents).</small>
 
-### DEUX VISIONS DU DÉVELOPPEMENT
-
+### Fracture entre deux visions du développement technique ? 
+Deux soucis contrastent différentes modalités de développement désirables qui révèlent deux visions bien distinctes quant aux enjeux démocratiques de ces développements :
 [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Participer à l'IA](/ShapingAI/#participer) 
 
+
+<details>
+<summary> Les 17 "soucis" des particien.nes organisés selon 4 motifs d'activité </summary>
+
 ![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
+</details>
 
 ### INSTITUTER L'IA
 
@@ -498,7 +504,7 @@ Description d’une danse, d’un mouvement de va-et-vient, entre la production 
 Comment les médias participent à façonner l'opinion publique. Quel horizon d’attentes et quelles préoccupations établissent-ils concernant ces technologies ?
 
 <details> 
-### Polarisation thématique de la promesse et de la critique de l’IA
+<summary> Polarisation thématique de la promesse et de la critique de l’IA </summary>
 
 ![Réseau sémantique de cooccurrences des termes en fonction de la tonalité associé et au terme du réseau. En jaune les termes associés à la critique en bleu les termes associés à la promesse.](https://corpora.medialab.sciences-po.fr/contenus/fig02-global-network.png)
 
@@ -507,8 +513,10 @@ Le réseau sémantique basé sur l’analyse du texte des articles montre un ens
 ![Distribution des clusters en fonction du volume d'articles et de leur tonalité](https://corpora.medialab.sciences-po.fr/contenus/fig03-scaterplot-ton.png)
 
 Au-delà de cette analyse visuelle générale de la topologie du réseau montrant une forme de polarisation entre critique et promesse, on peut également observer la distribution des clusters en fonction du volume d'article, ainsi que le ratio d’articles associés au discours de critique ou de promesses. 
+</details>
 
-#### Quatre genres de récits médiatiques sur l'IA
+<details>
+<summary>Quatre genres de récits médiatiques sur l'IA et performativité</summary>
 
 Poursuivant l'investigation de notre corpus, nous avons extrait et annoté manuellement les entités présentes dans chaque cluster de manière qualitative. Les catégories suivantes ont émergé à travers un processus de codage itératif : entités techniques, entités de données, personnes, personnalités publiques, entreprises, institutions et sujets. Bien que les clusters ne soient pas homogènes dans la façon dont ils rendent compte de l'IA, l'analyse des arrangements des entités dans chacun a révélé quatre récits typiques sur l'IA, c'est-à-dire quatre genres. Ces quatre genres sont organisés sur une matrice à deux axes, de la projection à la réalisation et du négatif au positif.
 
