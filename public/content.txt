@@ -498,6 +498,9 @@ Description d’une danse, d’un mouvement de va-et-vient, entre la production 
 
 </details>
 
+<br>
+<br>
+
 ## 2. Le traitement de l'IA par la presse française (2011-2021)
 
 Comment les médias participent à façonner l'opinion publique. Quel horizon d’attentes et quelles préoccupations établissent-ils concernant ces technologies ?
@@ -535,6 +538,10 @@ Chaque genre développe sa propre agentivité à travers des opérations spécif
 En lisant la matrice verticalement, l'analyse des genres suggère également que les enjeux liés à l'IA sont constitués et traités selon deux modalités principales : soit à travers des tests (dans des contextes contrôlés ou dans le monde), soit à travers la réglementation des technologies computationnelles (pour prévenir les risques ou condamner les effets nuisibles). Si la première modalité est principalement à l'initiative des producteurs ou investisseurs de systèmes d'IA, la deuxième engage des parties prenantes plus diverses et se développe principalement dans les arènes politiques. Ces deux modalités sont en concurrence et se configurent en continu dans une action réciproque, réduisant la trajectoire des développements de l'IA à une alternance binaire et asymétrique entre concepteurs et régulateurs, peu satisfaisante.
 
 </details>
+
+<br>
+<br>
+<br>
 
 """
 
