@@ -128,22 +128,20 @@ contenu="""
 
 # Synthèse des résultats 
 
-Les principaux résultats du projet de recherche Shaping AI sont synthétisé ci-dessous. 
-Ils se déclinent en deux parties :
+Les principaux résultats du projet de recherche Shaping AI sont synthétisé ci-dessous (le détail des études pourra être lu à partir des onglets ci-dessus).
+Ils se déclinent en deux parties. 
+
+## 1. Les problèmes publics de l'IA en France
+Une enquête collective a conduit à reproblématiser des modalités de développement des technologies computationnelles, à partir de pratiques hétérogènes de l'IA.
 
 <details> 
-<summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-fill" viewBox="0 0 16 16">
-*  <path fill-rule="evenodd" d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"/></svg>### 1. Les problèmes publics de l'IA en France</summary>
-
-Au cours d'une enquête collective, nous avons tenté de problématiser les modalités de développement des technologies computationnelles.
-
-
-#### [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Participer à l'IA](/ShapingAI/#participer) 
-
-### Description des soucis
----
+<summary> Description de l'espace des problèmes </summary>
 
 <small>Déplier chacun des soucis pour obtenir le détail et accéder aux matériaux de l'enquête (vidéo, documents et synthèse).</small>
+
+### DEUX VISIONS DU DÉVELOPPEMENT
+
+[Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Participer à l'IA](/ShapingAI/#participer) 
 
 ![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
 
@@ -167,8 +165,6 @@ La question du périmètre de l’IA et de sa constitution est au cœur des déb
 - Audition de l'OPECST (2017)
 - Stratégie Nationale IA (2018)
 - article ImageNet (2012)
-
-</details>
 
 </details>
 
@@ -489,13 +485,14 @@ Description d’une danse, d’un mouvement de va-et-vient, entre la production 
 
 </details>
 
----
+</details>
 
-### 2. Analyse du traitement de l'IA par la presse française (2011-2021)
+## 2. Le traitement de l'IA par la presse française (2011-2021)
 
 Comment les médias participent à façonner l'opinion publique. Quel horizon d’attentes et quelles préoccupations établissent-ils concernant ces technologies ?
 
-#### Polarisation 
+<details> 
+### Polarisation thématique de la promesse et de la critique de l’IA
 
 ![Réseau sémantique de cooccurrences des termes en fonction de la tonalité associé et au terme du réseau. En jaune les termes associés à la critique en bleu les termes associés à la promesse.](https://corpora.medialab.sciences-po.fr/contenus/fig02-global-network.png)
 
@@ -523,6 +520,8 @@ Qu'ils mettent en scène l'IA comme une question globale (monolithe IA) ou comme
 Chaque genre développe sa propre agentivité à travers des opérations spécifiques : 1) une agentivité morale agissant principalement sur les processus normatifs, 2) une agentivité de légitimation démontrant la puissance de l'IA grâce à des expériences contrôlées, 3) une agentivité de persuasion alignant les acteurs grâce à des tests concrets, et enfin 4) une agentivité politique, contre-agissant à partir d'affaires spécifiques.
 
 En lisant la matrice verticalement, l'analyse des genres suggère également que les enjeux liés à l'IA sont constitués et traités selon deux modalités principales : soit à travers des tests (dans des contextes contrôlés ou dans le monde), soit à travers la réglementation des technologies computationnelles (pour prévenir les risques ou condamner les effets nuisibles). Si la première modalité est principalement à l'initiative des producteurs ou investisseurs de systèmes d'IA, la deuxième engage des parties prenantes plus diverses et se développe principalement dans les arènes politiques. Ces deux modalités sont en concurrence et se configurent en continu dans une action réciproque, réduisant la trajectoire des développements de l'IA à une alternance binaire et asymétrique entre concepteurs et régulateurs, peu satisfaisante.
+
+</details>
 
 """
 
