@@ -116,7 +116,7 @@ Contenu en licence CC-BY-SA
 
 """
 [PAGE]
-nom_de_page="SYNTHÈSE"
+nom_de_page="Synthèse"
 url="/#synthese"
 contenu="""
 
@@ -128,20 +128,22 @@ contenu="""
 
 # Synthèse des résultats 
 
-Ici sont résumés les résultats principaux des études réalisées dans le cadre de Shaping AI. 
-Ils se déclinent sur deux volets :
+Les principaux résultats du projet de recherche Shaping AI sont synthétisé ci-dessous. 
+Ils se déclinent en deux parties :
 
 <small> 
 1. Les problèmes publics de l'IA en France
+
 2. Analyse du traitement de l'IA par la presse française (2011-2021)
 </small>
 
 ---
 
-1. Les problèmes publics de l'IA en France
+### 1. Les problèmes publics de l'IA en France
 
-### Problématiser les modalités de développement des technologies computationnelles.
-<small>Accéder aux fiches de ces deux soucis </small>
+Au cours d'une enquête collective, nous avons tenté de problématiser les modalités de développement des technologies computationnelles.
+
+
 #### [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Participer à l'IA](/ShapingAI/#participer) 
 
 ### Description des soucis
@@ -491,6 +493,40 @@ Description d’une danse, d’un mouvement de va-et-vient, entre la production 
 
 </details>
 
+---
+
+### 2. Analyse du traitement de l'IA par la presse française (2011-2021)
+
+Comment les médias participent à façonner l'opinion publique. Quel horizon d’attentes et quelles préoccupations établissent-ils concernant ces technologies ?
+
+#### Polarisation 
+
+![Réseau sémantique de cooccurrences des termes en fonction de la tonalité associé et au terme du réseau. En jaune les termes associés à la critique en bleu les termes associés à la promesse.](https://corpora.medialab.sciences-po.fr/contenus/fig02-global-network.png)
+
+Le réseau sémantique basé sur l’analyse du texte des articles montre un ensemble de 11 grands thèmes cohérents thématiquement qui occupent des zones différentes dans le réseau. En projetant sur le graphe les fréquences relatives d’utilisation des termes du réseau en fonction des articles associés à la critique et la promesse on observe une polarisation importante de ces deux types de discours sur le graphe.
+
+![Distribution des clusters en fonction du volume d'articles et de leur tonalité](https://corpora.medialab.sciences-po.fr/contenus/fig03-scaterplot-ton.png)
+
+Au-delà de cette analyse visuelle générale de la topologie du réseau montrant une forme de polarisation entre critique et promesse, on peut également observer la distribution des clusters en fonction du volume d'article, ainsi que le ratio d’articles associés au discours de critique ou de promesses. 
+
+#### Quatre genres de récits médiatiques sur l'IA
+
+Poursuivant l'investigation de notre corpus, nous avons extrait et annoté manuellement les entités présentes dans chaque cluster de manière qualitative. Les catégories suivantes ont émergé à travers un processus de codage itératif : entités techniques, entités de données, personnes, personnalités publiques, entreprises, institutions et sujets. Bien que les clusters ne soient pas homogènes dans la façon dont ils rendent compte de l'IA, l'analyse des arrangements des entités dans chacun a révélé quatre récits typiques sur l'IA, c'est-à-dire quatre genres. Ces quatre genres sont organisés sur une matrice à deux axes, de la projection à la réalisation et du négatif au positif.
+
+![Matrice des récits médiatiques projetés verticalement sur un axe projection/réalisation et horizontalement sur l’axe de la tonalité critique/promesse](https://corpora.medialab.sciences-po.fr/contenus/matrice.png)
+
+Le haut de la matrice caractérise les récits monolithiques. Les deux genres, Critiques abstraites et Promesses globales, reconnaissent et diffusent l'existence d'une IA, technologie cohérente et puissante, qui perturbera considérablement la "société" et affectera "l'humanité", que ce soit positivement ou négativement. De plus, tous deux projettent des problématiques liées à l'IA, c'est-à-dire que les effets et les conséquences dans le monde sont ici spéculés, anticipés. Ils suscitent à la fois de l'anxiété et de la fascination, sentiments qui, se renforçant mutuellement, agissent sur le cadrage des problèmes et les manières de penser l'IA avec force (Borup et al. 2006). Dans les récits critiques, les problèmes sont trop souvent abstraits et traduits en un ensemble de principes moraux (Jobin, Ienca, et Vayena 2019), ce qui fait écho aux réglementations "de principes" (Mittelstadt 2019), récemment critiquées, que l'on retrouve notamment dans les nombreuses chartes éthiques. Une abstraction similaire se manifeste dans les promesses globales : une multitude d'objets technologiques sont prototypés dans lesquels les problèmes sont réduits à des processus de résolution de problèmes, abordés à travers des jeux et des simulations. Les démonstrations spectaculaires organisées par les big palyers de la tech ont surtout pour effet d'attirer les capitaux et de structurer les investissements. Dans ce contexte, la performance est liée à l'économie de la promesse (Joly 2010), légitimant le développement et l'introduction de l'IA dans la société.
+
+Des acteurs humains hautement particularisés émergent lorsque les récits prennent en compte des situations où l'IA est réalisée, lorsqu'elle est intégrée dans des économies spécifiques, des environnements de recherche et industriels, des cadres juridiques et mise entre les mains d'un public. En bas de la matrice, les deux genres de récits fonctionnent de manière opposée, bien que mutuellement constitutifs. L'un vise à persuader l'opinion publique des impacts socio-économiques transformateurs des technologies computationnelles. Cette rhétorique est puissante pour impliquer et aligner les acteurs locaux et les ressources dans la réorganisation active de la vie sociale grâce au développement d'expériences, de prototypes, de versions alpha et de tests, transformant finalement le monde en laboratoire (Marres et Stark, 2020). Mais ces tests fournissent des terrains fertiles à l'émergence de problèmes situés et de controverses locales : ils créent des débordements et donnent naissance aux affaires que l'on observe dans le quatrième genre. Les expériences réelles posent des problèmes à ceux qui ne sont pas impliqués et qui ne bénéficient finalement pas de cette actualisation de l'IA, entraînant des contre-enquêtes qui interrogent le fonctionnement et la constitution des systèmes et d'autres contre-actions, telles que des procès ou des mobilisations.
+
+![Synthèse de la performativité des récits médiatiques de l'IA](https://corpora.medialab.sciences-po.fr/contenus/matrix-2.png)
+
+
+Qu'ils mettent en scène l'IA comme une question globale (monolithe IA) ou comme des configurations spécifiques (situations d'IA), l'influence de ces récits est considérable : ils ont le pouvoir d'accorder ou non une existence à des entités et à des arrangements particuliers.
+
+Chaque genre développe sa propre agentivité à travers des opérations spécifiques : 1) une agentivité morale agissant principalement sur les processus normatifs, 2) une agentivité de légitimation démontrant la puissance de l'IA grâce à des expériences contrôlées, 3) une agentivité de persuasion alignant les acteurs grâce à des tests concrets, et enfin 4) une agentivité politique, contre-agissant à partir d'affaires spécifiques.
+
+En lisant la matrice verticalement, l'analyse des genres suggère également que les enjeux liés à l'IA sont constitués et traités selon deux modalités principales : soit à travers des tests (dans des contextes contrôlés ou dans le monde), soit à travers la réglementation des technologies computationnelles (pour prévenir les risques ou condamner les effets nuisibles). Si la première modalité est principalement à l'initiative des producteurs ou investisseurs de systèmes d'IA, la deuxième engage des parties prenantes plus diverses et se développe principalement dans les arènes politiques. Ces deux modalités sont en concurrence et se configurent en continu dans une action réciproque, réduisant la trajectoire des développements de l'IA à une alternance binaire et asymétrique entre concepteurs et régulateurs, peu satisfaisante.
 
 """
 
@@ -798,7 +834,7 @@ Par rapport aux modèles proposés par Nick Srnicek ou Kate Crawford, cette repr
 
 [PAGE]
 url="/#medias"
-nom_de_page="Les récits de l'IA"
+nom_de_page="Les récits médiatiques"
 contenu="""
  
 ![coupures de presse](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-18-a-22-17-58.png)
@@ -946,7 +982,7 @@ Comment développer de nouveaux cadrages et de nouvelles capacités d'agir sur l
 
 [PAGE]
 url="/#les-soucis"
-nom_de_page="Les soucis de l'IA"
+nom_de_page="Les soucis des praticien.nes"
 contenu="""
 
 <br>
