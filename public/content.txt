@@ -140,22 +140,21 @@ Ils se déclinent en deux parties.
 ## 1. Les problèmes publics de l'IA en France
 L'enquête collective a permis de reproblématiser les développements des technologies computationnelles, à partir des soucis concrets et situés de praticien.nes de l'IA.
 
-<details> 
-<summary> Fracture entre deux visions du développement technique ?</summary>
-
 ![les fiches synthétique des soucis](https://corpora.medialab.sciences-po.fr/contenus/fiche-souci.png)
 <small>Chaque souci est décrit par une fiche synthétique et donne accès aux matériaux d'enquête (vidéo et documents).</small>
+
+<details> 
+<summary> Fracture entre deux visions du développement technique ?</summary>
 
 ### Fracture entre deux visions du développement technique ? 
 Deux soucis contrastent différentes modalités de développement désirables qui révèlent deux visions bien distinctes quant aux enjeux démocratiques de ces développements :
 [Tester l'IA dans le monde](/ShapingAI/#tester)  |  [Participer à l'IA](/ShapingAI/#participer) 
-
+</details>
 
 <details>
 <summary> Les 17 "soucis" des particien.nes organisés selon 4 motifs d'activité </summary>
 
 ![Espace des problèmes de l'IA : répartition des 17 soucis de l'IA par motif](https://corpora.medialab.sciences-po.fr/contenus/capture-de-cran-2023-09-26-a-15-19-54.png)
-</details>
 
 ### INSTITUTER L'IA
 
