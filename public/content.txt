@@ -134,7 +134,7 @@ Les formes de participation au développement de l'IA en France
 
 # Synthèse des résultats 
 
-Les principaux résultats du projet de recherche Shaping AI sont synthétisé ci-dessous (le détail des études pourra être lu à partir des onglets ci-dessus).
+Les principaux résultats du projet de recherche Shaping AI sont synthétisé ici (le détail des études pourra être lu à partir des onglets ci-dessus).
 Ils se déclinent en deux parties. 
 
 ## 1. Les problèmes publics de l'IA en France
@@ -263,7 +263,7 @@ Machine Learning et deep learning : discipline académique "sérieuse" ou cuisin
 ### FABRIQUER DES SYSTÈMES
 
 <small>
-C'est une dimension moins développée dans la littérature scientifique sur l'IA à ce jour, pourtant la fabrication de systèmes comporte son lot de soucis spécifiques. Occupés à bien intégrer l'IA dans des systèmes d'instruments et des routines préexistantes, les praticien.nes sont confrontés à des questions de passage à l'échelle, de modèles d'affaire, d'infrastructures et de régulation, toutes critiques pour que ces systèmes existent durablement dans le monde. Ces efforts d'intégration, reflets de choix éthiques et politiques, font l'objet de vives controverses et occasionnent des affaires. Ces affaires révèlent à quel point ces pratiques, bien qu'elles aient parfois l'air accessoires ou secondes dans le développement de l'IA, en sont en réalité constitutives : elles l'infrastructurent. 
+Moins développée dans la littérature scientifique sur l'IA à ce jour, la fabrication de systèmes comporte son lot de soucis spécifiques. Occupés à bien intégrer des techniques d'IA dans des systèmes d'instruments et des routines préexistantes, les praticien.nes sont confrontés à des questions de passage à l'échelle, de modèles d'affaire, d'infrastructures et de régulation, toutes critiques pour que ces systèmes existent durablement dans le monde. Ces efforts d'intégration, reflets de choix éthiques et politiques, développent durablement des infrastructures et occasionnent de nombreuses affaires. 
 </small>
 
 <details>
@@ -340,7 +340,7 @@ Sonder les soucis des développements de l'IA dans les administrations publiques
 ### APPRÉHENDER L'IA
 
 <small>
-La bonne appréhension, ou l'appréhension efficace, est un motif partagé celles et ceux qui tentent de décrire et/ou de réguler l'IA, et notamment les chercheurs en SHS, les juristes et les artistes. À quoi tient l'IA ? Qu'est-ce que l'IA fait à la société, aux rapports sociaux ? Quels rapports de pouvoir sont institués par sa constitution progressive ? En discutant les manières qu'ils ont d'appréhender l'IA, les praticien.nes déplient les dynamiques dans lesquels les processus de développement technologique sont pris. Pluralisant les perspectives, ils font apparaître un objet IA à géométrie variable, dont les différentes versions révèlent les fronts d'opposition et notamment une dialectique entre une vision critique (politique) et une vision centrée sur l’anticipation et la gestion des risques.
+À quoi tient l'IA ? Qu'est-ce que l'IA fait à la société, aux rapports sociaux ? Quels rapports de pouvoir sont institués par sa constitution progressive ? En discutant les manières qu'ils ont d'appréhender l'IA, ces praticicen.nes (chercheurs en SHS, juristes, artistes, syndicats) déplient les dynamiques dans lesquelles les processus de développement technologique sont pris. Pluralisant les perspectives, ils font apparaître un objet IA à géométrie variable, dont les différentes versions révèlent les fronts d'opposition et notamment une dialectique entre une vision critique (politique) et une vision centrée sur l’anticipation et la gestion des risques.
 </small>
 
 <details>
@@ -436,7 +436,7 @@ Comment sont décidés les développements de systèmes d'IA ? Comment arbitrer 
 ### DISPOSER UN MILIEU
 
 <small>
-Les technologies d'IA n'adviennent pas dans un vide, elles prennent place dans des milieux qu'elles contribuent à transformer et qui les transforment à leur tour, dans une action réciproque. Ainsi certaines pratiques ont le souci d'aménager un milieu, en anticipation de ce couplage, pour lui projeter un sens. Le motif de disposition d'un milieu apparaît dans des activités qui ont trait à la formation de cultures et de normes communes, agissant comme vecteurs de sens et déterminants des développements futurs.
+Les technologies d'IA prennent place dans des milieux qu'elles contribuent à transformer et qui les transforment à leur tour, dans une action réciproque. Ainsi certaines pratiques ont le souci d'aménager des milieux, en anticipation de ce couplage, pour lui projeter un sens. Le motif de disposition de milieu apparaît dans des activités qui ont trait à la formation de cultures et de normes communes (journalistes, politiques, évangélistes...), générant des vecteurs de sens qui orientent les développements futurs.
 </small>
 
 <details>
@@ -539,6 +539,12 @@ En lisant la matrice verticalement, l'analyse des genres suggère également que
 
 </details>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
