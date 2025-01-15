@@ -13,14 +13,13 @@
 </template>
 <script>
 const parseTOML = require("@iarna/toml/parse-string");
-const Papa = require("papaparse");
-// const csvToJson = require("convert-csv-to-json");
 
 export default {
   props: {},
   components: {},
   data() {
     return {
+      padURL: "https://mensuel.framapad.org/p/test-doc-aca9/export/txt",
       is_loading: true,
       pages: undefined,
       publicPath: process.env.BASE_URL,
@@ -29,11 +28,8 @@ export default {
   },
   async created() {
     let doc = await this.fetchDoc();
-    doc = this.correctLinks(doc);
     const pages = await this.formatDoc(doc);
     this.pages = pages;
-
-    await this.loadArchive();
     this.is_loading = false;
   },
   mounted() {},
@@ -64,62 +60,16 @@ export default {
   },
   methods: {
     async fetchDoc() {
-      // const url = "https://mensuel.framapad.org/p/le0lzttwfn-a2xl/export/txt";
-      const url = this.publicPath + "content.txt";
+      const url = this.padURL;
+      // const url = this.publicPath + "content.txt";
       const response = await fetch(url);
       const text = await response.text();
       return text;
     },
-    correctLinks(text) {
-      return text.replaceAll(
-        "https://corpora.medialab.sciences-po.fr/",
-        this.publicPath
-      );
-    },
+
     async formatDoc(text) {
       let t = text.split("[PAGE]");
       return t.map((_t) => parseTOML(_t));
-    },
-    async loadArchive() {
-      const url = this.publicPath + "shaping_archive.csv";
-      const parseFile = (url) => {
-        return new Promise((resolve) => {
-          Papa.parse(url, {
-            download: true,
-            header: true,
-            dynamicTyping: true,
-            complete: (results) => {
-              resolve(results.data);
-            },
-            transform: (val, col) => {
-              if (col === "collections") return JSON.parse(val);
-              if (col === "thumbs") {
-                try {
-                  const i = JSON.parse(val);
-                  const p = i[0];
-
-                  if (p && p.thumbsData && p.thumbsData[0] && p.thumbsData[4]) {
-                    return {
-                      large_src: this.publicPath + p.thumbsData[4].path,
-                      icon_src: this.publicPath + p.thumbsData[0].path,
-                    };
-                  }
-                  return "";
-                } catch (err) {
-                  // debugger;
-                  // console.log(err);
-                  console.log(val);
-                }
-                return "";
-              }
-
-              return val;
-            },
-          });
-        });
-      };
-      const parsedData = await parseFile(url);
-      this.corpora_data = parsedData;
     },
   },
 };

@@ -22,10 +22,10 @@
             :key="currently_active_image.id"
           />
         </template>
-        <div v-else key="none" class="_none">Aucune</div>
+        <div v-else key="none" class="_none">Aucune image à afficher</div>
       </transition>
 
-      <div class="_captionBloc">
+      <div class="_captionBloc" v-if="images.length > 0">
         <transition name="fade" mode="out-in">
           <div
             v-if="currently_active_image"
